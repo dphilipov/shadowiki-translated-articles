@@ -1,0 +1,63 @@
+'''Augmented Reality Environment''' - kurz: '''ARE''' - '''Software''' in Form von [[Kommlink]]-[[Apps]] ist mit der Verbreitung der neuen, kabellosen [[WiFi-Matrix]] und der allgegenwärtigen [[Augmented Reality]] nach dem [[Crash 2.0]] aufgekommen, und 2070 längst ein etablierter Bestandteil der immer und überall verfügbaren elektronischen Unterhaltungsmedien.
+
+==Verbreitete ARE-Programme==
+Zu den gebräuchlichsten Formen von ARE-Programmen respektive Apps, die käuflich zu erwerben und auf handelsüblichen [[Kommlink]]s lauffähig sind, gehören:
+
+===Virtuelle Haustiere===
+Virtuelle Haustiere haben z. T. die populären [[Drohnen|Haustierdrohnen]] abgelöst und verdrängt. Neben normalen Haustieren wie Hunden, Katzen, Papageien usw. sind auch virtuelle paranormale [[Critter]] (natürlich nur ohne [[Critterkräfte]]) und Phantasiewesen wie Minidrachen oder nach Wunsch des Users kreierte Chimera-Pets möglich. 
+{{Shadowtalk|Eine jüngst veröffentlichte Studie behauptet im Übrigen, daß Virtuelle Haustiere die Feinmotorik bei Kindern fördern würden, was deren Beliebtheit und den Verkaufserfolg der entsprechenden ARE-Programme durch die Decke schnellen lässt!|'''''[[Razor-of-Love]]''''' <br/>{{talksymbol|pfeil}} <small>Es wäre sicherlich interessant, ob die ''Soziologen'', die diese Studie verfasst haben, womöglich auf der ''Payroll'' von ARE-Soft-Anbietern wie [[Horizon]]s Tochter [[Singularity]] stehen. - Von wegen unabhängig, und so...</small>}}
+
+===Virtuelle Personen=== 
+Virtuelle Personen sind eben dies - Begleiter, Mitbewohner oder Lebensparter und Familienangehörige, die nur virtell in der AR existieren. Wer zu viel Geld hat, kann sogar die Dienste von Schauspielern abonnieren, die den Charakteren vorübergehend durch ihr life in der AR übertragenes Spiel ''mehr Tiefe'' verleihen
+
+===Virtuelles Wetter===  
+Virtuelles Wetter täuschen dem User etwa programmierten Sonnenschein statt Regen vor oder umgekehrt, erschafft die Illusion der gewünschten Temperatur oder einer angenehmen Brise. Für den vollen Genuss von virtuellem Wetter braucht man neben der AR-Brille notwendiger Weise auch [[Feedbackkleidung]]. 
+
+===Virtuelle, persönliche Musik=== 
+Virtuelle, persönliche Musik - auch: "Virtuelle Surround-Musik" - mit der jeder User seine eigene Musik in gewünschter Lautstärke und mit frei wählbaren Raum-Klang-Effekten hören kann, ohne andere zu stören
+{{Shadowtalk|...und ohne sich die Trommelfelle zu ruinieren! - Vielleicht wird die "Generation ARE" seit den 1960ern die erste Generation sein, bei der sich nicht ein signifikanter Anteil bereits in jugendlichem Alter massive, nur durch [[Cyberohr|Cyberersatz]] zu behebende Gehörschäden zuzieht, ehe die Betreffenden 21 sind...!|'''''Dr. Unfried L. Gruselton'''''}}
+
+===AR-Wanddekorierer=== 
+Ein AR-Wanddekorierer erschafft AR-Overlays, um kahle Wände für den AR-Nutzer zu dekorieren (z. B. mit virtuellen Gemälden, Postern oder Tapeten). Diese können selbstverständlich auch animiert sein. Daneben können AR-Overlays unter anderem auch Möbel und Fußbodenbeläge in der AR als etwas anderes erscheinen lassen, als sie sind. 
+{{Shadowtalk|Wenn man möchte, sieht der der ergonomische Esszimmerstuhl oder Schreibtischsessel mit Massagefunktion in der AR aus, als ob man auf Münchhausens frei in der Luft schwebender Kanonenkugel säße, auf einem steinernen [[Gargoyle]], der eigentlich in luftiger Höhe an der Außenfassade der Kathedrale [[Notre Dame]] in [[Paris]] hängen müsste - oder auf dem "Eisernen Thron" aus George R. R. Martins ein knappes Jahrhundert alten [[TradFant]]-Schinken... und das alles, ohne dass einem hinterher der Rücken und der A... weh tut!|'''''ArchiThekt'''''}}
+
+===AR-Matrix-Games=== 
+AR-Matrix-Games sind populäre Matrixspiele, bei denen man mit (oder gegen) zahlreiche andere Spieler online spielen kann, und zwar von überall, wenn das PAN einen anderen Spieler in der Nähe registriert, der sich via öffentliches PAN-Profil als Fan betreffenden Games outet. Besonders populäre Spiele sind etwa «Rocky Mountain Avatar» wo man in die Rolle eines [[T-Bird]]-[[Schmuggler]]s schlüpft, «Run, Run, Runner» (ein Shadowrunner-MMO), «Awakening: 1949» (MMO-Shooter in alternativem WK2-Szenario), «[[Karl Kombatmage|Karls Combat World]]» und «[[Dawn of Atlantis]]» (MMO-Games als Ableger der bekannten [[Trideo]]- und [[SimSinn]]-Franchises), «Paranormal Crisis», «[[Miracle Shooter]]» aber auch [[Kwonsham]]s «[[Glitterworld]]», wo man einen Manager von Stars und Sternchen verkörpert. - Viele von diesen können außer in der AR auch komplett eingetaucht in der [[VR]] gespielt werden.
+
+Hinzu kommen noch
+
+==="Bodyshop"-Software=== 
+Die "Bodyshop"Software erschafft virtuelle AR-Mode/Bodyshaping für die eigene [[Persona]], das auch Stylings und Frisuren erlaubt, die in der physischen Realität nicht möglich wären. 
+
+===Scentsation===
+"Scentsation" ist der Markenname für virtuellen Duft, der den AR-Nutzer überall begleitet. - Er ist natürlich nur für User wahrnehmbar, deren AR-Interface Geruchsinformationen verarbeiten kann (oder die ein vollwertiges SimModul verwenden). Die meisten User verwenden natürlich angenehme (bzw. von ihnen selbst als angenehm empfundene) Düfte nach verschiedenen, frischen Blumen, Blüten oder Früchten, oder vielleicht noch Patchouli oder Weihrauch. 
+{{Shadowtalk|Es gibt aber auch Individuen von ...nun ja, eher fragwürdigem Geschmack, die ihrer AR- (oder VR-) Persona einen intensiven Knoblauch- oder Schweißgeruch, den Gestank nach Schwefel, der gemäß historischer Pulp-Literatur das Erscheinen und Verschwinden von Teufeln und Dämonen aus den treffend benannten Schwefelklüften begleitet, oder gar einen Geruch nach faulendem Fleisch und verwesenden, alten Leichen spendieren... Machbar ist diesbezüglich fast alles. - Und wenn ein "Scentsation"-Nutzer sein [[PAN]] nicht ordentlich abgesichert hatte, konnte (vor der Sichere-Matrix-Initiative dieser [[verfraggt]]en [[Danielle de la Mar|de la Mar]]) unter Umständen auch ein [[Hacker]] respektive Skriptkid einem User den virtuellen AR-Duft im Vorbeigehen von "Rosen", "Veilchen" oder "Flieder" auf "Faule Eier" oder die recht eindeutige Geruchskomponente vollgesch...ener Hosen umstellen...!|'''''Haxxor74'''''}}
+
+==="Negator"-Software=== 
+"Negator"-Software blendet beim AR-Nutzer Objekte, Personas (und reale Personen) die dieser nicht sehen will aus, versteckt oder maskiert sie mittels undurchsichtiger AR-Overlays.
+
+===Glyphen=== 
+Als Glyphen werden im Zusammenhang mit der Augmented Reality diverse, häufig ungewöhnliche, persönliche Software-"Gegenstände" oder -Kunstwerke bezeichnet, die die eigene Persona (oder eine virtuelle Person) in der AR begleiten. Glyphen werden meist als Add-on zu einem anderem ARE-Programm angeboten und verwendet. 
+{{Shadowtalk|Viele ''Glyphen'' in der AR sind speziell nach den Wünschen des jeweiligen Käufers maßgeschneidert oder nur in streng limitierter Auflage erhältlich, und tragen selbstverständlich das digitale Wasserzeichen des [[Matrixkünstler]]s, der die Algorythmen erschaffen hat... sehr teuer, was natürlich einen florierenden, lukrativen Schwarzmarkt für gekrackte und raubkopierte ''Glyphen'' schafft...|'''''[[Maracaibo-Marry]]''''' <small>...wenn jemand mit einem ''"fast echten"'' [[Roberto Wauneka|Wauneka]]-Adler auf der Schulter durch die AR spazieren will, muß er nur bei mir anläuten!</small>}}
+{{Shadowtalk|In [[Japan]] sind grade zur Kirschblütenzeit Blütenregen-Glyphen von [[MCT]] beliebt.|<big>[[狐]]</big>}}
+
+==Schattenseiten==
+Während die Trennlinien zwischen interaktiver ARE-Software, [[SimSinn]], [[Trideo]] und Radio immer mehr verschwimmen, warnen Kritiker vor den Schattenseiten dieses Trends, der dem Anwender sowohl Verantwortungsbewußtsein und Selbstdisziplin  als auch Multitaskingfähigkeiten abverlangt, die tatsächlich jedoch die wenigsten haben. Speziell Soziologen sehen eine immense Bedrohung in dem immer mehr zunehmenden Eskapismus, der sich durch alle Altersgruppen zieht, und der bei vielen Ausmaße erreicht, die alles übersteigen, was man von manischen Online-Spielern, Matrixsüchtigen und Couch-Potatoes aus der Zeit der alten [[Matrix]] kannte. Der damit verbundene, schleichenden Realitätsverlust bzw. die Vereinsamung vieler gewohnheitsmäßiger ARE-Nutzer hat in Extremfällen bereits dazu geführt, daß die Betreffenden teilweise völlig unangemessen auf ihre reale Umwelt und die sie umgebenden [[Mensch]]en und [[Metamenschen]] reagierten, und dadurch sich und andere ernsthaft gefährdeten oder der eigenen Gesundheit erheblichen Schaden zugefügt haben.
+{{Shadowtalk|Ich kann schon gar nicht mehr zählen, wieviele Patienten ich in den letzten Monaten im [[Seattle General]] hatte, die sich schwerste Erkältungen oder sogar eine Lungenentzündung eingefangen hatten, nur, weil sie nicht zwischen dem von ihrer ARE-Soft und der [[Feedbackkleidung]] vorgegaukelten Virtuellen Wetter™ und der realen Außentemperatur im regnerischen [[Seattle]] unterscheiden konnten...|[[Kelly Fairchilde|'''''CK''''']]}} 
+{{Shadowtalk|Unter den jüngeren Schülern an den Konzernschulen ist es heutzutage eine verbreitete Unsitte, ihre Virtuellen Haustiere in der AR gegeneinander kämpfen zu lassen. Manche Kiddies, die ein paar rudimentäre [[Hacker]]-Tricks drauf haben, bohren die Software ihrer digitalen Begleiter allerdings etwas auf, so daß die den Code ihres virtuellen Gegners im wahrsten Sinne des Wortes zerfetzen können... und wenn dessen Besitzer dann sein ''Ganesha VirtualPet™'' wirklich geliebt hat, kann das leicht der Auslöser für eine sehr reale Keilerei sein, bei der sich die Beteiligten unter Umständen ernsthaft verletzen!|'''''[[LISA]]'''''}}
+{{Shadowtalk|...und in den [[Barrens]] oder [[Wildost]] wären die Leute froh, wenn sie solche Sorgen hätten: Dort holt man sich nämlich 'ne Lungenentzündung, weil man sich nix besseres zum Anziehen leisten kann, als billige, ungefütterte [[Flats|Paperware]] und die Kids prügeln sich im Zweifelsfalle um nen angebissenen Stuffer™, weil sie nämlich Hunger und sonst echt nix zu Beißen haben!|'''''Rattenkind'''''}}
+
+==Quellen==
+===Quellenbücher===
+* [[Shadowrun Fourth Edition]] / [[Shadowrun Version 4.01D]] - Grundregelwerk für die [[Shadowrun: Editionen#4. Edition|vierte Edition]] von [[Shadowrun]].
+* [[München Noir]]
+* [[Unwired]] / [[Vernetzt]] S.116
+===Sonstige===
+* [http://www.schockwellenreiter.biz Schockwellenreiter-InGame-Forum] - Newsticker: "Neue Studie: AR-Haustiere fördern die Feinmotorik bei Kindern" (06.04.2072) 
+
+==Weblinks==
+* {{Shx|Augmented_Reality_Environment-Software|Augmented Reality Environment-Software}} in der {{Shx|Shadowhelix}}
+
+[[Kategorie:Kultur]]
+[[Kategorie:Wireless Matrix]]
+[[Kategorie:Software]]

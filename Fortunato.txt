@@ -1,0 +1,64 @@
+{{person
+|NAME_OVR=
+|BIRTH_NAME=
+|ALIAS=
+|PERSONA=
+|PICTURE=
+|SIZE_OVR=
+|COPYRIGHT=
+|BIRTH=
+|TOD=
+|BIRTH=
+|ALDER_OVR=
+|MALE
+|KIND=
+|METATYP=[[human]] (?) {{Ref|E1}}
+|HAIR=
+|EYES=
+|MARACLES=
+|MAGIC=
+|RESONANCE=
+|MOTHER=
+|MOTHER=
+|FATHER=
+|PARTNER=
+|LOVED=
+|MARRIED=
+|WITWET=
+|MARRIED=
+|EXPARTNER=
+|CHILDREN=
+|NATION=[[UCAS|Canadian-American]]
+|STATE=
+|OCcupation=[[Ganger]]
+|AFFILIATION=[[Cutters]]
+|CONCERN=
+|RELIGION=
+|SIN=
+|COM=
+|IMAGEPERSONA=
+|COPYRIGHT2=
+}}
+'''Fortunato''' was a younger [[ganger]] of the [[Seattle]]r "[[Cutters]]"-[[gang]].
+
+==Biography==
+{{Shx|2054}}, as part of "Team B" led by the orc [[Big Bad Bart]], he participated in a raid by the Cutters on a warehouse used as a meeting place by the [[Eighty-Eights]]-[[Triad]] at Pier 41 in the area known as the [[Hyundai]] piers, not far from the Kingdome.
+
+On the way to the scene, he overplayed - as did his [[gang chummer]] [[Jack the Hammer|Jack "the Hammer"]] - his nervousness with pithy sayings and ''cool'' talk, to prove to himself and all who overheard that they were supposedly ''"cold as ice and smooth as silk"''.
+
+==Relationships==
+Larson, who had worked with him before, or broken a bottle or two, assumed that young Fortunato - as well as the other members of ''Team B'' and of his own ''Team A'' - would probably not shoot him in the back on Bart's behalf, though Jack certainly had no idea that Larson was in fact an undercover [[Lone Star]] investigator who had infiltrated the gang.
+
+<!-- End of article content - meta information -->
+
+==Explanations==
+{{Ref2|E1}} Since all non-humans in the novel have their [[metatype]] explicitly stated in each case, the article creator here assumes that Fortunato is a [[human]], as is Rick Larson.
+
+==Sources==
+*[[The Loner]] Pp.65, 66 (English ''"[[Lone Wolf (novel)|Lone Wolf]]"'') - Novel by [[Nigel Findley]]
+
+==weblinks==
+*{Shx|Fortunato|Shadowhelix: Fortunato}}
+
+{{KatSort|cat=People|NSC|People|UCAS|Seattle|Underworld}}
+{{catSort|catsup=People|cat=Ganger|North America|UCAS|Seattle|Cutters}}

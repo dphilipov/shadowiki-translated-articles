@@ -1,0 +1,22 @@
+{{Location
+|STAND={{shx|2062}}
+|ALIAS='''!?!'''<br/>"dieser Club in der 61sten Straße"
+|ART=stylischer & teurer Club
+|LAGE=61ste Straße, [[New York City]], [[UCAS]]
+}}
+Das '''?!?''' war {{shx|2062}} der angesagteste Club in [[New York City]] in den [[UCAS]]. 
+
+Er wird von Ortsansässigen nur "dieser Club in der 61sten Straße" genannt, und wurde von [[Wally Nguyen]], einem Reporter des [[Hostzine]]s «Spotlight» als Beweis dafür angeführt, daß Szene und Stil die Stadt am Hudsonriver trotz des Erdbebens von {{Shx|2005}} und der [[Konzern]]dominanz nie verlassen hätten. Der Club ist ein Anziehungspunkt für Promis, Celebrities, Stars und [[Sim-Starlets]] aller Art, und die Schlange derer, die am Eingang - häufig vergebens - Einlass begehren, wird spätens ab acht Uhr abends jedesmals ziemlich lang, was entsprechende Wartezeiten zur Folge hat. 
+
+Nguyen beschreibt die Einrichtung als "kühn und gewagt, mit Symbolen an allen Ecken", und behauptet, selbst das Design der Toiletten wäre wirklich cool. - Daß das alles nicht billig ist, und ein Besuch im «?!?» dem Gast den [[Credstick]] im Verlauf eines Abends ziemlich rapide leeren kann, dürfte wohl kaum überraschen. 
+
+Mitte der 2070er gibt es diesen Klub noch immer, und er gehört - erstaunlich genug - auch nach wie vor zu den absoluten In-Adressen, wobei der die Bezeichnung auf '''!?!''' geändert wurde, und häufig die Umschreibung ''"der Club, der zu cool ist, um einen Namen zu haben"'' verwendet wird. Zum - wie viele sagen - einzigartigen Ambiente tragen neben der in schwarz und weiß gehaltenen Einrichtung und den AR-Anzeigen mit den namensgebenden Satzzeichen auch die Auftritte vom Management bewusst ausgesuchter, kontroverser Künstler und Bands bei, was etwa [[SURGE|geSURGEte]] Musiker, [[Technomancer]] und [[KI]]s, die sich als Musiker betätigen oder [[Geister]] miteinschließt. - Die Preise sind hier - wie für alles in Manhattan - seit Mitte der 2060er natürlich auch noch einmal drastisch gestiegen, und der Club rühmt sich eines 1.000 [[Nuyen]] teuren Drinks namens "Afterlife", der aus den besten Spirituosen der Welt komponiert wurde, und von Kritikern gelegentlich spöttisch als "Ode an den Überfluss" umschrieben wird. 
+
+==Quelle==
+* [[State Of The Art 2063.01D]] S.117 (?!?)
+* [[Stolen Souls]] / [[Gestohlene Seelen]] S.145 (!?!)
+
+==Weblinks==
+*{{Shx|%3F!%3F|Shadowhelix: ?!?}}
+
+{{KatSort|cat=Locations|Nordamerika|UCAS|New York|Manhattan}}

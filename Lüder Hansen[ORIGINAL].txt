@@ -1,0 +1,42 @@
+{{inoffiziell}}
+{{Person
+|ALIAS=''Feurer Hansen''
+|GEBURT=13-09-2029
+|GESCHLECHT=männlich
+|METATYP=[[Elf]]
+|MAGISCH=nein
+|KINDER=Sarah,<br/>Peter &<br/>Hen
+|NATION=[[ADL|(Nord-)Deutsch]]
+}}
+
+'''Lüder Hansen''' ist ein [[Hamburg|Hamburger]] Flußschiffskapitän auf Elbe und Alster. 
+
+== Arbeit und Geschichte==
+
+Auf seinem Schiff, der MS Friedrich-Wilhelm transportiert und schmuggelt '''Feurer Hansen''', wie er von Bekannten genannt wird, Waren und auch teils [[SIN]]lose Menschen über die Flüsse. Er hat gute Kontakte zu allen [[Piraten]]klans und wird manchmal auch als Streitschlichter gerufen. Früher hatte er selber Waren an die Piraten [[Schieber|verschoben]]. Nachdem er mehrere Male als [[Waffen]]schieber von der [[Vory v Zakone]] missbraucht wurde, hat er sich jedoch mehr auf Informationsverkauf spezialisiert. Doch die [[Russland|Russen]] lassen ihn nicht zufrieden.
+
+Er ist ein guter [[Rigger]]. Sein [[Icon]] erinnert an sein spärlich von ihm genutztes Zuhause, einem alten Leuchtturm, der früher mal an der Küste lag und jetzt mitten im Meer. Vielen [[Shadowrunner|Runnern]] versuchte er in der Zeit der Orientierungslosigkeit des [[Crash 2.0|zweiten Matrixcrashs]] mit mehr oder weniger Erfolg eine Hilfe zu sein.
+
+== Charakter und Aussehen ==
+ 
+Er ist ein misstrauischer, fast zynischer [[Elf]]enmann geworden und kümmert sich nur noch um seinen Kram oder Schiet, wie die [[Runnerjargon_Norddeutschland|Hamburger sagen]]. Er ist hochgewachsen und etwas schlacksig. Der Dreck der Elbe und des Kahns steckt ihm in dunklen Haaren und Knochen, doch seine hellen, listigen Augen wirken vertrauenswürdig - vielleicht auch sein Verhängnis. Er raucht gerne mal eine Pfeife mit diesen [[Deepweed|Tüddelalgen]] und spielt sein Schifferklavier mit Bravour.
+
+=== Schwächen und Alptraum ===
+Er hat eine soziale Ader, hat jedoch Angst davor über den Tisch gezogen zu werden und am Ende allein dazustehen.
+
+== Lebensmittelpunkt und Kontaktritual ==
+Auf seinem Kahn fühlt er sich am wohlsten und ist fast den ganzen Tag unterwegs. Manchmal schläft er sogar auf dem Schiff. Man erreicht Hansen am besten über den Funk. Meist snackt er erstmal eine Weile und versucht andere mit in ein beiläufiges Gespräch zu verwickeln. In diesem Gespräch stellt sich heraus, ob man Feurer Hansen heute noch treffen wird.
+
+== Verwandte, Bekannte und weiterführende Kontakte ==
+
+=== Lila Hansen und Kinners ===
+Lila war lange Zeit mit Lüder glücklich verheiratet. Als es Streß mit den Vory gab, hat Lüder seine Familie an einen sicheren Ort gebracht. Er hat drei Kinder mit ihr. Sarah, Peter und Hen.
+
+== Quellen ==
+Dieser [[NSC]] ist eine Eigenerfindung von Benutzer [[Benutzer:Harekrishnaharerama|Harekrishnaharerama]] und wird in keiner offiziellen Shadowrun-Quelle erwähnt.
+
+
+
+{{DEFAULTSORT:Hansen, Lüder}}
+{{KatSort|cat=Personen|NSC|Menschen|ADL}}
+{{KatSort|catsup=Personen|cat=Schieber|Europa|ADL|Hamburg}}

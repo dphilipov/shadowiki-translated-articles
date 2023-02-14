@@ -1,0 +1,10 @@
+['''Gegenstand'''] '''einstimmen''' ist ein [[Ritual]], welches nur von [[Adept]]en erlernt werden kann. Dieses Ritual muss für jeden Gegenstandstyp separat erlernt werden und es setzt voraus, dass man sich komplett mit Bau, Fähigkeiten, Funktion und Spezifikation des jeweiligen Gegenstandes auseinandersetzt oder ihn selbst herstellt. Da Adepten keine [[Ritualzauberei]] erlernen können, nutzen sie für dieses Ritual stattdessen das Wissen um die Herstellung und Wartung des spezifischen Gegenstandes. Außerdem muss der Gegenstand vom Adepten physisch benutzt werden können. Die Schwierigkeit des Rituals wird um so höher, je komplexer der Gegenstand ist.
+
+Nachdem man ihn erfolgreich eingestimmt hat, gilt er wie ein [[Fokus]] in Bezug auf [[Fokusabhängigkeit]] und ist somit auch eine materielle Verbindung zum Adepten. Dafür kann der Adept den Gegenstand umso präziser nutzen, je höher sein [[Initiat]]engrad ist. Außerdem gilt der Initiatengrad als Maximum für die Anzahl an gleichzeitig eingestimmten Gegenständen.
+
+Eingestimmte Gegenstände können auch nochmals verbessert werden, durch das Ritual [[Gegenstand erfüllen]].
+
+== Quelle ==
+*[[Street Grimoire]] / [[Straßengrimoire]] S.146
+
+{{KatSort|cat=Magie|Rituale}}

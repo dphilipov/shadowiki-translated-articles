@@ -1,0 +1,29 @@
+{{person
+|PICTURE=Flocke.jpg
+|COPYRIGHT=© [[User:Lobezno|Lobezno]]: [[Cristo Fe Crespo|"Cristo Fe Crespo"]]
+|FLAG=?
+|Type= [[Western Dragon]]
+|MAGIC=magical being
+|NATION=[[Switzerland]]
+}}
+{{Dragon|
+|COLOR=snow white
+|KNOWLEDGE=feathered wings
+|Location=Alpine Interdict Zone ?
+|APPEARANCE=2012
+}}
+"'''Snowflake'''' is a - presumably [[Great Dragon|Great]] - [[Dragon]], and the only dragon to have appeared in [[Switzerland]].
+
+In [[Geneva]]/[[CSF]] one is extraordinarily proud of the fact that the snow-white majestic draco form of unknown gender rested peacefully on the roof of the [[UNO]] building for 5 minutes during its first - and until long the only - public appearance. All eyewitnesses unanimously described another unusual feature, as this dragon was said to possess feathered wings, something that has not been observed in [[Western Dragon|Western Dragon]] in any other case.
+{{shadowtalk|Wär seid dänn, des Schnäflöggche net an Gfiedertäs Schlängli is? - Gänf het siet de zwonzger Johr im lädschdä Johrhundärt a indrnationalä Schdadt gsie!|'''''Mässmogge'''''|65%}}
+{{shadowtalk|Are hybrids actually known among dragons?|'''''Prof. Pilzbarth'''''|65%}}
+Rumors speak of a [[dragon hoard|hoard]] in the [[Alpine Interdict Zone]] and financial investments at home and abroad, but more details are not known....
+
+==Source==
+* [[Chromium and Dioxin|Chromium & Dioxin]] S.67, 81, 88
+
+==Weblinks==
+*{Shx|Snowflake|Shadowhelix: "Snowflake"}}
+
+{{KatSort|cat=People|NPC|Dragons|Western Dragons|Big Dragons}}
+{{CatSort|catsup=People|cat|Swiss|CSF}}

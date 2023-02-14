@@ -1,0 +1,390 @@
+__NOTOC__
+
+In den [[Schatten]] werden eine Vielzahl umgangsprachliche Wörter und Fachbegriffe verwendet. Auch wenn einige Begriffe durch das [[Trideo|Trid]] in Mode gekommen sind, oder durch ehemalige Sicherheitskräfte und Militärs in die Sprache Eingang gefunden haben, kann man [[Shadowrunner]] durchaus an ihrem Jargon erkennen.
+
+{{shadowtalk|Also [[Chummer]], wenn du jemanden so reden hörst, wie ein verdammter Schattenläufer, dann kannst Du davon ausgehen, daß es ein verdammter [[Poser]] ist. Es gibt nur wenige Leute, die diese [[Drek]]s-Seite hier auswendig lernen und die [[Schatten]] unterscheiden sich auch von Dreks-Kaff zu jedem verdammten anderen Hintertupfinger-Dreks-Kaff. Aber sicher versteht dich jemand, der [[Runner]] ist, wenn du die Worte einfließen lässt und manchmal gewinnt man auch das Vertrauen von seinem Gegenüber dadurch. CA [[Omae]] und vergiß das Fucking-Fluchen nicht!|'''''Running ist Wild!'''''}}
+
+
+<div style="border: 1px solid #000; padding: 4px; width: 30%; margin:auto; text-align: center">
+'''Inhalt:'''
+[[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#R|R]] [[#S|S]] [[#T|T]] [[#V|V]] [[#W|W]] [[#Y|Y]] [[#Z|Z]] [[#Siehe auch|Siehe auch]]
+</div>
+
+==A==
+;Akoluth / Akolyth : Titel für Gauner, Betrüger, [[Dieb]] oder auch Gehilfe (eigentlich Messdiener, Ministrant), zuweilen auch für Kultisten und Angehöriger obskurer Sekten gebraucht.
+;<span id="Amber-Alarm">Amber-Alarm</span> : Kinderentführungsalarm, auch Selbsthilfegruppe für Kindesentführungen; urspr. geht der Name auf eine Kindesentführung von 1996 in den USA zurück (engl. ''Amber Alert'')
+;<span id="Angelinos">Angelinos</span> : ''n.'' Einwohner von [[Los Angeles]], speziell gebürtige.
+;[[Anglo]] : ''n'' ugs. / leicht abfällig für Angloamerikaner (im Sprachgebrauch der [[Ameriindianer]], häufig inkorrekt auch auf alle anderen Nichtindianer (Weiße, Schwarze, Asiaten...) gemünzt.
+;<span id="Anzug">Anzug</span> / <span id="Anzüge">Anzüge</span> : ''n.'' (engl. ''Suit''), verkürzt für Anzugträger/Konzernanzüge, auf der Straße leicht abfällig für [[Konzern]]angestellte, speziell solche aus der Verwaltung oder den Führungsetagen. Siehe auch: [[Schlips]], [[Pinkel]]
+;Ark : ''n.'' Eine [[Arkologie]] oder Turmstadt
+;Avoritet : ''n.'' auch Zar - ein Anführer der [[Vory v Zakone]], ursprünglich aus den (halb)kriminellen Oligarchen des Raubtierkapitalismus' russischer Prägung Ende des 20. Jahrhunderts hervorgegangen
+;Ausgebrannter : ''n.'' [[Magier]] oder [[Adept]], der seine magischen Fähigkeiten verloren hat (vgl. [[Magisches Ausbrennen]])<br/>(engl. ''Burnout'') 
+;Ausgeworfen : ''adj.'' unfreiwillig aus der [[Matrix|Matrix]] ausgeworfen werden
+;Auswurfschock : ''n.'' Effekt, der beim ausgeworfenen Matrix-Nutzer auftritt. - Meist üble Kopfschmerzen, Desorientierung, teilweise auch Nasenbluten und Schlimmeres. <br/>(engl. ''Dumb Shock'')
+;<span id="Azzie">Azzie</span> : ''n.'' von [[Aztechnology]] beschäftigte Person, auch: Bürger [[Aztlan]]s oder Person, die aus [[Aztlan]] stammt.
+
+==B==
+;Band-Aid: Magischer Teamheiler
+;<span id="Baumkuschler">Baumkuschler</span> / <span id="Baumschmuser">Baumschmuser</span> : grob beleidigend für [[Elf]]en, spielt auf deren Naturverbundenheit an.<br/>(engl. ''Tree Hugger'')
+;<span id="Beanplex">Beanplex</span> : Boston-Megaplex, abgeleitet von "Bean-Town", dem älteren Spitznamen [[Boston]]s
+;Beetle : (''engl. wörtl. "Käfer"'') [[BTL]]-Chip oder Download
+;Beetle-Head : siehe [[Runnerjargon#C|Chiphead]]
+;Berührte : so bezeichnen sich [[Technomancer]] selbst. - Sie sehen sich als "von der [[Tiefenresonanz]] berührt" an. 
+;Big A : Spitzname/Synonym für [[Aztechnology]]
+;Big C : Spitzname für [[Celedyr]]
+;Big D : Spitzname [[Dunkelzahn]]s, zu Lebzeiten auch sein Matrix-Alias
+;Big G : Spitzname für [[Ghostwalker]] (erst in jüngerer Zeit in Anlehnung an "Big D" für Dunkelzahn aufgekommen.)
+;Big L : Spitzname für [[Lofwyr]]
+;Big R : Spitzname für [[Renraku Computer Systems]]
+;Bit-Brain : Deckerslang, für geistig zurückgebliebene 
+;Bit Jockey : Deckerslang für Programmierer 
+;<span ID="Biz">Biz(z)</span> : Umgangssprachlich für ''Business'' (zu deutsch: Geschäft); Auch ''Schattengeschäft'', ''Verbrechen''
+;<span ID="Blue-Collar-Job">Blue-Collar-Job / -Run</span> : ''n'' Shadowrun, bei dem Runner sich vorübergehend als (Fabrik-/Lager-/Hafen- etc.) Arbeiter ausgeben und dabei häufig wenigstens zum Schein eine entsprechend anstrengende und geisttötende Arbeit ausüben müssen, um ihr Ziel zu erreichen. Leitet sich von den typischen, im deutschen Sprachraum als "Blaumann" bezeichneten Arbeitsoveralls und -latzhosen ab.
+;Bottichjob : ''n.'' (''engl. Vatjob'') Eine Person mit reichlichem [[Cyberware|Cyberersatz]]. Das Wort bezieht sich auf einen Behandlungsabschnitt, in dem der Patient in Nährflüssigkeit getaucht liegt
+;Brüter / Breeder : ''n.'' [[Ork]]-Slang für einen "normalen" [[Menschen]]
+;BTL-Deck : [[SimSinn-Abspielgerät]] (ugs. auch ''SimSinn-Deck''), das illegal modifiziert wurde, um [[BTL-Chips]] ohne die gesetzlich vorgeschriebene Amplitudenbegrenzung abzuspielen (auch: [[Dreamdeck|DreamDeck]])
+;[[Bugcity]] : abwertend für [[Chicago]] nach Beginn der Insektengeister-Plage
+;Bug-Hunt : ''n'' (''dtsch: Käferjagd'') Jagd auf Insektengeister
+;<span id="Bugs">Bugs</span> : ''n'' Kleingeld, Peanuts, kleine Störfälle, Programmierfehler bei Software, natürlich Insekten und auch deren [[Insektengeister|Geister]]
+
+==C==
+;[[CalHots]] : [[SimSinn]] mit deutlich höheren Signalspitzen, annähernd auf [[BTL]]-Niveau, im [[Freistaat Kalifornien]] sowie [[LA]] (und innerhalb der Jurisdiktion verschiedener [[Megakonzerne]]) für volljährige Konsumenten legal.
+;<span ID="Cammo-Collar-Job">Cammo-Collar-Job / -Run</span> : Shadowrun, der Runner in ein Kriegsgebiet führt, und/oder sie zwingt, eine militärische Einheit zu infiltrieren bzw. sich einer solchen auf Zeit anzuschließen, und sich in eine militärische Hirarchie einzufügen (bezieht sich auf die tarnfarbenen Kampfanzüge. vgl.: [[Military-Klamotten]])
+;[[CEO]] : [[CEO|Chief Executive Officer]] (Ausführende Manager, Chef, Boss, Abteilungsleiter --> offiziell: Geschäftsführer oder Vorstandsvorsitzender)
+;Checkstick : Beglaubigte Credsticks oder Checksticks sind auch ohne SIN ein gültiges, digitales Zahlungsmittel
+;chill : "adj" ''engl.'' gut, cool, akzeptabel
+;<span id="Chiphead">Chiphead</span>/<span id="Chippie">Chippie</span>/<span id="Chipper">Chipper</span> : [[BTL]]-Abhängiger / -Konsument
+;<span id="Chippen">chippen</span> : ''v.'' Umgangsprachlich für ''einen ([[BTL]]-)Chip 'reinschieben'', ''auf [[BTL]]-Trip sein'' und so weiter 
+;<span id="Chips">Chips</span> : "n" (sing. <span id="Chip">Chip</span>), eigentlich Kurzform von "[[Optische Chips]]", dem universellen Speichermedium des 21. Jahrhunderts, ugs. meist nur als Kurzform für [[BTL-Chips]] verwendet. Kann sich alternativ auch auf Optische Chips bzw. Computer-Schaltkreise als Teil einer [[Augmentierung]] beziehen.
+;Chip Truth : "n" ''engl.'' Fakt, vertrauenswürdige Behauptung/Aussage/Statement (dtsch. ''Chipwahrheit'', adj. ''chipwahr'')
+{{Shadowtalk|Gab auch mal 'ne Band, die sich «[[Chip Truth]]» nannte!|'''''Musixx Fan'''''}}
+;<span id="Chop Shop">Chop Shop</span> 
+:''n'' illegale Substandard-Straßenklinik, die die Implantation meist gebrauchter Cyber- oder [[Bioware]] zu niedrigen Preisen anbietet, früher Bezeichnung für einen Ort, wo gestohlene Fahrzeuge ausgeschlachtet und die Fahrzeugteile wiederverkauft werden ("Autoschlachterei"), in dieser Bedeutung ebenfalls noch in Gebrauch. (siehe {{WPE|Chop_shop|Chop shop}})
+;Chrom : ugs. für [[Cyberware]] - veraltet, da moderne Cyberware kaum noch sichtbare Chromteile aufweist. 
+;<span id="Chrommonster">Chrommonster</span> : leicht abfällig für eine Person mit extrem viel (offensichtlicher) Cyberware (vgl. "[[Chrom]]")
+;[[Chummer]] : Kollege, Kumpel
+;<span id="City of Lost Angels">City of (Lost) Angels</span> : die Stadt [[Los Angeles]] (dtsch. "Stadt der verlorenen Engel")
+;<span id="Cleaner">Cleaner</span> : spezieller Killer, der Spuren und Zeugen vernichtet, wenn die Lage aussichtslos erscheint, oder alternativ:<br/>die Untergrund-/Unterwelt-Version eines Tatort-Reinigers, der die Spuren eines Mordes inkl. Leichen oder (seltener) auch eines anderen [[Verbrechen]]s effektiv beseitigt, und einen Tatort im Idealfall in den Zustand vor der Tat zurückversetzt, so daß selbst [[Forensische Thaumaturgen]] nichts verwertbares mehr finden.
+;<span id="Cop">Cop</span> : n. Polizist, leicht abfällig ursprünglich britischer Slang-Ausdruck aus der Zeit der Gründung der [[London]]er [[Metropolitan Police]], abgeleitet von "Copper" (engl. Kupfer), jedoch weltweit gebräuchlich. 
+;<span id="Cops">Cops</span> : n. die Polizei, abfällig. Plural von "Cop"
+;cowboying, cowboyn : ''v.'' nicht nur jemanden geeken (umlegen), sondern so viele Kugeln wie es irgendwie geht in ihn hineinpusten
+;Coyote : "n" Schmuggler, der sich auf die Beförderung von (Meta)menschen spezialisiert hat (siehe auch: [[Skimmer]]) 
+;Cred / <span id="Credit">Credit</span> : Reputation, (Straßen-)ruf, Ansehen (vom englischen "Credibility"), auch: Geld (siehe [[Creds]])
+;<span id="Creds">'''Creds / Credits'''</span> : ugs. für "Krediteinheiten", Geld, das auf einem mit einem Credstick verbundenen Konto zur Verfügung steht.
+;[[Credstick]] / Credstab :  Stabförmiger Datenträger mit digitalen Währungseinheiten, bargeldloses Zahlungsmittel, auf dem gleichzeitig auch persönliche Daten, Lizenzen, die SIN usw. gespeichert sind. Nur mit gültig mit entsprechender [[SIN]]; siehe auch Checkstick.
+;[[Cyberdeck]] : Tragbares Computerterminal, das wenig größer als eine Tastatur ist, aber in Rechengeschwindigkeit und Datenverarbeitung jedem Rechner des 20. Jahrhunderts um Universen voraus ist. Jedes Cyberdeck hat ein [[SimSinn]]-Interface, das dem User das Erlebnis der [[Matrix]] in voller &bdquo;sinnlicher&ldquo; Pracht zugänglich macht. Dazu &bdquo;stöpseln&ldquo; die Decker das Cyberdeck an ihre [[Datenbuchse]] an. Weitere Informationen finden sich im Artikel [[Cyberdeck]]
+; <span id="Cybertroniker">Cybertroniker</span> : Kofferwort aus "Cybertechniker" / "Cyberchirurg" und "Mechatroniker". Leitet sich davon ab, dass diese während der laufenden Implantation von [[Cyberware]] Anpassungen und (Fein-)Justierungen an den [[Augmentierung]]en vornehmen, die sie ihrem Patienten implantieren, weshalb sie zu gleichen Teilen Chirurg und (Hardware-)Techniker respektive Mechatroniker sein müssen. 
+;Cyberzombie : Person mit ''wirklich'' viel [[Cyberware]] im Körper. Der Charakter und die Moral eines [[Cyberzombie]]s sind kaum noch vorhanden. Bei den eigentlichen Cyberzombies hindert nur rituelle [[Magie]] - die [[Cybermantie]] - den [[essenz]]losen (meta)menschlichen Körper daran, einfach zu sterben...
+
+==D==
+;Dai Dai Lo : Boss einer Triade, eigentlich "Großer Bruder"
+;<span id="Dandrelion Eater">Dandrelion Eater</span> : n. engl. -> siehe: [[Löwenzahnfresser]]
+;<span id="Darwin-Award">Darwin-Award</span> : fiktiver Preis für ein Individuum, das sich durch unglaublich dummes, unüberlegtes und/oder verantwortungloses Handeln selbst dafür qualifiziert hat, von seinen (ggf. äußerst zahlreichen und überlegenen) Gegnern dauerhaft aus dem metamenschlichen Genpool entfernt zu werden. 
+;<span id="Datasteal">'''Datasteal'''</span> : n. engl. -> siehe: [[Datenklau]]
+;Datensklave : ''n.'' Konzerndecker oder andere datenverarbeitender Angestellter
+;<span id="Datenextraktion">'''Datenextraktion'''</span> : ''n'' etwas elegantere Umschreibung von [[Datenklau]] (engl. ''[[Datasteal]]''), s. dort.
+;<span id="Datenklau">'''Datenklau'''</span> : ''n.'' veraltet: Diebstahl von Daten aus einem Computer, normalerweise durch [[Decken|Decking]]. Auch: <span ID="Datendiebstahl">'''Datendiebstahl'''</span>, [[Datenextraktion]] (''engl. Datasteal'')
+;Deck : kurz für [[Cyberdeck]] oder [[#F|Fernsteuerdeck]]
+;[[Decken]] / Decking : ''v.'' Ein Cyberdeck benutzen, üblicherweise illegal
+;[[Decker]] : ''n.'' Cyberdeck-Pirat. Aus dem 20.-Jahrhundert-Begriff "[[Hacker]]" entwickelt
+;DeckHead : ''n.'' abfällig für einen Decker, Drohnenrigger, die ein [[Fernsteuerdeck]] benutzen oder auch für einen [[BTL]]-Abhängigen (abgeleitet von "DreamDeck")
+;Deep Throat : (wichtiger) unbekannter Informant
+{{Shadowtalk|Das stammt noch aus'sem letzten Jahrhundert: bei der Aufdeckung des {{WP|Watergate-Affäre|Watergate-Skandals}} damals wurde der anonyme Tipgeber, der die Snoops auf die richtige Spur brachte, so genannt... wurde nie enttarnt, der Mann, dabei hat er {{WP|Richard_Nixon|Richard Nixon}} und seine komplette Regierungsmannschaft zu Fall gebracht.|'''''American History X'''''}}
+;Dergel(s) : anderer Ausdruck für [[Watcher]] - namentlich bei [[Straßenmagier|Straßenmagiern]] in der [[ADL]]
+;<span id="Der Große Goldene">Der Große Goldene</span> : umgangssprachlich und salopp für den [[Großdrache]]n [[Lofwyr]]. Siehe auch: Goldschuppe, Goldschnauze Goldlöckchen, Goldie
+;<span id="Drähte">Drähte</span> : ''n.'' ugs. für [[Cyberware]], besonders für [[Talentleitungen]] und/oder [[Reflexbooster]] und ähnliche Implantate.
+;<span id="Dreamchips">Dreamchips</span> : ''n.'' [[BTL-Chips]], namentlich solche mit Handlung (im Gegensatz zu "Moodies")
+;<span id="Dreamdeck">DreamDeck</span> : ''n.'' illegal für BTL-Konsum modifiziertes [[SimSinn-Abspielgerät]] (auch: BTL-Deck)
+;DreamDeck-Chips : [[BTL-Chips]], zu deren Konsum der User ein DreamDeck benötigt (im Unterschied zu "Direct-Input-Chips").
+;DreamGate / DreamGate-Chip : ''n.'' BTL-Deck bzw. BTL-Chip, das / der manipuliert wurde, um eine Endlosschleife zu erzeugen, schickt den Benutzer auf einen Trip, aus dem es kein Erwachen gibt. (Mord- oder Selbstmordwaffe)
+;[[Drek]] : ''n.'' (vul) Gebräuchlicher Fluch, etwa im Sinne von &#8222;Scheiße", ''adj.'' drekky 
+;Drekhead : beleidigender Ausdruck / Schimpfwort für eine Person. Wörtl.: ''&#8222;jemand, der nur Drek im Kopf hat"''.
+
+==E==
+;Ebbi / Ebbie : ugs. für [[Europäisches Bargeldloses Zahlungsmittel]] (EBZ), das europäische Äquivalent zum [[Credstick]].
+;<span ID="Einstöpseln">Einstöpseln</span> : ''v.'', der Vorgang, wenn ein [[Decker]] das Datenkabel zur [[Matrix]] / zu seinem [[Cyberdeck]] in seine [[Datenbuchse]] einsteckt (wird ebenso auch im Bezug auf [[Rigger]] verwendet, die sich per Kabel mit der [[Buchse]] am Armaturenbrett eines [[Fahrzeug]]s oder einer [[Riggerkonsole]] - früher: [[Fernsteuerdeck]] - verbinden). Verkürzt auch: "[[#Stöpseln|Stöpseln]]".
+;Elvis : synonym für tot sein: "Der ist Elvis!", kommt aber auch als Straßenname oder männlicher Vorname vor.
+;Engel : ''n.'' Ein Wohltäter, besonders ein unbekannter
+;[[Exec]] : Abkürzung für Executive (''engl.'': Leitender Angestellter).
+
+==F==
+;<span ID="Fangs">Fangs</span> : engl. für [[Hauer]] (siehe dort)
+;<span ID="Fee">Fee</span> : Abwertend für [[Elf]] (Die Beleidung besteht darin, dass das Englische ''Fairy'' umgangssprachlich so viel wie ''Schwuchtel'' bedeutet)
+{{Shadowtalk|Seit der Hof der Feen - also [[Seeliehof]] und [[Unseelie-Hof]] - und generell die diversen [[Feenwesen]] verstärkt mit der [[Metamenschheit]] auf unserer physischen, allgemein sichtbaren Ebene in Interaktion treten, ist diese Schimpfe - nachvollziehbarer Weise - etwas aus der Mode gekommen...|'''''[[Matrix-Poldi]]'''''}}
+;[[Fernsteuerdeck]] : (n) Gerät mit dem ein [[Rigger]] seine [[Drohnen]] steuern kann (veraltet), mittlerweile spricht man i.d.R. von einer "[[Riggerkonsole]]"
+;Fetischfrau, Fetischmann : ''n.'' [[Taliskrämer]](in)
+;[[Fleischpuppe]] : eine Prostituierte in einem [[Bunraku]]-Bordell die mittels kosmetischer Chirurgie und Bodymodding sowie [[Personafix-Chips]] sowohl äußerlich als auch in den Verhaltensmustern den Kundenwünschen angepasst wurde.
+;Fleischpuppenhaus : ein Bunraku-Bordell / [[Bunraku-Salon]]
+;<span id="Frag">Frag</span> <span id="Fragging"> </span> : milder Fluch, etwa 'Verdammt', als Abkürzung: Splittergranate (''fragmentation grenade''); ''adj''. fragging; ''n.'' Fragger 
+{{Shadowtalk|Das Verb '{{UrbanDict|Frag|frag}}' wird auch im Sinne der ursprünglichen Bedeutung als Synonym für "[[Runnerjargon#Geeken|Geeken]]" verwendet.|'''''Wordhack''''' [BANNED]}}
+{{Shadowtalk|Eine Theorie ist, dass sich "Frag" vom Lieblingsausdruck des Hauptcharakters der {{WP|Lobo_(Comicfigur)|Lobo-Comics}} im 20. Jahrhundert ableitet.|'''''Jabberwock'''''}}
+;[[FrankenFood]] / Frank'n'Food : Transgene Nahrungsmittel, abgeleitet von dem literarischen ''Monstermacher'' "Frankenstein" und seiner Schöpfung
+
+==G==
+;Gaijin : Fremder (japanisch), abwertend 
+;Game Boy : kleiner Bildschirm mit irgendeiner Spielerei z.B. Überwachungsgerät
+;Gator : ''n.'' Großmaul - unter Umständen aber auch: [[Alligator]], speziell das [[Totem]]
+;Gearhead : ''n.'' jemand mit (viel) [[Cyberware|Ware]] im Kopf, auch: fanatischer Autoschrauber / Motortuner
+;<span id="Geeken">Geeken</span> : ''v.'' töten
+{{Shadowtalk|Hmm, um die Jahrhundertwende, stand ''{{WP|Geek}}'' noch für einen harmlosen Computer- oder Hobbyfreak, ähnlich einem ''{{WP|Nerd}}''. Ich frage mich wie das zustande gekommen ist.|'''''ChipChopper'''''}}
+{{Shadowtalk|Ich glaube das hat sich aus der Gamerszene zu Beginn des 21. Jahrhunderts entwickelt.|'''''[[Zoé Bellerose|Rose]]'''''.|35%}}
+;Geeker : ''n.'' "Totmacher", Mordinstrument, abgeleitet vom Verb "Geeken". <br/>Bsp. "Mein treuer Geeker!" als beschreibende Aussage eines Straßenkämpfers zu seiner persönlichen Lieblingswaffe. 
+;[[Gilette]] : Weibliche [[Messerklaue]] oder auch [[Straßensamurai]]
+;[[Go-Gang]] : ''n.'' Eine Motoradgang - nicht mit einem altmodischen [[MC]] zu verwechseln 
+;Go-Go-Go : ''n.'' Eine Motorrad-Gang oder ein Gangmitglied, auch deren bevorzugter Schlachtruf. 
+;Gode : [[Nordische Tradition|Nordischer Magier]]
+;<span id="Goldie">Goldie</span> : umgangssprachlich, salopp (und leicht respektlos) für den [[Großdrache]]n [[Lofwyr]]. Siehe auch auch: Goldlöckchen, Goldschnauze, Goldschuppe, Der große Goldene
+;<span id="Goldlöckchen">Goldlöckchen</span> : umgangssprachlich, salopp und respektlos für den [[Großdrache]]n [[Lofwyr]]. Siehe auch: Goldschuppe, Goldschnauze, Goldie, Der Große Goldene
+;<span id="Goldschnauze">Goldschnauze</span> : umgangssprachlich, salopp und respektlos für den [[Großdrache]]n [[Lofwyr]]. Siehe auch: Goldschuppe, Goldlöckchen, Goldie, Der Große Goldene
+;<span id="Goldschuppe">Goldschuppe</span> : umgangssprachlich, salopp (und leicht respektlos) für den Großdrachen Lofwyr. Siehe auch auch: Goldschnauze, Goldlöckchen, Goldie, Der große Goldene
+;<span id="Grashalmknicker">Grashalmknicker</span> : leicht abfällig bis beleidigend für Elfen, vgl. "[[Graslutscher]]" / "[[Löwenzahnfresser]]" / "[[Baumschmuser]]".
+;<span id="Graslutscher">Graslutscher</span> : beleidigend für Elfen, vgl. "[[Löwenzahnfresser]]" / "[[Baumschmuser]]".
+;Groggy : [[Aspektzauberer]], abwertend, von Vollmagiern verwendet
+;Gydje : [[Nordische Tradition|Nordische Magierin]]
+
+==H==
+;Hänger : ''n.'' Anwärter auf Gangmitgliedschaft, jemand der mit [[Ganger]]n/Members abhängt, ohne dazuzugehören. Namentlich bei traditionellen [[MCs]] (engl. ''Hang-Around'')
+;Halbling : ''n.'' (''engl. Halfling'', ''Halfie'') [[Zwerg]], beleidigend
+;Halbwacher : ''n.'' abfällig für [[Ki-Adept]], von Vollmagiern verwendet
+;<span id="Hatz">Hatz</span> : Jagd (auf jdn. oder etwas)
+;Hauer : [[Ork]]s und [[Troll]]e (in Anspielung auf deren ausgeprägten Eckzähne), beleidigend. - Wenn von anderen Orks oder Trollen gebraucht allerdings eher salopp-respektvoll.<br/>(auch: nur die charakteristischen Eckzähne, engl. ''"[[Runnerjargon#Fangs|Fangs]]"'')
+{{Shadowtalk|Und - um die Begriffsverwirrung zu komplettieren - bezeichnet "Hauer" in verschiedenen Ecken der [[ADL]] auch ein historisches Gewerk und dessen Angehörige: entweder traditionelle Bergleute, die mit Haue und Pickel unter Tage arbeiten, oder traditionell, mit Axt und Spaltmeißel arbeitende Holzfäller... wie «[[Abnobas Söhne]]» sie in ihrem Hauer-Song ''"Bereue nichts"'' so wortgewaltig und bildstark besingen.|'''''[[Hans Gassler]]''''' in seinem Beitrag im [[Hostzine]] «MusicNet» ([[AR-Journal]] Base Edition 2083-01-02, Latest Update: 12:24:00 MESZ)}}
+;Heist : ''n.'', ''v.'' Jdn. um einen wertvollen Gegenstand erleichtern, meist Raub, Raubüberfall (Gangsterfilme, die sich um einen elaboriert geplanten Raubüberfall oder Einbruch drehen, werden davon abgeleitet als "Heist Movie" bezeichnet).
+;<span id="Heuler">Heuler</span> : ''n.'' [[Credstab]] oder sonstige ID, die bei Benutzung einen Computeralarm auslöst (engl. ''[[#Screamer|Screamer]]'')
+;<span id="Hirnröster">Hirnröster</span> : ''n.'' [[BTL-Chip]]/HotSim-Produkt, mit dem Zusatz "chemische" auch herkömmliche [[Drogen]]. 
+;<span id="Hit">Hit</span> : ''n.'' Auftragsmord, stammt aus dem Sprachgebrauch des Organisierten Verbrechens, namentlich der [[Mafia]] 
+;<span id="Hitmage">Hitmage</span> : Auftragskillermagier
+;Hitman : Auftragskiller, stammt aus dem Sprachgebrauch des Organisierten Verbrechens, namentlich der [[Mafia]] 
+;Hitzewelle : ''n.'' (''engl. Heatwave'') Hartes Durchgreifen der [[Polizei]].
+;Hoi : Hi, Hallo - umgangssprachlich-saloppe, kurze Begrüßung
+;Hold-Up : ''n.'' (engl.) Raubüberfall auf ein Fahrzeug, das dabei durch ein Hindernis, eine Täuschung - oder Beschuss - gestoppt wird. Kommt noch aus der Zeit der Postkutschen. - Als Überfall auf gepanzerten Werttransport Sonderform von [[Heist]] (s. dort).
+;Houngan : [[Voodoo]]priester
+
+==I==
+;Ice / ICE : ''n.'' Sicherheitssoftware. "[[Intrusion Countermeasures]]" oder ICs
+;IED : ''n.'' Improvised Explosive Device (engl. für "Improvisierte Sprengvorrichtung", selbstgebaute Bombe)
+;<span id="Igor">Igor</span> : ''n'' [[Vampirdiener]], der von einer aus [[Vampir]]blut gewonnenen Droge abhängig ist, nach dieser auch: [[#Renfield|Renfield]]
+
+==J==
+;<span id="Jackhead">Jackhead</span> : Eine Person mit [[Datenbuchse]].
+;Jandem : ''v.'' Auf eine arrogante und doch gelassene Art gehen, stolzieren (''engl. Jander'')
+;<span id="Jarhead">Jarhead</span> : wörtl. ''Gehirn im Glas'', eine Person, bei der sich das Gehirn nicht mehr im biologischen Schädel befindet. Entweder ein Individium mit vollständigem [[Cyberschädel]] oder - im Extremfall - ein [[Vollkörper-Cyborg]] 
+;[[Japanacorps]] / [[Japanokons]] : Kollektive Bezeichnung für die [[japan]]ischen Megakonzerne
+;Jerk : Wichser
+{{shadowtalk|Gibt aber auch [[Shadowrunner|Runner]] und [[Ganger]], die sich das allen Ernstes als [[Straßenname]]n zulegen. - [[Cool Jerk]] war so'n Vogel ... aber der war auch in echt n' totaler Jerk!|'''''[[Ruth "Racker" Redmond]]'''''}}
+{{Shadowtalk|Verteilt auf verschiedene Plexe im anglo-amerikanischen Sprachraum gibt es auch mehrere [[Gangs]], die sich «Jerks» nennen. Gleiches gilt übrigens auch für mehrere Underground- oder Punk-Bands...|'''''Social Adepten'''''}}
+;Joe Chummer : Normalbürger, wie: "Otto Normalverbraucher" oder "Karl Durchschnitt"
+;[[Johnny Average]] : Durchschnittsbürger, wie: "Otto Normalverbraucher" oder "Karl Durchschnitt"
+;[[Mr. Johnson|Johnson]] : ''n.'' bezieht sich auf einen beliebigen anonymen Auftraggeber oder Agenten eines [[Konzerne]]s. Auch: "Mr. Johnson" / "Mrs. Johnson"
+;<span ID="Juju">Juju / JuJu</span> : ''n'' umgangssprachlich für Magie (ähnl. [[#Mojo|Mojo]])
+;Juju-Doktor : ''n'' umgangssprachlicher, vor allem in Schwarzafrika verbreiteter Begriff für einen [[Schamane]]n/Medizinmann/magischen Heiler. (''engl. [[Witch-Doctor]]'')
+;<span ID="Junkie">Junkie</span> : ''n'' ugs. Person, die im fortgeschrittenen Stadium von harten, chemischen [[Drogen]] abhängig ist. (siehe {{WP|Junkie|Wikipedia: "Junkie"}})
+
+==K==
+;[[Kanushi]] : Shintopriester
+;[[Kawaruhito]] : ''jap.'' "veränderte Person", "Wechselbalg" - extrem abfällig für [[Metamenschen]].
+{{Shadowtalk|Die Japaner verpacken ihren [[anti-metamenschlich]]en [[Rassismus]] gerne in kalte Höflichkeit.|'''''가희'''''}}
+;<span id="Kick-Artist">Kick-Artist</span> : ugs. für Auftragskiller, bezieht sich häufig auf solche, die Kampfkünste nutzen.
+;<span id="Ki-Depp">Ki-Depp / Ki Depp</span> : abfällig/salopp für [[Adept|Ki-Adept]], bevorzugt von [[Straßenmagier]]n und -[[schamanen]] verwendet
+;Kobun : ''n.'' (jap) Mitglied eines [[Yakuza]]-Clans.
+;<span id="Kom">Kom</span> / <span id="Komm">Komm</span> : ''n.'' Das Telefon / [[Telekom]]. (''veraltet''), heute eher: [[Kommlink]]
+;<span id="Kon">Kon</span> : ''n.'' Gesellschaft, [[Konzern]]. Häufig als Vorsilbe verwendet. Bsp. "[[Kon-Pinkel]]"
+;[[Kong-Chips]] : billige - dort legale - [[BTL]]s aus [[Hongkong]], oft von minderer Qualität
+;<span id="Konti">Konti</span> : ''n.'' in der Karibik abfällig für "Kontinentalamerikaner", i. d. R. aus den [[CAS]]
+;<span id="Konzernanzüge">Konzernanzug / Konzernanzüge</span> : s. [[#Anzug|Anzug / Anzüge]] (engl. ''Suits'')
+;Koradji : Aborigine-[[Schamane]]
+;Kroko : ''n.'' ugs. für Krokodil, auch das gleichnamige [[Totem]]. Manchmal auch für Produkte (Taschen, Stiefel etc.) aus Krokodilleder
+;<span id="Krokomant">Krokomant</span> : ''n.'' Krokodilschamane, [[magisch Begabter]], der dem Totem [[Krokodil (Totem)|Krokodil]] folgt (irreführend von Mundanen, denen der Unterschied nicht klar ist auch für Anhänger [[Alligator (Totem)|Alligators]] verwendet).
+;<span id="Kurzer">Kurzer</span> : ''n.'' [[Zwerg]], abwertend/beleidigend (engl. [[#Shorty|Shorty]])
+
+==L==
+;<span id="LaLaLand">LaLaLand</span> : ''n.'' spöttisch für Los Angeles / Los Angeles County / den Großraum Los Angeles
+;Legwork : ''n.'' (engl.) "Beinarbeit", Puzzlearbeit, Recherche, Vorbereitung auf einen [[Run]]
+;Link : ''n.'' Kurzwort für [[Kommlink]]
+;<span id="Löwenzahnfresser">Löwenzahnfresser</span> : ''n.'', ''adj.'' [[Elf]] oder elfisch. Hochgradig beleidigend. - Bezieht sich darauf, daß Elfen (angeblich) vielfach Vegetarier sind. (engl. ''Dandrelion Eater'')
+;Lohnmagier : ''n.'' (engl. ''"Wage Mage"'') Ein [[Zauberer]] (normalerweise [[Magier]]) im Dienst eines Konzerns.
+;<span id="Lohnsklave">Lohnsklave</span> : ''n.'' dtsch. für "[[Sarariman]]" (siehe dort)
+;LoreStore : ''n.'' [[Taliskrämer]]laden, der auf [[Grimoire]] und [[Formeln]] spezialisiert ist / arkane bzw. magische Buchhandlung (auch: ''Formel Shop'')
+;<span id="Luddit">Luddit</span> : ''n.'' [[Technologie]]- und Fortschrittsfeind, Maschinenstürmer (siehe auch: [[Neo-Luddit]])
+
+==M==
+;[[Magierposer]] : mundaner, nicht-magischer [[Mensch]] oder [[Metamensch]], der versucht, als [[Magier]] zu erscheinen. Dies kann vom bloßen Kleidungsstil über durch technologische Tricks (z. B. ''mysteriös'' glühende [[Cyberaugen]]) erreichte Effekte bis hin zu von echten Magiern verankerte [[Zauber]]n reichen, die der [[Runnerjargon#P|Poser]] als eigene magische Kräfte ausgibt. 
+;[[Maghreb-Beetles]] : billige, oft minderwertige [[BTL]]-Chips aus den Maghreb-Staaten respektive der [[Maghreb-Konföderation]], mit denen [[Al-Akhirah Aswad Mayid]] den [[Spanien|spanischen]] Markt überflutet.
+;[[Mambo]] : [[Voodoo]]priesterin
+;[[Manatech]] : mit [[Mana]] interagierende Technologie
+;[[MC]] : Motorcycle Club, eine [[Biker-Gang]] - nicht mit den modernen [[Go-Gangs]] zu verwechseln; auch Szenename für die {{WP|Hells_Angels|Hells Angels}}
+;<span id="Megakons">Megakons</span> : ugs. verkürzt für [[Megakonzerne]], noch weiter verkürzt auch: [[Megas]] (engl. ''Mega Corps'')
+;<span id="Megas">Megas</span> : ugs. verkürzt für [[Megakonzerne]], auch: [[#Megakons|Megakons]] (engl. ''Mega Corps'')
+;[[Messerklaue]] : Umgangssprachlich für [[Shadowrunner]], die über [[Sporn]]e (Klingen im Unterarm) als [[Cyberware]] verfügen. Die meisten [[Messerklaue]]n sind [[Straßensamurai]]s.
+;[[MET2000]] : [[Mobile Eingreiftruppe 2000]], eine der weltgrößten Söldnereinheiten - respektive -konzerne - deren HQ in der [[ADL]] liegt. Ursächlich [[ÖAG]], seit 2080 Tochter der [[Trikon Holding AG]].
+;[[Meta]] : Umgangssprachlich für alle Formen von [[Metamenschheit|Metamenschen]]. Gelegentlich aber auch als Kurzform für {{WP|N-Methylamphetamin|Methamphetamine}} verwendet. 
+;[[Miko]] : Shintopriesterin
+;Mob : aufgebrachte und/oder aufgehetzte Menschenmenge, auch manchmal Name für die [[Mafia]] (speziell in [[Nordamerika]])
+;<span ID="Mobster">Mobster</span> : Mafioso
+;<span id="Mojo">Mojo</span> : Umgangssprachlich für [[Magie]] - Entstammt eigentlich der [[Voodoo]]-Tradition
+;[[Mr. Johnson]] : Auftraggeber für [[Shadowrunner]]
+;[[Mundan]] : Nichtmagischsein
+;Mundaner : Nichtmagier
+;<span id="Muskel">Muskel</span> oder <span id="Mietmuskel">Mietmuskel</span> : Abwertend für [[Straßensamurai]] oder als [[Shadowrunner]] tätiger [[Söldner]]
+;<span id="Müsli">Müsli</span> : ''n'' Schimpfwort für [[Elf]]en. Beleidigend. Siehe "[[#Müslifresser|Müslifresser]]". Gerne auch mit negativen Vor- oder Nachworten kombiniert.
+;<span id="Müslifresser">Müslifresser</span> : ''n.'' Schimpfwort für [[Elf]]en. Hochgradig beleidigend. Leitet sich davon ab, daß Elfen (angeblich) vielfach Vegetarier sind. (Siehe auch: "[[#Löwenzahnfresser|Löwenzahnfresser]]")
+
+==N==
+;Nahualli : Aztekischer [[Magier]]
+;[[Neo-A]] : Kurzform für neo-anarchistisch oder Neo-Anarchisten
+;<span id="Neo-Ludditen">Neo-Ludditen</span> : ''n'' Personen, die Elektronik scheuen und Neuerungen ablehnen, Zurück-zur-Natur-Typen, Aussteiger, ''Maschinenstürmer'' (siehe auch: [[Luddit]])
+;Nobilis : Kurzform von ''Homo Sapiens Nobilis'' - abfällig bis beleidigend für [[Elf]]en, wobei die Beleidigung in dem Fall darin besteht, diesen zu unterstellen, sie hielten sich für etwas besseres
+;[[Norm]] : [[Mensch]]; wird häufig abwertend von [[Meta]]s verwendet
+;<span ID="Normajean">Normajean</span> : (Norm-) Mädchen, das mit einem Ganger zusammen ist, Freundin/''Gespielin'' eines Gangers (2050)
+;Nullhead : Deckerslang; abwertend für Person ohne [[Chipbuchse|Chip-]] oder [[Datenbuchse]]
+;Nutrisoy : Billiges Essen auf [[Soyfood|Sojabasis]]
+
+==O==
+;[[Omae]] : ''n.'' Freund, Alter oder [[Chummer]] ([[japan]]isch)
+;[[Or'zet]] : Sprache der [[Orks]]
+;Oyabun : ''n.'' (''jap.'') Oberhaupt eines [[Yakuza]]-Clans
+
+==P==
+;Panzer : ''n.'' Jedes am Boden tätige Kampffahrzeug (engl. ''Tank'')
+{{Shadowtalk|Früher vielleicht... Noch nie was von Schwebepanzern, Hovertanks oder [[T-Bird]]s gehört?|'''''[[Josie Cruise]]'''''}}
+;[[Erwachte_Wesen|Paraspezies]] : Bezeichnet alle [[Erwachte_Wesen|erwachten Tiere und Wesen]] in der Welt
+;[[Paydata]] : ''n.'' Ein Datenfile (Datei), das auf dem Schwarzen Markt Geld einbringt
+;Ping : Ein Ziel mittels [[Magie]] aufspüren
+;[[Pinkel]] : Abwertender Ausdruck für Normalbürger (häufig mit der Vorsilbe Kon- oder Konzern-)
+;[[Plex]] : Großstadt, Großraum; auch [[Metroplex]]
+;<span id="Poli">Poli</span> : ''n.'' Ein [[Policlub]] oder Policlub-Mitglied 
+;Poindexter : Abfällig für [[Hermetiker]]
+;Pop-Shop : Gefängnis, Knast
+;Poser :  Angeber - spezielle Poser geben vor einer anderen [[Meta]]spezies anzugehören ([[Elfenposer]], [[Orkposer]]), [[MMVV-Infizierte]] zu sein ([[Vampirposer]]) oder zu den [[Magisch Begabte]]n zu gehören ([[Magierposer]]) 
+;Poser-Gang / Posergang : Bande von Posern
+;<span ID="Putzbot">Putzbot</span> : ''n.'' ugs. eine Reinigungsdrohne, meist eher autonom von ihrem Spatzenhirn - der hardgecodeten [[Pilotsoft]] - gesteuert, als geriggt (s. [[Drohnen]])
+
+==R==
+;<span id="Raku">Raku</span> : Spitznahme von [[Renraku Computer Systems]]
+;Razor-Guy / Razor-Girl : ''n.'' ''engl.'' für einen [[Straßensamurai]]/eine [[Messerklaue]] mit [[Handklinge]]n/[[Sporn]]en/[[Nagelmesser]]n
+;<span id="Renfield">Renfield</span> : ''n.'' [[Vampirdiener]], der von der gleichnamigen, aus [[Vampir]]blut gewonnenen [[Droge]] abhängig ist. (auch: [[#Igor|Igor]])
+;Road Warriors : ''n.'' Fahrer von [[Z-Zonen-Taxis]]
+;ROM-Burner : jemand, der [[BTL-Chips]] slottet, Chiphead - abgeleitet davon, dass BTL-Chips i. d. R. read-only (ROM) sind und nach einmaliger Benutzung ausbrennen. 
+;[[ROX]] : [[Roxbury (Boston)|Roxbury]], ein [[Barrens]]bezirk in [[Boston]]
+;[[Shadowrun|Run]] : Kurzform für einen [[Shadowrun]].
+
+==S==
+;<span id="Sam">Sam</span> : ''n.'' Kurzform/Abkürzung von "Samurai", daneben aber auch Abkürzung für Surface-Air-Missile (engl. für: Boden-Luft-Rakete) 
+;<span id="Samurai">Samurai</span> : ''n.'' (''jap.'') Kurzform von "[[Straßensamurai]]", Söldner oder Mietgorilla. Impliziert einen Ehrenkodex.<br/> Eigentlich missbräuchliche Verwendung des Begriffs - siehe die historischen {{WP|Samurai}} im alten [[Japan]].
+;[[Sanologe]] : Heilmagier mit medizinischer Ausbildung
+;[[Sarariman]]n : ''n.'' (''jap.'') Abgeleitet aus dem englischen "Salaryman" (Lohnsklave). Ein Büro- oder Konzernangestellter (japanischer Schein-Anglizismus)
+;[[Schatten]] : Illegale (SINlose), Kriminelle und anonyme Welt
+;[[Schattenklinik]] : Illegale Klinik welche [[Cyberware]] einbaut und Verletzungen heilt ohne Fragen zu stellen
+;Schläfer : Mundaner
+;[[Schlips]] : (abfällig) Anzugträger, Konzernangestellter
+;<span id="Schnecke">Schnecke</span> : Slangausdruck für [[Cyberterminal]]s (engl. [[#Turtle|Turtle]], wörtl: Schildkröte)
+;Schuhe : Während der astralen Projektion zurückbleibender Zaubererkörper
+;Schweber : Beobachtergeist ([[Watcher]]) Andere Bedeutung: siehe [[Skimmer]]
+;Schwirr : Verschwinde. Schwirr ab
+;<span id="Screamer">Screamer</span> : engl. [[#Heuler|Heuler]] (siehe dort)
+;<span id="Seoul-Man">Seoul-Man</span> : ''n.'' Mitglied eines [[Seoulpa-Ringe]]s
+;Seoulpa-Ring : ''n.'' Eine kleine Verbrecherbande mit [[Korea|koreanischen]] Wurzeln und Beziehungen zu anderen Gruppierungen dieser Art
+;Shaikujin : ''n.'' (''jap.'') Wörtlich "ehrbarer Bürger". Ein Konzernangestellter
+;Shortbread : ''n'' (''eng.'') abfällig für einen Zwerg (siehe auch: "[[#Shorty|Shorty]]", "[[#Kurzer|Kurzer]]"), eigentlich eine Art Gebäck.
+;<span id="Shorty">Shorty</span> : ''n.'' (''engl.'') [[Zwerg]], abwertend/beleidigend (dtsch. [[#Kurzer|Kurzer]]) 
+;[[SimSinn]] : ''n.'' [[ASIST]]-Sinnessignalsendung oder -empfang
+;[[System Identifikations Nummer|SIN]] : Abkürzung für ''System Identification Number'', beziehnungsweise ''Systemidentifikationnummer''. Wird jedem gemeldeten Bürger zugewiesen und auf dessen [[Credstick]] oder [[Kommlink]] gespeichert 
+;Skimmer : ''n.'' Fahrzeug, meist Drohne, die dank VTOL-Technologie mehr oder minder dicht über Grund schwebt. Beispiel: Mikroskimmer. (dtsch. '''Schweber''')
+;Skimmer : ''n.'' Ausdruck für [[Schmuggler]], die sich auf den Transport von (Meta)Menschen spezialisiert haben. In [[New York]] und an der [[UCAS]]-Ostküste gebräuchlich.
+;<span id="Slot">Slot</span> : ''n.'' Mildes Fluchwort.
+;Slot and run : ''v.'' Sich beeilen. Auf den Punkt kommen. Sich auf die Socken machen
+;Slotten : ''v.'' einen [[BTL-Chip]] (oder anderen optischen Chip) in die Chipbuchse stöpseln.
+;Snoop : Reporter / Paparazzo / Enthüllungs-Journalist
+;So ka : Ich verstehe, alles klar (japanisch)
+;[[Soyfood|Soykaf]] : Ersatzkaffee auf [[Soyfood|Sojabasis]]
+;[[Sperethiel]] : Elfensprache 
+;[[Spinne]] : Konzernhacker
+;<span id="Spitzohr">Spitzohr</span> : vulg. Schimpfwort für [[Elf]]en, abgeleitet von deren charakteristischen, spitzen Ohren.
+{{Shadowtalk|Wobei auch die Mehrzahl der anderen [[Metatyp]]en - außer dem ''Homo sapiens sapiens'' - deutlich gespitzte Ohren haben. - Deshalb bezeichnen [[Metamenschen]] [[Mensch]]en zuweilen - nicht weniger abfällig - als "Rundohren"!|'''''[[Prof. Ungrün]]''''' - <small><u>Merke:</u> Rassismus ist keine Einbahnstraße!</small>}}
+{{Shadowtalk|Nicht zu vergessen, dass - ungeachtet der von ''unserem Doktor Umweltfeind'' sehr zutreffend angeführten Fakten - auch diverse [[Troggy]]s "Spitzohr" als Schimpfwort gegenüber Elfen nur zu gerne und häufig gebrauchen...|'''''[[Pinky Pinkship]]'''''}} 
+;Sprawl : abwertende Bezeichnung für [[Megaplex]]
+;Sprawlen / <span ID="Sprawling">Sprawling</span> : ''v.'' Unterhalb des eigenen sozialen Niveaus Kontakte pflegen. <br/>Auch: Sich zwecks "Abenteuer" in seiner Freizeit absichtlich in heruntergekommene, gefährliche Viertel wagen (vgl. "{{WP|Slumming}}").
+;<span id="Spruchschleuder">Spruchschleuder / Spell Slinger</span> : ''n.'' salopp für [[Zauberer]], der mit "[[Zauberspruch|Sprüchen]] um sich wirft". Vgl. auch "[[Runnerjargon#Z|Zauberschleuder]]".
+;Squischie : n. Abfälliger Ausdruck für Zwerge, Menschen, Elfen – meist von Orks und Trollen verwendet
+;Star : Abkürzung für den [[Konzern]] [[Lone Star Security Services, Inc.]], der in vielen Städten Nordamerikas die Polizei stellt
+;<span id="Stöpseln">Stöpseln</span> : ''v.'' Sich [[#Einstöpseln|einstöpseln]] oder den [[Cyberspace]] betreten. Sich ausstöpseln oder den [[Cyberspace]] verlassen. Bezieht sich auf die Verwendung von [[Buchse]] und Datenkabel
+;<span id="Sweatshop">Sweatshop</span> : ''n.'' Ausbeuterbetrieb, wird sowohl für [[Konzern]]- aus auch [[Unterwelt]]werkstätten und -fabriken mit quasi Sklavenarbeitern gebraucht. (engl., dtsch.: wörtlich "Schwitzbude").
+
+==T==
+;Taccofresser : Beleidigende Bezeichnung für [[Aztechnology]]-Angestellte und/oder Bürger [[Aztlan]]s
+;<span id="Talent">Talent</span> : ''das Talent besitzen'', magisch begabt sein
+;[[T-Bird]] : Kurz für [[Thunderbird]]; Tieffliegendes, sehr schnelles und meist gut gepanzertes Fluggerät, Schwebepanzer
+;Techniker : Konzernausdruck für einen Profikiller
+;[[Theurg]] : Christlicher - namentlich katholischer - [[Zauberer]]
+;Tong : Chinesische Mafia, bezeichnen sich selbst als [[Triaden]] (Besonders in [[Nordamerika]] und [[Großbritannien]] gebräuchlich). Sollte man - außerhalb Großbritanniens - nie in Gegenwart eines Angehörigen der Triaden benutzen.
+;[[Trideo]] : Dreidimensionales Fernsehen; kurz: Trid
+;<span ID="Trog">[[Trog]]</span>, <span ID="Troggy">Troggy</span> : Sehr abwertende Bezeichnung für [[Ork]]s und [[Troll]]e, in Anspielung auf deren wenig überragende Intelligenz. Kommt vom englischen ''[[troglodyte]]'', zu deutsch: Höhlenmensch. Mittlerweile hat ein Teil der Orkrechte- und Orkstolz-Bewegung (vgl. [[Orxploitation]]) das ursprüngliche Schimpfwort für sich okkupiert und adaptiert, und verwendet es selbst.
+;[[Trog-Rock]] : sehr laute und harte Rockmusik, die von Orks und Trollen gespielt wird, der Begriff wird auch von Fans und Künstlern dieser Musik-Richtung verwendet.
+;<span id="Turf">Turf</span> : Territorium einer Gang, Einzugsbereich eines Gauners oder Diebes. Auch: Hometurf. - Spöttisch auch im Bezug auf den Ort oder die Gegend gebraucht, wo ein Konzern seinen Hauptsitz oder eine herausgehobene Machtposition hat.
+;Turfkrieg : Krieg zwischen zwei [[Gangs]]
+;<span id="Turtle">Turtle</span> : ''n.'' (engl.) Slangausdruck für [[Cyberterminal]]s, wörtlich eigentlich: "Schildkröte" (siehe: [[#Schnecke|Schnecke]])
+
+==V==
+;Vampir-Poser : ''n.'' [[Runnerjargon#p|Poser]], der versucht, so auszusehen und aufzutreten, als ob er ein [[Vampir]] wäre. In der Neo-Gothic-Subkultur verbreitet.
+;<span id="Vatjob">Vatjob</span> : ''n.'' (engl.) - siehe: [[Runnerjargon#B|Bottichjob]]
+;Verchippt, verchromt, [[Vercybert|vercybert]] : ''adj.'' Sinne, Fertigkeiten, Reflexe, Muskeln und so weiter sind durch Cyberware verstärkt
+;<span id="Verchippt">Verchippt</span> : ''adj.'' mit [[Talentleitungen]] und entsprechenden Softs ausgestattet (Bspw: ''verchippte Arbeiter''), teilweise auch im Sinne von Vercybert, oder verdrahtet (Bspw: ''verchippte Reflexe'')
+;<span id="Verdrahtet">Verdrahtet</span> : ''adj.'' stark [[Vercybert|vercyberte]] Person, speziell mit [[Reflexbooster]]n, alternativ auch: Person mit [[Talentleitungen]].
+;Verfraggt : ''adj.'' verflucht / verf*t, als Fluchwort gebraucht (siehe: [[Frag]])
+;Verrückte Minute : Meint die Zeit, in der man aus Furcht blind um sich herumfeuert
+;<span id="Vor">Vor</span> : auch ''Zar'' - Anführer einer Organizatsya der [[Vory v Zakone]] 
+;Vory : die [[Vory v Zakone]] (wörtl. ''Diebe, die dem Kodex folgen'' oder ''Diebe im Gesetz''), russische [[Mafia]].
+
+==W==
+;Wageslave : ''n'' engl. [[#Lohnsklave|Lohnsklave]] (siehe dort)
+;<span ID="'ware">'ware</span> : ''n'' ugs. Kurzwort, kann für [[Cyberware]], [[Bioware]], [[Nanoware]], [[Genware]], Hardware, Software, Wetware usw. stehen, oder für die Zusammenfassung von zwei oder mehreren davon
+;Weihnachtsbaum : [[Zauberer|Zauberer]] mit vielen [[Foki|Foki]]
+;<span id="Weißauge">Weißauge</span> : ''n.'' (vul) [[Ghul]], leitet sich von der Tatsache ab, daß MMVV-III die Infizierten erblinden lässt, und sie in Folge dessen charakteristischer Weise weiße, pupillenlose Augen haben.
+;Weiswurm : ''n.'' Slang für einen [[Drachen|Drachen]].
+;Weltlich : ''adj.'' (vul) Nicht magisch befähigt.
+;Weltliche : ''n.'' (vul) Nichtzauberer/in, auch "mundan"
+;[[Wetware]] : Menschliches Fleisch, Wetware wird ersetzt durch [[Cyberware]], auch Menschen allgemein, auch Material für (Auftrags-)Mord
+;[[Wetwork|Wetwork(er)]] : ''n.'' (Auftrags-Mo(e)rd(er)
+;<span id="Wirehead">Wirehead</span> : [[Decker]] od. [[Rigger]], der die - i. d. R. am Kopf implantierte - [[Datenbuchse]] via Kabel mit [[Cyberdeck]], [[Riggerkonsole]] oder [[Fahrzeug]] verbindet. (i. d. R. von Nicht-Deckern und -Riggern gebraucht)
+;Witch-Doctor : ''n'' (''engl.'', siehe: [[Juju-Doktor]])
+;Wizard : ''n.'' Ein Zauberer, normalerweise ein Magier. adj. großartig,wundervoll, ausgezeichnet.
+;Wiz : Kurzform von "Wizard" - speziell als Adjektiv oder Vorsilbe.
+;[[Wizpunk]] : Musikstil, arbeitet mit [[Zauber|Zaubern]], auch Kleidungsstil, der unter [[Straßenmagier]]n und [[Magierposer]]n beliebt ist.
+;[[Wizkid]] : Magisch begabtes Kind
+;[[Wizgang|Wiz(zer)gang]] : Gang aus meist jungen [[Zauberer|Zauberern]]
+;[[Wujen|Wujen]] : Wuxingzauberer
+
+==Y==
+;Yak : ''n.'' (''jap.'') [[Yakuza]]. Entweder ein Clanmitglied oder ein Clan.
+;Yogi : Buddhistischer Zauberer
+
+==Z==
+;Zar : auch Vor oder Avoritet - Anführer einer Organizatsya der [[Vory v Zakone]]
+;Zauberkugel : salopp für Zauberer, meist [[Straßenmagier]] hermetischer Prägung
+;<span id="Zauberschleuder">Zauberschleuder</span> : Zauberer, vgl. "[[Runnerjargon#S|Spruchschleuder]]"
+;Zauberwurm : [[Zauberer]] oder [[Drache]] (engl. ''Spellworm'')
+;Z-Zone : gesetzlose Gegend des [[Runnerjargon#S|Sprawls]], die von den Ordnungshütern praktisch sich selbst überlassen wurde. Hier gilt das Recht des Stärkeren.
+;[[Z-Zonen-Taxi]] : gepanzertes und bewaffnetes Taxi mit [[Rigger]]chauffeur für Fahrten in Z-Zonen oder Barrens (siehe auch: [[Runnerjargon#R|Road Warriors]])
+
+==Siehe auch==
+* [[Slang]]
+* [[Jargon]]
+* [[Matrixjargon]]
+* [[Runnerjargon ADL]]
+**[[Runnerjargon Berlin]]
+**[[Runnerjargon Norddeutschland]]
+**[[Runnerjargon Schwaben]]
+* [[Runnerjargon Österreich]]
+* [[Runnerjargon (Schweiz)]]
+* [[Runnerjargon Arabien]]
+* [[Runnerjargon Südostasien]]
+* [[Runnerjargon Japan]]
+** [[Japanische Anrede]]
+
+==Quellen==
+* '''Glossare''' in diversen [[Liste der Quellen- und Regelbücher|Grundregelwerken aller Editionen und Regional-Bänden]] sowie am Ende der [[Shadowrun-Romane]] aus dem Heyne Verlag. 
+
+==Weblinks==
+* {{Shx|Slang-Wörterbuch|Shadowhelix: Slang-Wörterbuch}}
+* {{Shx|Wörterbuch|Shadowhelix: Wörterbuch}}
+[[Kategorie:Sprache]]

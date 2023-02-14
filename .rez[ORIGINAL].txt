@@ -1,0 +1,122 @@
+{{Persona
+|CLEAR=
+|BILDPERSONA2=
+|ID=
+|ALTER_EGO=
+|ANGLE=junge, etwas zynische Hackbirdz-Gangerin
+|AKTIVE_ZEIT=späte 2070er, 2080er
+|AKTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]] 
+|HINTERGRUND=Hackbirdz-Gang-Interna, Berlin, Hacking
+|MOTTO=
+}}
+{{Person
+|NAME_OVR=
+|GEBURTSNAME=
+|ALIAS=
+|PERSONA=
+|BILD=.rez.png
+|SIZE_OVR=
+|COPYRIGHT=<small>Portrait von .rez<br/>{{C Pegasus}}<br/>(<u>Urheber:</u> Andreas "AAS" Schroth)</small>
+|GEBURT={{Shx|2064}} in [[Köpenick]]
+|TOD=
+|UMBRUCH=
+|ALTER_OVR=
+|GESCHLECHT=weiblich {{Ref|1}}
+|ART=
+|METATYP=[[Mensch]] {{Ref|4}}
+|HAAR=
+|AUGEN=
+|MERKMALE=
+|MAGISCH=
+|RESONANZ=
+|BESCHWÖRER=
+|MUTTER=
+|VATER=
+|PARTNER=
+|VERLOBT=
+|VERHEIRATET=
+|VERWITWET=
+|GESCHIEDEN=
+|EXPARTNER=
+|KINDER=
+|NATION=
+|STAAT=
+|BERUF=[[Decker]]in / [[Ganger]]in {{Ref|1}}
+|KONZERN=
+|ZUGEHÖRIGKEIT=[[Hackbirdz]] {{Ref|1}}
+|RELIGION=[[Islam|muslimisch]] {{Ref|1}}
+|SIN=
+|KOM=
+|BILDPERSONA=
+|COPYRIGHT2=
+}}
+'''.rez''' ist das [[Persona]] einer jungen Frau, akiven [[Decker]]in und [[Islam|Muslima]] aus den [[Berlin]]er Alternativ-Bezirken, und in der zweiten Hälfte der 2070er eines der führenden Mitglieder der [[Matrixgang]] der «[[Hackbirdz]]» {{Ref|1}}.
+
+==Biographie==
+Die Frau, die sich Ende der {{Shx|2070er}}, Anfang der {{Shx|2080er}} .rez nennt, wurde {{Shx|2064}} in [[Köpenick]] geboren. Ihren eigenen Worten zu Folge wuchs sie in einer turanistisch-progressiven, [[Islam|muslimischen]], [[Kommunismus|neu-maoistischen]], [[Drogen|drug]]-positiven und matriarchalischen Klankommune auf. Zu den Eigenheiten dieser Gemeinschaft zählte auch, dass zwischen Geburtsmutter (Muma) und Bezugsmutter (Mima) unterschieden wurde, wobei ihre Geburts- also leibliche - Mutter Agrarierin war, ihre Bezugsmutter dagegen Programmiererin bei [[Robotron]], einem kiezeigenen Betrieb für improvisierte Netzwerke und alternative Telefonsysteme {{Ref|1}}. 
+
+2080 gehört sie als Gangerin der «Hackbirdz» zu den führenden Mitgliedern der [[Gang]] hinter deren aktueller Nummer Eins, [[.sphinx]] {{Ref|1}}.
+
+==Persönliches==
+Laut [[Likedeeler]]in [[Daisy Fix]] ist .rez' Lieblingsduft ''"Faerietales"'', das die [[Schatten]]veteranin und [[Schieber]]in für überzogen duftig hält. - Ihren eigenen Worten zu Folge hält .rez dagegen den Gebrauch von herkömmlichem Deo für überholt und eine [[Augmentierung]] der Schweissdrüsen für eine lohnende Anschaffung {{Ref|2}}. Weiterhin gibt sie NutriTabs in Kombination mit Deluxe-Dining in der Virtualität gebenüber normalem, herkömlichen Essen respektive Fastfood eindeutig den Vorzug {{Ref|3}}.
+
+Als Mitglied der «Hackbirdz» ist sie nominell apolitisch, da "Krähen" - wie sie es ausdrückt - "in jedem System klarkommen", aber wenn sie die Wahl hat, präferiert sie aber ganz klar "SysF" - also den [[Status Fluxus]] mit maximaler Freiheit für jeden und gegen jeden {{Ref|1}}. 
+
+Sie kifft gern, am liebsten zu Aufputschmitteln, und ist kontaktfreudig, aber vorsichtig {{Ref|4}}.
+
+==Erscheinungsbild==
+.rez eine junge, [[Türkei|türkische]] [[Norm]], trägt gewöhnlich ein schwarzes Hijab, kleidet sich aber sonst nicht, wie eine Muslima: Sie trägt eine üblicher Weise eine kurzen Kevlarjacke über einem „[[Miracle Shooter]]“-T-Shirt zu einem Fetzenrock und enggeschnürten Overknee-Kampfboots {{Ref|4}}.
+
+===Persona:===
+Ihr [[Persona]]-[[Icon]] ist eine Anime-Goth-Version ihres realen Aussehens: Ein Mädchen unbestimmten Alters, eher jünger als älter, mit schwarzem Hijab, weißer Haut und pupillenlos schwarzen Augen {{Ref|12}}.
+
+==Matrix-Aktivitäten==
+.rez gehörte zu jenen [[Ganger]]n und Gangerinnen der «Hackbirdz», die am {{Shx|21._August|21. August}} {{Shx|2079}} mittels der [[ShadowBot]]-[[App]] die aktuelle «Megapuls»-Ausgabe des «[[NovaPuls]]» der [[DeMeKo]] kaperten, und einen «Schattenpuls» daraus machten. Darin warben sie auch für den anstehenden «[[Datapuls: Berlin]]»-Upload {{Ref|5}}. Für letzteren war sie - neben ihren ''Kollegen'' [[.spoof]], [[.root]] und [[.krah]] federführend verantwortlich, und dort lieferte sie in der Einleitung - neben ein Bisschen [[Schockwellenreiter]]-Dissen - auch Kurzprofile zu sich selbst und ihren [[Gang-Chummer]]n von den «Birds» {{Ref|1}}.
+{{Shadowtalk|Nicht zu vergessen, dass sie die noch im alten «[[Berlin (Quellenbuch)|Berlin]]»-File als "wichtige Mitglieder" bezeichneten «Hackbirdz»-Ganger für obsolet und zum alten Eisen gehörig erklärte... was ich im Bezug auf meine Person nur bedingt gelten lassen kann, auch, wenn ich mich 2080 tatsächlich nicht (mehr) zu den "wichtigen Mitgliedern" rechnen würde... {{Ref|1}}|'''''[[.asl]]'''''}} 
+Auch an einem zweiten zum «Schattenpuls» umfunktionierten «NovaPuls» am {{Shx|2._Mai|2. Mai}} {{Shx|2080}} war sie federführend beteiligt {{Ref|6}}. 
+{{Shadowtalk|Den «Schattenpuls» vom 5. März '81 hat sie auch wieder präsentiert, gemeinsam mit .asl, .root und .spoof - auch, wenn sie sich da mit dem Kommentieren zurückgehalten hat...! {{Ref|100}}|'''''[[.krah]]'''''}}
+Ansonsten gab sie zu verschiedenen in jüngerer Zeit im [[Panoptikum]] veröffentlichten [[Schattendatei]]en und - via ShadowBot - auch zu einer Reihe von NovaPulsen [[Shadowtalk]]kommentare ab. Unter anderem kommentierte sie den Re-Upload des aus dem «[[Reiseführer in die deutschen Schatten]]» bekannten [[HomeHelpers]]-Katalog in der «[[State of the Art ADL]]»-Datei. - Speziell ihre Kommentare dort zeugten z. T. von einem bedenklichen Maß an Zynismus und Rücksichtslosigkeit {{Ref|7}}. Ihre - und .krahs - Aussagen zur möglichen wirtschaftlichen Zukunft der [[KKM]]-Franchise im ''"Freizeit in der ADL"''-Kapitel des «[[Lifestyle 2080]]»-Uploads beschehrten ihr einen kritisch-abfälligen Kommentar des langjährigen Panoptikum-Wirtschaftsexperten [[Corpshark]], der die - rhetorische - Frage stellte, ''"wer denn hier die Berliner Kleinkinder wieder reingelassen habe"''. - Allerdings ist es auch denkbar, dass dies in erster Linie eine Retourkutsche für ihre Schockwellenreiter-Disse in der Einleitung des «Datapuls: Berlin» war {{Ref|8}}.
+
+2080 gehört sie - neben [[.asl]] und [[.krah]] sowie Matrix-Urgestein [[Anne Archiste]] und sechs weiteren - zu den Moderatoren des von den «Hackbirds» übernommenen [[SRB-Knoten]]s (und dort für das Update der SRB-Main-Startseite verantwortlich) {{Ref|9}}. 
+
+Für die «[[Berlin 2080]]»-Datei stellte sie das Kapitel ''"'''Geschichtlicher Schnelldurchlauf'''"'' zusammen, wobei sie in der Einleitung ausdrücklich darauf hinwies, dass es eine objektive Darstellung der Berliner Geschichte nicht gebe, und sie sich daher (und aus Platzgründen) auf die - einigermaßen - unstrittigen Eckdaten beschränken würde {{Ref|10}}. Ebenso steuerte sie zum "Hotspots"-Kapitel auch die Abschnitte ''"'''Die City Ost'''"'' und ''"'''Die City West'''"'' bei {{Ref|11}}. 
+{{Shadowtalk|Und beim anstehenden [[Schattenpuls 2082-10-25 (inoffiziell)|Schattenpuls für den 25.10.'82]] ist sie gleichfalls federführend beteiligt - wenn auch nicht als [[Shadowtalker]]in... Hat aber mit "[[SRB - Shadowrun Berlin]]", wo sie schließlich zu den Admins gehört, ja auch genug um die Ohren... zusätzlich zum Day-to-Day-Biz bei uns 'birds und im heimischen Kiez...! {{Ref|101}}|'''''[[.sphinx]]'''''}}
+===Shadowtalk===
+*[[Datapuls: ADL]]
+*[[Datapuls: Berlin]] (enthalten in "[[Schattenhandbuch 3]]")
+*[[State of the Art ADL]] S.98, 99, 100, 101, 102, 103
+*[[Im Herz der Dunkelheit]]
+*[[Lifestyle 2080]] S.192, 194, 195
+*[[Berlin 2080]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Datapuls: Berlin]] S.4-5 ff.
+*[[Schattenhandbuch 3]] S.10-11 ff. (enthält "Datapuls: Berlin")
+*[[State of the Art ADL]] S.98-103
+*[[Berlin 2080]] S.166, 14-16, 79-85
+ 
+===Quellendetails:===
+{{Ref2|1}} [[Schattenhandbuch 3]] S.10-11  
+{{Ref2|2}} [[State of the Art ADL]] S.98
+{{Ref2|3}} [[State of the Art ADL]] S.103
+{{Ref2|4}} [[Berlin 2080]] S.166
+{{Ref2|5}} [[NovaPuls#2079-08-21|Schattenpuls]] vom 21. August 2079 
+{{Ref2|6}} [[NovaPuls#2080-05-02|Schattenpuls]] vom 02. Mai 2080
+{{Ref2|7}} [[State of the Art ADL]] S.98-103
+{{Ref2|8}} [[Lifestyle 2080]] S.192
+{{Ref2|9}} [[SRB - Shadowrun Berlin]] - [https://shadowrunberlin.wordpress.com/about/ SRB - Main]
+{{Ref2|10}} [[Berlin 2080]] S.14-16
+{{Ref2|11}} [[Berlin 2080]] S.79-85 
+{{Ref2|12}} #Persona-Galerie auf ShadowHome - Discordserver für Shadowrun.<br/>
+{{Ref2|100}} Dies bezieht sich auf den komplett inoffiziellen "[[Schattenpuls 2081-03-05 (inoffiziell)|Schattenpuls vom 05. März 2081]]", der mit all seinen Inhalten eine Eigenerfindung von Benutzer "[[Benutzer:Karel|Karel]]" darstellt, und NICHT durch die Shadowrun-Redaktion des {{Pegasus V}} abgesegnet oder in irgendeiner Weise kanonisch ist.
+{{Ref2|101}} Dies bezieht sich auf den komplett inoffiziellen "[[Schattenpuls 2082-10-25 (inoffiziell)|Schattenpuls vom 25. Oktober 2082]]", der mit all seinen Inhalten eine Eigenerfindung von Benutzer "[[Benutzer:Karel|Karel]]" darstellt, und NICHT durch die Shadowrun-Redaktion des {{Pegasus V}} abgesegnet oder in irgendeiner Weise kanonisch ist.
+
+==Weblinks==
+*{{Shx|.rez|Shadowhelix: .rez}}
+
+{{KatSort|cat=Personen|NSC|Menschen|ADL|Berlin|Unterwelt}}
+{{KatSort|catsup=Personen|cat=Ganger|Europa|ADL|Berlin|Hackbirds}}
+{{KatSort|catsup=Personen|cat=Decker|Europa|ADL|Berlin}}
+[[Kategorie:Personas]]

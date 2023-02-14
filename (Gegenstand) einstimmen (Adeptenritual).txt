@@ -1,0 +1,10 @@
+['''Item'''] '''attune'''' is a [[ritual]] that can only be learned by [[adept]]s. This ritual must be learned separately for each item type, and it requires a complete understanding of the construction, capabilities, function, and specification of the item in question, or crafting it yourself. Since adepts cannot learn [[ritual sorcery]], they instead use the knowledge of crafting and maintaining the specific item for this ritual. In addition, the item must be able to be physically used by the adept. The more complex the item, the higher the difficulty of the ritual.
+
+After successfully attuning it, it counts as a [[focus]] in terms of [[focus dependency]] and is thus also a material link to the adept. In return, the higher the adept's [[initiate]] grade, the more precisely they can use the item. Also, the initiate degree is considered the maximum for the number of items attuned at the same time.
+
+Attuned items can also be improved again through the [[Item Fulfillment]] ritual.
+
+== Source ==
+*[[Street Grimoire]] / [[Street Grimoire]] S.146
+
+{{CatSort|cat=Magic|Rituals}}

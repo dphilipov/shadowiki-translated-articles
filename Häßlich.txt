@@ -1,0 +1,60 @@
+{{person
+|TOD={Shx|2050}} or {{Shx|23 June}} {{Shx|2051}}
+|PICTURE=ugly.jpg
+|COPYRIGHT='''Ugly''' the [[dragon]] from UniOil <br/>© [http://www.randomhouse.de/heyne/ Heyne]
+|ALIAS=Jarlath Drake
+|DRAGON=male
+|Type=[[Western Dragon]]
+|MAGIC=[[Dragon]]
+|NATION=[[UCAS|Canadian-American]]
+|CONTROLL=[[United Oil]]
+}}
+{{Dragon
+|COLOR=brown-green/red-brown wings
+|MARKS=two thick antelope horns
+|FORM=male norm, name: Jarlath Drake (only with the help of a magic ring)
+}}
+'''Ugly''' was an [[adult dragon|adult]] [[Western dragon]] who was employed by the [[United Oil Industries]] corporation in [[Seattle]] as a security officer.
+
+==Biography==
+Ugly was appointed security officer for [[United Oil]] in [[Seattle]] on June 24, 2048 {{Ref|1}}
+
+He was ultimately hunted down on {{Shx|June23}} {{Shx|2051}} by a newly minted [[shaman]]n named [[Samuel Verner|Sam - Samuel - Verner]] and a [[street samurai]] named [[Ghost who walks inside]], or Ghost for short, with the dragon falling into Pudget Sound, mortally wounded. Earlier, he had hired the [[Eleven]]ic top runner [[Katherine Hart]] along with her dragon chummer [[Tessien]], tasking her with killing Sam Verner. - When she lied to him - after several failures - claiming to have properly completed the wetwork assignment, Ugly, seeing through the deception, killed the [[Feathered Serpent]], thus also making an enemy of the elf, who subsequently sided with Twist. {{Ref|2}} {{Ref|3}}
+{{shadowtalk|You hear some rumors in Seattle, about a series of experiments UniOil is supposed to have done with the corpse of the dragon Ugly.... {{Ref|4}}|'''''Conspir-I-see'''''<br>Maybe they want to bring him back to life... or clone him?|68%}}
+
+
+==Appearance==
+The dragon was brown-green in color, with a lighter belly - similar to that of a crocodile - and reddish-brown, leathery wings. A pair of smaller wing-like outgrowths of the same color sat to the right and left of its elongated head, which was crowned by two backward-facing horns of slightly wavy shape, long and thick, reminiscent of antelope horns. He was also capable of assuming a human form called "'''Jarlath Drake'''', which was possible for him to do shady business through a magic ring. In this human form, he also maintained a close, personal relationship with the [[mage]]in [[Nadia Mirin]] {{Ref|5}}.
+
+==Personality==
+Among other things, he was not shy about using [[Shadowrun]]s out of a personal lust for power - and without the knowledge of his superiors at UniOil - against [[AA Corporation|Triple-A Corporation]] [[Renraku]] and to issue numerous murder orders. Subordinates who failed to perform important duties were said to have been eaten by him on occasion.
+<br style="clear:both"/>
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the article {{Shx|Ugly}} in the {{Shx|Mainpage|Shadowhelix}}. It is licensed there under [[GNUFDL]]. A list of authors can be found <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Häßlich&action=history here]</span>.
+
+'''Primary sources on the [[dragon]] <u>ugly</u> in [[Shadowrun]]:'''<br/>
+<u>Sourcebooks:</u>
+* [[New Seattle]]
+* [[Sixth World Almanac]] / [[Almanac of the Sixth World]] S.71, 78
+
+<u>Novels:</u>
+* [[The Way into the Shadows]] (Engl. ''[[Into the Shadows]]'') - short story: ''Mirror Fences'' (Engl. ''It's All Done with Mirrors'') by [[Michael A. Stackpole]]
+* [[Let go of dragons]] (engl. ''[[Never Deal With A Dragon]]'') - {{novel}} by [[Robert N. Charrette]], volume 1 of the "Secrets of the Force" trilogy.
+
+===Source details:===
+{{Ref2|1}} [[Almanac of the Sixth World]] Pg.71 - his employment with UniOil.
+{{Ref2|2}} [[Let go of dragons]] - {{novel}}
+{{Ref2|3}} [[Almanac of the Sixth World]] p.78 - his presumed death
+{{Ref2|4}} [[New Seattle]]
+{{Ref2|5}} [[The Path to the Shadows]] - Short Story: "Mirror Fences"
+
+===Contradictions:===
+There seems to be a discrepancy between the novel and the ''Almanac of the Sixth World'', as the almanac puts the dragon's disappearance at 2051, while the novel dates the death at 2050.
+
+{{KatSort|cat=People|NSC|Dragon|Deceased|UCAS|Corporations}}
+{{KatSort|catsup=People|cat=Security|Corporations|UniOil}}
+[[Category:Died 2050]]
+[[Category:Died 2051]]

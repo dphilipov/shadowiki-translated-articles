@@ -1,0 +1,19 @@
+'''(Ex)Explosivgeschosse''' (kurz: '''ExEx''', engl. ''(Ex)Explosive Ammunition'') ist eine spätestens seit den {{Shx|2060er|2060ern}} gebräuchliche, stabilere Form von Explosiv-Munition.
+{{Shadowtalk|...wobei "Stabil" in dem Zusammenhang bedeutet, dass das Risiko, dass man sich versehentlich selbst die Hand absprengt, wenn man das Magazin seiner [[Waffe]] mit der Muni bestückt oder einen Ladestreifen bzw. ein Magazin mit ExEx in die Knarre einführt, oder dass die Muni durch die Erschütterung beim Tragen oder Transport der geladenen [[Feuerwaffe]] spontan beschließt zu explodieren, signifikant geringer ist, als bei ''gewöhnlicher'' Explosivmuni...!|'''''Gun Runner''''' < Temporary Account >}}
+{{Shadowtalk|...in einen Auto-Unfall - speziell einen, bei dem Dein Fahrzeug nach der Karrambolage in Brand gerät - solltest Du mit ExEx im Kofferraum trotzdem nicht geraten... das folgende Feuerwerk könnte leicht sehr unschöne Formen annehmen...!|'''''Zero'''''}}
+==Nutzung==
+In den meisten, auch nur ansatzweise zivilisierten Regionen gilt (Ex-)Explosiv als rein militärische [[Munition]], und ist daher für ''Otto-Normal-Waffenschein-Besitzer'' legal nicht erhältlich. Während [[Militär]]s, Paramilitärs, [[Konzernstreitkräfte]] und [[Söldner]] (wie auch weniger subtile [[Runner]] und Auftragskiller) ExEx gerne nutzen, meiden reguläre [[Polizei]]- und ([[Konzern]]-)Sicherheitskräfte tendenziell solche Munition (selbst, wenn sie Zugang dazu hätten). - Das erhöhte Risiko von Kollateralschäden und des damit verbundenen Imageschadens ist es einfach nicht wert!
+
+Wegen der hohen Illegalität und der damit verbundenen schlechten Verfügbarkeit sind die Schwarzmarktpreise für ExEx (genau wie für [[APDS]]) in der Regel entsprechend hoch.
+
+Im professionellen [[Stadtkrieg]] ist ExEx laut Reglement ein "illegaler Munitionstyp", der zur Disqualifikation des Krieglers oder Teams führen kann, dass diese Munition trotzdem benutzt. - Kräfte aus dem Dunstkreis der OK, die 2063 beim Benefitzspiel der «[[Borkum Jaildogs]]» gegen die «[[ADL Allstars]]» das Häftlingsteam illegaler Weise mit ExEx, [[APDS]] und [[Granate]]n versorgten, ließen sich davon - ebenso, wie die ''Spieler'' der «Jaildogs» - leider nicht abschrecken.  - Tatsächlich wurde so den Ausbruch des [[Vory v Zakone|Vors]] [[Pjotr Gargari]] (und [[Marcus Allenbrink]]s von der [[Nationale Aktion|Nationalen Aktion]]) aus dem [[Großgefängnis Borkum]] ermöglicht, während die panzerbrechende Munition mehrere «Allstars»-Spieler einschließlich [[Abyssmal]] von den «[[Cyberzombies Düsseldorf]]» das Leben kostete {{Ref|1}}. 
+{{Shadowtalk|Seit im internationalen [[Urban Brawl]] [[Granate]]n (und in begrenztem Maße IEDs) zulässig sind, wird die Verwendung von verbotenem ExEx - ebenso wie von [[APDS]] - leider von Seiten der [[DSKL]]- und [[ISSV]]-Offiziellen kaum noch geahndet. - Das hat das ''Spiel'' (neben dem Ende des vollständigen [[Magie]]verbots) noch mal deutlich tödlicher gemacht!|'''''[[Muffin]]'''''}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Cannon Companion]] / [[Arsenal 2060]]
+
+===Quellendetails:===
+{{Ref2|1}} [[Brennpunkt: ADL]]
+
+[[Kategorie:Munition]]

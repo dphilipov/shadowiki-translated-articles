@@ -1,0 +1,42 @@
+{{unofficial}}
+{{person
+|ALIAS=''Feurer Hansen''
+|BIRTH=13-09-2029
+|MALE=[[male
+|METATYP=[[Elf]]
+|MAGIC=no
+|CHILDREN=Sarah,<br/>Peter &<br/>Hen
+|NATION=[[ADL|(North) German]]
+}}
+
+'''Lüder Hansen'''' is a [[Hamburg|Hamburg]] Riverboat captain on the Elbe and Alster rivers.
+
+== Work and history==
+
+On his ship, the MS Friedrich-Wilhelm '''Feurer Hansen'''', as he is called by acquaintances, transports and smuggles goods and also sometimes [[SIN]]loose people across the rivers. He has good contacts with all [[pirate]]clans and is sometimes called upon to mediate disputes. In the past, he himself had shifted goods to the pirates [[Schieber|verschoben]]. However, after being abused several times as a [[weapons]]pusher by the [[Vory v Zakone]], he has specialized more in information sales. However, the [[Russia|Russians]] will not leave him alone.
+
+He is a good [[rigger]]. His [[Icon]] is reminiscent of the home he sparsely uses, an old lighthouse that used to be on the coast and is now in the middle of the sea. He tried to be of help to many [[Shadowrunner|Runners]] with more or less success during the disorientation of the [[Crash 2.0|second Matrixcrash]].
+
+== Character and appearance ==
+ 
+He has become a distrustful, almost cynical [[elf]]en, and only minds his own business, or Schiet, as the [[Runnerjargon_Northern Germany|Hamburgers say]]. He is tall and somewhat lanky. The muck of the Elbe and the barge is in his dark hair and bones, but his bright, cunning eyes seem trustworthy - perhaps his undoing. He likes to smoke a pipe with those [[Deepweed|Tüddelalgen]] and plays his skipper's piano with flying colors.
+
+=== Weaknesses and nightmares ===
+He has a social streak, but is afraid of getting ripped off and ending up alone.
+
+== Center of life and contact ritual ==
+He is most comfortable on his barge and is out most of the day. Sometimes he even sleeps on the ship. The best way to reach Hansen is by radio. He usually snacks for a while and tries to engage others in a casual conversation. In this conversation it turns out whether you will meet Feurer Hansen today.
+
+== Relatives, acquaintances and further contacts ==
+
+=== Lila Hansen and Kinners ===
+Lila was happily married with Lüder for a long time. When there was trouble with the Vory, Lüder took his family to a safe place. He has three children with her. Sarah, Peter and Hen.
+
+== Sources ==
+This [[NPC]] is a self-invention of user [[User:Harekrishnaharerama|Harekrishnaharerama]] and is not mentioned in any official Shadowrun source.
+
+
+
+{{DEFAULTSORT:Hansen, Lüder}}
+{{KatSort|cat=People|NSC|People|ADL}}
+{{CatSort|catsup=People|cat=Pushers|Europe|ADL|Hamburg}}

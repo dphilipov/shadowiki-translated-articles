@@ -1,0 +1,95 @@
+{{Persona
+|CLEAR=
+|BILDPERSONA2=.spoof.png
+|COPYRIGHT3={{C Pegasus}}<br/><small>(<u>Urheber:</u> [[Andreas "AAS" Schroth]], 2018)</small>
+|ALTER_EGO=
+|ANGLE={{nlt}}besonders paranoider und /oder sicherheitsbewusster und / oder schlauer [[Decker]]
+|AKTIVE_ZEIT=ab ca. 2078
+|AKTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]]
+|HINTERGRUND=erfundene und / oder bei [[AR-Matrix-Games]] und [[Trid]]shows entlehnte, eigene Vita
+|MOTTO=
+}}
+{{Person
+|NAME_OVR=?
+|GEBURTSNAME=
+|ALIAS=
+|PERSONA=.spoof
+|BILD=
+|SIZE_OVR=
+|GEBURT=
+|TOD=
+|UMBRUCH=
+|ALTER_OVR=
+|GESCHLECHT=
+|ART=
+|METATYP=
+|MERKMALE=
+|MAGISCH=
+|RESONANZ=
+|BESCHWÖRER=
+|MUTTER=
+|VATER=
+|PARTNER=
+|VERLOBT=
+|VERHEIRATET=
+|VERWITWET=
+|GESCHIEDEN=
+|EXPARTNER=
+|KINDER=
+|NATION=
+|STAAT=
+|ZUGEHÖRIGKEIT=[[Hackbirds]]
+|BERUF=[[Ganger]] /  [[Decker]]
+|KONZERN=
+|RELIGION=
+|SIN=
+|KOM=
+|BILDPERSONA=
+|COPYRIGHT2=
+}}
+'''.spoof''' ist das [[Persona]] eines [[Ganger]]s oder einer Gangerin der [[Berlin]]er [[Matrixgang]] der «[[Hackbirds]]».
+
+==Hintergrund==
+Selbst die anderen «Hackbirds» kennen .spoof nur online, aus der [[VR]] der [[WiFi-Matrix]], und wissen nicht, welchem Geschlecht oder [[Metatyp]] er/sie angehört, da er/sie der mit Abstand paranoideste (oder sicherheitsbewussteste und klügste) der Ganger ist.  
+
+===Stories===
+.spoof selbst gibt zu seinem Background immer wieder andere, an den Haaren herbeigezogene und sich widersprechende, unglaubwürdige Hintergrundgeschichten zum Besten: 
+*er/sie sei ein hochrangiger [[Konzern]]angestellter, der das ''System'' von innen heraus zerstören will,
+*er/sie sei ein extrem heißes Gamer-Girl aus [[Falkensee]], 
+*er/sie sei das viren-infizierte Betriebssystem eines "[[SoiSoiSoi]]"-Snackautomaten in [[Xhain]] respektive [[FKB]], 
+*er/sie sei der hinter den feindlichen Linien zurückgelassene ''Deep-Cover''-Maulwurf eines nach wie vor bestehenden [[Nachrichtendienst]]es der alten [[BRD]] und sogar 
+*er/sie sei ein [[Drache]].
+
+Die anderen «Hackbirds»-Ganger konnten 96,3% dieser offenkundig frei erfundenen Storys bislang als Zitate aus [[Trideo]]filmen und -Serien oder [[AR-Matrix-Games|Matrix-Games]] entlarven und identifizieren.
+
+==Begriff==
+Das [[Matrix]]-Alias passt praktisch perfekt, da "to spoof" in [[Hacker]]kreisen so viel bedeutet, wie sich eine fremde ID auszuborgen, zu nutzen oder zu stehlen bzw. sich als ein anderer Matrix-User auszugeben, um die eigene Identität zu verschleiern (häufig in betrügerischer Absicht, um unberechtigt von der Reputation eines anderen zu profitieren, oder, um dessen Ruf in den Schmutz zu ziehen).
+{{Shadowtalk|...wie diese [[verfraggt]]e [[Drek]]s-Copycat, die unter meinem Namen - "Karel" - zu verschiedenen aktuellen [[NovaPuls]]-Ausgaben Kommentare abgegeben hat, die ich '''so''' nie geschrieben hab...! ''[[Frag]] 'er''! ...|'''''[[Karel]]''''' - letzter Käpt'n der kgl.-böhmischen Gebirgsmarine|67%}}
+
+==Erscheinungsbild==
+===Persona-Icon===
+Das [[Persona]]-[[Icon]] als einziges, bekanntes Erscheinungsbild .spoofs stellt eine purpur- bis rosarote Cartoon-Katze (oder vielleicht auch einen Cartoon-Drachen) mit weit aufgerissenem Maul mit angedeutetem Gebiss dar, bei dem die Flammen dreier brennender, nahezu senkrecht aus dem Maul ragender Lunten die eigentlichen Sinnesorgane - Augen und Nasenlöcher - komplett verdecken.
+
+==Matrixaktivitäten==
+.spoof gehört Ende der 2070er, Anfang der 2080er eindeutig zum führenden Zirkel der Hackergang, und trägt seit Erscheinen des «[[Datapuls: Berlin]]» mehrere deutschsprachige [[Schattendatei]]en wie auch Artikel auf "[[SRB - Shadowrun Berlin]]" und - per "Shadowbot"-App - auch zu [[NovaPuls]]-Ausgaben Shadowtalk-Kommentare bei. 
+{{Shadowtalk|Im Gegensatz zu einigen anderen, notorischen Paranoikern der deutschsprachigen [[Schattenmatrix]] wie dem unvergessene [[Panic!]]/[[Panik]] oder dem [[österreich]]ischen [[Elf]]en-[[Hawara]] [[Matrix-Poldi]] scheint .spoof allerdings kein Wirrkopf und Verschwörungstheoretiker zu sein, und postet mehrheitlich scheinbar durchaus sinnvolle und fundierte Informationen...!|'''''[[Dolores El Kharimi|Curiosity THRILLS the Cat]]'''''}}
+
+===Shadowtalk:===
+*[[Datapuls: Berlin]] ([[Schattenhandbuch 3]]) 
+*[[Lifestyle 2080]] S.193, 194
+*[[Berlin 2080]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Datapuls: Berlin]] S.4
+*[[Schattenhandbuch 3]] S.10
+*[[Lifestyle 2080]] S.193, 194
+
+==Weblinks==
+*{{Shx|.spoof|Shadowhelix: .spoof}}
+
+{{KatSort|cat=Personen|NSC|ADL|Berlin|Unterwelt}}
+{{KatSort|catsup=Personen|cat=Ganger|Europa|ADL|Berlin|Hackbirds}}
+{{KatSort|catsup=Personen|cat=Decker|Europa|ADL|Berlin}}
+[[Kategorie:Personas]]

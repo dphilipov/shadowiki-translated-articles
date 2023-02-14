@@ -1,0 +1,89 @@
+{{Inofficial}}
+[[File:B1 - Your news-feed for Berlin.png|thumb|right|120px|B! - Your News-feed for Berlin (28.11.2080)<br/><small>(<u>Copyright:</u> user "Zeitgeist" in the {{Pegasus}} forum.)</small>]
+The '''B1 Live Newsfeed'''' (proper spelling ''"''B! - DEIN NEWSFEED FÜR BERLIN'''''') is an e-news paper or screamfax curated by the "B1 Live Newsgroup" belonging to the [[Freistadt station B1Live]].
+==Basics==
+In its presentation, the "B1 Live Newsfeed" is not dissimilar to the news aggregator [[NovaPuls]] - also based at B1 parent company [[DeMeKo]] - or the [[Seattle]]r [[FastFacts (news aggregator)|FastFacts]], but in contrast to NovaPuls, which is intended for the entire [[Alliance of German Countries|Alliance]], and the [[North America]]-centric FastFacts, it is practically exclusively related to [[Berlin]].
+
+Regular features include the (city) weather, sponsored by the fast food chain "[[Döner King]]" belonging to [[Aslan Özdemir]]'s empire, and the BerlinJackpott, a lottery of the [[Vesuvio casinos]] as well as the "[[SUPERBLITZ]]" headlines, which are to be classified in terms of level and seriousness similar to those of the "[[SuperBILD]]" or the [[UCAS|Canado-American]] "[[Digital Enquirer]]". 
+<br style="clear:both"/>
+{|align="center"
+|[[File:B1 - Live Newsfeed - Header.png|thumb|200px|center|Logo "B! Live - Newsfeed" - 2080 (full color)<br/><small>(<u>Copyright:</u> user "Zeitgeist" on {{Pegasus}} forum)</small>]]
+|}
+
+==issues==
+===2080===
+{| border=1 style="background-color:transparent; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+! Output
+! Content
+! Published
+! Link
+<!-- ------------------------------------------------------------------------------------ -->
+|-
+| colspan="4" align="center" id="2080" | '''2080'''
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-11-11"
+| B1 Live Newsfeed 11.11.2080
+|
+*News in Berlin
+*Top News
+*Weather / Berlin Jackpot
+*[[Lofwyr|Lowfyr]] [sic!] invites to the "1st Berlin Future Congress".
+*SUPERBLITZ - News for everyone!
+*In brief
+| 10/24/2020 [RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/5dfb7729-d260-4832-af9e-ed1a6f74dbd5/B1%20live%20Newsfeed%201.pdf]
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-11-28"
+| B1 Live Newsfeed 11/28/2080
+|
+*News in Berlin
+*Top News
+*Weather / Berlin Jackpot
+*Burglary in the [[Pergamon Museum]]
+*SUPERBLITZ - News for everyone!
+*In brief
+| 07.11.2020 [RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/0fc6af11-deaa-4807-8cc4-be3a9ed69c7f/B1%20live%20Newsfeed%202.pdf]
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-12-12"
+| B1 Live Newsfeed 12.12.2080
+|
+*News in Berlin
+*Top News
+*Weather / Berlin Jackpot
+*The [[Joachim Schreiber|Feuerteufel]] strikes again
+*SUPERBLITZ - News for everyone!
+*In brief
+| 09.01.2021 [RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/73c460c5-cfa5-4137-b0f4-6bc95102a716/B1%20live%20Newsfeed%203.pdf]
+|-
+|}
+
+===2081===
+{| border=1 style="background-color:transparent; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+! Output
+! Content
+! Published
+! Link
+<!-- ------------------------------------------------------------------------------------ -->
+|-
+| colspan="4" align="center" id="2081" | '''2081'''
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-01-19"
+| B1 Live Newsfeed 01/19/2080
+|
+*News in Berlin
+*Top News
+*Weather / Berlin Jackpot
+*[[Fatwa44]] - Kidnapping after debut performance!
+*SUPERBLITZ - News for everyone!
+*In brief
+| 07/23/2021 (RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/ab6d25ac-a859-4986-8bda-f335b2e68883/B1%20live%20Newsfeed%204.pdf]
+|-
+|}
+
+==Sources==
+This newsfax is an invention of user "Zeitgeist" in the official Shadowrun forum of {{Pegasus V}} (who is NOT identical with the Shadowrun author behind the [[Shadowtalker]] "[[Zeitgeist]]"), in style based on the "[[NovaPuls]]s" (the official ones as well as the unofficial ones by user "[[User:Karel|Karel]]") as well as the "[[FastFacts]]" by user "[[User:Richter|Richter]]", and accordingly not part of the official Shadowrun canon. - A significant part of the messages refers to played runs of the [[group]] of the creator.
+
+[[Category:Media]]

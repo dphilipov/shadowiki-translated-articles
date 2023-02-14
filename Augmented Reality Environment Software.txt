@@ -1,0 +1,63 @@
+'''Augmented Reality Environment''' - '''ARE'''' for short. - '''Software''' in the form of [[commlink]]-[[apps]] has emerged with the proliferation of the new wireless [[WiFi matrix]] and ubiquitous [[augmented reality]] in the aftermath of [[Crash 2.0]], and by 2070 has long been an established part of the always-available, everywhere electronic entertainment media.
+
+==Common ARE programs==
+Among the most common forms of ARE programs, or apps, available for purchase and capable of running on commercially available [[commlink]]s are:
+
+===Virtual pets===
+Virtual pets have in part replaced and supplanted the popular [[drones|pet drones]]. In addition to normal pets such as dogs, cats, parrots, etc., virtual paranormal [[critter]] (without [[critter powers]], of course) and fantasy creatures like mini-dragons or Chimera pets created according to the user's wishes are possible.
+{{Shadowtalk|A recently published study claims, by the way, that Virtual Pets would promote fine motor skills in children, which makes their popularity and the sales success of the corresponding ARE programs shoot through the roof!|'''''[[Razor-of-Love]]''''' <br/>{{talksymbol|arrow}} <small>It would certainly be interesting to know if the ''sociologists'' who wrote this study are possibly on the ''payroll'' of ARE soft vendors like [[Horizon]]s subsidiary [[Singularity]]. - Independent, and all that...</small>}}
+
+===Virtual persons===
+Virtual persons are just that - companions, roommates or life partners and family members who exist only virally in the AR. Those with too much money can even subscribe to the services of actors, who temporarily add ''more depth'' to the characters through their gameplay transmitted live in the AR.
+
+===Virtual weather===
+Virtual weather pretends the user programmed sunshine instead of rain or vice versa, creates the illusion of the desired temperature or a pleasant breeze. For the full enjoyment of virtual weather, in addition to the AR glasses, you necessarily need [[feedback clothing]].
+
+===Virtual, personal music===
+Virtual, personal music - also: "virtual surround music" - with which every user can listen to his own music in desired volume and with freely selectable room sound effects without disturbing others.
+{{shadowtalk|...and without ruining their eardrums! - Maybe the "Generation ARE" will be the first generation since the 1960s, where a significant part of the population will not suffer from massive hearing damage, which can only be repaired by [[cyber ear|cyber replacement]], before they are 21...!|'''''Dr. Unfried L. Gruselton'''''}}
+
+===AR-Wanddekorierer===
+An AR wall decorator creates AR overlays to decorate bare walls for the AR user (e.g. with virtual paintings, posters or wallpaper). Of course, these can also be animated. In addition, AR overlays can also make furniture and flooring, among other things, appear to be something other than what they are in AR.
+{{Shadowtalk|If you like, the ergonomic dining room chair or desk chair with massage function in AR looks as if you were sitting on Munchausen's cannonball floating freely in the air, on a stone [[gargoyle]] that should actually be hanging from the outside facade of [[Notre Dame]] Cathedral in [[Paris]] at a lofty height - or on the "Iron Throne" from George R. R. Martin's almost a century old [[TradFant]] ham.... and all that without hurting your back and your a...afterwards!|'''''ArchiThekt'''''}}
+
+===AR-Matrix-Games===
+AR-Matrix-Games are popular matrix games, where you can play with (or against) numerous other players online, from anywhere, if the PAN registers another player nearby, who outed himself via public PAN profile as a fan of the game in question. Particularly popular games are "Rocky Mountain Avatar" where you take the role of a [[T-Bird]]-[[Smuggler]], "Run, Run, Runner" (a Shadowrunner MMO), "Awakening: 1949" (MMO shooter in an alternative WW2 scenario), "[[Karl Kombatmage|Karls Combat World]]" and "[[Dawn of Atlantis]]". (MMO games as spin-offs of the well-known [[Trideo]] and [[SimSinn]] franchises), "Paranormal Crisis", "[[Miracle Shooter]]" but also [[Kwonsham]]s "[[Glitterworld]]", where you impersonate a manager of stars and starlets. - Many of these can be played fully immersed in [[VR]] in addition to AR.
+
+In addition there are
+
+==="Bodyshop"-Software===
+The "Bodyshop" software creates virtual AR fashion/body shaping for one's [[persona]], which also allows stylings and hairstyles that would not be possible in physical reality.
+
+===Scentsation===
+"Scentsation" is the brand name for virtual scent that accompanies the AR user everywhere. - It is, of course, only perceptible to users whose AR interface can handle scent information (or who use a full SimModule). Most users naturally use pleasant (or perceived by themselves as pleasant) scents of various fresh flowers, blossoms or fruits, or perhaps patchouli or incense.
+{{Shadowtalk|But there are also individuals of ...well, rather questionable taste, who give their AR (or VR) persona an intense smell of garlic or sweat, the stench of sulfur, which according to historical pulp literature accompanies the appearance and disappearance of devils and demons from the aptly named sulfur airs, or even a smell of rotting flesh and decaying old corpses.... Almost anything is possible in this regard. - And if a "Scentsation" user had not secured his [[PAN]] properly, a [[hacker]] resp. script kid could (before the secure matrix initiative of this [[inquiring]] [[Danielle de la Mar|de la Mar]]) under certain circumstances change the virtual AR scent of a user from "Roses", "Violets" or "Lilacs" to "Rotten Eggs" or the quite clear scent component of full-wasted pants...ener Posen umstellen...!|'''''Haxxor74'''''}}
+
+==="Negator"-Software===
+"Negator" software hides, conceals or masks objects, personas (and real people) the AR user doesn't want to see using opaque AR overlays.
+
+===Glyphs===
+Glyphs, in the context of augmented reality, are various, often unusual, personal software "objects" or artwork that accompany one's persona (or a virtual person) in AR. Glyphs are usually offered and used as an add-on to another ARE program.
+{{Shadowtalk|Many ''glyphs'' in AR are custom-made according to the wishes of the respective buyer, or are only available in strictly limited editions, and of course bear the digital watermark of the [[Matrix artist]]s who created the algorythms... very expensive, which of course creates a thriving, lucrative black market for cracked and pirated ''glyphs''...|'''''[[Maracaibo-Marry]]''''' <small>...if someone comes up with a ''"nearly real"''' [[Roberto Wauneka|Wauneka]]-eagle on his shoulder, all he has to do is ring my bell!</small>}}
+{{Shadowtalk|In [[Japan]], flower rain glyphs of [[MCT]] are popular right at cherry blossom time.|<big>[[狐]]</big>}}
+
+==Shadow sides==
+While the dividing lines between interactive ARE software, [[SimSinn]], [[Trideo]] and radio are becoming increasingly blurred, critics warn of the downsides of this trend, which demands a sense of responsibility and self-discipline as well as multitasking skills from the user, but which in fact few have. Sociologists in particular see an immense threat in the ever-increasing escapism that runs through all age groups, and which for many reaches proportions that exceed anything known from manic online gamers, matrix addicts and couch potatoes from the time of the old [[Matrix]]. The associated, creeping loss of reality or loneliness of many habitual ARE users has already led in extreme cases to the fact that the people concerned sometimes reacted completely inappropriately to their real environment and the surrounding [[humans]]s and [[metahumans]]s, and thereby seriously endangered themselves and others or caused considerable damage to their own health.
+{{Shadowtalk|I've lost count of how many patients I've had at [[Seattle General]] in the last few months who caught the most severe colds or even pneumonia just because they couldn't tell the difference between the Virtual Weather™ being faked by their ARE soft and [[feedback clothing]] and the real outside temperature in rainy [[Seattle]]...|[[Kelly Fairchilde|'''''CK''''']]}}
+{{Shadowtalk|A common bad habit among younger students at corporate schools these days is to have their Virtual Pets fight each other in AR. However, some kiddies who have a few rudimentary [[hacker]] tricks up their sleeve drill the software of their digital companions a bit so that they can literally shred the code of their virtual opponent.... and if the owner then really loved his ''Ganesha VirtualPet™'', this can easily be the trigger for a very real scuffle, in which the parties involved may seriously injure each other!|'''''[[LISA]]'''''}}
+{{shadowtalk|...and in the [[Barrens]] or [[Wild East]], people would be happy to have such worries: There you get pneumonia, because you can't afford anything better to wear than cheap, unlined [[flats|paperware]] and the kids fight over a Stuffer™, because they are hungry and have nothing else to bite on!|'''''Rattenkind'''''}}
+
+==Sources==
+===Sourcebooks===
+* [[Shadowrun Fourth Edition]] / [[Shadowrun Version 4.01D]] - Basic rulebook for the [[Shadowrun: Editions#4th Edition|fourth edition]] of [[Shadowrun]].
+* [[Munich Noir]]
+* [[Unwired]] / [[Networked]] S.116
+===Other===
+* [[http://www.schockwellenreiter.biz Shockwave Rider InGame Forum]] - News Ticker: "New Study: AR Pets Boost Fine Motor Skills in Children" (04/06/2072).
+
+==Weblinks==
+* {{Shx|Augmented_Reality_Environment-Software|Augmented Reality Environment-Software}} in the {{Shx|Shadowhelix}}
+
+[[Category:Culture]]
+[[Category:Wireless Matrix]]
+[[Category:Software]]

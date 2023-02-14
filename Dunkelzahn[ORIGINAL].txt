@@ -1,0 +1,154 @@
+{{Person
+|GEBURT=ca. 13.000 v.Chr<br/>
+|TOD={{Shx|9._August|09.08.}}{{shx|2057}}
+|BILD=Dunkelzahn.jpg
+|SIZE_OVR=80px
+|COPYRIGHT=Dunkelzahn {{Ref|1}}<br/>{{C Fanpro|FanPro}}
+|ALIAS=Dunkie
+|PERSONA=[[The Big 'D']]
+|GESCHLECHT=männlich
+|ART=[[Westlicher Drache]]
+|MAGISCH=[[Drache]]
+|STAAT=[[UCAS]]
+}}
+'''Dunkelzahn''' war wohl der berühmteste [[Großdrache]] - und vermutlich überhaupt das bekannteste, lebende Wesen - der gesamten [[Sechste Welt|Sechsten Welt]]. 
+
+==Biografie==
+Er lebte von etwa 13.000 vor Christi bis zum 9. August {{shx|2057}}, nahm innerhalb der Drachengesellschaft den Rang des "Loremaster" ein und war der siebte Präsident der [[UCAS]].
+
+Er erwachte am 12. Januar {{shx|2012}} am [[Cherry Creek Lake]] bei [[Denver]] und erwies sich als einer der mit großem Abstand (meta)menschenfreundlichste unter den [[Drachen]]. 
+{{drache
+|ZNAME=Far-Scholar
+|FARBE=blaue Schuppen
+|HORT=Prince Edward Island, UCAS, Lake Louise, div. weitere
+|SPRECHER=[[Nadja Daviar]]
+|ERSCHEINEN=12. Januar 2012
+}}
+{{shadowtalk|Wobei sich die Frage stellt, wie er da hin kam. - Wenn die Infos, die ich aus zuverlässiger Quelle habe, stimmen, hat er in der [[Vierte Welt|Vierten Welt]] - ebenso wie Ghostie - lange Zeit im Süden der Osteuropäischen Ebene gelebt.|'''''Wyrm Watcher''''' - join [[DIVE]] Now!|59%}} 
+Nach dem praktisch alle Nachrichten-Sender sich bemüht hatten, ihn zu interviewen, gab er der jungen Journalistin [[Holly Brighton]] das berühmt gewordene, über zwölfstündige Interview, in dem er der [[Metamenschheit]] viel von der Bedeutung der Ereignisse des [[Erwachen]]s, die [[Magie]] und die ''neuen Rassen'' erklärte. 
+
+Das besagte Interview und Dunkelzahns folgende Trideosendung &#8222;[[Wyrm Talk]]&#8220; machten Dunkelzahn weltweit berühmt. Während seiner Interviews nutzte der Drache insgesamt drei metamenschliche Sprecher: [[John Timmons]] (2012-{{shx|2022}}), [[Terri Ann Riberio]] ({{shx|2028}}-{{shx|2039}}) und schließlich [[Nadja Daviar]] als seine letzte Sprecherin.
+
+Mitte {{shx|2056}} gewährte der UCAS-Kongress Dunkelzahn das Bürgerrecht. Das Ereignis, bei dem Präsident [[Thomas Steele|Steele]] dem Drachen persönlich gratulierte, wurde von einem gewaltigen Medieninteresse begleitet. Dunkelzahn verlegte seinen Hauptwohnsitz in die UCAS nach [[Prince Edward Island]] und registrierte Zweitwohnungen in [[New York]], [[Washington (Federal District of Columbia)|Washington FDC]] und [[Toronto]].
+
+===Wahl zum UCAS-Präsidenten===
+{{UCAS-Präsident
+|reihe=7. Präsident der [[UCAS]]
+|amt= 9. August {{Shx|2057}}
+|vor=[[Betty-Jo Pritchard]]
+|nach=[[Kyle Haeffner]]
+|partei=unabhängig / parteilos
+|vize=[[Kyle Haeffner]]
+|vizepartei=unabhängig / parteilos
+}}
+{{Infobox
+|TITEL=Campaign-Pin 2057
+|TEXT=
+[[Datei:Campaign-Pin Dunkelzahn 2057.png|thumb|center|120px|Campaign-Pin von 2057 {{Ref|2}}<br/>{{C Fanpro|FASA}}]]
+}}
+Am {{Shx|15._März|15.03.}}{{Shx|2057}} gab '''Dunkelzahn''' in Wyrm Talk seine Kandidatur für das Amt des Präsidenten der UCAS bekannt. Es folgte ein turbulenter Wahlkampf, bei dem Dunkelzahn und Haeffner (der von [[Damien Knight]] als Vize vorgeschlagen wurde) massiv von [[Ares]] mit Geld, Medienrummel und Lobbyismus unterstützt wurden {{Ref|3}}. Letztlich gewann der Drache die UCAS-Präsidentschaftswahl mit knappem Vorsprung. Am {{Shx|9._August|9. August}} trat er als Nachfolger von Interims-Präsidentin [[Betty-Jo Pritchard]] sein Amt an. Wenige Stunden später starb er durch die Explosion seiner Limousine.  
+
+Sein Vizepräsident [[Kyle Haeffner]] - wie er parteilos - war zugleich auch sein Nachfolger als UCAS-Präsident, dem Dunkelzahns letzte Sprecherin Nadja Daviar als Vizepräsidentin zur Seite stand. Dunkelzahn hinterließ ein {{Shx|Dunkelzahns_Testament|Testament}}, das für viel Aufsehen und noch viel mehr Unruhe sorgte. Dies gipfelte letztlich in einem [[Konzernkrieg]]. Unter anderem wurde aus seinem Nachlass die [[Draco Foundation]], die das Testament zu vollstrecken hatte, begründet, ebenso, wie das [[Dunkelzahn Institute of Magical Research]] ([[DIMR]]), die [[Astral Space Preservation Society]] und eine ganze Reihe weiterer Stiftungen. 
+
+Am Ort des Attentats vor dem Watergate-Hotel in Washington entstand ein astraler Riss zwischen unserer Welt und den [[Metaebenen]]. Dieser sogenannnte Watergate- oder [[Dunkelzahn-Spalt]] entwickelte sich zu einer Pilgerstätte für Anhänger Dunkelzahns, Neugierige, politische Agitatoren und Magieforscher. Speziell für letztere war der Dunkelzahnspalt allerdings sehr gefährlich, und im [[Jahr des Kometen]] kamen u. a. zahlreiche [[Geist]]er, die Astralgestalt des Drachen [[Ghostwalker]] und schließlich die ersten [[Shedim]] aus dem Spalt.  
+{{Shadowtalk|Ja, das Watergate... Hier ist viel amerikanische Geschichte geschrieben worden.|'''''Hotelkenner'''''|64%}}
+{{Shadowtalk|Aber keine dieser Geschichten hat so etwas spektakuläres hinterlassen wie der Drache.|'''''[[Kiba]]'''''|64%}}
+'''Big D''' war in zweifacher Hinsicht ein besonderer Präsident: Zum Einen war er der erste und bislang einzige nicht-menschliche Präsident der [[USA]] und UCAS, und zum Anderen verkörperte er die bisher kürzeste Amtszeit als Präsident.
+{{Shadowtalk|Zudem war er auch der älteste Präsident - sowohl der USA als auch der UCAS!|'''''Sam's Son'''''|64%}}
+{{shadowtalk|...nicht zu vergessen, dass Dunkie auch der erste '''blaue''' Präsident war!|'''''Alcoolizer'''''|64%}}
+{{shadowtalk|Wua...hahaha! - Der war gut! - Obwohl: good ol' Jimmy Carter soll gelegentlich ja auch alles andere als nüchtern gewesen sein!|'''''[[DC Insider]]'''''|64%}}
+{{Folgenleiste
+|AMT=Präsident der UCAS
+|VORGÄNGERIN=[[Betty-Jo Pritchard]]
+|NACHFOLGER=[[Kyle Haeffner]]
+|ZEIT=9. August {{Shx|2057}}
+}}
+
+===Siehe auch:===
+* [[Liste der Präsidenten der United Canadian and American States]]
+
+==Humanoide Gestalt==
+In seiner humanoiden Gestalt war Dunkelzahn um die 1,90 m groß und breit gebaut. Er hatte olivefarbene Haut, lockiges braunes Haar und metallisch blau-silberne Augen mit unnatürlich schwarzen Pupillen. Er wirkte immer jung und hatte einen perfekt proportionierter Körper, wie Michelangelos David.
+
+==Forschungen==
+
+===Lebensverlängerung und Unsterblichkeit===
+Dunkelzahn erforschte Möglichkeiten das Leben von Metamenschen zu verlängern oder ihnen sogar Unsterblichkeit zu ermöglichen. Zu diesem Zweck unterhielt er auch Kontakt zu einigen anderen Forschern, eine davon [[Mareth'riel Salvail]]. {{Ref|4}}
+{{Großdrachen}}
+
+==Shadowtalk==
+Unter der [[Persona]] «'''The Big 'D''''» meldete er sich regelmäßig in der [[Matrix]] und u. a. auch in [[Shadowland-Knoten]] mit Kommentaren zu Wort. Auch andere Shadowtalker kürzten seinen Namen in den Foren der [[Matrix-Portal]]e häufig mit '''Big D''' ab.
+
+In der Tat soll Dunkelzahn sehr viel Zeit in der Matrix verbracht haben und er hat auf [[Shadowland]] des öfteren kryptische Kommentare zu verschiedenen Dateien abgegeben oder sich einen Schlagabtausch mit einem anderen User namens [[Laughing Man]] geliefert. Den bemerkenswertesten Einblick gewährte uns der Drache aber eher unfreiwillig. In einem Matrix-Chatroom hielt er mit einer Runde illustrer Individuen, darunter auch Laughing Man, eine Art Konferenz über die berüchtigte «[[Aztlan]]»-Datei ab. Ein Transkript ihrer Unterhaltung wurde von unbekannten [[Otaku]] der Datei hinzugefügt. 
+
+Dunkelzahn provozierte zudem {{shx|2054}} einen Crash der [[Seattle]]r [[Shadowland BBS]], um ein Notfall-Filedump der «[[Tir Tairngire (Quellenbuch)|Tir Tairngire]]»-Datei in den [[Nexus]] auszulösen, bevor irgendjemand seine Kommentare aus dem File entfernen konnte.
+
+===Schattendateien mit Shadowtalk von "The Big D":===
+*[[Tir Na nOg (Quellenbuch)|Tir Na nOg]]  und 
+*[[Tir Tairngire (Quellenbuch)|Tir Tairngire]] (dtsch. in "[[Die Länder der Verheißung]]") 
+*[[Threats]] p.60 (dtsch. in "[[Bedrohliche 6. Welt]]")
+*[[Aztlan (Quellenbuch)|Aztlan]]
+
+===Zugeordnete Schriften:===
+*[[Dragons of the Sixth World]] p.143-154 "Ryumyo: Raging Yang" (Dossier über Ryumyo)
+*[[Portfolio of a Dragon: Dunkelzahn's Secrets]] p.24-35 "I Dunkelzahn..." (Testament)
+
+==Trivia==
+Das Zugangsicon von [[Saeder-Krupp]]s [[Globales Gitter|globalem Gitter]], der [[Saeder-Krupp Überwelt]], zeigt einen Drachen, der aber nicht, wie zunächst erwartet, [[Lofwyr]] wäre, sondern tatsächlich Dunkelzahn nachempfunden wurde. Dieser wurde aber etwas weichgezeichnet, damit er sanfter aussieht {{Ref|5}}.
+
+==Quellen==
+Dieser Artikel basiert auf den Artikeln {{Shx|Dunkelzahn}} und {{Shx|The_Big_'D'|The Big 'D'}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren kann man <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Dunkelzahn&action=history hier]</span> und <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=The_Big_%27D%27&action=history hier]</span> nachlesen.
+
+'''Primärquellen zu <u>Dunkelzahn</u> sind:''' 
+* [[Aztlan (Quellenbuch)|Aztlan]] (nur ''englisch'')
+* [[Threats]] p.55 (''englisch'', deutsche Teil-Übersetzung in "[[Bedrohliche 6. Welt]]")
+* [[Super Tuesday!]] (nur ''englisch'')
+* [[Shadows of the Underworld]] (nur ''englisch'')
+* [[Shadowrun Third Edition]] / [[Shadowrun Version 3.01D]] 
+* [[Magic in the Shadows]] p.11 / [[Schattenzauber 3.01D]] 
+* [[Portfolio of a Dragon Dunkelzahn's Secrets]] / [[Portfolio eines Drachen: Dunkelzahns Geheimnisse]]  
+* [[Bedrohliche 6. Welt]] (enthält die deutsche Teil-Übersetzung von "[[Threats]]" und die deutsche Übersetzung von "[[Threats 2]]")
+* [[Year of the Comet]] p.9 / [[Das Jahr des Kometen]]
+* [[Target: Wastelands]] p.69, 78, 86 / [[Niemandsland]] 
+* [[Cannon Companion]] p.39 / [[Arsenal 2060]] 
+* [[Corporate Download]] p.90 (nur ''englisch'')
+* [[Shadows of North America]] p.165, 166 / [[Nordamerika in den Schatten]] 
+* [[Loose Alliances]] / [[Feind meines Feindes]] 
+* [[Dragons of the Sixth World]] / [[Drachen der 6. Welt]] 
+* [[Sprawl Survival Guide]] p.18, 84, 86 / [[Sprawl Überlebenshandbuch]] 
+* [[Shadows of Asia]] (nur ''englisch'')
+* [[Shadows of Latin America]] p.10, 89 / [[Lateinamerika in den Schatten]] 
+* [[System Failure]] p.36, 93, 106 / [[Systemausfall]]
+* [[Shadowrun Fourth Edition]] / [[Shadowrun Version 4.01D]] 
+* [[Running Wild]] / [[Wildwechsel - Das Critterdossier]] S.80, 81, 82, 83, 85, 86
+* [[Corporate Guide]] / [[Konzerndossier]] S.46
+* [[Street Magic]] p. 14, 16, 17, 18, 117, 120, 124, 181-182 / [[Straßenmagie]] (erweiterte, überarbeitete {{Pegasus}}-Neuauflage)
+* [[Dawn of the Artifacts: Midnight]] p.8 / [[Mitternacht - Artefaktjagd, Teil 2]] 
+* [[Sixth World Almanac]] p.21, 23, 35, 41, 48, 57, 60-61, 76, 78, 79-80, 81, 82, 83, 87, 191, 194, 195, 196, 197 /<br/>[[Almanach der Sechsten Welt]] S.23, 37, 43, 50, 60, 63, 64, 82, 83, 84-86, 87, 90, 95, 200, 204, 205, 206, 207
+* [[Shadowrun Fourth Edition 20th Anniversary Core Rulebook]] / [[Shadowrun Grundregelwerk 4. Edition]] 
+* [[Street Legends]] / [[Straßenlegenden]] 
+* [[Data Trails]] / [[Datenpfade]] S.23
+* [[Market Panic]] / [[Megakons 2078]] S.44, 53
+ 
+<u>Romane:</u>
+* [[Fremde Seelen]] (engl. ''"[[Stranger Souls]]"'')
+* [[Am Kreuzweg]] (engl. ''"[[Crossroads]]"'', p.29) und
+* [[Ragnarock (Roman)|Ragnarock]] - [[Liste der Shadowrun-Romane|Romane]] von [[Steve Kenson]]
+* [[Das Neunte Leben]] (engl. ''"[[The Forever Drug]]"'', p.248-249) - [[Liste der Shadowrun-Romane|Roman]] von [[Lisa Smedman]]
+
+<u>Sonstige:</u>
+*[[Dunkelzahn The Mass-Media Dragon]] / [[Dunkelzahn Der Massenmedien-Drache]] 
+*[[Dunkelzahn's Will (Quelle)|Dunkelzahn's Will]] / [[Dunkelzahns Testament (Quelle)|Dunkelzahns Testament]]
+*[[Shadowrun Die 6. Welt]] - Shadowrun Reader S.23-43: "Erwachen", Kurzgeschichte von [[Momo Evers]] und [[Falk Behrs]]
+
+===Quellendetails:===
+{{Ref2|1}} [[Portfolio of a Dragon Dunkelzahn's Secrets]] - Artwork Frontcover 
+{{Ref2|2}} [[Super Tuesday!]] - Backcover
+{{Ref2|3}} [[Konzerndossier]] S.46 
+{{Ref2|4}} [[The Forever Drug]] p.248-249 - [[Liste der Shadowrun-Romane|Roman]] 
+{{Ref2|5}} [[Datenpfade]] S.23
+
+{{KatSort|cat=Personen|NSC|Drachen|Westliche Drachen|Große Drachen|Verstorben|UCAS}}
+{{KatSort|catsup=Personen|cat=Politiker|Nordamerika|UCAS}}
+[[Kategorie:UCAS-Präsidenten]]
+[[Kategorie:Gestorben 2057]]

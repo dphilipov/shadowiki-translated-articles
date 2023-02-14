@@ -1,0 +1,74 @@
+{{Teilweise Inoffiziell}}
+{{Unvollständig}}
+{{Persona
+|CLEAR=
+|BILDPERSONA2=
+|ID=
+|ALTER_EGO=
+|ANGLE=Matrix-Mysterium, Gangleader
+|AKTIVE_ZEIT=späte 2070er, 2080er
+|AKTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]] 
+|HINTERGRUND=Hackbirdz-Gang-Interna, Berlin, Hacking
+|MOTTO=
+}}
+{{Person
+|NAME_OVR=?
+|GEBURTSNAME=
+|ALIAS=
+|PERSONA=.sphinx
+|BILD=
+|SIZE_OVR=
+|COPYRIGHT=
+|GEBURT=
+|TOD=
+|UMBRUCH=
+|ALTER_OVR=
+|GESCHLECHT=männlich (verm.)
+|ART=
+|METATYP=
+|HAAR=
+|AUGEN=
+|MERKMALE=
+|MAGISCH=
+|RESONANZ=
+|BESCHWÖRER=
+|MUTTER=
+|VATER=
+|PARTNER=
+|VERLOBT=
+|VERHEIRATET=
+|VERWITWET=
+|GESCHIEDEN=
+|EXPARTNER=
+|KINDER=
+|NATION= ? ([[Berlin]]er)
+|STAAT=
+|BERUF=[[Gang]]leader
+|ZUGEHÖRIGKEIT=[[Hackbirds]]
+|KONZERN=
+|RELIGION=
+|SIN=
+|KOM=
+|BILD2=
+|COPYRIGHT3=
+|BILDPERSONA=
+|COPYRIGHT2=
+}}
+'''.sphinx''' ist 2080 angeblich der mysteriöse [[Gang]]leader der [[Berlin]]er [[Matrixgang]] der «[[Hackbirds]]».
+
+==Matrix-Aktivitäten==
+Im Oktober 2082 hat .sphinx im von den «Hackbirds» per [[ShadowBot]]-[[App]] gekaperten und zum "Schattenpuls" umfunktionierten [[Schattenpuls 2082-10-25 (inoffiziell)|NovaPuls vom 25.10.2082]] das Statement abgegeben, [[.chtrl]] - bürgerlich: [[Cheri Hackler]] - sei ''"NICHT Mitglied der Hackbirds"'', und darum gebeten, sich mit Beschwerden über sie und ihr Verhalten nicht an die Matrixgang zu wenden. {{Ref|10}}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Datapuls: Berlin]]
+*[[Berlin 2080]]
+
+===Quellendetails:===
+{{Ref2|1}} .sphinx' Statement im Schattenpuls ist eine reine Eigenerfindung des [[Benutzer:Karel|Artikelerstellers]] im Rahmen des INOFFIZIELLEN Schattenpuls vom 25.10.2082, und daher nicht Teil des offiziellen Shadowrun-Kanon.<br/>(siehe → [[Schattenpuls 2082-10-25 (inoffiziell)]]) ‎
+
+{{KatSort|cat=Personen|NSC||ADL|Berlin|Unterwelt}}
+{{KatSort|catsup=Personen|cat=Ganger|Europa|ADL|Berlin|Hackbirds}}
+{{KatSort|catsup=Personen|cat=Decker|Europa|ADL|Berlin}}
+[[Kategorie:Personas]]

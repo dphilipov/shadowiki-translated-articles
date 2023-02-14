@@ -1,0 +1,63 @@
+The <u>'''Metahumanity''</u> is divided into five main races, which (with the exception of humans) were created from 2011 by [[UGE]], respectively from 2021 by [[Goblinization]]. The aforementioned main races can be subdivided into different [[meta-varieties]], which, however, are far less common.
+[[Image:Size comparison of SR races.gif|thumb|right|390px|Metahumans in size comparison (from left to right: [[Human|Human]], [[Elf]], [[Dwarf]], [[Troll]], [[Orc]])]
+*''[[Humans]]''' (Homo sapiens sapiens), colloquially often referred to as '''Norms''' as distinct from MetaHumans.
+**'''[[Nartaki]]'''' , the only human-type metavariant. Predominantly widespread in India.
+
+'''<u>Metahumans</u>'''' (also '''MetaHumans''' or '''Metas''' for short) - includes various "new" races that have been romping (or romping again, as they are said to have existed in previous magic cycles as well) on our good old Earth since the Awakening, and their - rarer - local variants:
+* [[Orc]]s (Homo sapiens robustus), with the local subspecies:
+**[[Hobgoblin]]s, especially in the Near and Middle East,
+**[[Ogre]]s,
+**[[Oni]]s, in Japan,
+**[[Satyr (Metamensch)|Satyrn]], in [[Hellas|Greece]] - not to be confused with the critter of the same name,
+* [[Troll]]s , with local subspecies:
+**[[Fomori]]s, in Ireland/[[Tír na nÓg]]
+**[[Minotaur (Metamensch)|Minotaurs]], especially in [[Hellas|Greece]] - not to be confused with the critter of the same name,
+**[[Giant]]s, especially in Scandinavia and Württemberg,
+**[[Cyclops]]s, in [[Hellas|Greece]],
+*[[Elf]]s , with local subspecies:
+**[[Nocturnal|The Nocturnals]] - popularly known as dark elves or plushies,
+**[[Dryad]]s,
+**[[Wakyambi]]s,
+*and [[dwarf]]s, with local subspecies:
+**[[Gnome]]s,
+**[[Koborokuru]]s, in Japan,
+**[[Menehumen]], in Hawaii,
+**[[Querx]]e, virtually exclusively in [[Saxony]]/[[ADL]].
+
+In the past, scientists have speculated and argued about whether, in some circumstances, [[Sasquatch]]e are also metahumans. The proven genetic incompatibility, which makes reproduction between metahumans (all subspecies of the genus ''Homo Sapiens'') and sasquatches (''Pesvastus pilosis'') impossible, has now disproved these assumptions or speculations. - Elves, Norms, Orcs, Dwarves and even Trolls, on the other hand, can have children with each other (even if the act itself, especially in the case of Troll with a different metatype, might be quite life-threatening for the non-Troll and usually not pleasant - except perhaps for very strong Orcs/Orcs). - However, mixed breeds are generally not created in multi-race relationships (there are no half-elves, half-orcs, etc.) - but the children always have the metatype of one parent. Which one is apparently purely coincidental, and so far there are no scientific explanations why it is like this in one couple and the other way around in the next. In the case of multiple births, which are very common among orc women, it can even happen - if the father is a norm - that there are two orc and one human baby. However, children born as human babies from a human-orc union goblinize more often than average later.
+
+In the year of the comet ge[[SURGE]]t persons form - despite numerous new characteristics - no own races, but belong despite all differences still to the same '''metatype''', as before their mutation.
+
+The ''Homo sapiens draco'' - colloquially [[Drake]] - is counted to the metahumanity because of his sexual compatibility to the metahumans, although Drakes are in fact drakomorphic shape- resp. shapeshifters, and in their metahuman form can belong to every metatype and every metavariant.
+
+In many areas of the Sixth World, '''metahumans'''' target of [[anti-metahuman]] racism, while on the other hand metahumans themselves can also be racist towards normal humans (Norms) and other metahumans (Metas), of which the behavior of certain elves (namely in the Tírs) is an unattractive example!
+
+===Infected metavarieties:===
+By infection with the [[Human-Metahuman Vampiric Virus|Human-Metahuman Vampiric Virus]], which occurs in several strands (MMVV 1, MMVV 2, warrior strand, Bruckner-Langer variant), additional new races have emerged from the infected:
+
+* [[Vampire]]s (MMVV-I, Human).
+* [[Nosferatu]]s (MMVV-Ia, Bruckner-Langer, human or elf)
+* [[Loup-Garou]] (MMVV-II, human) - means werewolf in French.
+* [[Banshee]]s (MMVV-I, Elf)
+* [[Reaper (MMVV-infected)|Reaper]] [[MMVV-II, Elf]]
+* [[Wendigo]]s (MMVV-I, Orc)
+* [[Grendel]] (MMVV-II, Orc)
+* [[Dzoo-Noo-Qua]]s (MMVV-I, Troll)
+* [[Fomorian]]s (MMVV-II, Troll)
+* [[Goblin]]s (MMVV-I, Dwarf)
+* [[Rodent]]s (MMVV-II, Dwarf)
+* [[Ghoul]]s (MMVV-III, Warrior strand, all)
+
+All infected metavarians have needs for metahuman blood/flesh/essence in common, and their mental health has often been irreparably damaged in the transformation. As a result, they are often no longer counted as '''metahumans''' but as critters, and suffer from even more prejudice, rejection, hatred, and legislation that excludes them. - Thus, in many places vampirism is a notifiable disease according to epidemic police laws, and there is a bounty on the head of those infected.
+==Sources==
+*[[Shadowrun (Basic Rulebook)]]
+*[[Shadowrun Version 2.01D]]
+*[[Shadowrun Version 3.01D]]
+*[[Shadowrun Companion Revised]] / [[Shadowrun Compendium 3.01D]]
+*[[Shadowrun Basic Rulebook 4th Edition]]
+*[[Runner's Companion]] / [[Runner's Compendium]]
+
+[[Category:Metahumanity| ]]
+[[Category:Races|!]]
+[[Category:Biology]]
+[[Category:6th World]]

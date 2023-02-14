@@ -1,0 +1,56 @@
+{{Person
+|BILD=Feather.jpg
+|COPYRIGHT={{Ref|2}} {{C Pegasus}}<br/><small>(<u>Künstler:</u> [[Mathias Mauksch]])</small>
+|GESCHLECHT=weiblich {{Ref|1}} {{Ref|2}}
+|METATYP=[[Mensch]] {{Ref|1}} {{Ref|2}}
+|MAGISCH=nein
+|NATION=[[Japan|Halbjapanerin]] {{Ref|1}} {{Ref|2}}
+|BERUF=[[Messerklaue]] {{Ref|1}} {{Ref|2}} / [[Ganger]]in/Dealerin {{Ref|3}} (ehem. Leibwächterin, Ex-[[Big Willi]]-Häftling {{Ref|1}} {{Ref|2}} {{Ref|3}})
+|ZUGEHÖRIGKEIT=«[[Kreeper]]» (2080) {{Ref|3}}
+}}
+"'''Feather'''" '''Ryoko''' ist - trotz ihres Spitznamens - [[Japan|Halbjapanerin]] und eine [[Gilette]], eine weibliche [[Messerklaue]].
+
+==Biographie==
+[[Datei:Feather Ryoku (SW).JPG|thumb|left|"Feather" Ryoko (älteres Bild) {{Ref|1}} {{C Pegasus}}<br/><small>(<u>Künstler:</u> [[Andreas "AAS" Schroth]])</small>]]
+Nachdem sie wegen einer gescheiterten Aktion gegen [[Ares Macrotechnology]] ein paar Jahre in [[Big Willi]] saß, war sie zu Beginn der {{Shx|2070er}} frisch entlassen. Sie hatte einen Bodyguard-Job beim [[Vory]]-Dealer [[Dag "Stomp" Joergensen]] angenommen, den sie als Sprungbrett zurück ins [[Schatten]]geschäft sieht, auch, wenn sie weder für die [[Lobatchevski]]s, noch für den [[Ork]] oder [[BTL-Chips]] irgendetwas übrig hatte. - Ihre Loyalität gegenüber den [[Russland|Russen]] war dem entsprechend nicht übermäßig hoch, auch, wenn sie wie jeder Runner einen Ruf zu wahren hat, und im Leibwächtergeschäft durchaus fähig ist. - Auf Drohungen und Verhörversuche reagiert sie in der Regel mit betonter Langeweile... {{Ref|1}} {{Ref|2}} 
+
+Die (Ex-)[[Shadowrunnerin]] hatte allerdings ziemlichen Stress mit ihrem Bewährungshelfer, der ihr als Haftentlassener einen legalen Job in einem [[Matrix]]café besorgt hat, und sie zusammen mit ihrem dortigen Chef nach Kräften ausbeutete, und die Hälfte ihres Lohns für den Day-Job einsteckte. - Zudem mangelte es ihr an [[Connections]], und sie wäre froh gewesen, wenn ihr jemand einen guten, neuen [[Schieber]] vermitteln könnte {{Ref|1}} {{Ref|2}}.
+
+Als die Geschäfte der Russen in [[Bergedorf]] unter Druck gerieten, und zunehmend schlechter liefen, nahm "Feather" Ryoko ihr Schicksal dann in die eigenen Hände: Sie rammte ihrem ''Klienten'' "Stomp" Joergensen ihr Wakizashi in den Leib, und übernahm das, was von dessen geschäftlichen Aktivitäten noch übrig war. Mittlerweile - 2080 - hat sie sich mit der «[[Kreeper]]»-[[Gang]] zusammengetan, die ihren Turf in der Anekistraße in Neuallermöhle hat, und dick im [[Cram]]-Geschäft ist {{Ref|3}}.
+
+Sie soll in jüngerer Zeit zudem im «[[Mikado]]» in [[Hamburg-Nord]] gesehen worden sein {{Ref|3}}.
+
+==Erscheinungsbild==
+Feather ist mittelgroß, durchtrainiert, und kann attraktiv sein, wenn sie sich Mühe gibt. Sie ist schlank und dunkelhaarig. Meist trägt sie die üblichen [[Synthleder-Klamotten]] samt [[Panzerweste]] in monochromem Grau und Schwarz mit einer unauffälligen roten Applikation am Kragen und farblich leicht abgesetzten Protektoren im Oberarmbereich an den Ärmeln der Jacke. - Ihr ballistisch gefüttertes Unterzeug (siehe Bild links) ist allerdings deutlich weniger kleidsam... {{Ref|1}} {{Ref|2}}.
+
+==Ausrüstung==
+Neben dem obligatorischen [[Kommlink]] und einem [[Messer]] ist sie auch mit einer [[Ares Predator]] und einer [[Ingram Smartgun]] bewaffnet, wenn sie mit Stomp unterwegs ist, oder in seiner Bude in Bergedorf hockt, was alleine ausreichen würde, sie wieder zurück nach Big Willi zu bringen, wenn die [[HanSec]] sie damit erwischt {{Ref|1}} {{Ref|2}}. 
+
+===Bodyware===
+Noch vor ihrer Knastzeit hat sie sich außerdem etwas [[Cyberware]] implantiert, was sowohl [[Smartgun-Verdrahtung]] als auch [[Reflexbooster]] umfasst, die ihre Bewegungen fast unnatürlich geschmeidig und kraftvoll erscheinen lassen, und besitzt zudem ein Implantat, das sie Schmerz deutlich besser ertragen lässt, als einen [[unvercybert]]en [[Mensch]]en {{Ref|1}} {{Ref|2}}.
+
+==Beziehungen==
+Da sie sich strikt weigert, bei den «[[Willis]]» mitzumachen, und sich der Gang von Ex-Big-Willi-Häftlingen anzuschließen, wird sie von diesen gehasst. Die Vory hat vermutlich wegen des Mordes an "Stomp", den sie ja eigentlich beschützen sollte, ebenfalls nicht viel Freundliches über sie oder zu ihr zu sagen {{Ref|3}}. 
+
+[[Likedeeler]] und möglicher Weise auch die [[Yakuza]] scheinen dagegen interessiert, eine geschäftliche Beziehung zu ihr aufzubauen {{Ref|3}}
+
+Auf ihrer eigenen, aktuellen Feindesliste steht die Gang der «[[Creatures]]» ganz oben, da diese Psycho-Punks direkte Konkurrenten ihrer «Kreepers» im Cram-Biz in Bergedorf sind {{Ref|3}}.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Shadowrun Einsteigerregeln]]  & "Freier Markt" V2 ([http://www.pegasus.de/fileadmin/_downloads/shadowrun/Einsteigerregeln_v2.pdf Pdf], Farbe) S.26-29
+*[[Freier Markt]] ([http://www.pegasus.de/fileadmin/_downloads/shadowrun/FreierMarkt.pdf Pdf], schwarz-weiß)
+*[[Datapuls: Hamburg]] S.51
+
+===Quellendetails:===
+{{Ref2|1}} [[Freier Markt]]
+{{Ref2|2}} [[Shadowrun Einsteigerregeln]] S.26-29 
+{{Ref2|3}} [[Datapuls: Hamburg]] S.51
+
+==Weblinks==
+* {{Shx|Feather_Ryoko|Shadowhelix: "Feather" Ryoko}} 
+{{DEFAULTSORT:Ryoko, "Feather"}}
+{{KatSort|cat=Personen|NSC|Menschen|ADL|Hamburg|Unterwelt}}
+{{KatSort|catsup=Personen|cat=Kämpfer|Europa|ADL|Hamburg}}
+{{KatSort|catsup=Personen|cat=Ganger|Europa|ADL|Hamburg|Bergedorf|Kreepers}}

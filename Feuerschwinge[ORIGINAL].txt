@@ -1,0 +1,59 @@
+{{Person
+|BILD=Drachenbrut-Cover-Artwork.jpg
+|COPYRIGHT={{C Pegasus}}<br/><small>(<u>Urheber:</u> [[Karsten Schreurs]])</small>
+|GESCHLECHT=weiblich
+|ART=[[Westlicher Drache]]
+|MAGISCH=magisches Wesen
+}}
+{{Drache
+|FARBE=orange-rot
+|HORT=[[Island]] oder Harz oder [[SOX]] (?)
+|SPRECHER=keiner
+|ERSCHEINEN=2012
+}}
+'''Feuerschwinge''' war ein weiblicher, [[Große Drachen|Großer Drache]] von orange-roter Farbe, der 2012 im Harz in der alten [[Bundesrepublik Deutschland]] erwachte. Er war - vermutlich - die Gefährtin des Großdrachen [[Kaltenstein]]. 
+
+==Schicksal==
+Nach dem der [[Drache]] Feuerschwinge 2012 - unmittelbar nach seinem Erscheinen - Teile des Harz zerstört hatte, wurde er von [[Bundeswehr]]-Einsatzkommandos über den Ärmelkanal verfolgt, und schließlich über der [[SOX]] abgeschossen.
+{{shadowtalk|Wie ich von einem der Bundis weiß, die damals dabei waren, ist sie genau in die Ruinen von [[Völklingen]] gekracht...|'''''[[Eismann]]'''''|68%}}
+Hierbei kam eine von dem deutschen Ingenieur Dr. [[Adrian Vauclair]] bei [[Diehl Defense]] auf der Basis des [[Kampfstoff]]es "[[Doom]]" entwickelte, frühe [[Nanowaffe]] in einem speziellen, von ihm konstruierten Sprengkopf zum Einsatz.
+
+Da aber keine Leiche gefunden wurde, ist das Schicksal des Drachen unbekannt, er gilt ''offiziell'' jedoch als tot, und damit als der erste, von [[Menschen]] seit Anbruch der [[Sechste Welt|Sechsten Welt]] getötete Großdrache.
+{{Shadowtalk|Feuerschwinge ist nicht tot! SIE lebt und versteckt sich in der SOX, hab ich gehört! - Allerdings hat sich durch die ganzen Gifte dort auch IHR Verstand verabschiedet haben, so daß SIE völlig verrückt und zudem total mutiert ist. Manche Stimmen in den Schatten behaupten auch dass die Punks die in der SOX leben Feuerschwinge verehren!|'''''[[Panic!]]'''''|68%}}
+Kaltenstein griff die Maschinen der Luftwaffe über dem Ärmelkanal an, um Feuerschwinge zu verteidigen, und lieferte sich später einen Luftkampf mit seinem Artgenossen [[Nebelherr]] über [[Frankfurt am Main|Frankfurt]], da dieser ihn daran hindern wollte, in die SOX zu fliegen und dort nach Feuerschwinge zu suchen. Dabei unterlag Kaltenstein nur deshalb, weil der schwächere Nebelherr von [[Lofwyr]] Unterstützung erhielt.
+
+===Gerüchte===
+Behauptungen, Feuerschwinge lebe möglicher Weise, und sei in menschlicher Gestalt als "[[Ignifera]]" die Anführerin der [[Glowpunk]]-Sekte «[[Jünger des Reinigenden Feuers]]» und sie habe - in Drachengestalt - {{Shx|2058}} in einen Kampf mit der [[MET2000]] in den Ruinen [[Völklingen]]s eingegriffen werden in der Regel ebenso als unglaubwürdig abgetan, wie ihre angebliche Sichtung in Island {{Shx|2015}}. - Eine andere, verbreitete Theorie lautet, ihr Geist sei bei ihrem Abschuss von ihrem Körper getrennt worden, habe aber überdauert, und - wenigstens zeitweilig - von einem metamenschlichen Körper Besitz ergriffen. Seither versuche Feuerschwinges Geist, wieder einen drachischen Körper zu erlangen. Manche bringen den Namen (und Geist) Feuerschwinges auch mit den Umtrieben der [[KI]] [[Apex]] im anarchistischen [[Berlin]] der 2050er und einer angeblichen Verschwörung mit dem Ziel eines Dracozids - einer Ausrottung der Drachen - in Zusammenhang.
+[[Datei:Npc humanfemale feuerschwinge.png|thumb|250px|right|Feuerschwinge in menschlicher Form<br/>{{C Hardbrained}}]]
+==Hort==
+Tatsächlich war der Grund für ihren Amoklauf nach ihrem [[Erwachen]] wohl nicht - oder nicht ausschließlich - ein "Winterschlaftrauma" und Schockzustand beim Erwachen, worauf ja bekanntlich auch der [[Wales|walisische]] [[Großdrache]] [[Rhonabwy]] sein Wüten in [[Carmarthen]] schob, sondern die Wut über des [[Diebstahl]] eines bestimmten [[Artefakt]]s, das während ihres langen Schlafs von [[Mensch]]en aus ihrem [[Drachenhort|Hort]] entwendet worden war. Bei diesem entwendeten Objekt handelte es sich - möglicher Weise - um den "Ring der Nibelungen" in einer einzigartigen, von einem Meisterschmied geschaffenen Schatulle und zugleich ein Geschenk ihres geliebten Gefährten Kaltenstein. 
+
+Schatzsucher spüren Feuerschwinges Hort bis heute im Harz vergeblich nach. Andere Interessierte glauben dagegen,  daß sich dieser in Wirklichkeit auf [[Island]] befinden soll ... dem heutigen "[[Thule-Protektorat]]" unter der Herrschaft des [[NAN]]-Mitglieds [[Trans-Polar Aleut Nation]]. Die Frage, welche von beiden Theorien nun der Wahrheit entspricht, wird eifrig in den Foren des [[Matrixportal]]s «[[DIVE]]» diskutiert. 
+{{Großdrachen}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quelle==
+Dieser Artikel basiert auf dem Artikel {{Shx|Feuerschwinge}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Feuerschwinge&action=history hier]</span>.
+
+'''Primärquellen zu <u>Feuerschwinge</u> sind:'''
+<u>Quellenbücher:</u>
+* [[Germany Sourcebook]] / [[Deutschland in den Schatten]] 
+*{{Qfc|3}} [[Target: Wastelands]] p.27 / [[Niemandsland]] S.27
+*{{Qfc|4}} [[Deutschland in den Schatten II]] S.10, 16, 24f, 150, 157f, 160
+*{{Qfc|4}} [[Dragons of the Sixth World]] p.164-165, 166 / [[Drachen der 6. Welt]] S.164-165, 166
+*{{Qfc|1}} [[Shadows of Europe]] p.52 / [[Europa in den Schatten]] S.52f 
+*{{Qfc|4}} [[SOX (Quellenbuch)|SOX]] S.35-36, 46
+* [[Reiseführer in die deutschen Schatten]] 
+*{{Qfc|1}} [[Sixth World Almanac]] p.23, 33, 143 / [[Almanach der Sechsten Welt]] 22, 36, 155
+*{{Qfc|4}} [[The Clutch of Dragons]] ? / [[Drachenbrut (Quellenbuch)|Drachenbrut]] S.158-161, 180
+*{{Qfc|1}} [[Datapuls: ADL]] S.14
+
+<u>Romane:</u>
+* [[Gottes Engel]] - {{Roman}} von [[Markus Heitz]], enthalten in
+* [[Schattenjäger]] - Romansammelband
+* [[Der vitruvianische Moment]] - [[Liste der Shadowrun Romane|Roman]] von [[Martina Nöth]]
+
+<u>Sonstige:</u>
+* [[Shadowrun Returns: Dragonfall]] - Computerspiel
+
+{{KatSort|cat=Personen|NSC|Drachen|Westliche Drachen|Große Drachen|ADL|SOX}}

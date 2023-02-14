@@ -1,0 +1,29 @@
+{{Person
+|BILD=Flocke.jpg
+|COPYRIGHT=© [[Benutzer:Lobezno|Lobezno]]: [[Cristo Fe Crespo|"Cristo Fe Crespo"]] 
+|GESCHLECHT=?
+|ART=[[Westlicher Drache]]
+|MAGISCH=magisches Wesen
+|NATION=[[Schweiz]]er
+}}
+{{Drache|
+|FARBE=schneeweiß
+|MERKMALE=gefiederte Flügel
+|HORT=Alpeninterdiktszone ?
+|ERSCHEINEN=2012
+}}
+«'''Schneeflöckchen'''» ist ein - vermutlich [[Großdrache|Großer]] - [[Drache]], und der einzige Drache, der in der [[Schweiz]] erschien. 
+
+In [[Genf]]/[[CSF]] ist man außerordentlich stolz darauf, daß die schneeweiße majestätische Dracoform unbekannten Geschlechts bei ihrem ersten - und bis lang einzigen - öffentlichen Auftauchen 5 Minuten lang friedlich auf dem Dach des [[UNO]]-Gebäudes rastete. Alle Augenzeugen beschrieben übereinstimmend ein weiteres ungewöhnliches Merkmal, da dieser Drache gefiederte Schwingen besitzen soll, was bei [[Westlicher Drache|Westlichen Drachen]] sonst noch in keinem Fall beobachtet wurde. 
+{{shadowtalk|Wär seid dänn, des Schnäflöggche net an Gfiedertäs Schlängli is? - Gänf het siet de zwonzger Johr im lädschdä Johrhundärt a indrnationalä Schdadt gsie!|'''''Mässmogge'''''|65%}}
+{{shadowtalk|Sind eigentlich Hybride unter den Drachen bekannt?|'''''Prof. Pilzbarth'''''|65%}}
+Gerüchte sprechen von einem [[Drachenhort|Hort]] in der [[Alpeninterdiktszone]] und Finanzinvestitionen im In- und Ausland, aber näheres ist nicht bekannt...
+
+==Quelle==
+* [[Chrom und Dioxin|Chrom & Dioxin]] S.67, 81, 88
+
+==Weblinks==
+*{{Shx|Schneeflöckchen|Shadowhelix: „Schneeflöckchen“}}
+
+{{KatSort|cat=Personen|NSC|Drachen|Westliche Drachen|Große Drachen}}
+{{KatSort|catsup=Personen|cat=Schweizer|CSF}}

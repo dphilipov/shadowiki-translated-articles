@@ -1,0 +1,100 @@
+{{Persona
+|CLEAR=
+|BILDPERSONA2=
+|ID=
+|ALTER_EGO=Assel (2073)
+|ANGLE= ''survivor'' of the 2075 matrix protocol changeover
+|ACTIVE_TIME=2070s
+|ACTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]]
+|BACKGROUND=Veteran of the [[Hackbirds]]-[[Matrix Gang]] (former ''key member'')
+|MOTTO=
+}}
+{{person
+|NAME_OVR=?
+|BIRTH_NAME=
+|ALIAS=formerly Assel
+|PERSONA=.asl
+|PICTURE=Asl.png
+|SIZE_OVR=
+|COPYRIGHT=<small>.asl advertises his services {{Ref|4}}<br/>{{C Pegasus}}, 2019<br/>(<u>originator:</u> Andreas "AAS" Schroth)</small>
+|BIRTH=
+|TOD=
+|BIRTH=
+|ALDER_OVR=
+|MALE
+|KIND=
+|METATYP= [[Orc]] or [[Elf]]
+|HAIR=
+|EYES=
+|MARACLES=
+|MAGIC=
+|RESONANCE=
+|MOTHER=
+|MOTHER=
+|FATHER=
+|PARTNER=
+|LOVED=
+|MARRIED=
+|WITWET=
+|MARRIED=
+|EXPARTNER=
+|CHILDREN=
+|NATION=[[Germany|German]]
+|STATE=[[ADL]]
+|VOCATION=[[Hacker]] / [[Decker]]
+|AFFILIATION=
+|CONGREGATION=
+|RELIGION=
+|SIN=
+|COM=#777445ASL
+|IMAGEPERSONA=
+|COPYRIGHT2=
+}}
+'''.asl''' - {{Shx|2073}} still going by the [[persona]] "'''Assel''''' - is a [[hacker]] or [[decker]] and a member of the [[Berlin]] [[Matrix gang]] of the "[[Hackbirds]]".
+
+==Position==
+At the time of the "[[Berlin (sourcebook)|Berlin]]" upload, the individual known as "Assel" was one of the four [[gangers]] of the "Hackbirds" matrix gang listed as leading, known ''important members'' in a [[Sternschutz]]' "gang report" at the time {{Ref|1}}.
+
+{{Shx|2080}}, at the time of the release of the "[[Datapulse: Berlin]]", he is - in contrast to his then [[gang chummers]]s "[[Zion (Hackbirds)|Zion]]", "[[Celine (Hackbirds)|Celine]]" and "[[Dumas (Hackbirds)|Dumas]]" - still around, which according to [[.rez]]' words were mercilessly filtered out in the course of the new [[Matrix]] protocols of {{Shx|2075|'75}}, as they were either among the script kiddies or among the legacy [[Decker]]s who couldn't adapt quickly enough, even if according to his own statement he is no longer among the ''important members'' respectively the top leadership of the [[gang]] around gang leader [[.sphinx]] {{Ref|2}}.
+
+==Appearance==
+If the picture .asl posted for self-promotion purposes in the course of uploading the shadow file "[[Berlin 2080]]" matches his real appearance, he is either an [[elf]] or an [[orc]], possesses (at least) one [[data jack]] and extensive, colorful [[tattoo]]s on the back of (at least one of) his hands, including part of the fingers affecting his hand, as well as - apparently - equally colorful facial tattoos in the form of geometric patterns. He wears rather ''retro'' looking [[data glasses|data-]] or [[smart glasses]] with round lenses and probably habitually wears a baseball cap {{Ref|4}}.
+
+===Persona===
+The persona icon of .asl is a pitch black brushwood man with four arms and eyes that glow like dark coals. {{Ref|6}}
+
+==Matrix activities==
+.asl enriches various German-language [[Shadowfile]]s as well as articles on "[[SRB - Shadowrun Berlin]]" with his [[Shadowtalk]] comments.
+
+In 2080, he is - along with [[.rez]] and [[.krah]] as well as [[Anne Archiste]] and six others - one of the moderators of the [[SRB node]]s {{Ref|3}} taken over from the "Hackbirds".
+
+In the shadow file "[[Berlin 2080]]" published in Arachnet in October 2080, he placed an advertisement offering himself and his services as a contact for [[Runner]]s who would be new to Berlin, deck support for [[Runnerteam]]s without [[Deckers]], and potential buyers for [[Paydata]]s {{Ref|4}}.
+
+He also - as he openly admitted in a comment on this shadow file - broke into [[Daemonika]]s label "[[Black Pirate Records]]" as a hacker to steal or copy unreleased tracks there. In the process, he found a folder called "[[Colcha]]" on the home system of the label's boss, [[Max Statuseff]], which, however, only contained encrypted chat logs that, according to him, would not have interested him, and which he therefore would not have decrypted and read {{Ref|5}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Berlin (sourcebook)|Berlin]], limited edition - Anarchoteil p.25
+*[[Datapuls: Berlin]] S.4
+*[[Shadow Handbook 3]] p.10 (contains "[[Datapuls: Berlin]]")
+*[[Berlin 2080]] p.170 (illustration/in-game advertisement)
+
+===Source details:===
+{{Ref2|1}} [[Berlin (sourcebook)|Berlin]], limited edition - anarcho part p.25.
+{{Ref2|2}} [[Datapuls: Berlin]] S.4
+{{Ref2|3}} [[SRB - Shadowrun Berlin]] - {{ref2|4}} [[https://shadowrunberlin.wordpress.com/about/ SRB - Main]]
+{{Ref2|4}} [[Berlin 2080]] Pg.170 (illustration/in-game advertisement)
+{{Ref2|5}} [[Berlin 2080]] S.158
+{{Ref2|6}} #Persona gallery on ShadowHome - Discord server for Shadowrun.
+
+===Notes:===
+That "asl." is identical with "Assel" is a logical conclusion of the article creator based on his and .rez' statements in "Datapuls: Berlin", and meanwhile (02/17/2021 RJ) confirmed.
+
+==Weblinks==
+*{Shx|.asl|Shadowhelix: .asl}}
+
+[[Category:Personas]]
+{{KatSort|cat=Personas|NSC|ADL|Berlin|Underworld}}
+{{KatSort|catsup=Personas|cat=Hacker|Europe|ADL|Berlin}}
+{{KatSort|catsup=People|cat=Gangers|Europe|ADL|Berlin|Hackbirds}}

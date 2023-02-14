@@ -1,0 +1,34 @@
+'''Toxic spirits''' or '''poison spirits''' are [[nature spirits]] or [[spirits of the elements]] that have themselves been corrupted and distorted by the poisoned, polluted, or distorted environment of their [[domain]] or the place where they are summoned.
+
+==Basics==
+The appearance of a toxic spirit differs drastically from that of a common spirit. In addition to the classic toxic spirits that would be summoned from, say, a toxic waste dump or the twisted, polluted [[North Sea]] and have been shaped by their environment, there are those that have been shaped by the [[Toxic Shaman|toxic]] [[Summoner]]. The latter are, in particular, the toxic variants of [[spirits of man|spirits of man]], [[guardian spirit|protective spirit]], and [[counselor spirit]]s, though the moral and mental corruption or a prevailing total hopelessness of [[metahumans]] in an area such as the worst corners of the [[Barrens]] also produces toxic human spirits. - However, the same is true of places where numbness, uniformity, and sterility define metahuman existence, such as some high-security [[corporate]] facilities, where human spirits can also become toxic. - At times, it is difficult to draw a clear line between Toxic Spirits of Man and [[Shadow Spirit]]s, as both groups are very similar in their malevolence and (meta)anti-human nature.
+
+===Types of Toxic Spirits===
+;Abomination : Toxic [[Spirit of the Beast]]. Appears as a mutated, distorted, and deformed animal or hybrid creature.
+;Suffering : Toxic [[spirit of man]]. Physical form resembles humans with malicious facial expressions. They haunt people's dreams and thoughts.
+;Massacre : Toxic [[Guardian Spirit]]. Embody all aspects of bloodshed, mass and even genocide. Appear as raging animal forms or humanoids, flaunting madness and bloodthirst. Can easily be mistaken for [[blood spirit]]s.
+;Nuclear : Toxic [[fire spirit]]. Often appears as a glowing, radioactive cloud or fallout.
+;Omen : Toxic [[counselor spirit]]. Often appears as emaciated figures or formless shadows and clouds.
+;Acid : Toxic [[water spirit]]. Appears as a cloud of acid that corrodes everything it touches.
+;Cinders : Toxic [[earth spirit|earth spirit]] or water spirit. Semi-solid apparition made of toxic waste and contaminated earth.
+;[[Plague Spirit|Pestilence]] : Toxic spirit of man. Appears as feverish, disease-ridden humanoids with plague sores and canker sores.
+;[[Smog spirit|Smog]] : Toxic [[air spirit]]. Appears as a choking cloud of air pollutants such as particulate matter, solvent vapors, and exhaust fumes.
+{{Shadowtalk|What is extremely interesting and disturbing at the same time is the fact that all toxic embodiments known to us so far are normal [[shaman]]s or [[nature spirit]]s perverted by toxic influence. So the toxic attracts creatures to its side, but there are so far - and so it may hopefully remain - no real embodiments of the toxic essence, as is the case, for example, with [[blood spirit|blood]] or [[insect spirit]]s - unless, of course, the perversion itself is already the toxic essence.|'''''Century Child'''''}}
+Like nearly all spirits, Toxic Spirits can become [[Free Spirit|Free Spirits]], often appearing spontaneously, manifesting or materializing in poisoned and contaminated environments, and pursuing their own corrupted agendas. - Among the unique, powerful, and almost unclassifiable [[Wild Spirits|wild spirits]], incidentally, are also toxic manifestations, such as the [[Tungak]], a wild [[plague spirit]].
+
+==Summoning==
+Toxic spirits cannot be summoned and controlled by normal [[mage]]s or [[shaman]]s, but can usually only be consciously and intentionally summoned by [[Toxic Shaman|Toxic Shaman]]s.
+{{Shadowtalk|Where the ''on purpose'' is crucial: Many an inexperienced or careless shaman has made the mistake of trying to summon an ''ordinary'' nature spirit in a contaminated environment, only to have a toxic spirit appear and immediately descend upon its summoner, neither allowing itself to be bound nor banished by the summoner...|'''''Dr. Magness'''''}}
+However, even Toxic Shamans and [[Distorted Mages]] often have little real control over the Toxic Spirits they summon, who usually only carry out orders when they meet their own destructive nature, and who otherwise seek to destroy their summoners as much as any other living being, whether [[Human]], [[Meta]], [[Plant]], or [[Critter]]...
+{{Shadowtalk|...which in turn doesn't mean that it wouldn't be possible to force a free poison spirit into a [[spirit pact]] by means of a suitable [[spirit formula]] and its True Name, and to make it so compliant, as [[Black Mages|Black Artists]] and some of the "[[Faustian Mages|True Faustians]]" occasionally practice with success!|'''''Black Magicians''''' <small>...the risk and price of doing so, however, are - even when such an endeavor succeeds - usually decidedly too high!</small>}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based in part on the paragraph "{{Shx|Toxic_Mages#Toxic_Ghosts|Toxic Spirits}}" in the article {{Shx|Toxic_Mages|Toxic Mages}} in the in the {{Shx|Mainpage|Shadowhelix}}, where it is licensed under [[GNUFDL]]. For a list of authors, see <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Toxische_Magier&action=history here]</span>,
+
+'''Primary sources for <u>Toxic Spirits</u> are:'''
+* [[Street Magic]] / [[Street Magic]] (expanded reprint in {{Pegasus V}} pp.161-164)
+* [[Running Wild]] / [[Wildwechsel Das Critterdossier]] S.181, 183, 189
+
+[[Category:Ghosts]]
+[[Category:Toxic spirits| ]]

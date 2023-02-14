@@ -1,0 +1,59 @@
+{{person
+|PICTURE=dragonspawn-cover-artwork.jpg
+|COPYRIGHT={{C Pegasus}}<br/><small>(<u>originator:</u> [[Karsten Schreurs]])</small>
+|gender=female
+|Type=[[Western Dragon]]
+|MAGIC=magical being
+}}
+{{dragon
+|COLOR=orange-red
+|HORT=[[Iceland]] or resin or [[SOX]] (?)
+|SPEAKER=none
+|APPEARANCE=2012
+}}
+'''Feuerschwinge''' was a female, [[Great Dragon|Great Dragon]] of orange-red color, who awoke in 2012 in the Harz Mountains in the old [[Federal Republic of Germany]]. He was - presumably - the mate of the Great Dragon [[Kaltenstein]].
+
+==Fate==
+After the [[dragon]] Feuerschwinge destroyed parts of the Harz in 2012 - immediately after its appearance - it was pursued by [[Bundeswehr]] task forces across the English Channel, and eventually shot down over the [[SOX]].
+{{shadowtalk|As I know from one of the Bundis who was there at the time, it crashed right into the ruins of [[Völklingen]]...|'''''[[Eismann]]'''''|68%}}
+In this case, an early [[nanoweapon]] developed by German engineer Dr. [[Adrian Vauclair]] at [[Diehl Defense]] based on the [[warfare agent]]s "[[Doom]]" was used in a special warhead he designed.
+
+However, since no body has been found, the fate of the dragon is unknown, but it is ''officially'' presumed dead, making it the first great dragon killed by [[humans]] since the dawn of the [[Sixth World|Sixth World]].
+{{Shadowtalk|Firewing is not dead! SHE is alive and hiding in the SOX, I heard! - However, due to all the poisons there, HER mind has also gone bye-bye, so that SHE is completely insane and also totally mutated. Some voices in the shadows also claim that the punks who live in the SOX worship Firewing!|'''''[[Panic!]]'''''|68%}}
+Kaltenstein attacked Luftwaffe planes over the English Channel in defense of Firewing, and later engaged in a dogfight with his fellow [[Nebelherr]] over [[Frankfurt am Main|Frankfurt]], as the latter tried to prevent him from flying into SOX to search for Firewing. In this, Kaltenstein was defeated only because the weaker Nebelherr received support from [[Lofwyr]] received support.
+
+===Rumors===
+Claims that Firewing is possibly alive, and in human form as "[[Ignifera]]" the leader of the [[Glowpunk]] sect "[[Disciples of the Purifying Fire]]" and that she - in dragon form - {{Shx|2058}} intervened in a battle with the [[MET2000]] in the ruins of [[Völklingen]] are usually dismissed as implausible as well, as are their alleged sightings in Iceland {{Shx|2015}}. - Another common theory is that her spirit was separated from her body when she was shot down, but survived, and - at least temporarily - took possession of a metahuman body. Since then, Firewing's spirit has been trying to regain a dragon body. Some also associate Firewing's name (and spirit) with the machinations of the [[AI]] [[Apex]] in anarchist [[Berlin]] of the 2050s and an alleged conspiracy aimed at a dracozide - an extermination of dragons.
+[[File:Npc humanfemale firewing.png|thumb|250px|right|Firewing in human form<br/>{{C Hardbrained}}]]
+==hoard==
+In fact, the reason for her rampage after her [[awakening]] was probably not - or not exclusively - "hibernation trauma" and shock upon awakening, which is what the [[Wales|Welsh]] [[Great Dragon]] [[Rhonabwy]] blamed his rampage in [[Carmarthen]], but the rage over the [[theft]] of a certain [[artifact]] that had been stolen by [[human]]s from their [[dragon's lair|hoard]] during their long sleep. This stolen object was - possibly - the "Ring of the Nibelungs" in a unique casket created by a master smith, and at the same time a gift from her beloved companion Kaltenstein.
+
+Treasure hunters trace Feuerschwinge's hoard to this day in the Harz mountains in vain. Other interested parties, however, believe that it is actually located on [[Iceland]] ... the present-day "[[Thule Protectorate]]" under the rule of the [[NAN]] member [[Trans-Polar Aleut Nation]]. The question of which of the two theories is now true is eagerly discussed in the forums of the [[Matrix Portal]]s "[[DIVE]]".
+{{big dragon}}
+<!-- End of article content - meta information -->
+
+==Source==
+This article is based on the article {{Shx|Firewing}} in the {{Shx|Mainpage|Shadowhelix}}, where it is maintained under [[GNUFDL]]. For a list of authors, see <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Feuerschwinge&action=history here]</span>.
+
+'''Primary sources for <u>Firewing</u> are:'''
+<u>Sourcebooks:</u>
+* [[Germany Sourcebook]] / [[Germany in the Shadows]]
+*{{Qfc|3}} [[Target: Wastelands]] p.27 / [[No Man's Land]] S.27
+*{Qfc|4}} [[Germany in the Shadows II]] p.10, 16, 24f, 150, 157f, 160
+*{Qfc|4}} [[Dragons of the Sixth World]] p.164-165, 166 / [[Dragons of the Sixth World]] S.164-165, 166
+*{Qfc|1}} [[Shadows of Europe]] p.52 / [[Europe in the Shadows]] p.52f
+*{Qfc|4}} [[SOX (sourcebook)|SOX]] S.35-36, 46
+* [[Guide to the German Shadows]]
+*{Qfc|1}} [[Sixth World Almanac]] p.23, 33, 143 / [[Sixth World Almanac]] 22, 36, 155.
+*{Qfc|4}} [[The Clutch of Dragons]] ? / [[Dragonspawn (sourcebook)|Dragonspawn]] S.158-161, 180
+*{Qfc|1}} [[Datapulse: ADL]] S.14
+
+<u>Novels:</u>
+* [[God's Angel]] - {{novel}} by [[Markus Heitz]], included in.
+* [[Shadowhunters]] - Novel Collections.
+* [[The Vitruvian Moment]] - [[List of Shadowrun novels|novel]] by [[Martina Nöth]]
+
+<u>Other:</u>
+* [[Shadowrun Returns: Dragonfall]] - Computer game
+
+{{CatSort|cat=People|NPC|Dragons|Western Dragons|Big Dragons|ADL|SOX}}

@@ -1,0 +1,20 @@
+{{Location
+|STAND=?
+|LOGO=Iolani Palace.jpg
+|ART=King's Palace
+|LOCATION=[[Honolulu]], [[Kingdom of Hawai'i]]
+|KOORD={{Koord|21|18|23.8|N|157|51|32.2|W|z=17|kbs=1}}
+}}
+The ''''Iolani Palace'' is the residence of [[Ali'i of the Kingdom of Hawai'i|Ali'i]] in the [[Kingdom of Hawai'i]].
+
+For more details on the history of this building, see the history page {{WP|ʻIolani Palace|Wikipedia}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the article {{Shx|'Iolani Palace}} in the {{Shx|Mainpage|Shadowhelix}} and is licensed there under GNUFDL. The list of authors can be viewed <br/>[http://wiki.shadowhelix.de/index.php?title='Iolani-Palace&action=history here].
+
+'''Primary sources for <u>'Iolani Palace</u> are:'''
+* [[House of the Sun]] (''engl.'' '''House of the Sun''', p.140) - novel by [[Nigel Findley]]
+
+{{CatSort|cat=Locations|Oceania|Hawaii|Honolulu}}

@@ -1,0 +1,64 @@
+{{Person
+|NAME_OVR=
+|GEBURTSNAME=
+|ALIAS=
+|PERSONA=
+|BILD=
+|SIZE_OVR=
+|COPYRIGHT=
+|GEBURT=
+|TOD=
+|UMBRUCH=
+|ALTER_OVR=
+|GESCHLECHT=männlich
+|ART=
+|METATYP=[[Mensch]] (?) {{Ref|E1}}
+|HAAR=
+|AUGEN=
+|MERKMALE=
+|MAGISCH=
+|RESONANZ=
+|BESCHWÖRER=
+|MUTTER=
+|VATER=
+|PARTNER=
+|VERLOBT=
+|VERHEIRATET=
+|VERWITWET=
+|GESCHIEDEN=
+|EXPARTNER=
+|KINDER=
+|NATION=[[UCAS|kanado-amerikanisch]]
+|STAAT=
+|BERUF=[[Ganger]] 
+|ZUGEHÖRIGKEIT=[[Cutters]]
+|KONZERN=
+|RELIGION=
+|SIN=
+|KOM=
+|BILDPERSONA=
+|COPYRIGHT2=
+}}
+'''Fortunato''' war ein jüngerer [[Ganger]] der [[Seattle]]r «[[Cutters]]»-[[Gang]].
+
+==Biographie==
+{{Shx|2054}} nahm er als Teil von "Team B" unter Leitung des Orks [[Big Bad Bart]] an einem Überfall der «Cutters» auf ein von der [[Eighty-Eights]]-[[Triade]] als Treffpunkt genutztes Lagerhaus am Pier 41 im Bereich der sogenannten [[Hyundai]]-Piers, unweit des Kingdome teil. 
+
+Auf der Fahrt zum Ort des Geschehens überspielte er - ebenso, wie sein [[Gang-Chummer]] [[Jack der Hammer|Jack "der Hammer"]] - seine Nervosität mit markigen Sprüchen und ''coolem'' Gerede, um sich und allen Mithörenden zu beweisen, daß sie angeblich ''"kalt wie Eis und glatt wie Seide"'' waren.
+
+==Beziehungen==
+Larson, der zuvor bereits mit ihm zusammengearbeitet oder die eine oder andere Flasche geköpft hatte, ging davon aus, daß der junge Fortunato ihn - ebenso, wie die übrigen Mitglieder von "Team B" und von seinem eigenen "Team A" - ihn vermutlich nicht im Auftrag Barts hinterrücks erschießen würde, wobei Jack mit Sicherheit nicht ahnte, daß Larson in Wahrheit ein Undercover-Ermittler von [[Lone Star]] war, der die Gang infiltriert hatte.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Erläuterungen==
+{{Ref2|E1}} Da bei allen Nicht-Menschen im Roman jeweils der [[Metatyp]] explizit genannt wird, geht der Artikelersteller hier davon aus, daß Fortunato ebenso wie Rick Larson ein [[Mensch]] ist.
+
+==Quellen==
+*[[Der Einzelgänger]] S.65, 66 (engl. ''"[[Lone Wolf (Roman)|Lone Wolf]]"'') - Roman von [[Nigel Findley]]
+
+==Weblinks==
+*{{Shx|Fortunato|Shadowhelix: Fortunato}}
+
+{{KatSort|cat=Personen|NSC|Menschen|UCAS|Seattle|Unterwelt}}
+{{KatSort|catsup=Personen|cat=Ganger|Nordamerika|UCAS|Seattle|Cutters}}

@@ -1,0 +1,89 @@
+{{Inoffiziell}}
+[[Datei:B1 - Dein Newsfeed für Berlin.png|thumb|right|120px|B! - Dein News-feed für Berlin (28.11.2080)<br/><small>(<u>Urheber:</u> Benutzer "Zeitgeist" im {{Pegasus}}-Forum.)</small>]]
+Der '''B1 Live Newsfeed''' (Eigenschreibweise ''"'''B! - DEIN NEWSFEED FÜR BERLIN'''"'') ist ein von der zum [[Freistadtsender B1Live]] gehörenden "B1 Live Newsgroup" kuratiertes e-News Paper oder Screamfax. 
+==Grundlagen==
+In seiner Aufmachung ist der "B1 Live Newsfeed" dem - ebenfalls bei B1-Mutterkonzern [[DeMeKo]] angesiedelten Nachrichten-Aggregator [[NovaPuls]] oder dem [[Seattle]]r [[FastFacts (Nachrichtenaggregator)|FastFacts]] nicht unähnlich, im Gegensatz zum für die gesamte [[Allianz Deutscher Länder|Allianz]] bestimmten NovaPuls und dem [[Nordamerika]]-zentrischen FastFacts jedoch praktisch ausschließlich auf [[Berlin]] bezogen.
+
+Regelmäßige Features sind das (Stadt-)Wetter, gesponsert von der zu [[Aslan Özdemir]]s Imperium gehörenden Fastfood-Kette «[[Döner King]]», und der BerlinJackpott, eine Lotterie der [[Vesuvio-Casinos]] sowie die "SUPERBLITZ"-Schlagzeilen, die in Punkto Niveau und Seriosität ähnlich einzuordnen sind, wie jene der "[[SuperBILD]]" oder des [[UCAS|kanado-amerikanischen]] "[[Digital Enquirer]]". 
+<br style="clear:both"/>
+{|align="center"
+|[[Datei:B1 - Live Newsfeed - Header.png|thumb|200px|center|Logo "B! Live - Newsfeed" - 2080 (vollfarbig)<br/><small>(<u>Urheber:</u> Benutzer "Zeitgeist" im {{Pegasus}}-Forum)</small>]]
+|}
+
+==Ausgaben==
+===2080===
+{| border=1 style="background-color:transparent; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+! Ausgabe
+! Inhalt
+! Erschienen
+! Link
+<!-- ------------------------------------------------------------------------------------ -->
+|-
+| colspan="4" align="center" id="2080" | '''2080'''
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-11-11"
+| B1 Live Newsfeed 11.11.2080
+|
+*Aktuelles in Berlin
+*Top News
+*Wetter / Berlin-Jackpot
+*[[Lofwyr|Lowfyr]] [sic!] lädt zum „1. Berliner Zukunftskongress“
+*SUPERBLITZ - News für alle!
+*In aller Kürze
+| 24.10.2020 (RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/5dfb7729-d260-4832-af9e-ed1a6f74dbd5/B1%20live%20Newsfeed%201.pdf]
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-11-28"
+| B1 Live Newsfeed 28.11.2080
+| 
+*Aktuelles in Berlin
+*Top News
+*Wetter / Berlin-Jackpot
+*Einbruch ins [[Pergamon-Museum]]
+*SUPERBLITZ - News für alle!
+*In aller Kürze
+| 07.11.2020 (RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/0fc6af11-deaa-4807-8cc4-be3a9ed69c7f/B1%20live%20Newsfeed%202.pdf]
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-12-12"
+| B1 Live Newsfeed 12.12.2080
+|
+*Aktuelles in Berlin
+*Top News
+*Wetter / Berlin-Jackpot
+*Der [[Joachim Schreiber|Feuerteufel]] schlägt erneut zu
+*SUPERBLITZ - News für alle!
+*In aller Kürze
+| 09.01.2021 (RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/73c460c5-cfa5-4137-b0f4-6bc95102a716/B1%20live%20Newsfeed%203.pdf]
+|-
+|}
+
+===2081===
+{| border=1 style="background-color:transparent; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+! Ausgabe
+! Inhalt
+! Erschienen
+! Link
+<!-- ------------------------------------------------------------------------------------ -->
+|-
+| colspan="4" align="center" id="2081" | '''2081'''
+<!-- ------------------------------------------------------------------------------------ -->
+|-class="highlight_on_targeting" id="2080-01-19"
+| B1 Live Newsfeed 19.01.2080
+|
+*Aktuelles in Berlin
+*Top News
+*Wetter / Berlin-Jackpot
+*[[Fatwa44]] - Entführung nach Debut-Auftritt!
+*SUPERBLITZ - News für alle!
+*In aller Kürze
+| 23.07.2021 (RJ)
+| [https://jimdo-storage.global.ssl.fastly.net/file/ab6d25ac-a859-4986-8bda-f335b2e68883/B1%20live%20Newsfeed%204.pdf]
+|-
+|}
+
+==Quellen==
+Dieses Newsfax ist eine Eigenerfindung von Benutzer "Zeitgeist" im offiziellen Shadowrun-Forum des {{Pegasus V}} (der NICHT identisch ist, mit dem Shadowrun-Autor hinter dem [[Shadowtalker]] "[[Zeitgeist]]"), im Stil an die "[[NovaPuls]]e" (die offiziellen ebenso, wie die inoffiziellen von Benutzer "[[Benutzer:Karel|Karel]]") sowie die "[[FastFacts]]" von Benutzer "[[Benutzer:Richter|Richter]]" angelehnt, und dem entsprechend nicht Teil des offiziellen Shadowrun-Kanon. - Ein signifikanter Teil der Meldungen bezieht sich auf gespielte Runs der [[Gruppe]] des Erstellers. 
+
+[[Kategorie:Medien]]

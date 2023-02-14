@@ -1,0 +1,60 @@
+{{Person
+|TOD={{Shx|2050}} od. {{Shx|23._Juni|23. Juni}} {{Shx|2051}} 
+|BILD=Hässlich.jpg
+|COPYRIGHT='''Hässlich''' der [[Drache]] von UniOil <br/>© [http://www.randomhouse.de/heyne/ Heyne]
+|ALIAS=Jarlath Drake
+|GESCHLECHT=männlich
+|ART=[[Westlicher Drache]]
+|MAGISCH=[[Drache]]
+|NATION=[[UCAS|kanado-amerikanisch]]
+|KONZERN=[[United Oil]]
+}}
+{{Drache
+|FARBE=braungrün/rotbraune Flügel
+|MERKMALE=zwei dicke Antilopenhörner
+|FORM=männlicher Norm, Name: Jarlath Drake (nur mit Hilfe eines magischen Rings)
+}}
+'''Häßlich''' war ein [[Erwachsener Drache|adulter]] [[westlicher Drache]], der für den Konzern [[United Oil Industries]] in [[Seattle]] als Sicherheitsbeauftragter beschäftigt war.
+
+==Biographie==
+Häßlich wurde am 24. Juni 2048 zum Sicherheitsbeauftragten von [[United Oil]] in [[Seattle]] ernannt {{Ref|1}} 
+
+Zur Strecke gebracht wurde er letzten Endes am {{Shx|23._Juni|23. Juni}} {{Shx|2051}} von einem frisch gebackenem [[Schamane]]n namens [[Samuel Verner|Sam - Samuel - Verner]] und einem [[Straßensamurai]] namens [[Ghost who walks inside]], kurz Ghost genannt, wobei der Drache tödlich getroffen in den Pudget Sund stürzte. Zuvor hatte er die [[elf]]ische Top-Runnerin [[Katherine Hart]] samt ihrem drachischen Chummer [[Tessien]] angeheuert, und sie beauftragt, Sam Verner zu töten. - Als sie ihn - nach mehreren Misserfolgen - belog, und behauptete, den Wetwork-Auftrag ordnungsgemäß erledigt zu haben, tötete Hässlich, der den Betrug durchschaute, die [[Gefiederte Schlange]] und machte sich so auch die Elfe zur Feindin, die sich in der Folge auf Twists Seite schlug. {{Ref|2}} {{Ref|3}}
+{{shadowtalk|Man hört so einiges an Gerüchten in Seattle, über eine Reihe von Experimenten, die UniOil mit der Leiche des Drachen Hässlich angestellt haben soll... {{Ref|4}}|'''''Conspir-I-see'''''<br>Vielleicht wollen die ihn ja wieder zum Leben erwecken... oder clonen?|68%}}
+
+
+==Aussehen==
+Der Drache hatte eine braungrüne Farbe, mit hellerem Bauch - ähnlich dem eines Krokodils - und rotbraune, ledrige Flügel. Ein paar kleinerer flügelähnlicher Auswüchse von gleicher Farbe saßen rechts und links seines langgezogenen Kopfes, den zwei nach hinten gerichtete, an Antilopengehörn erinnernde, lange und dicke Hörner von leicht gewellter Form krönten. Er war zudem befähigt, eine Menschengestalt mit dem Namen "'''Jarlath Drake'''" anzunehmen, was ihm durch einen magischen Ring möglich war um zwielichtige Geschäfte zu betreiben. In dieser Menschengestalt unterhielt er auch eine enge, persönliche Beziehung zu der [[Magier]]in [[Nadia Mirin]] {{Ref|5}}.
+
+==Persönlichkeit==
+Unter anderem scheute er sich nicht, aus persönlicher Machtgier - und ohne Wissen seiner Vorgesetzten bei UniOil - [[Shadowrun]]s gegen den [[AA-Konzern|Triple-A-Konzern]] [[Renraku]] zu inszenieren und zahlreiche Mordbefehle zu erteilen. Untergebene, die bei der Erfüllung wichtiger Pflichten versagten, soll er gelegentlich aufgefressen haben.
+<br style="clear:both"/>
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|Häßlich}} in der {{Shx|Hauptseite|Shadowhelix}}. Er steht dort unter [[GNUFDL]]. Eine Liste der Autoren kann <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Häßlich&action=history hier]</span> eingesehen werden.
+
+'''Primärquellen zum [[Drachen]] <u>Häßlich</u> in [[Shadowrun]]:'''<br/>
+<u>Quellenbücher:</u>
+* [[New Seattle]]
+* [[Sixth World Almanac]] / [[Almanach der Sechsten Welt]] S.71, 78 
+
+<u>Romane:</u>
+* [[Der Weg in die Schatten]] (engl. ''[[Into the Shadows]]'') - Kurzgeschichte: "Spiegelfechtereien" (engl. ''It's All Done with Mirrors'') von [[Michael A. Stackpole]]
+* [[Lass ab von Drachen]] (engl. ''[[Never Deal With A Dragon]]'') - {{Roman}} von [[Robert N. Charrette]], Band 1 der "Geheimnisse der Macht"-Trilogie
+
+===Quellendetails:===
+{{Ref2|1}} [[Almanach der Sechsten Welt]] S.71 - seine Anstellung bei UniOil
+{{Ref2|2}} [[Lass ab von Drachen]] - {{Roman}}
+{{Ref2|3}} [[Almanach der Sechsten Welt]] S.78 - sein vermutlicher Tod
+{{Ref2|4}} [[New Seattle]]
+{{Ref2|5}} [[Der Weg in die Schatten]] - Kurzgeschichte: "Spiegelfechtereien" 
+
+===Widersprüche:===
+Es scheint eine Diskrepanz zu geben zwischen dem Roman und dem ''Almanach der Sechsten Welt'' zu geben, da der Almanach das Verschwinden des Drachen auf 2051 beziffert, während der Roman den Tod auf 2050 datiert.
+
+{{KatSort|cat=Personen|NSC|Drachen|Verstorben|UCAS|Konzerne}}
+{{KatSort|catsup=Personen|cat=Security|Konzerne|UniOil}}
+[[Kategorie:Gestorben 2050]]
+[[Kategorie:Gestorben 2051]]

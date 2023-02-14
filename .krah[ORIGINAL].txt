@@ -1,0 +1,95 @@
+{{Persona
+|CLEAR=
+|BILDPERSONA2=
+|ID=
+|ALTER_EGO=
+|ANGLE=naiver und zu gleich zynischer Jung-[[Decker]]
+|AKTIVE_ZEIT=ab ca. 2078
+|AKTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]] 
+|HINTERGRUND=Jungmitglied der «[[Hackbirds]]», die Straßen von [[Berlin]] (namentlich Alternative Bezirke), Leben als Ork in Berlin
+|MOTTO=
+}}
+{{Person
+|NAME_OVR=?
+|GEBURTSNAME=
+|ALIAS=
+|PERSONA=.krah
+|BILD=.krah.png
+|SIZE_OVR=
+|COPYRIGHT={{C Pegasus}}<br/><small>(<u>Urheber:</u> [[Andreas "AAS" Schroth]], 2018)</small>
+|GEBURT=
+|TOD=
+|UMBRUCH=
+|ALTER_OVR=
+|GESCHLECHT=weiblich
+|ART=
+|METATYP=[[Ork]]in
+|HAAR=schwarz
+|AUGEN=grün
+|MERKMALE=
+|MAGISCH=
+|RESONANZ=
+|BESCHWÖRER=
+|MUTTER=
+|VATER=
+|PARTNER=
+|VERLOBT=
+|VERHEIRATET=
+|VERWITWET=
+|GESCHIEDEN=
+|EXPARTNER=
+|KINDER=
+|NATION=
+|STAAT=
+|ZUGEHÖRIGKEIT=[[Hackbirds]]
+|BERUF=[[Ganger]] / Chipkurier / [[Decker]]
+|KONZERN=
+|RELIGION=
+|SIN=
+|KOM=
+|BILDPERSONA=
+|COPYRIGHT2=
+}}
+'''.krah''' ist das [[Persona]] eines weiblichen [[Ork]]-Straßenkids und [[Ganger]]s der [[Berlin]]er [[Matrixgang]] [[Hackbirds]]. {{Ref|1}}
+
+==Biographie==
+Ursprünglich sehr jung praktisch als ''Findelkind'' zu den «Hackbirds» gestoßen, und von diesen zunächst nur als [[BTL]]- bzw. Daten-Chipkurier eingesetzt und mit Resten bezahlt, entwickelte sich .krah mit ihren Parkours-Fertigkeiten, Motor-Monoblades, einem ''gefundenen'' Profi-[[Cyberdeck]] und einer Kombination von schneller Auffassungsgabe, Talent, Cruzpe und Glück zu einer sowohl in der Fleischwelt wie auch in der [[VR]] der neuen [[Matrix]] enorm schnellen - und begabten - [[Hacker]]in respektive [[Decker]]in {{Ref|1}}.
+
+Sie arbeitet nebenbei als Bargirl im «[[Modem]]», der Hacker-Kneipe der «Hackbirds», die sich tief im "Jewühl" von [[AGC-Siemensstadt]] versteckt {{Ref|2}}.
+
+==Persönliches==
+Ihre [[Shadowtalk]]-Kommentare offenbaren gelegentlich noch eine gewisse Naivität, speziell, was wirtschaftliche und politische Zusammenhänge und Hintergründe jenseits der Berliner Bezirkspolitik angeht {{Ref|3}} {{Ref|4}}, oder geben auch schon mal unreflektiertes Halbwissen ungeprüft wieder {{Ref|5}}, aber dies ist angesichts ihrer Jugend und ihres ''bildungsfernen'' Hintergrunds wohl verzeihlich, und .krah ist diesbezüglich auch definitiv lernfähig. {{Ref|3}} {{Ref|4}} [[Anti-metamenschlich]]e Rassisten kann sie - nachvollziehbarer Weise - überhaupt nicht ab, und ein NovaPuls-Artikel, der die entsprechenden Äußerungen des [[Hannover]]aner [[PNE]]-Spitzenmannes [[Hanno Wehr]] wiedergab, veranlasste sie deshalb dazu, sich verbal auf [[metaBEEP]] ''auszukotzen'' {{Ref|6}}. - Auf der anderen Seite klingen manche Äußerungen von ihr - wie auch von [[.rez]] - speziell für ihr junges Alter geradezu erschreckend zynisch {{Ref|7}}, und sie ist bekennende Anhängerin der umstrittenen Talkshow "SPLATTERTALK" mit [[Vampir]]celebrity [[Bella Lugosi]] auf "[[Pulse-B]]" {{Ref|3}}.
+
+''Ihr'' Kiez ist laut eigener Aussage der "Pückler-Kiez", in [[FKB]], wo die «[[Initiative Autofreies Kreuzberg]]» das Sagen hat, und PKW und Motorräder deshalb verbannt wurden. {{Ref|8}}
+
+==Matrix-Aktivitäten==
+.krah reichert seit Erscheinen des "[[Datapuls: Berlin]]" mehrere deutschsprachige [[Schattendatei]]en wie auch Artikel auf "[[SRB - Shadowrun Berlin]]" und - via "Shadowbot"-App - auch [[NovaPuls]]-Ausgaben mit Shadowtalk-Kommentaren an. 
+
+In der Einleitung zum "[[Datapuls: Berlin]]" stellte .rez sie - ebenso, wie sich selbst, [[.spoof]] und [[.root]] - dem Leser mit einem kurzen Biographie-Absatz samt Bild vor. {{Ref|1}}
+
+2080 gehört sie - neben [[.rez]] und [[.asl]] sowie [[Anne Archiste]] und sechs weiteren - zu den Moderatoren des von den «Hackbirds» übernommenen [[SRB-Knoten]]s {{Ref|9}}. 
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Datapuls: Berlin]] S.4
+*[[Schattenhandbuch 3]] S.10
+
+===Quellendetails:===
+{{Ref2|1}} [[Datapuls: Berlin]] S.4
+{{Ref2|2}} [[Berlin 2080]] S.30
+{{Ref2|3}} [[Im Herz der Dunkelheit]] S.193 - Shadowtalkkommentar
+[[SRB - Shadowrun Berlin]] - <span class="plainlinks">[https://shadowrunberlin.wordpress.com/2018/06/19/gnb-biztalk-mit-spinrad-global-berlin/ <nowiki>[</nowiki>GNB<nowiki>]</nowiki> Biz!Talk mit Spinrad Global Berlin]</span> - {{Ref2|4}} Shadowtalkkommentare
+{{Ref2|5}} [[Im Herz der Dunkelheit]] S.195 - Shadowtalkkommentar
+{{Ref2|6}} [[NovaPuls#2079-10-20|NovaPuls]] - 20.10.2079: "<span class="plainlinks">[https://shadowrunberlin.wordpress.com/2017/10/20/novapuls-10-79/ Realer Toter bei virtuellem Killerspiel <nowiki>[</nowiki>Allianz im Blick<nowiki>]</nowiki>]</span>" - Shadowtalkkommentar
+{{Ref2|7}} [[Datapuls: Berlin]] S.9 - Shadowtalkkommentare
+{{Ref2|8}} [[Datapuls: Berlin]] S.25 - Shadowtalkkommentar
+{{Ref2|9}} [[SRB - Shadowrun Berlin]] - [https://shadowrunberlin.wordpress.com/about/ SRB - Main]
+
+==Weblinks==
+*{{Shx|.krah|Shadowhelix: .krah}}
+
+{{KatSort|cat=Personen|NSC|Orks|ADL|Berlin|Unterwelt}}
+{{KatSort|catsup=Personen|cat=Ganger|Europa|ADL|Berlin|Hackbirds}}
+{{KatSort|catsup=Personen|cat=Decker|Europa|ADL|Berlin}}
+[[Kategorie:Personas]]

@@ -1,0 +1,56 @@
+{{person
+|PICTURE=Feather.jpg
+|COPYRIGHT={Ref|2}} {{C Pegasus}}<br/><small>(<u>Artist:</u> [[Mathias Mauksch]])</small>
+|gender=female {{Ref|1}} {{Ref|2}}
+|METATYP=[[human]] {{Ref|1}} {{Ref|2}}
+|MAGIC=no
+|NATION=[[Japan|Half-Japanese]] {{Ref|1}} {{Ref|2}}
+|VOCATION=[[Knife Claw]] {{Ref|1}} {{Ref|2}} / [[Ganger]]in/Dealer {{Ref|3}} (former bodyguard, ex-[[Big Willi]] inmate {{Ref|1}} {{Ref|2}} {{Ref|3}})
+|MEMBERSHIP="[[Kreeper]]" (2080) {{Ref|3}}
+}}
+"'''Feather'''' '''Ryoko''''' is - despite her nickname - [[Japan|half-Japanese]] and a [[Gilette]], a female [[Knife Claw]].
+
+==Biography==
+[[File:Feather Ryoku (SW).JPG|thumb|left|"Feather" Ryoko (older image) {{Ref|1}} {{C Pegasus}}<br/><small>(<u>Artist:</u> [[Andreas "AAS" Schroth]])</small>]
+After serving a few years in [[Big Willi]] for a failed action against [[Ares Macrotechnology]], she was freshly released in the early {{Shx|2070s}}. She had taken a bodyguard job with the [[Vory]] dealer [[Dag "Stomp" Joergensen]], which she sees as a stepping stone back into the [[Shadow]] business, even though she had no love for the [[Lobatchevski]]s, the [[Ork]] or [[BTL Chips]]. - Her loyalty to the [[Russia|Russians]] was accordingly not overly high, even if like any Runner she has a reputation to uphold, and is quite capable in the bodyguard business. - She usually responds to threats and interrogation attempts with accentuated boredom.... {{Ref|1}} {{Ref|2}}
+
+However, the (ex-)[[Shadowrunner]] had quite a bit of stress with her parole officer, who got her a legal job at a [[Matrix]] café as a parolee, and exploited her to the best of her ability along with her boss there, pocketing half her pay for the day job. - She also lacked [[Connections]], and would have been happy if someone could hook her up with a good new [[Slider]] {{Ref|1}} {{Ref|2}}
+
+When the Russians' business in [[Bergedorf]] came under pressure, and went increasingly bad, "Feather" Ryoko then took her fate into her own hands: she rammed her wakizashi into her ''client'' "Stomp" Joergensen, and took over what was left of his business activities. Meanwhile - in 2080 - she joined forces with the "[[Kreeper]]"-[[Gang]], which has its turf in Anekistraße in Neuallermöhle, and is thick in the [[cram]] business {{Ref|3}}.
+
+She is also said to have been seen more recently in the "[[Mikado]]" in [[Hamburg-Nord]] {{Ref|3}}.
+
+==Appearance==
+Feather is of medium height, well-toned, and can be attractive if she puts in the effort. She is slender and dark haired. Most of the time, she wears the usual [[synthetic leather outfit]]s along with [[armored vest]]s in monochromatic gray and black with an inconspicuous red appliqué on the collar and slightly contrasting colored protectors in the upper arm area on the sleeves of the jacket. - Her ballistic-lined undergarment (see image at left), however, is decidedly less dressy.... {{Ref|1}} {{Ref|2}}.
+
+==Equipment==
+Besides the obligatory [[commlink]] and a [[knife]], she is also armed with an [[Ares Predator]] and an [[Ingram Smartgun]] when she's out with Stomp, or squatting in his pad in Bergedorf, which alone would be enough to get her back to Big Willi if the [[HanSec]] caught her with it {{Ref|1}} {{Ref|2}}
+
+===Bodyware===
+Before she was even in prison, she also implanted herself with some [[cyberware]], which includes both [[smartgun wiring]] and [[reflex boosters]] that make her movements seem almost unnaturally smooth and powerful, and also possesses an implant that makes her tolerate pain significantly better than an [[uncybertarian]]s [[human]]s {{Ref|1}} {{Ref|2}}
+
+==Relationships==
+Because she flat out refuses to join the "[[Willis]]" and join the gang of ex-Big Willi inmates, she is hated by them. The Vory probably doesn't have much kind things to say about her or to her either {{Ref|3}} because of the murder of "Stomp", whom she was supposed to protect.
+
+[[Likedeeler]] and possibly the [[Yakuza]], on the other hand, seem interested in establishing a business relationship with her {{Ref|3}}
+
+On their own current enemies list, the gang of "[[Creatures]]" is at the top, as these psycho-punks are direct competitors of their "Kreepers" in the cram-biz in Bergedorf {{Ref|3}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Shadowrun Beginner Rules]]  & "Free Market" V2 ([http://www.pegasus.de/fileadmin/_downloads/shadowrun/Einsteigerregeln_v2.pdf Pdf], color) pp.26-29.
+*[[Free Market]] ([http://www.pegasus.de/fileadmin/_downloads/shadowrun/FreierMarkt.pdf Pdf], black & white)
+*[[Datapuls: Hamburg]] S.51
+
+===Source details:===
+{{Ref2|1}} [[Free Market]]
+{{Ref2|2}} [[Shadowrun Beginner's Rules]] S.26-29
+{{Ref2|3}} [[Datapuls: Hamburg]] S.51
+
+==Weblinks==
+* {{Shx|Feather_Ryoko|Shadowhelix: "Feather" Ryoko}}
+{{DEFAULTSORT:Ryoko, "Feather"}}
+{{KatSort|cat=People|NSC|People|ADL|Hamburg|Underworld}}
+{{KatSort|catsup=People|cat|Fighters|Europe|ADL|Hamburg}}
+{{KatSort|catsup=People|cat=Gangers|Europe|ADL|Hamburg|Bergedorf|Kreepers}}

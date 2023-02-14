@@ -1,0 +1,86 @@
+{{Unofficial}}
+{{Person
+|NAME_OVR=.26K
+|BIRTH_NAME=Lisa Ilíc
+|ALIAS=.26k (''Twenty-Six Kay''), Kay
+|PERSONA=
+|PICTURE=
+|SIZE_OVR=
+|COPYRIGHT=
+|BIRTH=
+|TOD=
+|BIRTH=
+|AGE_OVR=23 years
+|gender=female
+|KIND=
+|METATYP=[[human]]
+|hair=dark
+|EYES=
+|MARKS=obvious, old [[cyberarm]] and [[cyberleg|-leg]], various [[tattoos]].
+|MAGIC=
+|RESONANCE=
+|DISTURBERS=
+|MOTHER=
+|FATHER=
+|PARTNER=
+|LOVED=
+|MARRIED=
+|WITWET=
+|MARRIED=
+|EXPARTNER=
+|CHILDREN=
+|NATION=[[Berlin]]erin ([[Serbia|Serbian]] roots)
+|STATE=
+|OCCUPATION=[[Decker]]in / [[Ganger]]in
+|AFFILIATION= [[Hackbirds]]
+|[[CORPORATION=formerly [[Saeder-Krupp]]
+|RELIGION=
+|SIN=
+|COM=
+|FIGURE2=
+|COPYRIGHT3=
+|IMAGEPERSONA=
+|COPYRIGHT2=
+}}
+'''.26K''' (pronounced ''Twenty-Six Kay'', often shortened to '''Kay''') - civil name '''Lisa Ilíc'''' - is a [[Berlin]]er [[shadow]][[decker]]in with [[Serbia|Serbian]] roots, who was born a [[Saeder-Krupp]]-[[Konzernbürger]]in, and a member of the [[Hackbirdz]][[Matrixgang]].
+
+==Background==
+"Twenty-Six Kay" is a rarity: a [[Decker]]in with a functioning social life. In fact, you hardly ever meet her in her cluttered little decker shack on the top floor of a [[Lichtenberg]] prefab building. You're more likely to meet her at the deckers' den "[[Modem]]" in [[Gropiusstadt]], where she often spends hours chatting with her best friend, the [[orc]]-decker "[[.krah]]", with whom she is also in the [[deckers' gang]] "[[Hackbirdz]]". She is also often seen at the [[Fortress Island Eiswerder]] in [[Spandau]] or partying at night in X-hain or at the [[Kreuzberg Assassins|Assassins]] games. In general, she seems to know a few people in almost every district.
+
+Yet her life has not been a string of parties and acquaintances for a long time. She was born a [[Saeder-Krupp|S-K]]-[[corporate citizen]]in and both parents were ambitious, high-level programmers and workaholics. As tensions in the family increasingly escalated, she took advantage of 2072, when Berlin's Civil War ended with [[Operation "Just Cause"]] and the subsequent "reunification", to escape to [[X-Hain]] at the age of 15 with a stolen deck. Two years later, she lost her forearm and a leg when an armored [[Centurion]] vehicle ran over the left side of her body in the crush of an anti-S-K demonstration. She lived as an invalid for two years before deciding to take out a "[[Vory]] loan" of 20,000[[€]] to be bought by the Russian [[dwarf]]s [[slider]] [[Georgy Lebeyev|"Makarov"]] to purchase used [[cyber limbs]]. Lisa was very happy with this decision until she fell behind on the first installments and two Vory thugs gave her a reminder by carving the debt amount at the time ("26k") into her right forearm. In the meantime, the debt has grown to €60,000 and 26k - now 23 years old - has joined a [[runner team]] to at least manage the monthly interest.
+
+==appearance==
+Lisa - or .26K - wears her dark hair in a sidecut. At 1.56 meters is very short for a norm, and has a petite stature. She is usually seen in unwashed, often holey street clothes, often with colorful polit-buttons and pins. She has - in addition to [[data jack]] and [[image link]] - an obvious [[cyberarm]] and an equally [[cyberleg|leg]] that are clearly older than she is. In addition, there are [[tattoos]] on the respective still biological arm and leg (circled "F" and "A", characters from VR games, quotes from old punk songs), which cover the scars of a "26k" carved with a [[knife]].
+
+===Persona===
+As a [[persona]]-[[icon]] in [[VR]], she uses a ninja penguin.
+
+==Appearance==
+The decker speaks in a nasal voice, more Berlinish than German - "Weeß ick ooch net, Atze!" She speaks quickly and hardly lets others finish. She is also prone to irony and light teasing and is slightly addicted to alcohol. While she is extremely extroverted, open and communicative, she harbors an extreme hatred for [[corporations]] (especially S-K). Most of the time, however, her face shows a teasing grin. She is a-romantic and a-sexual, quite carefree, hyperactive and - despite everything - soft-hearted.
+
+==Assets==
+.26K is often on the road with a - good quality - skateboard, and has a cheap bike next to it.
+
+She has - as mentioned - a flat in a Plattenbau in Lichtenberg, and calls - besides her [['ware]], the clothes and an action figure with animatronics - an Hermes Chariot as well as an Hermes Ikon her own - each with shockproof, water-resistant housing, touchscreen display as well as earplugs and all the usual features for [[Cyberdeck]] and [[Kommlink]], respectively. [Commlink]] features (chip player, credstick reader, micro camera, micro-trip projector, music player and RFID scanner), and of course all the necessary [[cyber programs]]s and [[apps]]. Plus cables, [[sim module]]s with [[hot sim|hot sim]]s, an area jammer, and a [[toolbox]] for hardware repairs.
+
+It also now owns a [[firearm]] - a [[light pistol]] of the Fichetti Security type with an extendable shoulder stock, 30 rounds of standard [[ammunition]] for it, and a hammer.
+
+==In-game==
+===Profile==
+*'''Name:''' Lisa Ilíc
+*'''Alias:''' .26k / "Kay"
+*'''Profession:''' [[Neo-anarchism|neo-anarchist]] [[Decker]]in
+*'''Species:''' [[Human]]
+*'''Age:''' 23 yrs.
+*'''Origin:''' [[Berlin]] (Serbian roots)
+*'''Place of residence:''' Berlin - [[Lichtenberg]]
+*'''Persona:''' Ninja Penguin
+
+==Sources==
+This [[character]], intended as an [[NPC]] decker, is purely an invention of user "Zeitgeist" on the official Shadowrun forum of Pegasus Verlag (who is NOT identical to the Shadowrun author behind the Shadowtalker "Zeitgeist"), and accordingly not part of the official Shadowrun canon. - Background, appearance and equipment were taken by the article creator from their pdf linked below.
+
+==Weblinks==
+*[https://pdf-ins-internet.de/26k-berliner-deckerin/ Character Pdf: .26k - Berlin Decker]
+
+{{DEFAULTSORT:Ilíc, Lisa}}
+{{CatSort|cat=People|NSC|People|ADL|Berlin|Corporations|Saeder-Krupp}}
