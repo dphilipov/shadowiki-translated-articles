@@ -1,0 +1,84 @@
+{{unofficial}}
+{{incomplete}}
+{{Persona
+|NAME_OVR=.chtrl
+|ANGLE=Hackergirli / Script Kid / Brat
+|ALTER_EGO=Cheri Hackler
+|AKTIVE_BOARDS=Berlin Cable Matrix, [[SRB - Shadowrun Berlin|SRB]], [[Netzwerk Berlin]], [[P 2.0]]
+|ACTIVE_TIME=from about 2078 onwards
+|BACKGROUND=Streams of various, crude "pranks" on P 2.0, vicious jokes, sick humor
+}}
+{{person
+|NAME_OVR=C
+|BIRTH_NAME=Cheri Hackler
+|ALIAS=
+|PERSONA=.chtrl
+|PICTURE=
+|SIZE_OVR=
+|COPYRIGHT=
+|BIRTH=
+|TOD=
+|BIRTH=
+|AGE_OVR=13, at most 14
+|MISCELLANEOUS= female
+|KIND=
+|METATYPE=[[elf]]s (maybe [[human]])
+|hair=blond (probably dyed)
+|EYES=one blue, one green (often uses colored contact lenses)
+|MARKS=[[elven poser]]in if human
+|MAGIC=
+|RESONANCE=
+|DISTURBERS=
+|MOTHER=
+|FATHER=
+|PARTNER=
+|LOVED=
+|MARRIED=
+|WITWET=
+|MARRIED=
+|EXPARTNER=
+|CHILDREN=
+|NATION=[[ADL|German]] ([[Berlin]]erin)
+|STATE=
+|VOCATION=Scriptkid / Young [[Hacker]]in / [[P 2.0]]-starlet
+|CONTRIBUTOR=
+|AFFILIATION=[[P 2.0]], [[Hackbirdz]] [[Ganger]]in or Hangaround?
+|RELIGION=
+|SIN=about a dozen changing people's SINs
+|COM=
+|IMAGEPERSONA=
+|COPYRIGHT2=
+}}
+'''Cheri Hackler''' is a 13- or 14-year-old at most, annoying and downright ruthless [[hacker]]girl or rather script kid from [[Berlin]]s alternative district [[Marzahn-Hellersdorf]], who has a [[P 2.0]] account.
+
+==Personality==
+Cheri is a real ''brat'' and a product of the micro-ferral conditions in Marzahn and ''Höllendorf''. Having come into possession of an invitation to P 2.0 by blackmailing a [[Horizon]]-[[Corporate Citizen]], she has never achieved any notable centrality value in the [[Social Network|Social Network]], but makes up for it with enormously high follower and subscription numbers, which she achieves with vid streams of various, self-staged, crude ''pranks'' that the victims usually can't laugh at by any stretch of the imagination. Whether [[meta-humanity|(meta-)humans]] are seriously harmed in the process is usually a matter of luck, and probably mindens two fatalities are at least indirectly on her account.
+{{Shadowtalk|For example, she rigged several of the "[[Shibori]]" vending machine bars to pop open and randomly shoot drink cans at passersby when a song by "[[Renraku Corpkid Riot]]" went off as a ringtone less than a meter away, and filmed the victims and their reaction using various, taken-over cameras in the area, and then streamed the footage.... really isn't funny, getting a full can of "[[Neil, the Orc Bar#Merchandising|Neil Beer + E]]" to the eyeball with near muzzle velocity of a [[Light Pistol|Small Caliber Pistol]]!|'''''[[Silas Heinrich]]''''' < silas.heinrich@[[AzGrid]].com/stuffer-plus/adl >|64%}}
+"trademark" of her streams is a hysterical, shrieking teen laugh with which she punctuates them, and the - often suboptimally timed - insertion of the words ''"Just Kidding"'' with a variable number of exclamation points behind them in the form of a "Comic Sans" font in pseudo-3D.
+{{Shadowtalk|I honestly don't like her, and it has nothing to do with how she calls me names. I know how shitty she grew up and that I'm supposed to feel sorry for her, but honestly I think she should be shown how far her "fun" goes for her own sake. '''''[[FFE]]'''''|64%}}
+She is loosely associated with the Berlin [[Matrix gang]] of the "[[Hackbirdz]]", referring to herself as a member or friend and hangaround of the gangers depending on her mood (In the [[gang]], on the other hand, there are some who would clearly deny both statements).
+
+In November {{Shx|2082}}, [[.sphinx]] - the secretive, current gang leader of the "Hackbirds" - made the statement in the [[Shadow Pulse 2082-10-25 (unofficial)|NovaPulse of 10/25/2082]], hijacked by the "Hackbirds" via [[ShadowBot]]-[[App]] and turned into the "Shadow Pulse", that she was ''"NOT a member of the Hackbirds"'', and asked not to contact the Matrix Gang with complaints about her and her behavior {{Ref|1}}.
+
+==Appearance==
+In ''Real Life'', Cheri is a slender, freckled girl with blonde, probably dyed hair, and either actually an [[elf]]e or an [[elfposer]]in. The most striking feature in her otherwise unspectacular face, with a hint of a sky nose, are her two different colored eyes: the left eye is naturally blue, while the right is clearly green. - To conceal this feature, which would otherwise give her high recognition value, she often uses colored contact lenses. - She prefers to wear cheap clothes in denim look, occasionally leggings with one red and one black leg and printed hearts, checks, crosses and spades symbols, and in addition a usual three sizes too wide, lightly armored [[synth leather jacket]] from the "[[City War]] deployment" collection, whereby the question of whose team logo and colors she wears seems to be of - at best - subordinate interest to her. Her feet are actually always in heavy Kiezbotten, which also look more than one size too big on her, slightly like clown shoes...
+
+==Assets==
+Cheri apparently uses a variety of different [[commlink]]s with [[dongle]]s and [[sim module]]s (the majority of which appear to be ''bored out'' for [[hot sim]]s), and apparently - in addition to hidden cameras and [[spy RFID]]s - also has access to editing equipment and several [[SimRig]]s from various unfortunates whose [[SimSense recordings|SimFeeds]] she uses. (Almost certainly without their consent.) - Some of the comms she uses are apparently virus-infested, and - in addition to her feeds - simultaneously spread avalanches of [[noise#spam|advertising spam]] and [[jingle worms]]s whenever she streams anything with them over the [[WiFi Matrix]].
+{{Shadowtalk|Complaints of her followers and subscribers on P 2.0, that she is a real virus-hater with her streams, she takes as little seriously as everything else, and tends rather to give snotty answers to corresponding PNs, and to make fun of the spam victims. - Costs her quite a few subscribers, of course, but just as quickly she generates new subscriptions with her streams with involuntary performers, so that her subscriber count fluctuates in the low, six-digit range in 2080/81...!|'''''[[Felix]]''''' - Them and that irresponsible [[Korean]]nical chatterbox - [[Kwang]], or whatever the [[Jerk]]'s name is - would go really well together!}}
+===Persona===
+Cheri's [[persona]]-[[icon]], which she uses alongside the signature "'''.chtrl''''', is a {{WP|Chibi}} roughly based on the look of "{{WP|Harley_Quinn|Harley Quinn}}"s from the {{WP|Batman}} comics and cartoons.
+{{Shadowtalk|And the "humor" of this Cheri is often no less vicious, sick and murderous than that of the fictional villainess who went from Joker's psychologist to his crazed lover and partner in crime in the "Batman" universe...! - For us "Hackbirdz" she is - regardless of the fact that she is really good in the [[Matrix]] and especially in the streams - quite a boil on the butt, which some of us (me, [[.asl]] and [[.krah]] included) would thankfully do without...!|'''''[[.rez]]''''' - <small>It would really be better off with the [[Discordians]]s or the [[Shaders]]s, because that's where it would fit!</small>}}
+{{shadowtalk|Fur...what? - You mean ''"Pain in the Ass"'', or .rez?!|'''''[[.krah]]'''''}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This character is purely the invention of user "[[User:Karel|Karel]]", and accordingly not part of the official Shadowrun canon. Any similarities to real or fictional persons would be purely coincidental, and in no way intended by the author.
+
+===Source details:===
+{{Ref2|1}} .sphinx' statement about herself in Shadow Pulse is - like her [[character]] - a pure invention of the [[user:Karel|article creator]] in the context of the INOFFICIAL Shadowpulse of 10/25/2082, and therefore not part of the official Shadowrun canon.<br/>(see → [[Shadowpulse 2082-10-25 (unofficial)]]) 
+
+{{DEFAULTSORT:Hackler, Cheri}}
+{{KatSort|cat=People|NPC|Elves|Humans|ADL|Berlin|Underworld}}
+{{KatSort|catsup=People|cat=Hacker|Europe|ADL|Berlin|Marzahn-Hellersdorf}}
+{{KatSort|catsup=People|cat=Gangers|Europe|ADL|Berlin|Marzahn-Hellersdorf|Hackbirds}}
