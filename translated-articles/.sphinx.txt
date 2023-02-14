@@ -1,0 +1,74 @@
+{{Partially Unofficial}}
+{{Incomplete}}
+{{Persona
+|CLEAR=
+|BILDPERSONA2=
+|ID=
+|ALTER_EGO=
+|ANGLE=matrix mystery, gang leader
+|ACTIVE_TIME=late 2070s, 2080s
+|ACTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]]
+|BACKGROUND=Hackbirdz-Gang-Interna, Berlin, Hacking
+|MOTTO=
+}}
+{{person
+|NAME_OVR=?
+|BIRTH_NAME=
+|ALIAS=
+|PERSONA=.sphinx
+|PICTURE=
+|SIZE_OVR=
+|COPYRIGHT=
+|BIRTH=
+|TOD=
+|BIRTH=
+|AGE_OVR=
+|MALE= male (presumed)
+| TYPE=
+|METATYP=
+|HAIR=
+|EYES=
+|MARACLES=
+|MAGIC=
+|RESONANCE=
+|MOTHER=
+|MOTHER=
+|FATHER=
+|PARTNER=
+|LOVED=
+|MARRIED=
+|WITWET=
+|MARRIED=
+|EXPARTNER=
+|CHILDREN=
+|NATION= ? ([[Berlin]]er)
+|STATE=
+|occupation= [[gang]]leader
+|AFFILIATION= [[Hackbirds]]
+|CONCERN=
+|RELIGION=
+|SIN=
+|COM=
+|FIGURE2=
+|COPYRIGHT3=
+|PICTUREPERSONA=
+|COPYRIGHT2=
+}}
+'''.sphinx''' is supposedly the mysterious [[gang]]leader of the [[Berlin]]s [[Matrix gang]] of "[[Hackbirds]]" in 2080.
+
+==Matrix activities==
+In October 2082, .sphinx made the statement in the [[Shadow Pulse 2082-10-25 (unofficial)|NovaPuls of 10/25/2082]] hijacked by the "Hackbirds" via [[ShadowBot]]-[[App]] and turned into the [[Shadow Pulse]], [[.chtrl]] - civic: [[Cheri Hackler]] - was '''NOT a member of the Hackbirds''', and asked that complaints about her and her behavior not be directed to the Matrix Gang. {{Ref|10}}
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Datapuls: Berlin]]
+*[[Berlin 2080]]
+
+===Source details:===
+{{Ref2|1}} .sphinx' statement in Shadowpuls is purely an invention of [[User:Karel|article creator]] within the INOFFICIAL Shadowpuls of 10/25/2082, and therefore not part of the official Shadowrun canon.<br/>(see → [[Shadowpuls 2082-10-25 (unofficial)]]) 
+
+{{KatSort|cat=People|NSC||ADL|Berlin|Underworld}}
+{{KatSort|catsup=People|cat=Ganger|Europe|ADL|Berlin|Hackbirds}}
+{{KatSort|catsup=Personas|cat=Decker|Europe|ADL|Berlin}}
+[[Category:Personas]]

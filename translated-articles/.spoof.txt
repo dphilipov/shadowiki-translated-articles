@@ -1,0 +1,95 @@
+{{Persona
+|CLEAR=
+|BILDPERSONA2=.spoof.png
+|COPYRIGHT3={{C Pegasus}}<br/><small>(<u>Copyright:</u> [[Andreas "AAS" Schroth]], 2018)</small>
+|ALTER_EGO=.
+|ANGLE={nlt}}particularly paranoid and/or security-conscious and/or clever [[decker]]
+|ACTIVE_TIME=from ca. 2078
+|ACTIVE_BOARDS={{nlt}}[[arachnet]], [[SRB]], [[Netzwerk Berlin]], [[Berliner Kabelmatrix]], [[Panoptikum]]
+|BACKGROUND=invented and / or borrowed from [[AR-Matrix-Games]] and [[Trid]]shows, own Vita
+|MOTTO=
+}}
+{{person
+|NAME_OVR=?
+|BIRTH_NAME=
+|ALIAS=
+|PERSONA=.spoof
+|PICTURE=
+|SIZE_OVR=
+|BIRTH=
+|TOD=
+|BIRTH=
+|AGE_OVR=
+|DAMAGE=
+| TYPE=
+|METATYP=
+|MARKETS=
+|MAGIC=
+|RESONANCE=
+|DISTURBERS=
+|MOTHER=
+|FATHER=
+|PARTNER=
+|LOVED=
+|MARRIED=
+|WITWET=
+|MARRIED=
+|EXPARTNER=
+|CHILDREN=
+|NATION=
+|STATE=
+|AFFILIATION= [[Hackbirds]]
+|VOCATION= [[Ganger]] / [[Decker]]
+|CONCERN=
+|RELIGION=
+|SIN=
+|COM=
+|IMAGEPERSONA=
+|COPYRIGHT2=
+}}
+'''.spoof''' is the [[persona]] of a [[ganger]]s or [[gangeress]]s of the [[Berlin]]s [[Matrix gang]] of the "[[Hackbirds]]".
+
+==Background==
+Even the other "Hackbirds" only know .spoof online, from the [[VR]] of the [[WiFi Matrix]], and don't know what gender or [[metatype]] he/she belongs to, as he/she is by far the most paranoid (or security-conscious and smartest) of the gangers.  
+
+===Stories===
+.spoof himself gives to his background again and again other, by the hair pulled and contradicting, unbelievable background stories to the best:
+*he/she is a high-ranking [[corporation]] employee who wants to destroy the ''system'' from the inside,
+*he/she is an extremely hot gamer girl from [[Falkensee]],
+*he/she is the virus-infected operating system of a "[[SoiSoiSoi]]" snack machine in [[Xhain]] respectively [[FKB]],
+*he/she is the ''deep-cover'' mole of a still existing [[intelligence service]] of the old [[FRG]] left behind the enemy lines, and even
+*he/she is a [[dragon]].
+
+The other ''hackbirds'' gangers have so far been able to expose and identify 96.3% of these obviously fictitious stories as quotes from [[trideo]]-films and -series or [[AR-Matrix-Games|Matrix-Games]].
+
+==Term==
+The [[Matrix]] alias is a practically perfect fit, as "to spoof" in [[hacker]] circles means as much as to borrow, use, or steal someone else's ID, or to impersonate another Matrix user in order to disguise one's own identity (often fraudulently, to benefit unjustifiably from someone else's reputation, or to drag their reputation through the mud).
+{{Shadowtalk|...like this [[questioned]]e [[Drek]]s copycat who, under my name - "Karel" - has made comments on various recent [[NovaPuls]] issues that I '''so''' never wrote...! ''[[Ask]] 'he''! ...|'''''[[Karel]]''''' - last captain of the Royal Bohemian Mountain Navy|67%}}
+
+==appearance==
+===Persona icon==
+The [[Persona]]-[[Icon]], as the only known appearance .spoof, depicts a purple to pink cartoon cat (or perhaps a cartoon dragon) with its mouth wide open with implied dentition, with the flames of three burning fuses protruding almost vertically from its mouth completely obscuring the actual sensory organs - eyes and nostrils.
+
+==Matrix activities==
+.spoof clearly belongs to the leading coven of the hacker gang in the late 2070s, early 2080s, and since the release of "[[Datapuls: Berlin]]" contributes several German-language [[Shadowfile]]s as well as articles on "[[SRB - Shadowrun Berlin]]" and - via "Shadowbot" app - also to [[NovaPuls]] issues Shadowtalk comments.
+{{Shadowtalk|In contrast to some other notorious paranoiacs of the German-language [[Shadow Matrix]] like the unforgettable [[Panic!]]/[[Panik]] or the [[Austrian]] [[Elf]]en-[[Hawara]] [[Matrix-Poldi]], however, .spoof does not seem to be a muddle-head and conspiracy theorist, and for the most part posts seemingly quite sensible and sound information...!|'''''[[Dolores El Kharimi|Curiosity THRILLS the Cat]]'''''}}
+
+===Shadowtalk:===
+*[[Datapuls: Berlin]] [[[Shadow Manual 3]]
+*[[Lifestyle 2080]] S.193, 194
+*[[Berlin 2080]]
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Datapuls: Berlin]] S.4
+*[[Shadow Handbook 3]] S.10
+*[[Lifestyle 2080]] S.193, 194
+
+==Weblinks==
+*{Shx|.spoof|Shadowhelix: .spoof}}
+
+{{KatSort|cat=People|NSC|ADL|Berlin|Underworld}}
+{{KatSort|catsup=Persons|cat=Ganger|Europe|ADL|Berlin|Hackbirds}}
+{{KatSort|catsup=Personas|cat=Decker|Europe|ADL|Berlin}}
+[[Category:Personas]]
