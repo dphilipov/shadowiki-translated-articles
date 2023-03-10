@@ -1,0 +1,28 @@
+{{Inofficial}}
+{{Location
+|STAND=2072
+|LOGO=Base logo.png
+|COPYRIGHT=[http://www.2nd-base.de © 2nd Base]
+|ART=Metal / underground club
+|LOCATION=at the main cafeteria, <br/>Callinstraße 23, 30167 [[Hannover]]
+|DESTROY=2071
+|DESTROY=''cable fire''
+}}
+The '''2nd Base'''' was a metal and underground club near the university in [[Hannover]] {{Ref|1}}.
+
+==History==
+The club burned out completely in {{Shx|2071}} after being in business for over 60 years. According to official announcements, a short circuit in the wiring was responsible, causing a cable fire, though in the year of the [[Tempo Drug War]]s, this may not have been a pure coincidence.... {{Ref|1}}
+
+{{Shx|2072|One year later}} the completely renovated and rebuilt pub then reopened on the evening of June 10 under the name "[[The Laboratory]]" with a completely new design and under new management {{Ref|1}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+{{Ref2|1}} [[Shockwave Rider Forum|Shockwave Rider InGame Forum]] - Thread "The Lab - New old club reopens its doors" by user "Graf Zahl" and user "Pulsfrequenz" there.
+
+The club and its description is a complete self-invention of "Graf Zahl" and the other forum user, and is not mentioned in any official Shadowrun source.
+
+==Weblinks==
+* [http://www.2nd-base.de 2nd Base] - Homepage of the club in the real present.
+
+{{CatSort|cat=Locations|Europe|ADL|North German Confederation|Hanover}}

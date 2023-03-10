@@ -1,0 +1,34 @@
+{{Location
+|STAND={{Shx|2080}}
+|QUELLE={{Ref|1}}
+|LOGO=
+|COPYRIGHT=
+|ALIAS=
+|BESCHREIBUNG=Gediegener Danceclub mit Privatlogen {{Ref|1}} und AR-Kellnern
+|LAGE={{nlt}}16. OG der Metropolis-Arkologie, Charlottenburg-Wilmersdorf, Berlin {{Ref|1}}
+|KOORD=
+|BESITZER=[[DeMeKo]] {{Ref|1}}
+|SECURITY=
+|LTG=
+|ZERSTÖRT=
+|ZERSTÖRER=
+|BILD=
+|COPYRIGHT2=
+|KARTE=
+|COPYRIGHT3=
+}}
+Das '''1927''' ist ein ein gediegener, aber öffentlich zugänglicher Danceclub im 16. OG des Hauptturmes der [[Berlin]]er [[Metropolis-Arkologie]] mit Nordblick, in dem sich der bauliche Stil der Goldenen Zwanziger und modernste Musik- und Lichttechnik mischen und ergänzen. Wie die meisten Locations im „Golden 20s“ Design verfügt auch das 1927 über diskrete Nischen und private Logen, was den Club auch als Treffpunkt beliebt macht.
+{{Shadowtalk|Cool finde ich in der [[AR]] die [[Augmented Reality Environment Programm#Verbreitete ARE-Programme|virtuellen Kellner]], bei denen man seine Bestellung aufgibt. Sind schön animiert, und man kann zwischen drei Setups wählen (Klassische Kellner, Hübsche Hostessen und Tricky Toons)|'''''Viper_Max'''''|64%}}
+{{Shadowtalk|Ich hasse Two-Tone Turtle, den Toon-Kellner. Der geht einem aufn Sack mit seinen Sprüchen.|'''''HellToy'''''|64%}}
+{{Shadowtalk|Mir gefällt Sexy Sarah am Besten. :)|'''''Viper_Max'''''}}
+{{Shadowtalk|HALLO? Könnt ihr Kiddos euch woanders unterhalten???|'''''Khan'''''}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem entsprechenden Absatz im Artikel "[http://rabenwelten.wordpress.com/2010/10/20/shadowrun-brennpunkt-metropolis/ Brennpunkt: Metropolis]" auf [http://rabenwelten.wordpress.com Rabenwelten], der dort unter {{WP|Creative_Commons|Creative Commons}} Lizenz steht. 
+
+Die Metropolis-Arkologie - und alle Locations darin - sind eine Eigenerfindung von [[Andreas Schroth|Andreas "RabenAAS" Schroth]], und kommen in keiner bisherigen Shadowrun-Publikation vor. Sie werden allerdings teilweise im "[[Berlin (Quellenbuch)|Berlin]]"-Quellenbuch für die [[Shadowrun: Editionen#4. Edition|vierte Edition]] von [[Shadowrun]] (limitierte Ausgabe, S.63, Konzernteil) kurz erwähnt.
+
+Im [[Berlin 2080]], S.33 findet das "1927" ausdrücklich Erwähnung.
+
+{{KatSort|cat=Locations|Europa|ADL|Berlin|Charlottenburg-Wilmersdorf|Metropolis}}

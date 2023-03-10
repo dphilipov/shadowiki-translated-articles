@@ -1,0 +1,66 @@
+{{unvollständig}}
+==Buchinformationen==
+[[Datei:Source cover en 10 Mercs.jpg|thumb|120px|right|Cover<br/>{{C Cat}}]]
+*'''Art.-Nr.:''' E-CAT26S034 
+*'''Edition:''' 4. Edition
+*'''Titel:''' 10 Mercs
+*'''Sprache:''' englisch
+*'''Verlag:''' {{Cat}}
+*'''Format:''' nur eBook (Pdf mit Wasserzeichen)
+*'''Seitenzahl:''' 52 Seiten
+*'''Dateigrösse:''' 4.66 MB
+*'''Erschienen:''' 25.02.13
+*'''Preis:''' 7,95 $ 
+
+===Autoren, Illustratoren & Mitarbeiter:===
+*'''Autor(en):''' R.J. Thomas
+*'''Illustratoren:''' Ian King, [[Brent Evans]], Josh Heebsh
+
+==Rückseitentext==
+Cynical, Sold-out, and Skilled
+
+Hired guns. People without a country who know no loyalty. Opportunists, bottom-feeders, scavengers, vultures. Soldiers without a soul who will go to the worst hells on Earth and do just about anything for a buck.
+
+That’s how they talk about [[Söldner|mercenaries]]. But that’s how they talk about [[shadowrunner]]s, too.
+
+There’s a fine line between mercenaries and shadowrunners, and it’s a line that gets crossed repeatedly. Sometimes runners will find themselves in the battlefield, working with a mercenary group and doing their best to survive as all kinds of fire rain down on their heads. Other times, they’ll find themselves in the sights of a skilled and deadly mercenary corps, trying to stay alive against superior numbers and firepower.
+
+Either way, they should know about the mercenary units out there, to either improve their bargaining position or help them stay alive. 10 Mercsprofiles ten different mercenary outfits, including [[Ryan Mercury]]’s New Assets, the unconventional skill of [[Bravo Company]], and the deadly [[Magie|magic]] of [[Task Force Magus]]. These groups present an array of threats or a bounty of opportunities—depending on which end of the barrel you’re at.
+
+Along with the unit profiles, 10 Mercs provides [[NPC]] stats for each unit along with information on [[Fahrzeuge|vehicles]] used by many of the units. If mercenaries are going to play a role in your campaign, 10 Mercs is a critical resource for adding flavor, plot hooks, and rules to your Shadowrungame.
+
+10 Mercs is for use with [[Shadowrun, Twentieth Anniversary Edition]].
+
+==Inhaltsverzeichnis==
+*[[Jackpoint]]
+*Debts
+*Ten Mercs: Fighting for Their Own Reasons
+*[[Fifty-Eighth Battle Brigade]]
+*[[180th Independent Air Regiment]]
+*[[Seventy-Seventh Independent Rangers]]
+*[[Bravo Company]]
+*[[Free Marine Corps]]
+*[[Iron Cavalry]]
+*[[New Assets]]
+*[[Task Force Magus]]
+*[[Team Zero]]
+*[[Thunder Corps]]
+
+==Anmerkungen==
+"10 Mercs" ist ähnlich aufgebaut, wie das englischsprachige "[[10 Gangs]]", und weist daher wie die Mehrzahl der eBook-only-Produkte - abgesehen von den Bookmarks - kein separates Inhaltsverzeichnis auf. 
+
+==Siehe auch==
+*[[Liste der Quellen- und Regelbücher]]
+
+==Weblinks==
+*{{Shx|Quelle,_en:_10_Mercs|Shadowhelix: 10 Mercs}}
+*{{Shwikia|Source:10_Mercs|Shadowrun Wikia: 10 Mercs}} (''englisch'')
+
+===Bezugsquellen:===
+*<span class="plainlinks">[http://www.battlecorps.com/catalog/product_info.php?products_id=3127 10 Mercs]</span> im BattleShop
+*<span class="plainlinks">[http://rpg.drivethrustuff.com/product/111768/Shadowrun%3A-10-Mercs 10 Mercs]</span> auf DriveThru RPG
+
+===Previews:===
+*[http://rpg.drivethrustuff.com/pdf_preview_handler.php?uri=http%3A%2F%2Fwatermark.drivethrustuff.com%2Fpdf_previews%2F111768-sample.pdf Preview] (Pdf, ''englisch'')
+
+{{KatSort|cat=Quellen|Quellenband|Englisch|4. Edition|Catalyst Game Labs|2013}}

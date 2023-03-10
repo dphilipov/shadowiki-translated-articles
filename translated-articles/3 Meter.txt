@@ -1,0 +1,26 @@
+{{interpreter
+|STAND=2072
+|SOURCE={Ref|1}}
+|ALTERNATIVE=
+|SHORT=
+|ORIGIN=[[Puyallup]], [[Seattle]] (then [[UCAS]])
+|GENRE=[[Trough Rock]]
+|FINNING=
+|FINNING=
+|SALES=
+|MEMBERS=
+}}
+'''3 Meters'''' is anno {{Shx|2072}} a local [[trough rock]] Formation from [[Puyallup]].
+
+Their name obviously refers to the exorbitant height of [[troll]]s, or even the troll [[meta-variant]] of [[giant]]s, to which the musicians presumably belong. - Whether their fame will ever extend beyond the [[Seattle]]r [[Metroplex]], however, is uncertain....
+
+<!-- End of article content - meta information -->
+
+==Sources==
+* [[Shadow Cities]] Pg.65 (reprint of {{Pegasus V}}, pg.65)
+
+===Source details:===
+* [[Shadow Cities, reprint]] S.65
+
+{{CatSort|cat=Music|Bands}}
+{{DEFAULTSORT:Bands/3 meters}}

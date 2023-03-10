@@ -1,0 +1,34 @@
+{{Begriffserklärungshinweis}}
+{{Person
+|GESCHLECHT=männlich
+|METATYP=[[Zwerg]]
+|MAGISCH=nein
+|NATION=[[UCAS|kanado-amerikanisch]]
+|BERUF=[[Söldner]] / Waffenexperte
+}}
+'''8-Ball''' ist der Straßenname eines schwarzen [[Zwerg]]s, der zur Masse der besitz- und [[SIN]]-losen auf den Straßen [[Seattle]]s gehörte. Er war in der [[Squatter]]gemeinschaft der «[[Krypta]]» in den [[Puyallup Barrens]] aufgewachsen, und hatte dort bereits in jungen Jahren gewisse Grundlagen des Nahkampfs von entsprechenden ''Lehrern'' erlernt. 
+
+Eines Nachts hatte er allerdings einen beinahe tödlichen Zusammenstoß mit einem - angetrunkenen - Mitglied des [[Humanis-Policlub]]s in einem [[Stuffer Shack]] nahe seines Zuhauses. Das [[Policlub]]-Mitglied hatte zunächst den Verkäufer des Ladens beschuldigt, sein [[Soyfood|Soybier]] an Kinder zu verkaufen, und anschließend den (volljährigen) Zwerg zum ''Tanzen'' gezwungen, in dem er ihm die acht Kugeln aus seinem Revolver direkt vor die Füße schoss. - Anschließend wurde der Rowdy und [[anti-metamenschlich]]e Rassist  allerdings von dem späteren 8-Ball mit einem Messerstich ins Bein zu Boden gebracht, als er mit Nachladen beschäftigt war... und gleich darauf vom «Stuffer Shack»-Angestellten, den er ebenso wie den Zwerg bedroht hatte, mit einer [[Remington Roomsweeper]] erschossen. Der Zwerg beschloss daraufhin, daß es besser wäre, zu lernen, eine Schusswaffe an Stelle eines Messers oder Schwerts zu benutzen, da er nie wieder ''Opfer'' sein wollte. Er rasierte sich seine Afro-Frisur komplett ab, und trug seither stets Glatze, was zusammen mit der Geschichte für seinen Kampf- und Spitznamen 8-Ball verantwortlich ist, und begann, sich im Selbststudium zum Waffenexperten auszubilden, und praktisch alles über moderne Feuerwaffen zu lernen, was es darüber zu wissen gab. 
+
+Wie er es gerne ausdrückte: "I learned how to use anything ranged, from rocks to rockets." 
+
+In der Folge war er - wenn er sich nicht in der Nähe der «Krypta» bzw. in [[Seattle]] aufhielt - u. a. an diversen Söldnereinsätzen rund um den Globus beteiligt.
+
+Während des Kampfes um die «Krypta» im Oktober 2063 gegen die [[Söldner]], die von den soziopathischen [[Aztechnology]]-Angestellten [[Thomas Mathers]] und [[Marc Herrara]] angeheuert worden waren, um das Gelände von seinen Bewohnern zu ''säubern'', war der zwergische Waffenexperte ganz wesentlich für die Abwehrstrategie der Verteidiger und für deren Bewaffnung verantwortlich.
+
+==Andere Individuen mit Namen Eight Ball / Eightball==
+In der [[Schattenmatrix]] der [[ADL]] gab es vor dem [[Crash von 2064|zweiten Matrixcrash]] allerdings auch eine Userin, die sich "[[Eightball]]" nannte. Hinter dieser [[Persona]] verbarg sich jedoch eine [[Straßenhexe]]. Unter dem Namen [[Eight Ball]] ist auch eine [[Schieber]]in aus [[Miami]] zu finden, die Gerüchten nach etwas mit Insektengeistern zu tun hat.
+
+==Quellen==
+Dieser Artikel basiert auf einer Übersetzung des Artikels {{Shwikia|8-Ball}} im ehemaligen SixthWorld Wiki - heute {{Shwikia|Main_Page|Shadowrun Wikia}} - der dort unter Creative Commons Lizenz steht. Die Listen der Autoren kann man <span class="plainlinks">[http://shadowrun.wikia.com/wiki/8-Ball?action=history hier]</span> nachlesen.
+
+'''Die Primärquelle zum Zwerg <u>8-Ball</u> ist:'''
+* [[Für eine Handvoll Daten]] (engl. „[[A Fistful of Data]]“) und
+* [[For A Few Nuyen More]] - [[Liste der Shadowrun Romane|Romane]] von [[Stephen Dedman]] 
+
+==Weblinks==
+*{{Shx|8-Ball|Shadowhelix: 8-Ball}}
+*{{ShPwikia|8-Ball|Shadowrun Wikia: 8-Ball (''polnisch'')}}
+
+{{KatSort|cat=Personen|NSC|Zwerge|UCAS}}
+{{KatSort|catsup=Personen|cat=Kämpfer|Nordamerika|UCAS|Seattle}}

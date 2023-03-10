@@ -1,0 +1,33 @@
+{{Teilweise Inoffiziell}}
+{{Location
+|STAND=2071
+|QUELLE=
+|LOGO=
+|COPYRIGHT=
+|ALIAS=
+|BESCHREIBUNG={{nlt}}thematisch gestalteter Club, beherrscht von Licht- und Holoinstallationen, mit riesigem, begehbaren virtuellen Gästebuch (beliebter Hangout für [[Konzern]]-Sysops und Möchtegern-[[Hacker]])
+|LAGE={{nlt}}innerhalb der [[Metropolis-Arkologie]], [[Charlottenburg-Wilmersdorf]], [[Berlin]], [[ADL]]
+|KOORD=
+|BESITZER=
+|SECURITY=
+|LTG=
+|ZERSTÖRT=
+|ZERSTÖRER=
+|BILD=
+|COPYRIGHT2=
+|KARTE=
+|COPYRIGHT3=
+}}
+Das '''11811''' ist ein weiterer der thematisch gestalteten Clubs innerhalb der [[Berlin]]er [[Metropolis-Arkologie]].
+
+==Beschreibung==
+Neben «[[Josaphat]]» spielt ein Arbeiter namens «11811» eine herausragende Rolle im {{WP|Metropolis_(Film)|Film Metropolis}} – sein Name wird aber im Fall dieses Clubs eher modern interpretiert: Statt ölverschmierter Zahnräder beherrschen modernste Licht- und Holo-Installationen die Welt dieses Treffs, dem man hohe Popularität unter [[Konzern]]-Sysops und [[Hacker]]-Wannabes nachsagt. Die klassischen Stilelemente der Metropolis-Welt finden sich hier in der [[AR]] und in den Hologrammen und Monitoren wieder, wo unablässig programmierte Personas schwere Hämmer schwingen und sich ein Uhrwerk leuchtender Zahnräder über den Clubhimmel spannt. Das Ganze hat nach Ansicht mancher etwas klaustrophobisches, wozu auch die Vielzahl an verborgenen Nachrichten in der AR beitragen, die von Besuchern als gigantisches, „begehbares Gästebuch“ beschriftet werden kann.
+{{Shadowtalk|Guter Ort um verborgene Daten und Kontaktinfos zu deponieren.|'''''HAL2001'''''|64%}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem entsprechenden Absatz im Artikel "[http://rabenwelten.wordpress.com/2010/10/20/shadowrun-brennpunkt-metropolis/ Brennpunkt: Metropolis]" auf [http://rabenwelten.wordpress.com Rabenwelten], der dort unter {{WP|Creative_Commons|Creative Commons}} Lizenz steht. 
+
+Die Metropolis-Arkologie - und alle Locations darin - sind eine Eigenerfindung von [[Andreas Schroth|Andreas "RabenAAS" Schroth]], und kommen in keiner bisherigen Shadowrun-Publikation vor. Sie werden allerdings teilweise im "[[Berlin (Quellenbuch)|Berlin]]"-Quellenbuch für die [[Shadowrun: Editionen#4. Edition|vierte Edition]] von [[Shadowrun]] (limitierte Ausgabe, S.63, Konzernteil) kurz erwähnt.
+
+{{KatSort|cat=Locations|Europa|ADL|Berlin|Charlottenburg-Wilmersdorf|Metropolis}}

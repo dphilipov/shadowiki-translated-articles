@@ -1,0 +1,39 @@
+{{person
+|METATYP=
+|METATYP=
+|MAGIC=
+}}
+The 16th incarnation of the '''Dalai Lama''' is sought by the [[Tibet|Tibetan]] [[Lotus Throne Sect]] and was in any case {{Shx|2064}} still unknown....
+The 16th incarnation of the [[Dalai Lama]] is the head of state of [[Tibet]].
+
+==Biography==
+{{Shx|2063}} / {{Shx|2064}} was still being searched for the 16th Dalai Lama after his 15th incarnation {{Shx|2060}} / {{Shx|2061}} passed away {{Ref|1}}. The state oracle of Tibet, [[Nyimabumo]], prophesied that the 16th Dalai Lama would be the bridge to the outside world of Tibet {{Ref|2}}. According to this prophecy, the search for the new incarnation was entrusted to the [[Lotus Throne Sect]], which went all over the world to look for it {{Ref|1}}.
+
+However, this search was to be anything but easy, because at the same time there were reports of various conflicts. For example, there was a shooting at the [[Takya Monastery]] in [[Bellevue]], which follows Tibetan Buddhism. Further, there was a whole series of violent acts against Tibetan communities in a number of Asian cities, though these were dismissed as old Han-Tibetan conflicts. It seems, however, that the [[Triads]] were specifically responsible. The cult also reportedly sought refuge in [[squatter]] communities in the lower levels of the [[ACHE]], where mostly [[metahumans]] and refugees reside {{Ref|1}}.
+
+===Audience===
+{{Shx|2070}} the Dalai Lama seems to have been found by now, as the [[Artificial Intelligence]] [[Bai Li]], who converted to [[Buddhism]], invited to an audience with his holiness {{Ref|3}}.
+
+{{Following bar
+|PREVIOUS=[[15th Dalai Lama]]
+|FOLLOWER=-
+|AMT=Dalai Lama
+|STARTBREAK=1
+|ENDBREAK=1
+}}
+
+==Sources==
+This article is based on the article {{Shx|16th _Dalai_Lama|16th Dalai Lama}} in the {{Shx|Main|Shadowhelix}}, where it is available under GNUFDL. For a list of authors, see <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=16._Dalai_Lama&action=history here]</span>.
+
+'''Primary sources on the <u>16th Dalai Lama</u> are:'''
+* [[Shadows of Asia]] p.71, 72 (''English'' only).
+* [[Emergence]] / [[Emergence - Digital Awakening]] S.114
+
+===Source details:===
+{{Ref2|1}} [[Shadows of Asia]] p.71
+{{Ref2|2}} [[Shadows of Asia]] p.72
+{{Ref2|3}} [[Emergence - Digital Awakening]] S.114
+
+{{KatSort|cat=People|NSC|Tibet}}
+{{catSort|catsup=people|cat=spiritual|Buddhism|Asia|Tibet}}
+{{CatSort|catsup=People|cat=Politicians|Asia|Tibet}}

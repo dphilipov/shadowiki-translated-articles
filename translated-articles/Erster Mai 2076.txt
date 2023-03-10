@@ -1,0 +1,35 @@
+{{incomplete}}
+{{Event
+|Event=Massacre of demonstrators
+|Place={nlt}}Around Kottbusser Tor, [[Friedrichshain-Kreuzberg]], [[Berlin]]
+|TIME={{Shx|1._May|1. May}} {{Shx|2076}}
+|PARTICIPATED={{nlt}}
+:[[Bianca Voyé]]
+:[[Sternschutz]]
+:protesters
+}}
+'''May Day 2076''' or '''May Day Massacre''' is the term used in [[Berlin]] to describe the heavy street fighting between demonstrators and [[Sternschutz]] forces led by [[Bianca Voyé]] following escalation of the annual Revolutionary May Day demonstration in [[Friedrichshain-Kreuzberg]], which ended in a massacre with over a thousand deaths due in part to Voyé's orders to use lethal force.
+
+==History==
+On May 1, 2076, there were riots again, which even eclipsed the riots of the previous year. Rumors also claim that a Discordian commando called [[Operation Mindfuck]] and the terrorist network [[Last Front]] were involved in the escalation. In the so-called [[May Massacre]], forces of the [[SonderSchutzTruppe]] led by [[Bianca Voyé]] Encircled demonstrators at [[Kotbusser Tor]] and opened fire on her orders. SST officer (and later dubbed "Hero of Berlin") [[Sergej Rudek]] defied the order and managed to stop the violence. Nevertheless, some 1,200 people died while Voyé was hunted throughout Berlin. For months, there were Friday protests for the removal of Sternschutz leader [[Erhardt Ahrend]], and the first Alternative Police Service of the [[Black Bears|Schwarzen Bären]] was founded by Rudek. The contract with the Sternschutz was massively cut in favor of a [[Berlin Police Freedom]].<ref>{{QDE|ber2080}} Pg.15</ref>
+
+==Likelihood of confusion==
+Notwithstanding the ugs. alternative designation, this event must not be confused with the "[[May Day Massacre]]", when the [[New Druid Movement]] in various major cities of [[Britain]] (and there especially [[London]]) on the night of {{Shx|1 May|First}} {{Shx|2075}} a random and seemingly aimless series of bloody attacks or rampages using [[magic]].
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the article {{Shx|First_May_2076|First of May 2076}} in the {{Shx|MainPage|Shadowhelix}}, where it is available under [[GNUFDL]]. For a list of authors, see <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Erster_Mai_2076&action=history here]</span>.
+
+'''Other sources for <u>First of May 2076</u> include:'''
+*[[NovaPuls]]
+**[[NovaPuls#2076-05-21|2076-05-21]] "Berlin hunts a murderess", "May 1, 2076 protocol of a chaos night", "Sagedorn worried about Berlin development".
+**[[NovaPuls#2076-06-21|2076-06-21]] "Anti-Erhardt demonstrations continue"
+**[[NovaPuls#2076-07-23|2076-07-23]] "The cards are reshuffled," "Overview of the Voyé crisis"
+*[[https://shadowrunberlin.wordpress.com/2014/05/08/44-eine-woche-nach-dem-blutigen-1-mai/ SRB - Shadowrun Berlin]] - Pirate News article "A week after the bloody May 1st".
+
+==Weblinks==
+*{{WP|First_May_in_Kreuzberg|Wikipedia: First May in Kreuzberg}} - Article on the real May Day riots in Kreuzberg.
+*{Shx|First_May_2076|Shadowhelix: First of May 2076}} - Article in the Shadowhelix
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|2076}}

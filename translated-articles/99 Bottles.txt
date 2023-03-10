@@ -1,0 +1,67 @@
+'''99 Bottles''' is the first product from the new "Enhanced Fiction" series for the [[Shadowrun: Editions#4th Edition|fourth Edition]] of [[Shadowrun]]: A short story and a ready-to-play adventure "99 Bottles of Yakuza" based on it, with all the information needed to play including location descriptions and [[NPCs]] with game values.
+
+It was released on September 16, 2011 (real time) in English and exclusively as a pdf.
+
+==Book information==
+[[File:99BottlesCover.jpg|thumb|right|Cover<br/>{{C Cat}}]]
+*'''Item#:''' CAT265005
+*'''Edition''' 4th edition.
+*'''Title: 99 Bottles
+*'''Language:''' English
+*'''Publisher:'' {{Cat}}
+*'''Type:''' eBook only (Pdf with watermark)
+*'''Number of pages:''' 29 pages (11.76 MB)
+*'''Published:''' 16.09.2011
+*'''Price:''' 4.95$
+
+===Authors, illustrators & contributors:===
+*'''Author(s):''' Rusty Childers
+*'''Artist(s):'' Ian King, Patrick Sullivan
+
+==Back cover text==
+Bodies Are Stacking
+
+Mob wars are ugly things, but not all ugliness is created equal. Things are going bad in [[Bangkok]], and one [[Yakuza]] leader named [[Shinoda Yoshinori]] has been receiving a series of unsettling messages: bodies of other members of his gumi, packaged and delivered in a decidedly unique fashion. If Yoshinori wants to preserve his gumi - and save his life - he's going to have to take action. Due to the depleted manpower in his gumi, he's ready to turn to [[shadowrunner]]s for help.
+
+99 Bottles introduces Shadowrun's new Enhanced Fiction line, in which short stories are accompanied by information and statistics that allows you to incorporate elements of the story into your game. In this book, the story kicks off a short adventure that is presented with all the information [[gamemaster]]s and players need, from plot points to [[NPC]] stats to details of specific locations in the seething, energetic city of Bangkok. Let the new fiction set the stage for a plunge into one of the [[Sixth World's]] seamiest spots!
+
+99 Bottles is for use with [[Shadowrun, Twentieth Anniversary Edition]]
+
+==Contents list==
+*'''Hard Men Humbled'''
+*'''99 Bottles of Yakuza'''
+**Introducion
+***Preparing for the Adventure
+***Adventure Structure
+***Race against Time
+***Main Sections
+***Plot Synopsis
+***Bangkok at a Glance
+***Security in Bangkok
+**The Land of Smiles
+***Scan This
+***Tell it to them Streight
+***Hooks
+***Behind the Scenes
+***Pushing the Envelope
+***Debugging
+***Places of Intrest
+***Grunts and Moving Targets
+**Bottled up
+***Scan This
+***Tell it to them Streight
+***Hooks
+***Behind the Scenes
+***Debugging
+**The Way we Roll
+***Scan This
+***Re
+
+==Weblinks==
+{{Shx|source,_en:_99_Bottles|Shadowhelix: 99 Bottles}}
+===Preview:===
+* [http://watermark.drivethrustuff.com/pdf_previews/94986-sample.pdf Preview] (Pdf, ''English'')
+
+===Review:===
+* [http://diehardgamefan.com/2011/09/22/tabletop-review-shadowrun-99-bottles-of-yakuza/ Review by DieHard Game Fan] (''English'')
+{{CatSort|cat=Sources|Adventure|Short Stories|Enhanced Fiction|English|4th Edition|Catalyst Game Labs|2011}}

@@ -1,0 +1,199 @@
+{{Current Publication}}
+'''30 Nights''' is an adventure volume for the [[Shadowrun: Editions#6th Edition|Sixth Edition]] of [[Shadowrun]]. This is set in [[Toronto]], and contains - against the backdrop of events from the setting and campaign volume "[[Cutting Black]]" - an adventure for each of the 30 nights of fatal blackouts that afflict the media metropolis and capital of [[Ontario]]-like the rest of the UCAS-and bring it to the brink of doom.
+
+It was published in original English (and considerably late) by {{Cat}} on March 4, 2020, as an ebook in watermarked pdf format, as well as in print hardcover. In the latter, "30 Nights" includes a full-color map of [[Toronto]]s printed on the inside cover.  This is a map from the game "[[Sprawl Ops]]".
+
+The German translation under the title "'''30 Nights and 3 Days'''' will be published in {{Pegasus V}} hardcover. The ebook pdf edition will be available from February 13, and the print version will be released for Free Roleplaying Day 2020, on March 14. It will include 3 additional adventures in the ADL influenced by events in North America.
+
+A French translation was released on June 24, 2021 by French licensee {{Blackbooks}} under the title "'''30 Nuits'''', and includes an exclusive French addition.
+
+==Product information==
+{|align="center"
+|[[File:30-nights-cover.jpg|thumb|right|200px|Cover<br/>{{C Cat}}, 2g020]]
+|[[File:Cover 30-nights-and-3-days.png|thumb|right|185px|Cover<br/>{{C Pegasus}}, 2020]]
+|[[File:Cover 30 Nuits.png|thumb|right|200px|Cover<br/>{{C Blackbooks}}, 2020]]
+|}
+*'''Item no.:'''' E-CAT28400 (''English'') / ??? (''German'') / BBESR606 (''French'')
+*'''Title:'' 30 Nights
+*'''Type:''' Adventure Tape
+*'''Edition:'' 6th edition
+*'''Language:''' English
+*'''Publisher:''' {{Cat}}
+*'''German title:''' 30 nights and 3 days.
+*'''German edition:''' {{Pegasus V}}
+*'''French title:''' 30 Nuits
+*'''French edition:''' {{Blackbooks}}
+*'''Format:''' print / eBook
+*'''Binding:''' Hardcover
+*'''File format:''' Pdf with watermark
+*'''File size:'' 14.39 MB (''english'') / 20.9 MB (''german'')
+*'''Number of pages:''' 144 pages (''English'') / 190 pages (''German'') / 152 pages (''French'')
+*'''Published:''' 04.03.2020 (''English'') / 13.02.2020 (''German'', eBook) / 14.03.2020 (''German'', print) / 24.06.2021 (''French'', eBook, print pre-orderable)
+*'''price:'''
+**''english:'' 19,99 (eBook) / 39,99 $ (print or eBook + print)
+**''german:'' 19,95 €
+**''french:''' 20,00 € (eBook) / 35,00 € (eBook + print)
+*'''ISBN:'' ??? (''english'') / 978-3-95789-329-1 (''german'') / 978-2-36328-974-2 (''french'')
+
+===Authors, illustrators & contributors:===
+*'''Chief editor Shadowrun:''' [[Jason M. Hardy]]
+*'''Texts:''' [[Scott Bieniek]], [[Brooke Chang]], [[Jason M. Hardy]], [[Jason Hawks]], [[Jeff Halket]], [[Trevor Laughlin]], [[Bryan C.P. Steele]], [[Malik Toms]]
+*'''Editing and proofreading:''' Chuck Burhanna, Bruce Ford, Mason Hart, J. Keith Henry, Francis Jose, Louis Ray, Robert Volbrecht, Jeremy Weyand, Aric Wieder
+*'''Art Direction:''' [[Brent Evans]], [[James Mosingo]]
+*'''Cover art:''' [[Benjamin Giletti]]
+*'''Illustrations:''' [[Tyler Clark]], [[Benjamin Giletti]], [[Phil Hilliker]], [[Jack Hoyle]], [[Sarah Lindstrom]], [[Dan Martin]], [[Júlio Cesar Oliveira Rocha]], [[John Tedrick]], [[Alena Zhukova]]
+*'''Layout & Design:''' [[Matt Heerdt|Matt "OK Schooner" Heerdt]]
+
+<u>German edition:</u>
+*'''German Editor-in-Chief:''' [[Tobias Hamelmann]]
+*'''Translation:''' Manuel Krainer, Manfred Sanders, Nadja Sommerfeld.
+*'''German additional texts:''' [[Torben Föhrder]], [[Christian Götter]], [[Jörg Middendorf|Jörg "Hampi" Middendorf]]
+*'''German additional illustrations:''' [[Felix Mertikat]], [[Andreas "AAS" Schroth]]
+*'''Cover design:''' Ralf Berszuck
+*'''Layout of the German edition:''' Tobias Hamelmann
+*'''Proofreading:''' Benjamin Plaga
+
+==back cover text==
+===English:===
+NIGHT FALLS...IT WILL ONLY GET WORSE<br/>
+The first night of a citywide blackout usually has rioting and lawlessness. The second night continues the chaos. The third night? Well, whoever heard about a citywide blackout going three nights?
+
+It's about to happen, and shadowrunners caught in the middle will have to deal with more than darkness. There will be howling critters roaming free. Strange spirits and twisted metaplanar beings appearing and pursuing unknown goals. And mysterious vans that somehow still have power slowly roaming the streets, sending out some sort of signal.
+
+The streets will be getting more dangerous, and shadowrunners will be in the middle of it, first trying to survive, then trying to earn some cash, and finally trying to uncover the secrets the blackout was supposed to hide.
+
+30 Nights is a campaign book for Shadowrun, Sixth World. As the campaign propels players through each day of a month-long blackout, the stakes and danger accelerate toward a grand finale. Whether you pick a few days to play or dive into all 30 nights, this book will provide a Shadowrun gaming experience like no other!
+
+===german:===
+<big>'''WENN ES DUNKEL WIRD'''</big><br/>
+
+The first night of a power outage, there is usually unrest. The second, chaos sets in. But the nights after that? How long can a power outage last? [[Runner]]s who venture into the darkness must fear for their lives: Gruesome creatures prowl the darkness, strange [[ghosts]] and twisted, metaplanar beings pursuing unknown goals. Mysterious vans drive slowly through the night, sending signals. The streets become increasingly dangerous - and events draw the Runners deeper into the blackness than they initially suspect.
+
+30 Nights and 3 Days is a campaign book for Shadowrun 6. Thirty adventures take you through the nights of a month-long blackout, a metaplot event described in more detail in the sourcebook [[Blackout (Sourcebook)|Blackout]]. Included is a large-scale map of [[Toronto]] with all the major locations and three complete adventures in the [[ADL]]-three days related to the blackout across the ocean. With more light, but no less [[shadow]].
+
+===French:===
+<big>La nuit tombe... Tout va empirer.</big>
+
+Une première nuit de black-out total dans une ville est souvent synonyme d'émeutes et d'anarchie. Une deuxième nuit et le chaos ne fait qu'empirer. Comment ça, une troisième ? Mais qui a déjà entendu parler d'un black-out aussi long ?
+
+C'est pourtant ce qu'il se produit et les shadowrunners coincés dans la ville doivent faire face à bien plus que des ténèbres. Des créatures hurlantes en maraude, d'inquiétants esprits et entités métaplanaires aux objectifs inconnus. Et des vans étranges, qui roulent alors que plus rien ne marche, diffusant dans la ville un mystérieux signal.
+
+Les rues deviennent de plus en plus dangereuses, avec les shadowrunners au cœur du chaos, tentant de survivre, de gagner un peu d'argent et qui sait ? De percer les secrets que renferme ce black-out inexplicable.
+
+30 Nuits est une campagne pour Shadowrun, Sixième Édition, au fil de laquelle les joueurs, au cœur de l'action, affrontent des enjeux et des dangers toujours croissants, jusqu'au bouquet final. Que vous plongiez votre table dans le noir total pour 30 nuits ou que vous n'en fassiez jouer que quelques-unes, ce livre vous fera vivre une campagne Shadowrun semblable à aucune autre !
+
+En exclusivité française,
+
+*Un guide de campagne pour impliquer les personnages, gérer leurs contacts et planques et les effets du black-out,
+*Un index des lieux,
+*Un index des personnages,
+*Une carte de Toronto en poster A3
+*Un scénario pour lancer la campagne et lui donner un fil rouge.
+
+==Index of contents==
+
+{| style="background-color:transparent;"
+| valign="top" width="50%" |
+<u>english:</u>
+*Contents & Credits
+*Jackpoint
+*Introduction
+*The Dark of the Night
+*Toronto Basics
+*The Nights
+*Night 1: The Longest Night
+*Night 2: Screams at Dusk
+*Night 3: The Bread Circus
+*Night 4: Something Broken
+*Night 5: Pirates Ahoy!
+*Night 6: Wings at Night
+*Night 7: Dominion
+*Night 8: Pirate Chase
+*Night 9: Gang Gauntlet
+*Night 10: Pack Attack
+*Night 11: Codebreakers
+*Night 12: Trail of Corruption
+*Night 13: Rage at the Meta
+*Night 14: Digital Threat
+*Night 15: Top of the Senator
+*Night 16: Jailbreak
+*Night 17: Full Black
+*Night 18: Arcology Rescue
+*Night 19: Goin' Mobile
+*Night 20: Organ Delivery
+*Night 21: Great Escape
+*Night 22: Most Wanted
+*Night 23: Dominion Redux
+*Night 24: Distant Cousins
+*Night 25: Peregrine in Peril
+*Night 26: Too Many Doors
+*Night 27: Astral Fireworks
+*Night 28: Get Cheung
+*Night 29: Hand of the Dragon
+*Night 30: Power Up
+*Character Trove
+| valign="top" width="50%" |
+<u>german:</u>
+*Introduction
+*In the dark of the night
+*[[Toronto]]
+*The Nights
+*Night 1: The longest night
+*Night 2: Cries in the twilight
+*Night 3: The Bread Circus
+*Night 4: Dark Things
+*Night 5: Pirates Ahoy!
+*night 6: Wings in the night
+*Night 7: Dominion
+*Night 8: Pirate hunt
+*Night 9: Gang games
+*Night 10: The pack attacks
+*Night 11: Codebreakers
+*Night 12: The trail of the corrupted
+*Night 13: The rage and the meta
+*Night 14: Digital menace
+*Night 15: Top of the Senator
+*Night 16: Prison break
+*Night 17: Deep black
+*Night 18: Escape from the [[Arcology]]
+*Night 19: Mobility offensive
+*Night 20: Organ delivery
+*Night 21: On the run
+*Night 22: Most Wanted
+*Night 23: Dominion 2.0
+*Night 24: Distant relatives
+*Night 25: Peregrine in danger
+*Night 26: Too Many Doors
+*Night 27: Astral Fireworks
+*Night 28: Cheung's extraction
+*Night 29: Hand of the Dragon
+*Night 30: Energy
+*Character treasure trove
+*Day 1: Mild Gifts
+*Day 2: Five Star Service
+*Day 3: State of Emergency
+|
+|}
+
+==See also==
+*[[List of adventure and campaign volumes]]
+
+==Weblinks==
+*[[https://sirdoomsbadcompany.wordpress.com/2020/01/15/shadowrun-6-blackout-und-30-naechte-und-3-tage-vorschau/ Announcement: "Blackout" and "30 Days and 3 Nights" on Sirdoom's Bad Company]]
+*{Shx|source,_en:_30_Nights_and_3_Days|Shadowhelix: "30 Nights and 3 Days"}}
+*{Shx|source,_en:_30_Nights|Shadowhelix: "30 Nights"}}
+*{Shx|source,_fr:_30_Nuits|Shadowhelix: "30 Nuits"}}
+
+===Sources===
+*[https://drivethrurpg.com/product/303318 "30 Days and 3 Nights" on DriveThruRPG]
+*[https://www.pegasusdigital.de/product/303318 "30 Days and 3 Nights" on Pegasus Digital]
+*[https://store.catalystgamelabs.com/products/shadowrun-30-nights-campaign-book "30 Nights" at Catalyst Gamelabs Store]
+*[https://www.drivethrurpg.com/product/305375/Shadowrun-30-Nights-Campaign-Book "30 Nights" on DriveThru RPG]
+*[https://www.black-book-editions.fr/produit.php?id=10859 "30 Nuits" at Black Book Éditions]
+
+===Previews===
+*[https://watermark.drivethrurpg.com/pdf_previews/303318-sample.pdf Preview "30 Nights and 3 Days" on DriveThru RPG] (Pdf, ''German'')
+*[https://watermark.pegasusdigital.de/pdf_previews/303318-sample.pdf Preview "30 Nights and 3 Days" at Pegasus Digital] (Pdf, ''german'')
+* [https://watermark.drivethrurpg.com/pdf_previews/305375-sample.pdf Preview "30 Nights" on DriveThru RPG] (Pdf, ''english'')
+
+{{KatSort|cat=sources|campaigns|adventures|English|Catalyst Game Labs|6th Edition|2020}}

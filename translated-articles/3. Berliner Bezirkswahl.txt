@@ -1,0 +1,83 @@
+{{Event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={{Shx|7 October}} {{Shx|2074}}
+|PARTICIPATED
+}}
+The '''3rd Berlin District Election''' was held on {{Shx|7._October|7}} {{Shx|2074}} was held. Elected were the representatives of the districts of the election period II: [[Falkensee]], [[Köpenick]], [[Mitte]], [[Pankow]], [[Prenzlauer Berg]], [[Spandau]] and [[Tempelhof]].
+
+==Election statistics==
+
+===Result==
+
+====Overview election winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Falkensee]]
+|Alternative district
+|<span style="display:none;">Atzold, Steffen</span> [[Steffen Atzold]]
+|
+|2072-2074
+|-
+|[[Köpenick]]
+|Alternative district
+|<span style="display:none;">Rabeja, Lena</span> [[Lena Rabeja]]
+|
+|2072-2074
+|-
+|[[Center]]
+|norm district
+|<span style="display:none;">Schmidt, Alexander</span> [[Alexander Schmidt]]
+|[[FBV]], [[PNE]]
+|2072-2074
+|-
+|[[Pankow]]
+|Alternative district
+|<span style="display:none;">Bronstein, Vladimir</span> [[Vladimir Bronstein]]
+|
+|2072-2074
+|-
+|[[Prenzlauer Berg]]
+|District
+|<span style="display:none;">Ozu, Takeshi</span> [[Takeshi Ozu]]
+|[[Renraku]]
+|new
+|-
+|[[Spandau]]
+|Norm district
+|<span style="display:none;">Wojenko, Yilmaz</span> [[Yilmaz Wojenko]]
+|[[PSI Aid]]
+|2072-2074
+|-
+|[[Tempelhof]]
+|Corporate district
+|<span style="display:none;">Landolt, Franziska</span> [[Franziska Landolt]]
+|[[Saeder-Krupp]]
+|2072-2074
+|}
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the article {{Shx|3._Berliner_Bezirkswahl|3. Berliner Bezirkswahl}} in the {{Shx|Hauptseite|Shadowhelix}}, where it is also, as here under GNUFDL. A list of authors can be found <span class="plainlinks">[http://shadowhelix.pegasus.de/index.php?title=3._Berliner_Bezirkswahl&action=history here]</span>.
+
+'''Primary sources on the <u>3rd Berlin district election</u> are:'''
+*[[NovaPuls#2074-10-08|NovaPuls]] 2074-10-08 "Berliners Experience District Election Thriller."
+*[[SRB - Shadowrun Berlin]]
+**berlINews
+***[https://shadowrunberlin.wordpress.com/2011/04/06/gnb-2-wahlbezirke-bereiten-sich-auf-wahlkampf-2074-wahlvor/ 2073-04-06] "2nd electoral districts prepare for 2074 election campaign"
+***[https://shadowrunberlin.wordpress.com/2012/06/22/b1l-baubeginn-fur-abschnitt-6-der-horizontaltangente-beschlossen/ 2074-06-22] "Construction start for section 6 of the horizontal tangent decided"
+***[https://shadowrunberlin.wordpress.com/2012/10/08/b1l-berlin-wahl-zur-wahlperiode-1-entschieden/ 2074-10-08] "Election decided for election period 2"
+**Pirate News
+***[https://shadowrunberlin.wordpress.com/2012/10/02/srb-zu-den-wahlen-2074/ 2074-10-02] "SRB on Election 2074"
+
+==See also==
+*[[Berlin District Election]]
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2074}}

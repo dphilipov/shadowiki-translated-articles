@@ -1,0 +1,50 @@
+'''05:58''' ist ein [[Shadowrun-Roman]] von [[Markus Heitz]].
+
+Er erschien 2004 in deutscher Originalsprache im Heyne Verlag, und wurde - soweit bekannt - nicht in andere Sprachen übersetzt.
+
+==Buchinformationen==
+[[Datei:SR Roman 53.jpg|thumb|right|120px|Cover<br/>{{C Heyne}}]]
+*'''Lfd. Nr.:''' 53
+*'''Titel:''' 05:58
+*'''Typ:''' Roman
+*'''Sprache:''' deutsch
+*'''Verlag:''' Wilhelm Heyne Verlag München
+*'''Format:''' print
+*'''Erschienen:''' 2004
+*'''Seitenzahl:''' 348 Seiten
+*'''Preis:''' 7,95 € 
+*'''ISBN-10:''' 3-453-52007-6
+
+===Autoren, Illustratoren & Mitwirkende:===
+*'''Autor:''' [[Markus Heitz]]
+*'''Redaktion:''' Ralf Oliver Dürr
+*'''Umschlagbild:''' Stephane Martinère
+*'''Umschlaggestaltung:''' Nele Schütz Design, München
+*'''Satz:''' Schaber Satz- und Datentechnik, Wels
+*'''Druck und Bindung:''' GGP Media GmbH, Pößneck
+
+==Rückseitentext==
+Eine brutale Verbrechensserie im Großraum [[Stuttgart]] versetzt die Bevölkerung in helle Aufregung. [[Poolitzer]] wittert eine sensationelle Story, denn der Täter imitiert die Verbrechen von Jack the Ripper und anderen legendären Kriminellen. Zusammen mit seinem [[Troll]]-Freund [[Ultra (Troll)|Ultra]], der in seine Fußstapfen als Reporter treten will, stellt er eigene Nachforschungen an und stößt auf den Hypnotiseur [[Felix Ranjit Ficker|Ranjit]], dessen Auftritt in einem Ludwigsburger Nachtclub in einem Debakel endete. Mitten in einer Hypnose-Vorführung stürmten jugendliche Rabauken um den reichen Schnösel [[Johann von Boesche]] die Bühne und richteten ein Chaos an, woraufhin einer der Hypnotisierten spurlos verschwand. Jetzt gilt es, den Unbekannten zu finden und aus seiner Trance zu erwecken, um das Morden zu beenden. Poolitzer wähnt sich fast am Ziel, da stellt sich heraus, dass Ranjit gar nicht der ist, der er zu sein scheint...
+
+==Inhaltsangabe==
+{{Spoiler}}
+
+...
+
+{{Folgenleiste
+|BLOCKGRÖßE=1
+|AMT=Shadowrun Romane 
+|ZEIT=deutsch
+|VORGÄNGER=[[Elementares Wissen]]
+|NACHFOLGER=[[Die Anfänger]]
+}}
+
+==Anmerkungen==
+Dieser Roman wurde bei Heyne auch im Sammelband "[[Schattenläufer (Romansammelband)|Schattenläufer]]" zusammen mit den Romanen "[[Sturmvogel]]" und "[[Jede Wette]]" noch einmal veröffentlicht.''
+
+==Siehe auch==
+*[[Liste der Shadowrun Romane]]
+
+==Weblinks==
+*{{Shx|Quelle,_de:_05:58|Shadowhelix: 05:58}}
+{{KatSort|cat=Quellen|Romane|Heyne|Deutsch|2004}}

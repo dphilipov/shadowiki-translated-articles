@@ -1,0 +1,35 @@
+{{Unvollständig}}
+{{Ereignis
+|GESCHEHEN=Massaker an Demonstranten
+|ORT={{nlt}}Umgebung Kottbusser Tor, [[Friedrichshain-Kreuzberg]], [[Berlin]]
+|ZEIT={{Shx|1._Mai|1. Mai}} {{Shx|2076}}
+|BETEILIGT={{nlt}}
+:[[Bianca Voyé]]
+:[[Sternschutz]]
+:Demonstranten
+}}
+Als '''Erster Mai 2076''' oder auch '''Mai-Massaker''' bezeichnet man in [[Berlin]] die schweren Straßenkämpfe zwischen Demonstranten und [[Sternschutz]]-Einsatzkräften unter Leitung von [[Bianca Voyé]] nach Eskalation der jährlichen Revolutionären 1.-Mai-Demonstration in [[Friedrichshain-Kreuzberg]], die unter anderem durch Voyés Befehl zum Einsatz tödlicher Gewalt in einem Massaker mit über tausend Toten endeten.
+
+==Geschichte==
+Am 1. Mai 2076 kam es erneut zu Krawallen, die sogar die Krawalle des Vorjahres in den Schatten stellten. Gerüchte wollen zudem wissen, dass ein diskordianisches Kommando namens [[Operation Mindfuck]] und das Terrornetzwerk [[Letzte Front]] an der Eskalation beteiligt waren. Beim sogenannten [[Mai-Massaker]] kesselten Kräfte der [[SonderSchutzTruppe]] unter Leitung von [[Bianca Voyé]] Demonstranten am [[Kotbusser Tor]] ein und eröffneten auf ihren Befehl hin das Feuer. SST-Offizier (und später als "Held von Berlin" bezeichnet) [[Sergej Rudek]] widersetzte sich dem Befehl und schaffte es, die Gewalt zu beenden. Dennoch verstarben rund 1.200 Personen, während man in ganz Berlin Jagd auf Voyé machte. Monatelang kam es zu Freitagsprotesten für die Absetzung des Sternschutzleiters [[Erhardt Ahrend]] und der erste Alternative Polizeidienst der [[Schwarze Bären|Schwarzen Bären]] wurde von Rudek gegründet. Der Vertrag mit dem Sternschutz wurde massiv zugunsten einer [[Berliner Polizeifreiheit]] beschnitten.<ref>{{QDE|ber2080}} S.15</ref>
+
+==Verwechslungsgefahr==
+Ungeachtet der ugs. Alternativ-Bezeichnung darf dieses Ereignis nicht mit dem "[[May-Day-Massaker]]" verwechselt werden, als die [[Neue Druidenbewegung]] in diversen Großstädten [[Großbritannien]]s (und da besonders [[London]]) in der Nacht auf den {{Shx|1._Mai|ersten Mai}} {{Shx|2075}} eine willkürlich und ziellos wirkende, Serie blutiger Anschläge bzw. Amokläufe mittels [[Magie]] verübte.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|Erster_Mai_2076|Erster Mai 2076}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Erster_Mai_2076&action=history hier]</span>. 
+
+'''Weitere Quellen zum <u>Ersten Mai 2076</u> sind:'''
+*[[NovaPuls]]
+**[[NovaPuls#2076-05-21|2076-05-21]] "Berlin jagt eine Mörderin", "1. Mai 2076 Protokoll einer Chaosnacht", "Sagedorn besorgt über Berliner Entwicklung"
+**[[NovaPuls#2076-06-21|2076-06-21]] "Anti-Erhardt-Demos halten an"
+**[[NovaPuls#2076-07-23|2076-07-23]] "Die Karten werden neu gemischt", "Überblick zur Voyé-Krise"
+*[https://shadowrunberlin.wordpress.com/2014/05/08/44-eine-woche-nach-dem-blutigen-1-mai/ SRB - Shadowrun Berlin] - Artikel Pirate News "Eine Woche nach dem blutigen 1. Mai"
+
+==Weblinks==
+*{{WP|Erster_Mai_in_Kreuzberg|Wikipedia: Erster Mai in Kreuzberg}} - Artikel zu den realen 1.-Mai-Krawallen in Kreuzberg
+*{{Shx|Erster_Mai_2076|Shadowhelix: Erster Mai 2076}} - Artikel in der Shadowhelix
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|2076}}

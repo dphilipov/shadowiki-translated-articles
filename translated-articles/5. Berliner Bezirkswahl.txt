@@ -1,0 +1,93 @@
+{{incomplete}}
+{{Event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={{Shx|October|4}} {{Shx|2076}}
+|PARTICIPATED
+}}
+The '''5th Berlin District Election''' was held on {{Shx|4._October|4}} {{Shx|2076}} was held. Elected were the representatives of the districts of electoral period I - [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] and [[Tegel]] - [[Mayor]], who are to represent their respective districts in the [[Berlin Council]] in the following three years. - The election of the third mayor, which would normally have taken place at the same time, was postponed without further explanation.
+
+==History==
+
+===Election campaign===
+In Reinickendorf there was a peculiarity in this district election, in that the incumbent district representative [[Krzysztof Ronczewski]] was under quarantine due to [[Cognitive Fragmentation Syndrome|Cognitive Fragmentation Syndrome]]. Ronczewski was last represented in the Berlin Council by [[Tanja Abt]]. Since he could not run for re-election due to the quarantine, and Abt did not run either, the major [[ADL]] parties came into play instead, since the {{Shx|2072|2072er}} Amendments to the [[Berlin Treaty]]s have been increasingly trying to establish themselves in [[Berlin]] politics. The most promising candidates who stood for election were [[Mu'tazz Suhail Hakimi]] ([[PNO]]), [[Sofia Nordin]] ([[CVP]]), [[Serafina Pazak]] ([[USPD]]) and [[Myron Yegonov]] ([[ASU]]).
+
+===Election results===
+In Reinickendorf, Sofia Nordin of the CVP was able to prevail.
+{{Shadowtalk|With this, Reinickendorf seems to be the first Berlin standard district in which - incomprehensibly for me - the traditional system of alliance-wide political parties with their local chapters prevailed... but I say one thing to you alliance politicians in your fancy party headquarters in [[Hannover]], [[Munich]] and [[Frankfurt am Main|Frankfurt]] - just don't think that the alternatives will follow suit anytime soon: Rather, hell would freeze over before districts like [[Gropiusstadt]], [[Lichtenberg]] or [[Marzahn-Hellersdorf]] would appoint classical party politicians as their representatives in the council!|'''''[[Russian Standard Troll]]'''''<br/>{{talk symbol|arrow}} <small>...and here, in red [[Pankow]] - as well as over there, in the not less red [[Köpenick]] - one chooses, if at all, exclusively between communists of only marginally different coleur!</small>}}
+==Election statistics==
+
+===Result==
+
+====Reinickendorf====
+
+{| class="unsortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Candidate
+!party
+!Vote share
+|-
+|<span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+|[[CVP]]
+|27,6%
+|-
+|<span style="display:none;">Pazak, Serafina</span> [[Serafina Pazak]]
+|[[USPD]]
+|14,7%
+|-
+|<span style="display:none;">Hakimi, Mu'tazz</span>[[Mu'tazz Hakimi]]
+|[[PNO]]
+|11,6%
+|-
+|<span style="display:none;">Yegonov, Myron</span>[[Myron Yegonov]]
+|[[ASU]]
+|8,4%
+|}
+
+====overview-election-winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Elected representative
+!Affiliation
+|-
+|[[Charlottenburg-Wilmersdorf]]
+|<span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+|-
+|[[Gropiusstadt]]
+|<span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+|
+|-
+|[[Marzahn-Hellersdorf]]
+|<span style="display:none;">Kotov, Jaromir</span> [[Jaromir Kotov]]
+|
+|-
+|[[Oranienburg]]
+|<span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+|
+|-
+|[[Reinickendorf]]
+|<span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+|[[CVP]]
+|-
+|[[Schönwalde]]
+|<span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+|[[Aztechnology]]
+|-
+|[[Tegel]]
+|<span style="display:none;">Koslowski, Michael</span> [[Michael Koslowski]]
+|[[Zeta-ImpChem]]
+|}
+
+<!-- End of article content - meta information -->
+
+==See also==
+*[[Berlin district election]]
+
+==Sources==
+This article is based on the article {{Shx|5th _Berlin_district_election|5th Berlin district election}} in the {{Shx|Mainpage|Shadowhelix}}, where it is available under [[GNUFDL]]. The list of authors can be found <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=5._Berliner_Bezirkswahl&action=history here]</span>.
+
+'''Primary sources for the <u>5th Berlin district election</u> are:'''
+*SRB - Shadowrun Berlin - berlINews 2076-10-05 "Hardly any surprises in the election period I".
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2076}}

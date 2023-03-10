@@ -1,0 +1,77 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|1._Oktober|1. Oktober}} {{Shx|2073}}
+|BETEILIGT=
+}}
+Die '''2. Berliner Bezirkswahl''' fand am {{Shx|1._Oktober|1. Oktober}} {{Shx|2073}} statt. Gewählt wurden die Vertreter der Bezirke der Wahlperiode I: [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] und [[Tegel]]. Die Wahl war die erste reguläre Wahl des nach der [[Berliner Einheit|Einheit]] neustrukturierten [[Berlin]]er Politsystems, im Jahr zuvor war alle Bezirksvertreter erstmals gewählt worden.
+
+==Wahlstatistiken==
+
+===Ergebnis===
+
+====Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Charlottenburg-Wilmersdorf]]
+|Normbezirk
+|<span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+|2072-2073
+|-
+|[[Gropiusstadt]]
+|Alternativbezirk 
+|<span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+|
+|neu
+|-
+|[[Marzahn-Hellersdorf]]
+|Alternativbezirk
+|<span style="display:none;">Unsel, Murat</span> [[Murat Ünsel]]
+|
+|2072-2073
+|-
+|[[Oranienburg]]
+|Alternativbezirk
+|<span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+|
+|2072-2073
+|-
+|[[Reinickendorf]]
+|Normbezirk
+|<span style="display:none;">Ronczewski, Krzysztof</span> [[Krzysztof Ronczewski]]
+|[[Zeta-ImpChem]]
+|2072-2073
+|-
+|[[Schönwalde]]
+|Konzernbezirk
+|<span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+|[[Aztechnology]]
+|2072-2073
+|-
+|[[Tegel]]
+|Konzernbezirk
+|<span style="display:none;">Koslowski, Michael</span> [[Michael Koslowski]]
+|
+|2072-2073
+|}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+==Quellen==
+*[[Berlin (Quellenbuch)|Berlin]]
+*[[SRB - Shadowrun Berlin]] Pirate News - 2074-10-02 "SRB zu den Wahlen 2074"
+
+==Weblinks==
+*{{Shx|2._Berliner_Bezirkswahl|Shadowhelix: „2. Berliner Bezirkswahl“}}
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2073}}

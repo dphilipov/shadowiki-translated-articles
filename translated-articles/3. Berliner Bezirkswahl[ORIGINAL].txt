@@ -1,0 +1,83 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|7._Oktober|7. Oktober}} {{Shx|2074}}
+|BETEILIGT=
+}}
+Die '''3. Berliner Bezirkswahl''' fand am {{Shx|7._Oktober|7. Oktober}} {{Shx|2074}} statt. Gewählt wurden die Vertreter der Bezirke der Wahlperiode II: [[Falkensee]], [[Köpenick]], [[Mitte]], [[Pankow]], [[Prenzlauer Berg]], [[Spandau]] und [[Tempelhof]]. 
+
+==Wahlstatistiken==
+
+===Ergebnis===
+
+====Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Falkensee]]
+|Alternativbezirk
+|<span style="display:none;">Atzold, Steffen</span> [[Steffen Atzold]]
+|
+|2072-2074
+|-
+|[[Köpenick]]
+|Alternativbezirk
+|<span style="display:none;">Rabeja, Lena</span> [[Lena Rabeja]]
+|
+|2072-2074
+|-
+|[[Mitte]]
+|Normbezirk
+|<span style="display:none;">Schmidt, Alexander</span> [[Alexander Schmidt]]
+|[[FBV]], [[PNE]]
+|2072-2074
+|-
+|[[Pankow]]
+|Alternativbezirk
+|<span style="display:none;">Bronstein, Wladimir</span> [[Wladimir Bronstein]]
+|
+|2072-2074
+|-
+|[[Prenzlauer Berg]]
+|Konzernbezirk
+|<span style="display:none;">Ozu, Takeshi</span> [[Takeshi Ozu]]
+|[[Renraku]]
+|neu
+|-
+|[[Spandau]]
+|Normbezirk
+|<span style="display:none;">Wojenko, Yilmaz</span> [[Yilmaz Wojenko]]
+|[[PSI Aid]]
+|2072-2074
+|-
+|[[Tempelhof]]
+|Konzernbezirk
+|<span style="display:none;">Landolt, Franziska</span> [[Franziska Landolt]]
+|[[Saeder-Krupp]]
+|2072-2074
+|}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|3._Berliner_Bezirkswahl|3. Berliner Bezirkswahl}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er ebenso, wie hier unter GNUFDL steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://shadowhelix.pegasus.de/index.php?title=3._Berliner_Bezirkswahl&action=history hier]</span>.
+
+'''Primärquellen zur <u>3. Berliner Bezirkswahl</u> sind:'''
+*[[NovaPuls#2074-10-08|NovaPuls]] 2074-10-08 "Berliner erleben Bezirkswahl-Krimi"
+*[[SRB - Shadowrun Berlin]]
+**berlINews
+***[https://shadowrunberlin.wordpress.com/2011/04/06/gnb-2-wahlbezirke-bereiten-sich-auf-wahlkampf-2074-wahlvor/ 2073-04-06] "2. Wahlbezirke bereiten sich auf Wahlkampf 2074 vor"
+***[https://shadowrunberlin.wordpress.com/2012/06/22/b1l-baubeginn-fur-abschnitt-6-der-horizontaltangente-beschlossen/ 2074-06-22] "Baubeginn für Abschnitt 6 der Horizontaltangente beschlossen"
+***[https://shadowrunberlin.wordpress.com/2012/10/08/b1l-berlin-wahl-zur-wahlperiode-1-entschieden/ 2074-10-08] "Wahl zur Wahlperiode 2 entschieden"
+**Pirate News
+***[https://shadowrunberlin.wordpress.com/2012/10/02/srb-zu-den-wahlen-2074/ 2074-10-02] "SRB zu den Wahlen 2074"
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2074}}

@@ -1,0 +1,116 @@
+{{Partially Unofficial}}
+{{Sports team
+|SPORTART=[[Soccer]]
+|STAND=2080
+|SOURCE={Ref|1}}
+|LOGO=Logo 1. FC Lokomotive Leipzig.png
+|COPYRIGHT=<small>Logo "1. FC Lokomotive Leipzig"<br/><u>License:</u> {{cc-by-sa-3.0 short}}<br/>(<u>Copyright:</u>{{WMCommons|User:Jürgen_Krause|Jürgen Krause}})</small> {{Ref|2}}
+|COLORS=Blue-Yellow {{Ref|2}}
+|ShORT=Lok Leipzig
+|ALIAS={nlt}}''Transrapid Leipzig'', ''Die Bahn'' {{Ref|10}}
+|FOUNDATION={nlt}}<small>{{WP|20January}} {{WP|1966}},<br/>{Shx|1991}} renamed "VfB Leipzig",<br/>{{Shx|10._December|10. December}} {{Shx|2003}} Re-established as "1. FC Lokomotive Leipzig"</small> {{Ref|2}}
+|CITY={{nlt}}[[Leipzig]], [[Leipzig-Halle]]-[[Megaplex]], [[Saxony]], [[ADL]] {{Ref|1}}
+|SPONSOR=[[Transrapid AG]] {{Ref|10}}
+|LIGA=[[Mitteldeutsche Liga]] {{Ref|1}}
+|PRESIDENCY=
+|PRESIDENT=
+|TRAINER=
+|MEMBERS=
+|ACHIEVEMENT={{nlt}}Middle German Champion {{Shx|2073}} {{Ref|3}} & {{Shx|2082}} {{Ref|15}}
+}}
+The '''1. FC Lokomotive Leipzig'''' (short: '''Lok Leipzig''') is a traditional [[soccer]] club from [[Leipzig]] in the [[Leipzig-Halle]]-[[Megaplex]], which plays in the [[Mitteldeutsche Liga|Mitteldeutsche Liga]] {{Ref|1}}.
+
+==History==
+After the {{WP|German_Reunification|German Reunification}}, the traditional club sank into insignificance for many years, and in many cases did not even play in the 3rd division (let alone the Second or even First Bundesliga). - However, things are different in the Mitteldeutsche Liga, which is one of five upper leagues in the [[Allianz Deutscher Länder]] that replaced the {{Shx|2035}} dormant Bundesliga.
+
+===Fatal friendly:===
+In the 2072 season, a ''friendly'' against the [[OM Media]]-sponsored [[Amazonia|amazonian]] "[[OM Amazonia]]" had had truly fatal consequences for Leipzig, and the [[Saxony|Saxony]] Fair and industrial city - after the fatal foul of an Amazonian kicker on a popular Leipzig player and the death of the referee [[Daniel Voigt]] - brought heaviest hooligan riots: {{Ref|10}}
+
+{| style="border-spacing: 5px; width: 64%; border: 1px solid blue; background-color: #eaeaea;"
+|
+>>> upload: Videofeed.<br/>
+>>> play? '''y'''/n
+
+<u>18 April 2072:</u>
+In the background you can see the stadium of "Lok Leipzig". The soccer stadium is shrouded in thick smoke. Everywhere are groups of [[human]]s and [[metahuman]]s. - many of them wearing soccer jerseys and scarves or caps in club colors - can be seen engaged in wild scuffles, hitting each other with everything from unloaded [[firearm|handgun]]s to [[saber]]s, [[sword]]s and [[rapier]]s to bottles, clubs and steel pipes. In the parking lot outside the stadium, several [[vehicle|motor vehicles]] are on fire, while helicopters of the Saxon [[Polizei|Landespolizei]] circle above the chaos, firing tear gas [[grenades]]s into the crowd, but without thereby effectively dispersing the combatants. {{Ref|10}}
+
+< Audio feed - off-camera commentary >
+
+|
+|}
+
+
+{{Shadowtalk|A ''"friendly match"'' between "[[OM Amazonia]]" and "Lokomotive Leipzig" ended in disaster this afternoon: The [[Amazonia|Amazonian]] Midfielder [[Ricardo]], who had made negative headlines last year in [[Marseille]] in connection with a [[tempo]] orgy, attacked a [[Daniel Voigt|referee]] when he disallowed him a goal after a brutal foul in the opponent's penalty area and wanted to send him off with a red card. Before the stewards as well as the assistant referees could subdue the footballer, who was completely out of control, he had turned the referee's face onto his back and broken his neck. This - and the presumed death of the fouled Leipzig defender [[Thomas Gross|Thomas "Blueman" Gross]], the only [[Querx]] player in the Central German League - was taken by Leipzig supporters as the occasion for the worst hooligan riots in the sporting history of our university town, which is not exactly poor in such incidents. {{Ref|10}}|<small>This was '''''Steffen R.''''' for "AR - Saxonia Lokal" - Your [[AR]]-Radio for Leipzig-Halle and surroundings</small>}
+
+{| style="border-spacing: 5px; width: 100%; border: 1px solid blue; background-color: #eaeaea;"
+|
+< end audio recording off-commentary >
+
+From the southeast, two [[Zeppelin|Firefighting Zeppelins]] come into view, their water cannons apparently intended not only to extinguish the burning stadium and the flames in the parking lot and street, but also to ''calm'' the crowds of rioters.
+
+>>> Video feed: end. {{Ref|10}}
+
+|
+|}
+
+===Middle German Champion 2073:===
+{{Shx|2073}}, "Lokomotive Leipzig" became Central German champion, and finished 3rd in the [[Cup of Champions]] with a goal difference of 6:6 behind Ruhr champion "[[SC Westfalia 04 Herne]]" and Southern Alliance champion "[[FC Bayern München]]". {{Ref|2}}
+{{Shadowtalk|...and still well ahead of the North German champion "[[FC St. Pauli]]" and the Rhine-Hesse champion "[[Fortuna Düsseldorf]]".... {{Ref|2}}|'''''Monticola'''''}}
+
+===Situation 2080:===
+{{Shx|2080}}/{Shx|2081|81}} a second club from the Leipzig-Halle megaplex, "[[RB Leipzig-Halle]]", plays in the Mitteldeutsche Liga {{Ref|1}} in addition to "1. FC Lokomotive Leipzig".
+{{Shadowtalk|In October 2081, Leipzig beat "[[1. FC Pomorya Greifswald]]" 2-0 in injury time - defending its top spot in the current MDL league season.... ahead of [[Berlin]]s [[FC Teutonia Berlin|FC Teutonia]], [[Greifswald]] and [[Carl Zeiss Jena]]! {{Ref|12}}|'''''Hoyzer 4.1''''' ...even if they owe it virtually entirely to their outstanding goalkeeper [[Boris Hummel]]! {{Ref|12}}}}
+Accordingly, it must have been anything but pleasing for the Leipzigers (and the Leipzig fans) that the "[[VKSV Transdanubien]]" in February 2082 (and only minutes before the end of the current transfer period) announced the surprising transfer of Hummel to the [[Transdanubien|transdanubian]] ''[[Platte]]'' and thus to [[Austria]], even if a record transfer fee flowed for it {{Ref|14}}.
+{{Shadowtalk|Notwithstanding, Lok Leipzig {{Shx|2082|'82}} won the Central German championship, qualifying for participation in the Cup der Meister for the second time in a decade... even if it doesn't look like they can win the alliance championship this season at the moment... {{Ref|15}}|'''''[[Coach]]'''''}}
+
+==Sponsors==
+The main sponsor - at least in 2072 - was [[Transrapid AG]], a subsidiary of [[Ruhrmetall]]s {{Ref|10}}.
+
+==Members==
+===Players==
+{|{ class="wikitable"
+|- style="font-weight:bold;"
+|+ class="nowrap" | Former and active players
+! Name
+! Position
+! Metatype / Variant
+! Remarks
+|-
+| [[Thomas Gross|Thomas "Blueman" Gross]] {{Ref|10}}
+| Defender {{Ref|10}}
+| [[Querx]] [[Dwarf]]) {{Ref|10}}
+| was killed on April 18 {{Shx|2072}} during a "friendly match" against "[[OM Amazonia]]" by a brutal forward foul by the opponent [[Ricardo]] {{Ref|10}}
+|-
+|[[Boris Hummel]] {{Ref|12}} {{Ref|13}}
+| Goalkeeper {{Ref|12}} (previously a defender for two years) {{Ref|13}}
+| [[Human]] {{Ref|13}}
+| has a past in a sports company of the [[Bundeswehr|BW]], as an amateur player in the Kreisklasse and two higher leagues and in the second team of "Lok Leipzig" {{Ref|13}} Switched in February 2082 to "[[VKSV Transdanubien]]" and thus in the Austrian League {{Ref|14}}.
+|-
+|}
+
+==Trivia==
+In the {{Shx|2079|2079er}} season, the footballers of "Lok Leipzig" chose the railroad anthem ''"Ein Wille - ein Weg"'' by the controversial [[Norm]]duo "[[Werk Stolz]]" as their official entrance music, which was of course perceived as sheer provocation by fans of more left-leaning clubs like "[[FC St. Pauli]]" {{Ref|11}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Lifestyle 2073]] S.104
+*[[Lifestyle 2080]] S.197
+===Source details:===
+{{Ref2|1}} [[Lifestyle 2080]] S.197
+{{Ref2|2}} {{WP|1._FC_Lokomotive_Leipzig_(2003)|Wikipedia article: 1st FC Lokomotive Leipzig}} (<span class="plainlinks">[https://de.wikipedia.org/w/index.php?title=1._FC_Lokomotive_Leipzig_(2003)&action=history author list]</span>)
+{{Ref2|3}} [[Lifestyle 2073]] Pg.104<br/>
+{{Ref2|10}} The fatal match against "OM Amazonia" and the hooligan riots on April 18, 2072, as well as Transrapid AG as Leipzig's main sponsor and the nicknames derived from it are purely an invention of user "[[User:Karel|Karel]]" for a post in a thread in the [[Shockwave Rider Forum|Shockwave Rider InGame Forum]]. None of this is mentioned in any official Shadowrun source. <br/>However, the player Ricardo from "OM Amazonia" and his participation in a Tempo party in Marseille are mentioned in the campaign volume "[[Ghost Cartels]]" (p.145) mentions.
+{{Ref2|11}} The fact that Leipzig has this song as official run-in music in 2079 is also an invention of user "[[User:Karel|Karel]]" and not part of the official Shadowrun canon. The song and its performers, on the other hand, are an original invention of user "Major Wolf" on the Pegasus forum.
+{{Ref2|12}} The encounter described in this talk comment and its effect on the MDL league table is purely an invention of the [[User:Karel|article creator]] as part of the INOFFICIAL NovaPulse of 2081-10-13, and therefore not part of the official Shadowrun canon.<br/>(see → [[NovaPulse 2081-10-13 (unofficial)]]).
+{{Ref2|13}} This [[character]] is purely an invention of user "[[User:Karel|Karel]]", and not part of the official Shadowrun canon.
+{{Ref2|14}} The transfer of the player in question to VKSV in Austria is also purely an invention of the [[User:Karel|article creator]]'s own making in the context of the INOFFICIAL NovaPuls of 2082-02-19, and therefore not part of the official Shadowrun canon.<br/>(see → [[NovaPuls 2082-02-19 (unofficial)]]).
+{{Ref2|15}} Leipzig's participation in the Cup of Champions 2082 is also purely an invention of the [[User:Karel|article creator]] as part of the INOFFICIAL Megapulse of 2082-09-10, and therefore not part of the official Shadowrun canon.<br/>(see → [[Megapulse 2082-09-10 (unofficial)]])
+
+==Weblinks==
+*{{WP|1._FC_Lokomotive_Leipzig_(2003)|Wikipedia: 1st FC Lokomotive Leipzig}} - the club in the real present
+*{Shx|1._FC_Lokomotive_Leipzig|Shadowhelix: 1. FC Lokomotive Leipzig}} - the club in Shadowrun
+
+{{CatSchema|schema=OrgSportMannsch}}
+[[Category:Football team]]
+[[Category:HalLe]]

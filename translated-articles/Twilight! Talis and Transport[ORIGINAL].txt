@@ -1,0 +1,50 @@
+{{Inoffiziell}}
+{{Konzern
+|NAME_OVR=Twilight: Talis & Transport
+|KURZ=3T / Twilight
+|ALTERNATIV=''East Coast Logistics'', kurz: ''ECL'' (ehem.)
+|STAND= {{Shx|2070}}
+|BRANCHE={{nlt}}Taliskramwaren (Transport / Produktion & Vertrieb)
+|GRÜNDUNG=2041 als ECL, 2065 als 3T
+|HAUPTSITZ=[[New York City]], [[UCAS]]
+|CEO=[[Lionel Hapcore]]
+|VORSTAND=[[Lionel Hapcore]]
+|RATING=A
+}}
+'''Twilight: Talis & Transport''', auch kurz '''3T''' oder '''Twilight''' genannt, ist ein [[Konzern]] mit Hauptsitz in [[New York City]] und ist ein Zusammenschluss mehrerer mittelständischer Firmen an der Ostküste der [[UCAS]].
+
+==Geschichte==
+Seine Wurzeln hat Twilight in der Logistikfirma ''East Coast Logistics'' (ECL), die {{Shx|2041}} gegründet wurde und sich auf den Transport von magischen Artikeln für verschiedene kleinere Kons spezialisiert  hatte. Die Firma erzielte hohe Umsätze, bis {{Shx|2064}} der [[Matrix]] [[Crash 2.0]] kam. Praktisch über Nacht verlor ECL 90% seiner Kunden. Um seine Firma zu retten, nahm der damalige Leiter [[Joseph Amesto]] Gespräche mit anderen Firmen auf, denen ebenfalls die Schließung drohte, unter ihnen die private Forschungseinrichtung ''Astral Perspective'' und ''Silver Age Library'', ein Softwarehersteller für [[Magietheorie|magietheoretische]] Lektüren. Die Verhandlungen fruchteten, und so fusionierten die Firmen Anfang {{Shx|2065}} zu Twilight: Talis & Transport.
+
+In den nächsten drei Jahren mauserte sich Twilight zu einem Konzern der A-Klasse und schuf mehrere Standorte in den [[UCAS]], [[Großbritannien]], den [[ADL]] und [[Hongkong]].
+{{Shx|2069}} trat Amesto aus [[CEO]] zurück und überließ seinen Sitz [[Lionel Hapcore]], der den Kon in Amestos Tradition weiterführt.
+
+==Geschäftsprofil==
+Die Hauptaufgabe des Kons ist der Transport von magischen Artikeln vom Hersteller zum Händler oder direkt an den Kunden. Allerdings stellt der Kon auch selbst Talisartikel her, er unterhält mehrere Druckereien, Softwareproduzenten, [[Alchemie]]labore und eine Forschungsabteilung.
+
+==Konzernkultur==
+Der Kon behält sich eine große Metafreundlichkeit vor, so sind rund die Hälfte der Angestellten [[Metamensch]]en. Schließlich ist [[Lionel Hapcore]], Leiter von 3T, selbst ein [[Zwerg]]. 
+
+==Illegale Aktivitäten==
+===Schatten===
+''Nomen est omen'', und das trifft auf Twilight auch zu. Denn das Motto des Kons lautet: „Wenn der Kunde etwas haben will, dann bekommt er es.“ Man sollte noch hinzufügen: „wenn der Preis stimmt.“ Schließlich gibt es einige Talisartikel, für die hohe Zölle bezahlt werden müssen oder die gar völlig verboten sind. Deswegen beauftragt Twilight des öfteren [[Shadowrunnerteam|Runnerteams]], ein paar magische Kleinigkeiten ins Land zu holen, damit der Kon auch seine Schattenkunden zufrieden stellen kann. Auch den [[Diebstahl]] von [[Magisches Artefakt|magischen Artefakten]] tätigen Twilights [[Runner]], es sei denn einer der Stammkunden würde bestohlen werden. Aus Sicherheitsgründen sind nur wenige Mitarbeiter in diese Aktivitäten eingeweiht, CEO Hapcore ist einer von ihnen, sowie einige wenige Vorstandsmitglieder. Mitarbeiter, die von selbst hinter diese Aktivitäten kommen, ''vergessen'' ihre Entdeckung meistens sehr schnell wieder. 
+
+Die Organisation der Runs übernimmt die ''Presseabteilung'', die nur zum Teil das ist, was sie ihrem Namen nach eigentlich sein sollte. Ihre eigentliche Aufgabe ist es, Runs zu überwachen und die Spuren zu verwischen, die zu Twilight führen. Lediglich der Pressesprecher erfüllt seinen ofiziellen Job zu 100%
+
+==Personal==
+
+''Simon Cleveston'': Vorstandsmitglied, Johnson
+
+''[[Nathaniel van Ravenholme]]'': Vizepressesprecher, Johnson
+
+''Cleo "Narkotic" Spencer'': Betriebsärztin
+
+''Atticus "Q" Drakosophis'': Werkstattleiter
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+{{Shx|Twilight:_Talis_&_Transport|Dieser Konzern}} ist eine Eigenerfindungen von Benutzer "{{Shx|Benutzer:Sunrider|Sunrider}}" in der {{Shx|Hauptseite|Shadowhelix}}, und daher bislang nicht durch offizielle Quellen abgedeckt. Der Artikel wurde von dort unverändert übernommen. Autorenliste siehe <span class="plainlinks">[https://shadowhelix.de/index.php?title=Twilight:_Talis_&_Transport&action=history hier]</span>.
+
+{{KatSort|cat=Konzerne|A|UCAS|New York}}
+[[Kategorie:Konzerne (3T)| ]]

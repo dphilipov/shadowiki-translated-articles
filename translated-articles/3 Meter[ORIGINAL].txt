@@ -1,0 +1,26 @@
+{{Interpret
+|STAND=2072
+|QUELLE={{Ref|1}}
+|ALTERNATIV=
+|KURZ=
+|HERKUNFT=[[Puyallup]], [[Seattle]] (damals [[UCAS]])
+|GENRE=[[Trog-Rock]]
+|GRÜNDUNG=
+|AUFLÖSUNG=
+|SCHICKSAL=
+|MITGLIEDER=
+}}
+'''3 Meter''' ist anno {{Shx|2072}} eine lokale [[Trog-Rock]] Formation aus [[Puyallup]]. 
+
+Ihr Name bezieht sich offenkundig auf die exorbitante Körpergröße von [[Troll]]en oder sogar der Troll-[[Metavariante]] der [[Riese]]n, der die Musiker vermutlich angehören. - Ob ihr Ruhm allerdings je über den [[Seattle]]r [[Metroplex]] hinausreichen wird, ist ungewiss...
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+* [[Schattenstädte]] S.65 (Neuauflage des {{Pegasus V}}, S.65)
+
+===Quellendetails:===
+* [[Schattenstädte, Neuauflage]] S.65
+
+{{KatSort|cat=Musik|Bands}}
+{{DEFAULTSORT:Bands/3 Meter}}

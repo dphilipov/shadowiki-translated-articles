@@ -1,0 +1,93 @@
+{{Unvollständig}}
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|4._Oktober|4. Oktober}} {{Shx|2076}}
+|BETEILIGT=
+}}
+Die '''5. Berliner Bezirkswahl''' fand am {{Shx|4._Oktober|4. Oktober}} {{Shx|2076}} statt. Gewählt wurde die Vertreter der Bezirke der Wahlperiode I - [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] und [[Tegel]] - die ihren jeweiligen Bezirk in den drei folgenden Jahren im [[Berliner Rat]] vertreten sollen. - Die Wahl des dritten Bürgermeisters, die normaler Weise zeitgleich stattgefunden hätte, wurde ohne nähere Angabe von Gründen verschoben. 
+
+==Geschichte==
+
+===Wahlkampf===
+In Reinickendorf gab es bei dieser Bezirkswahl eine Besonderheit, dadurch dass der amtierende Bezirksvertreter [[Krzysztof Ronczewski]] wegen [[Kognitives Fragmentierungssyndrom|Kognitiven Fragmentierungssyndrom]] unter Quarantäne stand. Ronczewski wurde zuletzt im Berliner Rat von [[Tanja Abt]] vertreten. Da er aufgrund der Quarantäne nicht wieder zur Wahl antreten konnte und auch Abt nicht kandidierte, kamen stattdessen die großen [[ADL]]-Parteien ins Spiel, die seit den {{Shx|2072|2072er}} Änderungen des [[Berliner Vertrag]]es verstärkt versuchen sich in der [[Berlin]]er Politik zu etablieren. Die aussichtsreichsten Kandidaten die zur Wahl standen waren [[Mu'tazz Suhail Hakimi]] ([[PNO]]), [[Sofia Nordin]] ([[CVP]]), [[Serafina Pazak]] ([[USPD]]) und [[Myron Yegonov]] ([[ASU]]).
+
+===Wahlergebnis===
+In Reinickendorf konnte sich Sofia Nordin von der CVP durchsetzen.
+{{Shadowtalk|Womit Reinickendorf der erste Berliner Normbezirk zu sein scheint, in dem sich - für mich unverständlicher Weise - das überkommene System der allianzweiten politischen Parteien mit ihren lokalen Ortsgruppen durchgesetzt hat... aber eins sag ick Euch Allianzpolitikern in Euren schicken Parteizentralen in [[Hannover]], [[München]] und [[Frankfurt am Main|Frankfurt]] - glaubt bloß nicht, dass die Alternativen auch hier irgendwann nachziehen würden: Eher friert die Hölle zu, ehe Bezirke wie [[Gropiusstadt]], [[Lichtenberg]] oder [[Marzahn-Hellersdorf]] klassische Parteipolitiker zu ihren Vertretern im Rat bestimmen würden!|'''''[[Russian Standard Troll]]'''''<br/>{{talksymbol|pfeil}} <small>...und bei uns, im roten [[Pankow]] - wie auch drüben, im nicht weniger roten [[Köpenick]] - wählt man, wenn überhaupt, ausschließlich zwischen Kommunisten von lediglich marginal unterschiedlicher Coleur!</small>}}
+==Wahlstatistiken==
+
+===Ergebnis===
+
+====Reinickendorf====
+
+{| class="unsortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Kandidat
+!Partei
+!Stimmanteil
+|-
+|<span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+|[[CVP]]
+|27,6%
+|-
+|<span style="display:none;">Pazak, Serafina</span> [[Serafina Pazak]]
+|[[USPD]]
+|14,7%
+|-
+|<span style="display:none;">Hakimi, Mu'tazz</span>[[Mu'tazz Hakimi]]
+|[[PNO]]
+|11,6%
+|-
+|<span style="display:none;">Yegonov, Myron</span>[[Myron Yegonov]]
+|[[ASU]]
+|8,4%
+|}
+
+====Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px" 
+!Bezirk
+!Gewählter Vertreter
+!Zugehörigkeit
+|-
+|[[Charlottenburg-Wilmersdorf]]
+|<span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+|-
+|[[Gropiusstadt]]
+|<span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+|
+|-
+|[[Marzahn-Hellersdorf]]
+|<span style="display:none;">Kotov, Jaromir</span> [[Jaromir Kotov]]
+|
+|-
+|[[Oranienburg]]
+|<span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+|
+|-
+|[[Reinickendorf]]
+|<span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+|[[CVP]]
+|-
+|[[Schönwalde]]
+|<span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+|[[Aztechnology]]
+|-
+|[[Tegel]]
+|<span style="display:none;">Koslowski, Michael</span> [[Michael Koslowski]]
+|[[Zeta-ImpChem]]
+|}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|5._Berliner_Bezirkswahl|5. Berliner Bezirkswahl}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Die Liste der Autoren kann man <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=5._Berliner_Bezirkswahl&action=history hier]</span> nachlesen. 
+
+'''Primärquellen zur <u>5. Berliner Bezirkswahl</u> sind:'''
+*SRB - Shadowrun Berlin - berlINews 2076-10-05 "Kaum Überraschungen bei der Wahlperiode I" 
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2076}}

@@ -1,0 +1,32 @@
+{{Event
+|BILD=
+|ART=Feiertag
+|ORT=[[Berlin]], [[ADL]]
+|WANN={{Shx|1._Mai|1. Mai}}
+|DAUER=
+}}
+Der '''Tag der Arbeit''' ist ein Feiertag, der besonders in [[Berlin]] mit vielen Events bedacht wird.
+
+==Geschichte==
+In der Vergangenheit gab es häufiger schon erhebliche Krawalle am Tag der Arbeit. Am berüchtigtsten war wohl das [[Erster Mai 2076|Mai-Massaker]] von {{Shx|2076}}, bei dem Demonstranten eingekesselt und erschossen wurden. Seitdem hat sich die Lage dank [[Berliner Polizeifreiheit]] deutlich gebessert, aber Ausschreitungen geschehen trotzdem immer mal wieder {{Ref|1}}.
+
+==Beschreibung==
+In Berlin finden traditionsgemäß am ersten Mai viele Demos statt. In [[Xhain]] begeht man das sogenannte "[[MyFest]]" und in vielen Clubs feiert man den [[Tanz in den Mai]], während [[S-K Tempelhof]] ein Volksfest namens [[Neuköllner Maientage]] zelebriert {{Ref|2}}.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem {{Shx|Tag_der_Arbeit|gleichnamigen Artikel}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren ist <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Tag_der_Arbeit&action=history hier]</span> einsehbar. 
+
+'''Primärquellen zu diesem Thema in Shadowrun sind:'''<br/>
+<u>Quellenbücher:</u>
+* [[Berlin 2080]] S.9, 15
+
+===Quellendetails:===
+{{Ref2|1}} [[Berlin 2080]] S.15
+{{Ref2|2}} [[Berlin 2080]] S.9
+
+==Weblinks==
+*{{WP|Erster_Mai|Wikipedia: „Erster Mai“ aka. „Tag der Arbeit“}} - der Feiertag in der realen Gegenwart
+
+{{KatSort|cat=Ereignisse|ADL|Berlin|Events|Feiertage}}

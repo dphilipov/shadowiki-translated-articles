@@ -1,0 +1,66 @@
+{{incomplete}}
+{{Person
+|NAME_OVR=2XL
+|PERSONA=2XL
+|MALE
+|METATYP=[[Troll]] {{Ref|5}}
+|MAGIC=
+|NATION=[[UCAS|Canadian-American]]
+|VOCATION=[[Smuggler]]
+}}
+'''2XL'''' is the [[persona]] and [[street name]] of a [[North American]]-born [[troll]]s {{Ref|5}} and [[smuggler]]s who travels around the globe. {{Ref|1}}
+
+==Biography==
+By his own account, 2XL once ate a live karkalake as a child because of a dare, scaring the hell out of his mother. However, the doctors she sent him to at the time certified that he had an "immune system like a [[devil rat]]" so this silly dare did him no harm. {{Ref|2}} He spent at least part of his childhood in [[Seattle]], where he witnessed [[Don]] [[O'Malley]] throw a big street party for the residents to keep people busy and safe while he destroyed their entire street block by arson. {{Ref|3}}
+
+As an adult, 2XL - before becoming a ''freelance'' [[Shadowrunner]] - may have been a [[Mafia|Mafioso]] himself, or at least a candidate for inclusion in the ''family'', with certain differences in [[Atlantic City]] apparently leading to the rift between him and the [[Crime Syndicate|Syndicate]]. {{Ref|3}} He later embarked on the career of a self-employed smuggler, transporting illegal cargoes around the globe. In this capacity, he has been almost everywhere, though street-level business seems to be his métier. Accordingly, a true expert in street knowledge, he has countless contacts and knows his way around the [[shadows]] of the entire world. {{Ref|1}} Therefore, in August {{Shx|2071|'71}}, he was only too happy to take up the suggestion of the notorious [[pirate]]en "[[Kane]]" to set up his own [[Tempo]] smuggling operation from the American West Coast to [[Neo-Tokyo]], taking on board insects for the [[Japanese]] [[Mushi-Sushi]] restaurant as official cargo and cover for the [[BAD]] shipment. {{Ref|2}}
+
+==Relationships==
+The ''differences'' that ended 2XL's career within the Mafia had to do - as he noted in a [[Shadowtalk]] comment - with a girl in [[Atlantic City]]. Regardless of this, and despite some unpaid bills, he still has good [[connections]] and some insider knowledge in mafia circles, which - despite the obligations of ''[[Omertà]]''' - in the [[Jackpoint]] with the other users. {{Ref|3}}
+
+Kane sometimes addressed him as ''Yankee'' in chat, which was a clear reference to 2XL's origins in the [[UCAS]], while in return he called the ''most notorious man in [[CAS]]'' ''Johnny Rebel'', without either of them taking it as an insult. {{Ref|3}}
+
+At the same time, however, he is also part of [[Jane Foster]]s circle of acquaintances - through their contacts in the smuggling scene.
+{{Shadowtalk|...where the good Frosty probably trusts him enough to call him in case of doubt, so that he can take over the role of cavalry for her with his [[T-Bird]], and whip her and her companions out when they are stranded on a ''not-so-official trip'' somewhere in the vastness of the [[North American]] continent, or in really serious trouble...|'''''[[The Laughing Man]]''''' - Hah! Fragging Hah!}}
+{{Shadowtalk|Well, she's always made some questionable choices when it comes to her friends... but my little Jane must know that herself by now - she's a big girl, after all!|'''''[[Wordsmyth]]'''''}}
+
+==Name==
+{{Persona
+|ANGLE=[[Smuggler]]
+|AKTIVE_BOARDS=[[Jackpoint]]
+|ACTIVE_TIME=after the [[Crash 2.0]]
+|BACKGROUND=Street knowledge around the globe, [[smuggling]]
+}}
+The acronym 2XL is a play on words, as it is pronounced "To Excel" in English, meaning "to excel" or "to surpass someone".
+
+===Danger of confusion:===
+There is apparently a second troll and smuggler with close mafia ties, though he cannot be identical to the North American and longtime [[Jackpointer]], since - unlike the latter - he grew up in [[Italy]], and worked for the mafia there. - For more on this, see [[2XL (Italy)|here]].
+
+==Jackpoint contributions==
+For the [[shadow file]] "[[Vice]]", he contributed the paragraphs ''"''What it means to be in the Mafia''''' and ''"''Do I look Sicilian, Mon?'''''''' in the Mafia chapter, and wrote about the business ventures of Mafia crown princes and princesses under the title ''"''The Children's Hour'''''''. {{Ref|3}} For the "[[10 Gangs]]" file, he also wrote the chapter on the bizarre [[biker gang]] "'''''[[Blindfish]]'''''" active in northern [[CalFree]] and all along the [[North American]] west coast. {{Ref|4}}
+
+===Shadowtalk===
+He also frequently contributed illuminating and useful [[Shadowtalk]] comments to nearly every shadow file posted online by [[FastJack]] at [[Jackpoint]] to date.
+
+*[[Emergence]] / [[Emergence]] S. 70, 91, 117
+*[[Parabotany]] / [[Shadow Handbook 2]] (Parabotany 2075) pp. 31, 34, 62, 68.
+*[[Coyotes (source)|Coyotes]] / [[Coyotes (source)| Coyotes]] S. 11
+*[[Run and Gun]] / [[Crossfire (5th Edition)|Crossfire]] S. 12, 29, 68, 72, 84, 173
+*[[Stolen Souls ]] / [[Stolen Souls]] S. 43, 45, 46, 153, 154, 159, 160, 168, 174, 182, 183
+*[[Street Grimoire ]] / [[Street Grimoire]] S. 217
+*[[Run Faster]] / [[Shadowrunner (sourcebook)|Shadowrunner]] S. 13, 16, 17, 25, 28, 69, 71, 107, 201
+*[[Data Trails]] / [[Data Trails]] S. 39, 117, 154
+*[[Chrome Flesh]] / [[Bodyshop]] S. 11, 70, 71, 101, 124, 146, 172, 177, 196
+<!-- End of article content - meta information -->
+
+==Sources==
+{{Ref2|1}} [[Shadowtalker list]] {{Ref2|2}} [[Shadowtalker list-Pdf, ''English'']]
+{{Ref2|2}} [[Ghost Cartels (Campaign Tape)|Ghost Cartels]] / [[Ghost Cartels (Campaign Tape)|Ghost Cartels]] S.34-35
+{{Ref2|3}} [[Vice]] / [[Underworlds]] S.6, 31, 32, 34-35, 46-47
+{{Ref2|4}} [[10 Gangs]] (''English'', Pdf-only, included in German in "[[Unterwelten]]").
+{{Ref2|5}} [[Dawn of the Artifacts: Midnight]] / [[Midnight - Second Part of the Artifact Hunting Campaign]] S.25
+==Weblinks==
+* {{Shx|2XL}} in the {{Shx|Shadowhelix}}
+
+[[Category:Personas]]
+{{CatSort|cat=Personas|NSC|Trolls|UCAS|Smugglers}}

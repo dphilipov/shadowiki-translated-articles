@@ -1,0 +1,50 @@
+'''05:58''' is a [[Shadowrun novel]] by [[Markus Heitz]].
+
+It was published in 2004 in the original German language by Heyne Verlag, and - as far as known - has not been translated into other languages.
+
+==Book information==
+[[File:SR novel 53.jpg|thumb|right|120px|Cover<br/>{{C Heyne}}]]
+*'''Ref. No.:''' 53
+*'''Title:''' 05:58
+*'''Type:''' Novel
+*'''Language:''' German
+*'''Publisher:''' Wilhelm Heyne Verlag Munich
+*'''Format:''' print
+*'''Published:''' 2004
+*'''Number of pages:'' 348 pages
+*'''Price:''' 7,95 €
+*'''ISBN-10:''' 3-453-52007-6
+
+===Authors, illustrators & contributors:===
+*'''Author:''' [[Markus Heitz]]
+*'''Editing:''' Ralf Oliver Dürr
+*'''Cover illustration:''' Stephane Martinère
+*'''Cover design:''' Nele Schütz Design, Munich
+*'''Typesetting:'' Schaber typesetting and data technology, Wels
+*'''Printing and binding:''' GGP Media GmbH, Pößneck
+
+==Back cover text==
+A brutal series of crimes in the greater [[Stuttgart]] area throws the population into a frenzy. [[Poolitzer]] senses a sensational story, because the perpetrator imitates the crimes of Jack the Ripper and other legendary criminals. Together with his [[Troll]] friend [[Ultra (Troll)|Ultra]], who wants to follow in his footsteps as a reporter, he does his own research and comes across the hypnotist [[Felix Ranjit Ficker|Ranjit]], whose performance in a Ludwigsburg nightclub ended in a debacle. In the middle of a hypnosis demonstration, youthful bullies around the rich schnoz [[Johann von Boesche]] stormed the stage and caused chaos, whereupon one of the hypnotized disappeared without a trace. Now the task is to find the unknown man and awaken him from his trance in order to stop the killing. Poolitzer almost thinks he has reached his goal, when it turns out that Ranjit is not at all who he seems to be...
+
+==content note==
+{{spoiler}}
+
+...
+
+{{sequence bar
+|BLOCKSIZE=1
+|AMT=Shadowrun novels
+|TIME=German
+|PREVIOUS=[[Elementary Knowledge]]
+|DISCOVER=[[The Beginners]]
+}}
+
+==Notes==
+This novel was also republished by Heyne in the anthology "[[Shadowrunner (novel anthology)|Shadowrunner]]" along with the novels "[[Petrel]]" and "[[Any Bet]]".''
+
+==See also==
+*[[List of Shadowrun novels]]
+
+==Weblinks==
+*{{Shx|Quelle,_de:_05:58|Shadowhelix: 05:58}}
+{{catSort|cat=sources|novels|Heyne|Deutsch|2004}}

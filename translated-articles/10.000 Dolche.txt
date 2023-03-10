@@ -1,0 +1,75 @@
+{{Corporation
+|NAME_OVR=10,000 Daggers, S.A.
+|STAND=
+|
+|GRÜNDUNG={{Shx|2038}}
+|HEADQUARTERS=[[Constantinople]]
+|RATING=A {{Ref|2}}
+}}
+'''10,000 Daggers''', also '''10K Daggers'''' - German '''10,000 Daggers'''' - is a [[mercenary]][[corporation]].
+
+==History==
+10,000 Daggers was founded {{Shx|2038}} by [[Ukraine|Ukrainian]] and [[Turkey|Turkish]] [[Eurowars|Eurowar veterans]] founded {{Ref|1}}.
+
+In the {{Shx|2050s|2050s}}, some [[awakened]] [[mercenaries]], with the approval of the [[corporation]], founded the "[[Brotherhood of the Iron Crescent]]" {{Ref|3}}.
+
+===Amazon-Aztlan War===
+During the [[Amazonian-Aztlanian War|Azt-Am War]], the 10,000 Daggers fought mainly on the sides of smaller opposition groups, such as ''[[Bogota Libre!]]'', the ''[[True Brazilians|True Brazilians]]'', ''[[Many Worlds - One Bogotá]]'' and also ''[[New Destiny]]'', as well as for the [[Catholic Church]]. The missions, which were carried out in cooperation with the local opposition, revolved around penetrating the [[Aztechnology Business Complex]]. One of the most famous actions was the [[theft]] of three shipments of weapons inside [[Tenochtitlán]], which then found their way to rebel groups. Other actions included the killing of Aztlan air force hero [[Andres Felipe Pacheco]] by means of a sniper, and the extraction of four Aztlan priests by the 10,000 daggers from the [[Teocalli]] consecrated to Huitzilpochtli. The priests were taken to Bolívar Square and hanged by ''Bogotá Libre!" and their bodies burned. The latter occurred during a large-scale political demonstration that resulted in violent street battles with Aztlan troops in the [[Zona Oeste]] {{Ref|1}}.
+
+The Daggers gain such a reputation as special forces during the war that both [[MET2000]] and [[Tsunami]] took notice and wanted to recruit them. When this didn't work out, it sometimes happened that the two organizations sabotaged the missions of the 10,000 Daggers, only to take over and "clean up" {{Ref|4}}.
+
+After the [[MET2000]] and [[Tsunami]] decimated each other in the [[Amazonian-Aztlanian War|Azt-Am War]], the 10,000 Daggers are considered, along with [[Combat Inc.]], to currently be the most combat-effective units in {{Shx|2079}} {{Ref|5}}.
+
+==Business Profile==
+The 10,000 Daggers are a mercenary, security, and [[military]] consulting company {{Ref|2}}.
+
+Mercenaries from 10,000 Daggers are used for reconnaissance missions and intelligence gathering, covert operations, and minor tactical conflicts {{Ref|2}} {{Ref|1}}
+ 
+Furthermore, the group also repeatedly participates in the [[Desert Wars]]s {{Ref|1}}.
+
+==Employees==
+The Daggers have a wide range of [[metahuman]]s, which allows them to move more inconspicuously {{Ref|1}}.
+
+==Important local activities==
+===Locations===
+In addition to their headquarters in [[Constantinople]], where the old harem buildings of [[Topkapi Palace]]s serve as their barracks, the unit maintains branches in 15 states {{Ref|2}}.
+
+===Operational areas===
+The unit is primarily active in the [[Middle East|Middle East]], [[Africa|North Africa]], [[Asia|Central Asia]], and [[Europe|Eastern Europe]] {{Ref|2}}.
+
+==Structure==
+===Brotherhood of the Iron Crescent===
+The group maintains its own [[magical group]], the "[[Brotherhood of the Iron Crescent]]", for its magically gifted mercenaries, in which [[magically gifted]] Fighters, [[Battle Mages]] and [[Ki Adepts]] are trained, and [[Initiation|initiate]] can {{Ref|6}}. The group here is [[Magical Traditions|multitraditional]], though the majority are [[Hermeticists]] or followers of the [[Islamic Tradition|Islamic Tradition]].
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is largely based on the article {{Shx|10,000_Daggers|10,000 Daggers}} in the {{Shx|Main|Shadowhelix}}, where it is available under [[GNUFDL]]. A list of authors can be found <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=10,000_Daggers&action=history here]</span>.
+
+'''Primary sources on the <u>10,000 daggers</u> in [[Shadowrun]] are:'''
+* [[Fields of Fire]] / [[Crossfire]]
+* [[Shadows of Europe]] / [[Europe in the Shadows]]
+* [[State of the Art: 2063]] / [[State of the Art 2063.01D]]
+* [[State of the Art: 2064]] / [[State of the Art 2064.01D]]
+* [[Shadows of Asia]] [[English only]]
+* [[Street Magic]] / [[Street Magic]] P.69 (expanded, revised {{Pegasus}} reprint).
+* [[Runner Havens]] / [[Shadow Cities]] Pp.179, 180 (expanded, revised {{Pegasus}} reprint, p.208).
+* [[Feral Cities]] / [[Crisis Zones]]
+* [[War!]] / [[Frontline Operations]] S.55, 56
+* [[Street Grimoire]] / [[Street Grimoire]] S.68
+* [[Street Lethal]] / [[Deadly Shadows]] S.155
+
+===Source details:===
+{{Ref2|1}} [[Front Line Operations]] S.55
+{{Ref2|2}} [[Shadow Cities|Shadow Cities, New Edition]] S.208
+{{Ref2|3}} [[Street Magic]] S.69
+{{Ref2|4}} [[frontline magic]] S.56
+{{Ref2|5}} [[Deadly Shadows]] S.155
+{{Ref2|6}} [[Street Grimoire]] S.68
+
+==Weblinks==
+*{{Swf|10_000_Dagues|Shadow Wiki: "10 000 Dagues" (''French'')}}
+
+[[Category:Mercenary organizations]]
+{{CatSort|cat=Corporations|A|Constantinople}}
+[[Category:Corporations (10,000 Daggers)| ]]

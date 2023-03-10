@@ -1,0 +1,41 @@
+{{incomplete}}
+{{Organization
+|STAND=?
+|SOURCE=
+|LOGO=
+|SHORT=
+|ALTERNATIVE=
+|TYP=terrorist organization
+|FOUNDATION=
+|SECRETARY=
+|LEADERSHIP=
+|SeAT=[[Hong Kong]]
+|MEMBERS=
+|AGENDA=Eliminate corporate domination in the [[Hong Kong Free Enterprise Zone]]
+|MOTTO=
+}}
+'''9x9''' is an anti-corporate [[terrorism|terrorist group]] based in [[Hong Kong]].
+
+==History==
+===First appearance===
+The 9x9 grouping makes its first appearance on [[09 September]] [[2068]] for the first time when it attacks a corporate building in Hong Kong {{Ref|1}}.
+
+===The Hong Kong Incident===
+During the [[Hong Kong Incident]], it was initially assumed that 9x9 had been responsible for the explosions in the city {{Ref|2}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+
+'''Primary sources for this grouping are:'''<br/>
+<u>Sourcebooks:</u>
+*[[Runner Havens]] / [[Shadow Cities]] (expanded reprint in {{Pegasus V}}, p.12)
+*[[Emergence]] / [[Emergence - Digital Awakening]] S.39
+*[[Sixth World Almanac]] / [[Almanac of the Sixth World]] S.103
+
+===Source details:===
+{{Ref2|1}} [[Sixth World Almanac]] S.103
+{{Ref2|2}} [[Emergence - Digital Awakening]] S.39
+
+{{CatSchema|schema=OrgTerror}}
+[[Category:Hong Kong]]

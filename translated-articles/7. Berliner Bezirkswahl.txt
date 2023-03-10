@@ -1,0 +1,78 @@
+{{Event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={{Shx|October2}} {{Shx|2078}}
+|PARTICIPATED
+}}
+The '''7th Berlin District Election''' was held on the first weekend of October 2078. Elected were the representatives of the districts of electoral period III: [[Friedrichshain-Kreuzberg]], [[Groß-Siemensstadt]], [[Lichtenberg]], [[Potsdam]], [[Schönefeld]], [[Strausberg-Fredersdorf]] and [[Zehlendorf]]. Here, each of the district representatives was confirmed in office.
+
+==Procedure==
+===Election for III Mayor===
+The also pending election of the III. mayor was - to avoid problems and unrest as in the postponed [[6th Berlin district election|6th district election]] in the previous year - by decision of the outgoing III. mayor and [[BERVAG]] executive director [[Yilmaz Wojenko]] decoupled from the district election, and already held in early June '78. In the process, Dr. [[Paul Zöller]], the district representative of [[Berlin-Mitte]] newly elected only the previous year and a candidate of the [[Berliner Bankenverein]] (respectively [[HKB]]), won the office and the associated dual function as the new BERVAG executive director. At the same time as this election, [[Spandau]] also held a referendum called by Spandau council representative [[Fletcher]], who had been elected the previous year, in which residents voted by the narrowest of majorities to change Spandau's status from a "normal district" to an "alternative district".
+
+===District election===
+The victories of the representatives of Groß-Siemensstadt (where the decision was in the hands of [[MSI]]/[[AGC]] anyway), Friedrichshain-Kreuzberg and Potsdam, as well as of [[Morek Pflügler]] in Lichtenberg were never in doubt. In principle, the reelection of [[Proteus]]'s [[Izabella Buzek]] in Zehlendorf would also have been a sure thing, even if her main opponent [[Manfred Dosse]] had '''not''' been killed by a car bomb a few weeks before the election. In Schöneberg, [[Gregor Thielke]] of the [[CVP]] - despite criticism of his inefficient management of budgetary funds - had no trouble prevailing against his far-flung [[LDFP]] opponent [[Mareike Praschak-Sonneberg]]. The support for the [[Communists]] in his district, however, has almost doubled since the election three years ago, even if they still have no chance as far as the district representative post is concerned. The only relatively close runner-up was [[Doreen Katschmarek]] in Strausberg-Fredersdorf, who had joined the [[European Social Democratic Party|ESP]] relatively shortly before the election and was able to prevail over her anarcho-syndicalist rival [[Noel Duval]] of the [[Workers' Political Club]], thanks mainly to the costly election campaign financed by the Alliance Party.
+
+====overview election winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Friedrichshain-Kreuzberg]]
+|Alternative district
+|<span style="display:none;">Ozgun, Mitra</span> [[Mitra Özgun]]
+|
+|2072-2078
+|-
+|[[Greater Siemens City]]
+|[[Group District
+|<span style="display:none;">Schluter, Robert</span> [[Robert Schlüter]]
+|[[MSI]]
+|2072-2078
+|-
+|[[Lichtenberg]]
+|Alternative district
+|<span style="display:none;">Pflugler, Morek</span> [[Morek Pflügler]]
+|
+|2072-2078
+|-
+|[[Potsdam]]
+|norm district
+|<span style="display:none;">Von Wittich, Fabian</span> [[Fabian von Wittich]]
+|[[Prussia Foundation]] / [[CVP]]
+|2075-2078
+|-
+|[[Schönefeld]]
+|Normbezirk
+|<span style="display:none;">Thielke, Gregor</span> [[Gregor Thielke]]
+|[[CVP]]
+|2075-2078
+|-
+|[[Strausberg-Fredersdorf]]
+|Normbezirk
+|<span style="display:none;">Katschmarek, Doreen</span> [[Doreen Katschmarek]]
+|[[European Social Democratic Party|ESP]]
+|2072-2078
+|-
+|[[Zehlendorf]]
+|Normbezirk
+|<span style="display:none;">Buzek, Izabella</span> [[Izabella Buzek]]
+|[[Proteus]]
+|2075-2078
+|}
+
+==See also==
+*[[Berlin district election]]
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[SRB - Shadowrun Berlin]] [https://shadowrunberlin.wordpress.com/2016/10/09/berlin-hat-gewahlt-periode-iii2078/ Berlin voted (period III/2078)]
+
+==Weblinks==
+*{Shx|7th_Berlin_district_election|Shadowhelix: 7th Berlin district election}}
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2078}}

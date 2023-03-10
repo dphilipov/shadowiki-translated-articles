@@ -1,0 +1,84 @@
+{{Corporation
+|STAND=2070
+|LOGO=
+|COPYRIGHT=
+|BRANCH=Professional sports
+|HEADQUARTERS=[[Munich]], [[Free State of Bavaria]], [[ADL]]
+|FORM=Stock corporation
+}}
+'''FC Bayern München AG'''' is a local [[corporate group]] in the [[Free State of Bavaria|Bavarian]] Bavarian]] capital [[Munich]], and the economic superstructure of one of the - as in the days of the old, First Football Bundesliga - financially strongest and both economically and [[sport]]ly most successful professional sports clubs in the entire [[Allianz Deutscher Länder]].
+{{Shadowtalk|Economically - for sure. - But in terms of sports? - Nope! - Have you ever looked at who wins the ''[[Cup of Champions]]'' most often, and thus may call themselves ''German Champion''?! - This is not the champion of the [[Südallianz Liga]], which admittedly FC Bayern places more often than any other club, but in 9 out of 10 years the champion of the [[Ruhrliga]]...!|'''''[[Hattrick]]'''''|67%}}
+The mainstay and what is generally identified with FC Bayern in the German (and Bavarian) public is still the classic, [[unvercybert]]e professional [[soccer]].
+==FC Bayern Munich==
+{{Sports team
+|SPORTART=[[Football]]
+|STAND=2070
+|NAME_OVR=1st FC Bayern Munich
+|SOURCE=
+|LOGO=FC Bayern Munich.jpg
+|COPYRIGHT={C Pegasus}}
+|Colors=Red-White
+|ALIAS=The Bavarians
+| FOUNDATION=
+|CITY=[[Munich]], [[Free State of Bavaria]]
+|SPONSOR=
+|LIGA=[[Southern Alliance League]]
+|PRESIDENCY=[[Frank Leon Schubert]]
+|PRESIDENT=
+|TRAINER=
+|MEMBERS=
+|COMPLETION={{nlt}}2059 Southern Alliance Champion & German Champion,<br/>2072 Southern Alliance Champion<br/>Record Southern A. Champion.
+}}
+The '''1st FC Bayern Munich''' (i.e. the first professional team of FC Bayern) plays - as mentioned - in the Süd-Allianzliga (SüdA), where it holds the record for the most championships, just as it did in the old, Erste Fußball-Bundesliga, even though in the {{Shx|2060s|2060er}} the "''[[Union Nürnberg-Fürth]]''' aka '''Nürnberg United'''' {{Shx|2061}} and {{Shx|2063|'63}} Southern Alliance champion and took the trophy to the [[Franconian|Franconian]]  [[NEF]]-[[Sprawl]].
+{{Shadowtalk|An excellent ''discussion topic'' that you can bring up in one of the tents at the [[Wiesn]], a pub in Schwabing at an advanced hour, or in any Munich beer garden if you're keen - for whatever reason - on causing a general row...|'''''[[BAVARIA (Persona)|BAVARIA]]'''''|67%}}
+{{Shx|2073}} participated again in the Cup of Champions as Southern Alliance champions, where they finished second with 7 points (goal difference: 7 : 5) behind the reigning Ruhr champions "''[[SC Westfalia Herne]]''', who finished on 9 points, and thus won the coveted title of "German champion". {{Ref|1}}
+{{Shadowtalk|The honorable third place was incidentally won by the "''[[1. FC Lokomotive Leipzig]]'''' as a representative of the Central German League with 6 points ahead of the "''[[FC St. Pauli]]''' as the reigning champion of the league North German League (4 points) and the - chanceless - "''[[Fortuna Düsseldorf]]''''' (3 points) representing the Rhein-Hessen-Liga.... {{Ref|1}}|'''''[[Karel]]''''' - last captain of the Royal Bohemian Mountain Navy|67%}}
+The team is also regularly represented in the [[Euroliga]], where it competes against top European clubs such as [[FC Barcelona]]. {{Ref|2}}
+
+In the {{Shx|2080s}} season, Bayern-München was beaten on the penultimate matchday in the Cup der Meister by "[[FC Schalke 04]]", who were tied on points before, in front of their home crowd, who consequently won the coveted trophy ahead of Bayern, "[[AGC Leverkusen]]" from the [[RHL]], "[[RB Leipzig-Halle]]" from the [[MDL]] and "[[FC St. Pauli]]" from the [[Liga Norddeutscher Bund]] {{Ref|4}}.
+
+FC Bayern plays its home games - just like its economically and athletically far less successful, eternal local rival "''[[1860 München]]''" - in the ultra-modern [[Franz-Beckenbauer-Stadion]].
+
+===Leadership===
+In an old club tradition that former active professional players take over positions in club management or coaching staff after the end of their sporting career, the chairman of the board of FC Bayern München in the {{Shx|2070s|'70s}} is none other than [[Frank Leon Schubert]], who had kicked the team to the top of the Southern Alliance League and to the ADL championship trophy as a star striker as late as the {{Shx|2058|58}}/{Shx|2059|59}} season.
+
+===Player(s)===
+{|{ class="wikitable"
+|- style="font-weight:bold;"
+|+ class="nowrap" | Former and active player(s)
+! Name
+! Position
+! Metatype / Variant
+! Notes
+|-
+| [[Nora Fuchs]] {{Ref|3}}
+| ?
+| ?
+| player, always comes to the stadium {{Ref|3}} with bodyguards - like the other top female players in German professional soccer - for protection against stalkers and especially against hostility from the ranks of hooligans and ultra fan groups, who cannot and will not put up with women in the "men's sport" of soccer.
+|-
+| [[Frank Leon Schubert]]
+| striker
+| ?
+| striker star in the 58/59 season, 2070 chairman of the board
+|}
+
+===Fans===
+FC Bayern has fans across all strata of the population, and still by no means exclusively in the Bavarian capital, with the ''noble fans'' from the ranks of high earners, the rich and influential and generally the blue-and-white Schickeria here form a significantly higher proportion than, for example, traditional clubs of the Ruhr League such as the "[[FC Schalke 04]]". Last but not least, [[Karl Stadt]], the European head of [[Renraku]], is incidentally a big, self-confessed fan of the club. He has a VIP box in the Munich stadium, and has corporate meetings held there even when FC Bayern is playing, so that he can also follow the home games live and on site during the respective meetings. - The [[Dallmayr]] subsidiary [[Feinkost Käfer]] is exclusively responsible for catering there (as well as in the other VIP and honorary boxes at Franz-Beckenbauer Stadium). - At away matches in the Euroliga, the aforementioned ''noble fans,'' who include a high-ranking manager at Munich's [[Saeder-Krupp|S-K]] subsidiary [[BMW]], also take advantage of the opportunity to log into the [[VR]] representation of the stadium in question as season ticket holders by means of premium access, to watch the respective matches in virtuality (if the stadiums - like [[Camp Nou]] - offer this option), if their job for the [[corporation]] does not allow them the time to personally fly to [[Barcelona]], and visit the stadium in ''Real Life''. {{Ref|2}}
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Munich Noir]]
+*[[Lifestyle 2073]] S.104, 90
+*[[Lifestyle 2080]] S.197, 198
+
+===Source details:===
+{{Ref2|1}} [[Lifestyle 2073]] Pg.104 - box "ADL: Cup of Champions - standings 2073"
+{{Ref2|2}} [[Lifestyle 2073]] S.90
+{{Ref2|3}} [[Lifestyle 2080]] S.198
+{{Ref2|4}} [[Behind the Curtain]] S.150
+
+==Weblinks==
+*{{WP|FC_Bayern_Munich|Wikipedia: FC Bayern Munich}} - the club in the real present
+*{Shx|FC_Bayern_München_AG|Shadowhelix: FC Bayern München AG}}
+{{CatSort|cat=Corporations|ADL|Bayern|Munich}}

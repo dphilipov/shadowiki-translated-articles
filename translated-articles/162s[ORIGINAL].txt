@@ -1,0 +1,57 @@
+{{Gang
+|STAND=2072
+|QUELLE=
+|ALIAS=
+|LOGO=
+|COPYRIGHT=
+|FARBEN=Blutrot und Braun
+|ZEICHEN=drei Krallenschlitze unterhalb der blutig tropfenden Zahl "162"
+|ANFÜHRER=
+|MITGLIEDER=?<br/>(nur [[Ghul]]e)
+|CHAPTER=keine<br/>(Nachahmer in [[Chicago]])
+|TERRITORIUM=[[Redmond]]
+|AKTIVITÄTEN=(Meta-)Menschenjagd (Zuarbeit für [[Tamanous]])
+|ALLIIERTE=[[Tamanous]]
+|FEINDE=
+|MOTTO=
+}}
+Die '''162s''' sind eine [[Gang]] in [[Seattle]].
+
+==Begriff==
+Die Gang hat sich nach einem gesetzlichen Bestimmung zum rechtlichen Schutz von [[Ghul]]en benannt, "[[Special Order 162]]", die seiner Zeit in [[Chicago]] zur Einrichtung der [[Cabrini-Zuflucht]] führte, und bereits nach weniger als einem Jahr in Folge massiver Proteste wieder aufgehoben wurde.
+
+==Mitglieder, Turf, Farben & Symbol==
+Die Gang ist - wenig überraschend - eine reine Ghul-Gang, die in [[Redmond]] operiert. Ihre Gangfarben sind Blutrot und Braun. Ihr Symbol sind drei Krallenschlitze unterhalb der blutig tropfenden Zahl "162".
+
+==Aktivitäten==
+Die «162s»-Gang hat eine profitable Geschäftsbeziehung mit dem [[Organhändler]]-Ring [[Tamanous]]: Die Ghule der Gang durchstreifen die [[Barrens]], auf der Jagd nach Opfern, wobei gesunde Opfer als "freiwillige" Organspender Tamanous zugeführt werden, während der Rest als Mahlzeit endet. Von den Organleggern werden die ghulischen [[Ganger]] mit den für deren Ripperdocs wertlosen Resten und unbrauchbaren Organen sowie etwas Bargeld entlohnt, mit dem sie [[Waffen]] und [[Ausrüstung]] kaufen können.
+
+Ungeachtet dessen gehört die Gang zu jenen, die das [[Funhouse (Urubia)|Funhouse]] der [[Drachin]] [[Urubia]] frequentieren, wo sie sich - anscheinend - an die dortige Hausordnung halten, daß die Hausherrin unter ihrem Dach keinerlei Gewalttätigkeiten ihrer ''Gäste'' untereinander duldet.
+
+==Konkurrenz==
+Durch ihr ''Geschäftsmodell'' stehen die «162s» mit der gemischt-rassigen Gang der «[[Disassembler]]» aus [[Downtown (Seattle)|Downtown]] in unmittelbarer Konkurrenz, die sich als Organräuber gleichfalls als Zuarbeiter von Tamanous betätigen. 
+
+==Nachahmer==
+Mitte der 2070er operieren in Chicago - dem ehemaligen [[Bug City]] - mehrere Ghulrudel, die Zeichen und Farben der «162s» verwenden, und aktiv auf (Meta-)Menschenjagd gehen, womit sie Ghulen, die sich um eine friedliche Koexistenz mit Nicht-[[Infizierte]]n bemühen, das Leben in der ''Windy City'' zusätzlich schwer machen. - Verbindungen zu den Seattler «162s» haben diese aber wohl nicht.
+
+==Quellen==
+Dieser Artikel basiert auf der Übersetzung des Artikels {{Shwikia|162s}} im englischsprachigen {{Shwikia|Main_Page|Shadowrun Wikia}}, der dort unter GNUFDL bzw. Creative Commons-Lizenz steht. Eine Liste der dortigen Autoren siehe <span class="plainlinks">[http://shadowrun.wikia.com/wiki/162s?action=history hier]</span>.
+
+'''Primärquellen zu den <u>162s</u> sind:'''
+===Quellenbücher:===
+*[[Loose Alliances]] p.40 / [[Feind meines Feindes]]
+*[[Runner Havens]] p.93 / [[Schattenstädte]] (erweiterte, überarbeitete Neuauflage im {{Pegasus V}}, S.98, Tabelle: 99)
+*[[Feral Cities]] p.22 / [[Krisenzonen]]
+*[[Runner's Companion]] p.60 / [[Runnerkompendium]]
+*[[Seattle 2072]] (nur ''englisch'' und ''französisch'')
+*[[Splintered State]] / [[Tödliche Fragmente]]
+
+===Romane:===
+*[[Karmesin]] (engl. ''[[Crimson]]'') - Roman von [[Kevin R. Czarnecki]]
+
+==Weblinks==
+*{{Shx|162s|Shadowhelix: 162s}}
+*{{Swf|162s|Shadow Wiki: 162s}} (''französisch'')
+
+{{KatSchema|schema=OrgGang}}
+{{KatSort|cat=Gangs|Nordamerika|UCAS|Seattle}}

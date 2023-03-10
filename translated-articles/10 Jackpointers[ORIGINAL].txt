@@ -1,0 +1,75 @@
+
+'''10 Jackpointers''' ist ein Band mit Hintergrund-Informationen zu zehn bekannten [[Shadowtalk]]ern in den Regel-, Quellen- und Abenteuer-/Kampagnenbänden für die [[Shadowrun: Editionen#4.Edition|vierte Edition]] von [[Shadowrun]]. 
+
+''In-Game'' werden diese als elektronische Dossiers der [[Dawkins Group]] präsentiert, die [[Fastjack]] am 5. März 2010 zur Information der Mitglieder in den [[Jackpoint]] heraufläd.
+
+"10 Jackpointers" wurde von {{Cat}} am 01.03.2010 (Realzeit) in englischer Sprache und ausschließlich als eBook veröffentlicht. 
+
+Eine Übersetzung in brasilianischem Portugiesisch erschien unter dem Titel "'''10 Plugueiros'''" beim brasilianischen Lizenznehmer Editora New Order.
+
+==Buchinformationen==
+{|align="right"
+|[[Datei:CAT26651 10Jackpointers.jpg|thumb|center|Cover {{C Cat}}]]
+|[[Datei:Capa-10-Plugueiros.png|thumb|center|Cover {{C Edi}}]]
+|}
+* '''Art-Nr.:''' CAT26651
+* '''Titel:''' 10 Jackpointers
+* '''Verlag:''' {{Cat}}
+* '''Sprache:''' englisch
+* '''Portugiesischer Titel:'''  10 Plugueiros
+* '''Portugiesische Ausgabe:''' Editora New Order
+* '''Art:''' nur eBook (Watermarked pdf)
+* '''Dateigröße:''' 3.06 MB (''englisch'') 
+* '''Seitenzahl:''' 31 Seiten (''englisch'')
+* '''Erschienen:''' 01.03.2010 (''englisch'')
+* '''Preis:''' 4,95 $ (''englisch'') / 10,00 R$ (''portugiesisch'')
+
+===Autoren, Illustratoren, Mitarbeiter:===
+* '''Autor(en):''' [[Lars Blumenstein]], Mark Edwards, Wesley Street, Michael Wich
+* '''Künstler:''' [[Andreas Schroth]]
+
+==Rückseitentext==
+===englisch:===
+'''Everyone's Watching Everyone'''
+
+The problem with keeping files about ne'er-do-wells is they're a curious and clever lot. Curious and clever enough to pilfer those files from the corporate compiler, repost them, and add their own commentary-providing a level of meta-information like you've never seen before. Get the scoop on [[Jackpoint]]-posters like [[Kay St. Irregular]], [[Ecotope]], [[Man-of-Many-Names]], and [[Turbo Bunny]].
+
+Remember: not everything you read is true. When the two sources of information are [[Horizon]] and Jackpoint ... all bets are off.
+
+The Jackpointers presented in this download are: [[Baka Dabora]], [[Ecotope]], [[Fianchetto]], [[Kay St. Irregular]], [[Lei Kung]], [[Lyran]], [[Man-of-Many-Names]], [[Orbital DK]], [[Riser]], and [[Turbo Bunny]]. Each has a 2 or 3 page profile.
+
+===portugiesisch:===
+'''Todo mundo vigia todo mundo'''<br/>
+O problema em manter arquivos sobre plugueiros é que eles são muito inteligentes e curiosos. Curioso e inteligente o suficiente para roubar esses arquivos do compilador corporativo, republicá-los e adicionar seus próprios comentários – fornecendo um nível de meta-informação como você nunca viu antes. Receba as notícias sobre plugueiros como Kay Sta. Irregular, Ecótope, O-de-Muitos-Nomes e Cueia Nóia.
+
+Lembre-se: nem tudo que você ler aqui é verdade. Quando as duas fontes de informação são Horizon e o Plugue … Não confie 100%.
+
+Os Plugueiros apresentados neste download são: Baka Dabora, Ecótope, Fianchetto, Kay Sta. Irregular, Lei Kung, Lyran, O-de-Muitos-Nomes, Orbital DK, Riser e Cueia Noia. Cada um tem um perfil de 2 ou 3 páginas.
+
+==Inhalt==
+* JackPoint Login
+* 10 Jackpointers 
+* [[Baka Dabora]] 
+* [[Ecotope]] 
+* [[Fianchetto]] 
+* [[Kay St. Irregular]] 
+* [[Lei Kung]] 
+* [[Lyran]] 
+* [[Man-of-Many-Names]] 
+* [[Orbital DK]] 
+* [[Riser]] 
+* [[Turbo Bunny]] 
+* Credits: 10 Jackpointers 
+==Siehe auch:==
+* [[Liste der Quellen- und Regelbücher]]
+
+==Weblinks==
+* {{Shx|Quelle,_en:_10_Jackpointers|Shadowhelix: 10 Jackpointers}}
+* {{Shx|Quelle,_pt:_10_Plugueiros|Shadowhelix: 10 Plugueiros}}
+===Bezugsquellen:===
+*[http://newordereditora.com.br/loja/rpg/shadowrun-rpg/10-plugueiros-shadowrun-pdf/ "10 Plugueiros" bei Editora New Order] 
+
+===Previews:===
+* [http://watermark.drivethrustuff.com/pdf_previews/79178-sample.pdf Preview Pdf] (''englisch'')
+
+{{KatSort|cat=Quellen|Quellenband|4. Edition|Englisch|Catalyst Game Labs|2010}}

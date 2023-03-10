@@ -1,0 +1,42 @@
+{{Person
+|NAME_OVR=Tenzin Gyatso
+|GEBURTSNAME=Lhamo Dhondrub
+|BILD=14 Dalai Lama.jpg
+|GEBURT=6. Juli 1935
+|TOD={{Shx|2012}}
+|GESCHLECHT=männlich
+|METATYP=[[Mensch]]
+|MAGISCH=?
+|NATION=[[Tibet|tibetisch]]
+}}
+{{WP|Tenzin_Gyatso|Tenzin Gyatso}} war ein buddhistischer Mönch und der '''14. Dalai Lama'''. Den Großteil seines Lebens verbrachte er außerhalb seiner tibetischen Heimat, die er aufgrund des politischen Dissens mit der chinesischen Besatzungsmacht nicht betreten durfte. Am Ende seines Lebens kehrte er aber nach [[Tibet]] zurück. Er starb dort, nachdem ab {{Shx|2011}} der Zugang nach Tibet durch mächtige [[Magie|magische]] Phänomene versperrt worden war.
+
+==Biographie==
+Geboren als ''Lhamo Dhondrub'' wurde Tenzin Gyatso als kleines Kind als 14. Reinkarnation des Dalai Lama erkannt. 1940 wurde er inthronisiert. Nach der Besetzung Tibets durch die [[Volksrepublik China]] 1950 übertrug man ihm drei Jahre früher als üblich im Alter von 15 Jahren die Regierungsgewalt. Annäherungsversuche an die chinesische Führung unter {{Shx|Mao_Zedong|Mao Zedong}} blieben fruchtlos. 1959 scheiterte ein tibetischer Aufstand. Auf Anraten des Staatsorakel [[Nechung]] flüchtete der Dalai Lama aus Tibet und ging nach [[Indien]]. Mit Unterstützung der indischen Regierung gründete er die Tibetische Exilregierung in Dharamsala, der aber die internationale Anerkennung versagt blieb. Tibet wurde defacto ein Verwaltungsgebiet der Volkrepublik China, auch der völkerrechtliche Status des Landes blieb umstritten.
+
+In den Jahren nach 1959 reiste der 14. Dalai Lama um die Welt, führte Dialoge mit Religionsvertretern und Wissenschaftlern, setzte sich für den Frieden und eine größere Autonomie von Tibet ein und machte auf die Situation in seiner Heimat aufmerksam. Für seine Leistungen wurde ihm 1989 der Friedensnobelpreis verliehen.
+
+1989 wurde auch die vom Dalai Lama {{Shx|1995}} anerkannte 11. Inkarnation des Panchen Lama, eine wichtige spirituelle Figur im tibetischen Buddhismus, geboren. Die chinesische Regierung entführte den Jungen, [[Gedhun Choekyi Nyima]], und er lebte seitdem unter Hausarrest und ohne Kontakt zur Aussenwelt. {{Shx|2010}} wurde dann die Meldung von seinem Tod verbreitet. Diese Nachricht löste in Tibet einen Aufruhr aus, der die chinesische Regierung dazu bewegte, dem 14. Dalai Lama die Rückkehr in seine Heimat zu erlauben, so dass er zur Beruhigung der Lage beitragen könne. Im März 2011 begannen sich magische Phänomene entlang der tibetischen Grenzen zu manifestieren, die den Zugang zum Land und chinesische Militäroperationen deutlich erschwerten. Im Verlaufe des Jahres verstärkten sich die Manifestationen. Im September kam eine letzte Botschaft des Dalai Lama aus Tibet. In einer Videoaufnahme erklärte er, dass die Erscheinungen um Tibet nicht bedrohlich seien, aber er warnte vor dem Versuch nach Tibet einzudringen. Das chinesische [[Militär]] ignorierte diese Warnung und versuchte einzumarschieren, worauf die magischen Manifestationen sich zur [[Mayawolke]] verdichteten und Tibet versiegelten. Der Kontakt zu den chinesischen Einheiten brach ab.
+
+{{Shx|2012}} starb der 14. Dalai Lama eines natürlichen Todes.
+
+{{Folgenleiste
+|VORGÄNGER={{WP|Thubten_Gyatso|13. Dalai Lama}}
+|AMT=Dalai Lama
+|NACHFOLGER=[[15. Dalai Lama]]
+|ZEIT=1940 - 2012
+|STARTBREAK=1
+|ENDBREAK=1
+}}
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|14._Dalai_Lama|14. Dalai Lama}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=14._Dalai_Lama&action=history hier]</span>.
+
+'''Primärquellen zum <u>14. Dalai Lama</u> in [[Shadowrun]] sind:'''
+* [[Shadows of Asia]] (''nur englisch'')
+
+{{KatSort|cat=Personen|NSC|Menschen|Verstorben|Tibet}}
+{{KatSort|catsup=Personen|cat=Geistliche|Buddhismus|Asien|Tibet}}
+{{KatSort|catsup=Personen|cat=Politiker|Asien|Tibet}}
+[[Kategorie:Geboren 1935]]
+[[Kategorie:Gestorben 2012]]

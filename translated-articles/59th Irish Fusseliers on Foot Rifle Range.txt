@@ -1,0 +1,34 @@
+{{unofficial}}
+{{location
+|STAND=2077
+|ART=Shooting Range
+|LOCATION={nlt}}Foothills of an [[Awakening|awakened]] Woodland, a few kilometers outside [[Galway]], [[County Galway]], Province of [[Connacht]], [[Tír na nÓg]]
+|OWNER=[[TRC]]
+|SECURITY=[[TRC]]
+}}
+The '''59th Irish Fusseliers on Foot Rifle Range''' is a [[Tír Republican Corps]] rifle range in [[County Galway]], a few kilometers outside [[Galway]] in [[County Galway]] and in the foothills of an [[Awakening|awakened]] Woodland]] area.
+
+==Description==
+The facility has various firing lanes and parkours for different [[firearm]]s, including lanes designed for sniper rifles and even those for training with [[heavy weapon|heavy weapon]]s such as [[machine gun]]s. At least some of the firing lanes also accommodate the far-above-normal [[metahumanity|(meta)human]] Increased skills of [[Adept|Firearms Adept]] [[Adept|Firearm Adept]].
+
+The facility can - in rare cases - also be used by non-TRC members, but this is only possible with the explicit permission of higher representatives of the TRC and also involves considerable fees. Since the TRC has domiciliary rights here, especially non-elfish users should expect to have [[Danaan]]-[[Elf]]s as spectators during shooting training, by whom they should not be provoked if they want to avoid problems.
+
+==Term==
+The name "59th Irish Fusseliers on Foot Rifle Range" refers to a historic rifle regiment from the 18th and 19th centuries, i.e. from the time when all of [[Ireland]] was part of the [[United Kingdom of Great Britain|British Empire]], and represents - after the final, Irish independence and the transformation of the [[United Free Republic of Ireland|United Free Republic of Ireland]] into [[Tír na nÓg]] - represents anachonism that can really only be explained by [[military]]ism traditions.
+{{Shadowtalk|There are rumors - as yet unproven - that the phenomenon of "[[Returned Soldiers|Returned Soldiers]]" struck here in 2081/82 as well, and two or three Redcoats or Greencoats of British sharpshooters from the Napoleonic Wars period are said to have appeared. - Makes the [[TRC]] and especially the sniper [[adept]]s of [[Reach Fuileach]] ''a little'' nervous, to say the least...|'''''[[Dolores El Kharimi|Curiosity Thrills the Cat]]'''''}}
+
+==Trivia==
+Through their good relations with the Tír authorities, [[Karel]] and [[Curiosity]] were able to secure permission for their new adept [[Pirate Crew|Crew]] member [[Death's Eye]] to train at the facility in January 2078.
+
+<!-- End of article content - meta information -->
+
+==InGame Benefits==
+[[SC]]s wishing to use the range must have an official TRC member (at least NCO rank) as a [[Connection]] with a loyalty level no lower than 3. (Here, if applicable, it is sufficient if a member of their team / [[group]] has such a Connection). - The higher the connection is in the hierarchy of the TRC, the higher the probability to get the permission to use the connection. Usage fees (per person and hour) and ammunition costs will be charged additionally.
+
+==Sources==
+This facility is purely the invention of user "[[User:Karel|Karel]]", introduced in the "Crew Backroom" thread in the Shockwave Rider in-game forum. It is not covered by canonical sources.
+
+==Weblinks==
+*{Shx|59th_Irish_Fusseliers_on_Foot_Rifle_Range|Shadowhelix: "59th Irish Fusseliers on Foot Rifle Range"}}
+
+{{CatSort|cat=Locations|Earth|Europe|Tír na nÓg|Connaught|County Galway}}

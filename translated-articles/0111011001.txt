@@ -1,0 +1,56 @@
+{{person
+|BIRTHNAME=
+|PERSONA=0111011001
+|MATYP=
+|METATYP=
+|MAGIC=
+}}
+'''0111011001'''' is the [[persona]] of a shadow broker. He is [[€spion]]'s partner at [[Brokerage X]].
+
+==Name==
+{{persona
+|ANGLE=Brokerage Genius
+|ACTIVE_BOARDS=[[Shadowland]], [[Helix]], [[Jackpoint]]
+|BACKGROUND=[[Brokerage X]], interaction of [[Shadowrun]]s and stock prices.
+}}
+The persona "0111011001" is simply binary code, machine language.
+{{Shadowtalk|Maybe this isn't really a [[human]] or [[metahuman]] but a [[sprite|Free Sprite]], a [[semi-autonomous knowbot]] or even a real [[AI]]...|'''''[[Panic]]'''''|68%}}
+
+==Shadowland posts==
+In the old [[Shadowland BBS]], he repeatedly made [[Shadowtalk]] comments - especially on economic and financial topics, and on how [[Shadowrun]]s may influence current stock market events, for example, and how [[Shadowrunner|Runner]] can take additional advantage of this.
+
+===Jackpoint:===
+With the release of the "[[Bloody Business]]"-[[Shadowfile]], he also made an appearance in [[JackPoint]] in 2078, and contributed in the chapter ''"Anti-Amalgam"'' posted by fellow €-Spion (which was a mirrored article from the [[VNL|Dutch]] [[Helix]]) contributed appropriate comments {{Ref|1}}.
+
+In 2081, he received - at the request of "[[Mr. Bonds]]" - by "[[Glitch]]" as well as his partner "[[Espion]]" for the chapter about "[[Stark, Theissen and Van der Mer|Stark, Theissen and Van der Mer]]" again a guest access with writing rights in JackPoint {{Ref|2}}.
+
+==Meaning==
+{{Shadowtalk|The number 0111011001 when read as a binary number corresponds to the decimal number 473 and the hexadecimal number [01 D9]. 289 is the ASCII code for the Ǚ, 01D9 is the Unicode code for the same character. In unicode 0289 stands for the character ʉ. As an octal number, the value is 731, which in ASCII corresponds to the character Ð and the unicode character ܱ (the thing below in the corner, not the circle!). As a duodecimal number it is 335, which is the ASCII character O. Kind of confusing... Mirroring the code brings decimal 622, hexadecimal [02 6E],duodecimal 43A and octal 1156. This corresponds to the characters n (ASCII)/(unicode)آ, ɮ (unicode), К(unicode) and ä(ASCII)/ᅖ(unicode)... Interpretation apparently meaningless... |'''''[[SpecSec]]''''' {{ref|10}}}}
+
+==Possibility of confusion==
+
+There is a risk of confusing the broker [[0111011001]] with the [[guild]] [[100100001]], as both names consist only of binary numbers.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is partly based on the article {{Shx|0111011001}} in the {{Shx|mainpage|Shadowhelix}}, where it is licensed under [[GNUFDL]]. The list of authors can be <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=0111011001&action=history here]</span>.
+
+'''Primary sources for <u>0111011001</u> are:'''
+*[[Loose Alliances]] p.102, 118, 120 / [[Enemy of My Enemy]]
+*[[Collapsing Now]] / [[Phantoms (sourcebook)|Phantoms]] S.132
+
+===Shadowtalk===
+*[[Shadows of Europe]] p.17, 21, 22-29, 42, 80, 104, 112, 171, 201 / [[Europe in the Shadows]]
+*[[Loose Alliances]] p.102, 118, 120 / [[Enemy of My Enemy]]
+*[[Shadows of Asia]] p.13, 100, 179 / [[English only]]
+*[[Bloody Business]] / [[Bloody Business]] S.14, 164
+*[[Collapsing Now]] / [[Phantoms (sourcebook)|Phantoms]] S.136, 137, 139, 142
+
+===Source details:===
+{{Ref2|1}} [[Bloody Business]] S.14, 164
+{{Ref2|2}} [[Phantoms (sourcebook)|Phantoms]] S.132
+{{Ref|10}} This is a non-official speculation by user [[User:Raptor|Raptor]]
+
+[[Category:Personas]]
+{{CatSort|cat=Personas|NSC}}

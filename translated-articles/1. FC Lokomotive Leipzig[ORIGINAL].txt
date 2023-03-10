@@ -1,0 +1,116 @@
+{{Teilweise Inoffiziell}}
+{{Sportteam
+|SPORTART=[[Fußball]]
+|STAND=2080
+|QUELLE={{Ref|1}}
+|LOGO=Logo 1. FC Lokomotive Leipzig.png
+|COPYRIGHT=<small>Logo "1. FC Lokomotive Leipzig"<br/><u>Lizenz:</u> {{cc-by-sa-3.0 kurz}}<br/>(<u>Urheber:</u>{{WMCommons|User:Jürgen_Krause|Jürgen Krause}})</small> {{Ref|2}}
+|FARBEN=Blau-Gelb {{Ref|2}}
+|KURZ=Lok Leipzig
+|ALIAS={{nlt}}''Transrapid Leipzig'', ''Die Bahn'' {{Ref|10}}
+|GRÜNDUNG={{nlt}}<small>{{WP|20._Januar|20. Januar}} {{WP|1966}},<br/>{{Shx|1991}} in "VfB Leipzig" umbenannt,<br/>{{Shx|10._Dezember|10. Dezember}} {{Shx|2003}} Neugründung als "1. FC Lokomotive Leipzig"</small> {{Ref|2}}
+|STADT={{nlt}}[[Leipzig]], [[Leipzig-Halle]]-[[Megaplex]], [[Sachsen]], [[ADL]] {{Ref|1}}
+|SPONSOR=[[Transrapid AG]] {{Ref|10}}
+|LIGA=[[Mitteldeutsche Liga]] {{Ref|1}}
+|VORSITZ=
+|PRÄSIDENT=
+|TRAINER=
+|MITGLIEDER=
+|ERFOLGE={{nlt}}Mitteldeutscher Meister {{Shx|2073}} {{Ref|3}} & {{Shx|2082}} {{Ref|15}}
+}}
+Der '''1. FC Lokomotive Leipzig''' (kurz: '''Lok Leipzig''') ist ein traditionsreicher [[Fußball]]verein aus [[Leipzig]] im [[Leipzig-Halle]]-[[Megaplex]], der in der [[Mitteldeutsche Liga|Mitteldeutschen Liga]] spielt {{Ref|1}}. 
+
+==Geschichte==
+Nach der {{WP|Deutsche_Wiedervereinigung|Deutschen Wiedervereinigung}} versank der Traditionsklub für lange Jahre in der Bedeutungslosigkeit, und spielte vielfach noch nicht einmal mehr in der 3. Liga (geschweige denn der Zweiten oder gar Ersten Bundesliga). - In der Mitteldeutschen Liga, die als eine von fünf Oberligen in der [[Allianz Deutscher Länder]] die {{Shx|2035}} eingeschlafene Bundesliga abgelöst haben, sieht dies jedoch anders aus.
+
+===Fatales Freundschaftsspiel:===
+In der 2072er Saison hatte ein ''Freundschaftsspiel'' gegen den [[OM Media]]-gesponserten [[Amazonien|amazonischen]] «[[OM Amazonia]]» für Leipzig wahrhaft fatale Konsequenzen gehabt, und der [[Sachsen|sächsischen]] Messe- und Industriestadt - nach dem tödlichen Foul eines amazonischen Kickers an einem populären Leipziger Spieler und dem Tod des Schiedsrichters [[Daniel Voigt]] - schwerste Hooligan-Ausschreitungen beschert: {{Ref|10}}
+
+{| style="border-spacing: 5px; width: 64%; border: 1px solid blue; background-color: #eaeaea;" 
+|
+>>> upload: Videofeed.<br/>
+>>> play? '''y'''/n
+
+<u>18. April 2072:</u>
+Im Hintergrund ist das Stadion von «Lok Leipzig» zu sehen. Das Fußballstadion ist in dichten Qualm gehüllt. Überall sind Gruppen von [[Mensch]]en und [[Metamenschen]] - viele davon mit Fußballtrikots und Schals oder Kappen in Vereinsfarben - zu sehen, die in wilde Handgemenge verstrickt sind, und mit allem möglichen - von ungeladenen [[Feuerwaffe|Handfeuerwaffen]] über [[Säbel]], [[Schwert]]er und [[Degen]] bis hin zu Flaschen, Knüppeln und Stahlrohren auf einander einschlagen. Auf dem Parkplatz vor dem Stadion brennen mehrere [[Fahrzeug|Kraftfahrzeuge]], während Hubschrauber der sächsischen [[Polizei|Landespolizei]] über dem Chaos kreisen, und Tränengas-[[Granate]]n in die Menge feuern, ohne dadurch jedoch die Kämpfenden effektiv auseinander zu bringen. {{Ref|10}}
+
+< Audioeinspielung - Off-Kommentar > 
+
+|
+|}
+
+
+{{Shadowtalk|Ein ''"Freundschaftsspiel"'' zwischen «[[OM Amazonia]]» und «Lokomotive Leipzig» endete heute Nachmittag in einer Katastrophe: Der [[Amazonien|amazonische]] Mittelfeldspieler [[Ricardo]], der im vergangenen Jahr in [[Marseille]] im Zusammenhang mit einer [[Tempo]]-Orgie negative Schlagzeilen gemacht hatte, attackierte einen [[Daniel Voigt|Schiedsrichter]], als dieser ihm nach einem brutalen Foul im gegnerischen Strafraum ein Tor nicht zuerkannte, und ihn mit einer roten Karte des Feldes verweisen wollte. Ehe die Ordner sowie die Schiedsrichterassistenten den völlig außer Kontrolle geratenen Fußballer überwältigen konnten, hatte dieser dem Schirie das Gesicht auf den Rücken gedreht, und ihm das Genick gebrochen. Dies - und den vermuteten Tod des gefoulten Leipziger Verteidigers [[Thomas Gross|Thomas "Blueman" Gross]], des einzigen [[Querx]]-Spielers in der Mitteldeutschen Liga - nahmen die Leipziger Anhänger zum Anlass für die schlimmsten Hooligan-Ausschreitungen in der an solchen Vorgängen nicht eben armen Sportgeschichte unserer Universitätsstadt. {{Ref|10}}|<small>Das war '''''Steffen R.''''' für «AR - Saxonia Lokal» - Euer [[AR]]-Radio für Leipzig-Halle und Umgebung</small>}}
+
+{| style="border-spacing: 5px; width: 100%; border: 1px solid blue; background-color: #eaeaea;" 
+|
+< Beende Audioeinspielung Off-Kommentar >
+
+Von Südosten kommen zwei [[Zeppelin|Löschzeppeline]] ins Bild, die mit ihren Wasserkanonen offenbar nicht nur das brennende Stadion und die Flammen auf Parkplatz und Straße löschen, sondern auch die Massen der Randalierer ''beruhigen'' sollen.
+
+>>> Videofeed: Ende. {{Ref|10}}
+
+|
+|}
+
+===Mitteldeutscher Meister 2073:===
+{{Shx|2073}} wurde «Lokomotive Leipzig» Mitteldeutscher Meister, und erreichte im [[Cup der Meister]] mit einem Torverhältnis von 6:6 den 3. Platz hinter Ruhrgebietsmeister «[[SC Westfalia 04 Herne]]» und Südallianz-Meister «[[FC Bayern München]]» {{Ref|2}}.
+{{Shadowtalk|...und noch deutlich vor dem norddeutschen Meister «[[FC St. Pauli]]» und dem Rhein-Hessen-Meister «[[Fortuna Düsseldorf]]»... {{Ref|2}}|'''''Monticola'''''}}
+
+===Situation 2080:===
+{{Shx|2080}}/{{Shx|2081|81}} spielt neben dem «1. FC Lokomotive Leipzig» mit «[[RB Leipzig-Halle]]» noch ein zweiter Verein aus dem Leipzig-Halle-Megaplex in der Mitteldeutschen Liga {{Ref|1}}.
+{{Shadowtalk|Im Oktober 2081 schlug Leipzig den «[[1. FC Pomorya Greifswald]]» in der Nachspielzeit mit 2:0 - und verteidigte so seinen Spitzenplatz in der laufenden Ligasaison der MDL... vor dem [[Berlin]]er [[FC Teutonia Berlin|FC Teutonia]], [[Greifswald]] und [[Carl Zeiss Jena]]! {{Ref|12}}|'''''Hoyzer 4.1''''' ...auch, wenn sie den praktisch ausschließlich ihrem überragenden Torwart [[Boris Hummel]] verdanken! {{Ref|12}}}}
+Dem entsprechend dürfte es für die Leipziger (und die Leipziger Fans) alles andere, als erfreulich gewesen sein, dass der «[[VKSV Transdanubien]]» im Februar 2082 (und nur Minuten vor Ende der laufenden Transferperiode) den überraschenden Wechsel Hummels auf die [[Transdanubien|transdanubische]] ''[[Platte]]'' und damit nach [[Österreich]] bekannt gab, auch, wenn dafür eine Rekord-Ablösesumme floss {{Ref|14}}.
+{{Shadowtalk|Ungeachtet dessen hat Lok Leipzig {{Shx|2082|'82}} den mitteldeutschen Meistertitel geholt, und sich damit zum zweiten Mal innerhalb eines Jahrzehnts für die Teilnahme am Cup der Meister qualifiziert... auch, wenn es im Moment nicht danach aussieht, als ob sie die Allianzmeisterschaft diese Saison noch gewinnen könnten... {{Ref|15}}|'''''[[Coach]]'''''}}
+
+==Sponsoren==
+Hauptsponsor war - jedenfalls 2072 - die [[Transrapid AG]], eine Tochter [[Ruhrmetall]]s {{Ref|10}}.
+
+==Mitglieder==
+===Spieler===
+{|{| class="wikitable" 
+|- style="font-weight:bold;"
+|+ class="nowrap" | Ehemalige und aktive Spieler
+! Name
+! Position
+! Metatyp / -Variante
+! Bemerkungen
+|-
+| [[Thomas Gross|Thomas "Blueman" Gross]] {{Ref|10}}
+| Verteidiger {{Ref|10}}
+| [[Querx]] ([[Zwerg]]) {{Ref|10}} 
+| wurde am 18. April {{Shx|2072}} bei einem "Freundschaftsspiel" gegen «[[OM Amazonia]]» durch ein brutales Stürmerfoul des Gegenspielers [[Ricardo]] getötet {{Ref|10}}
+|-
+| [[Boris Hummel]] {{Ref|12}} {{Ref|13}}
+| Torwart {{Ref|12}} (zuvor zwei Jahre Abwehrspieler) {{Ref|13}}
+| [[Mensch]] {{Ref|13}} 
+| hat eine Vergangenheit in einer Sportkompanie der [[Bundeswehr|BW]], als Amateurspieler in der Kreisklasse und zwei höheren Ligen und in der zweiten Mannschaft von «Lok Leipzig» {{Ref|13}} Wechselte im Februar 2082 zum «[[VKSV Transdanubien]]» und damit in die Österreichische Liga {{Ref|14}}.  
+|- 
+|}
+
+==Trivia==
+In der {{Shx|2079|2079er}} Saison wählten sich die Fußballer von «Lok Leipzig» die Eisenbahnerhymne ''"Ein Wille - ein Weg"'' von dem umstrittenen [[Norm]]duo «[[Werk Stolz]]» als offizielle Einlaufmusik, was von Fans eher linkslastiger Clubs wie dem «[[FC St. Pauli]]» natürlich als blanke Provokation empfunden wurde {{Ref|11}}. 
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Lifestyle 2073]] S.104
+*[[Lifestyle 2080]] S.197
+===Quellendetails:===
+{{Ref2|1}} [[Lifestyle 2080]] S.197
+{{Ref2|2}} {{WP|1._FC_Lokomotive_Leipzig_(2003)|Wikipedia-Artikel: 1. FC Lokomotive Leipzig}} (<span class="plainlinks">[https://de.wikipedia.org/w/index.php?title=1._FC_Lokomotive_Leipzig_(2003)&action=history Autorenliste]</span>)
+{{Ref2|3}} [[Lifestyle 2073]] S.104<br/>
+{{Ref2|10}} Das fatale Match gegen "OM Amazonia" und die Hooligan-Ausschreitungen am 18. April 2072 sowie die Transrapid AG als Hauptsponsor Leipzigs und die davon abgeleiteten Spitznamen sind eine reine Eigenerfindung von Benutzer "[[Benutzer:Karel|Karel]]" für einen Post in einem Thread im [[Schockwellenreiter-Forum|Schockwellenreiter-InGame-Forum]]. Nichts davon wird in einer offiziellen Quelle zu Shadowrun erwähnt. <br/>Der Spieler Ricardo von "OM Amazonia" und seiner Teilnahme an einer Tempo-Party in Marseille finden allerdings im Kampagnenband "[[Geisterkartelle]]" (S.145) Erwähnung.
+{{Ref2|11}} Dass Leipzig diesen Song 2079 als offizielle Einlauf-Musik hat, ist ebenfalls eine Eigenerfindung von Benutzer "[[Benutzer:Karel|Karel]]" und nicht Teil des offiziellen Shadowrun-Kanon. Der Song und seine Interpreten dagegen sind eine Eigenerfindung von Benutzer "Major Wolf" im Pegasus Forum.
+{{Ref2|12}} Die in diesem Talkkommentar beschriebene Begegnung und ihre Auswirkung auf die MDL-Liga-Tabelle ist eine reine Eigenerfindung des [[Benutzer:Karel|Artikelerstellers]] im Rahmen des INOFFIZIELLEN NovaPuls vom 13.10.2081, und daher nicht Teil des offiziellen Shadowrun-Kanon.<br/>(siehe → [[NovaPuls 2081-10-13 (inoffiziell)]]) 
+{{Ref2|13}} Dieser [[Charakter]] ist eine reine Eigenerfindung von Benutzer "[[Benutzer:Karel|Karel]]", und nicht Teil des offiziellen Shadowrun-Kanon.
+{{Ref2|14}} Der Wechsel des fraglichen Spielers zum VKSV nach Österreich ist ebenfalls eine reine Eigenerfindung des [[Benutzer:Karel|Artikelerstellers]] im Rahmen des INOFFIZIELLEN NovaPuls vom 19.02.2082, und daher nicht Teil des offiziellen Shadowrun-Kanon.<br/>(siehe → [[NovaPuls 2082-02-19 (inoffiziell)]])
+{{Ref2|15}} Leipzigs Teilnahme am Cup der Meister 2082 ist ebenfalls eine reine Eigenerfindung des [[Benutzer:Karel|Artikelerstellers]] im Rahmen des INOFFIZIELLEN Megapuls vom 10.09.2082, und daher auch nicht Teil des offiziellen Shadowrun-Kanon.<br/>(siehe → [[Megapuls 2082-09-10 (inoffiziell)]])
+
+==Weblinks==
+*{{WP|1._FC_Lokomotive_Leipzig_(2003)|Wikipedia: 1. FC Lokomotive Leipzig}} - der Verein in der realen Gegenwart 
+*{{Shx|1._FC_Lokomotive_Leipzig|Shadowhelix: 1. FC Lokomotive Leipzig}} - der Verein in Shadowrun
+
+{{KatSchema|schema=OrgSportMannsch}}
+[[Kategorie:Fußball-Team]]
+[[Kategorie:HalLe]]

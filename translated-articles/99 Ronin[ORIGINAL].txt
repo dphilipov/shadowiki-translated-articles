@@ -1,0 +1,38 @@
+{{Gang
+|STAND=2078
+|QUELLE=
+|ALIAS=
+|LOGO=
+|COPYRIGHT=
+|FARBEN=
+|ZEICHEN=
+|ANFÜHRER=
+|MITGLIEDER=ca. 100
+|CHAPTER=
+|TERRITORIUM=[[Berlin]], [[Renrakusan]]
+|AKTIVITÄTEN=illegale Straßenrennen (?) / ausführendes Organ der Yakuza in Berlin
+|ALLIIERTE=[[Yakuza]]
+|FEINDE=
+|MOTTO=
+}}
+Die '''99 Ronin''' sind eine in [[Berlin]] beheimatete [[Bosozoku]]-[[Go-Gangs|Motorradgang]] mit engen Verbindungen zur [[Yakuza]]. 
+
+==Territorium==
+''Hometurf'' der «99 Ronin» ist [[Renrakusan]], der ehemalige Renraku-Konzernbezirk [[Prenzlauer Berg]]. 
+{{Shadowtalk|Wobei sie ihre Gewaltaktionen - aus naheliegenden Gründen - weniger innerhalb, als außerhalb ihres heimischen Territoriums abziehen... Alles andere wäre auch ziemlich dumm, da der Gesichtsverlust - ähnlich wie bei den [[Renraku]]-[[Konzern]]-Fanboys der «[[Red Ronin]]» im [[japan]]ischen [[Chiba]] und anderswo - auf ihre Familien zurückfiele, wenn sie sich dort bei ihren [[Verbrechen]] erwischen ließen...|'''''Renraku-Flop'''''}}
+Die Ausnahme von dieser Regel stellt etwaige Muskelarbeit im Dienste des [[Düsseldorf]]er [[Makahashi-gumi]] unter [[Takeo Maeda]] dar, als dessen ausführendes Organ sie in Berlin fungieren.
+
+==Mitglieder==
+Die [[Gang]] hat ca. 100 Mitglieder (+ eine deutlich höhere Zahl an Hangarounds, Mitläufern und Fanboys).
+
+==Gefährlichkeit==
+Die Gang ist sehr gut finanziert (was sich längst nicht mehr allein mit dem exorbitanten Taschengeld halbwüchsiger [[Konzernsprösslinge]] erklären lässt) und hat durch ihre Yakuza-Verbindungen Zugang zu illegalen [[Waffen]] und - in der [[ADL]] - für bloße Straßengangs kaum zu beschaffender [[Ausrüstung]].
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Datapuls: ADL]] S.118, 119
+
+==Weblinks==
+*{{Shx|99_Ronin|Shadowhelix: 99 Ronin}}
+{{KatSort|cat=Gangs|Europa|ADL|Berlin|Prenzlauer Berg}}

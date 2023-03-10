@@ -1,0 +1,56 @@
+{{unofficial}}
+
+{{television broadcast
+<!-- general fields for television programs -->
+| ID =
+| DT = '''24 Hours of Power'''
+| UT = enemy, friend who can you trust and love?
+| OT =
+| PL = [[UCAS]] / [[Pueblo Corporate Council]]
+| PJ = 2065
+| PRO = [[James Lupo]]
+| PRODUCTION COMPANY = [[Mega Media]]
+| LEN =
+| SONG =
+| IDEA = [[Alec McDowell]]
+| MUSIC = [[Synaptic]]
+| GENRE = [[Science Fiction Action Series
+| EAS = June 2, 2071
+| SEN =
+| EASDE =
+| SEND = [[KONG]]
+<!-- TV series fields -->
+| EA = 28
+| ST = 3
+| OS =
+| MUSIC =
+| DS = [[Jack Bauer]], [[Jane Buffalo]]
+| NDS = [[Hans Stahl]], [[Alice Chesterfield]]
+| SYN =
+<!-- television show fields -->
+| REGULARITY =
+| MODERATION =
+}}
+'''24 Hours of Power''' is an action series set in a dystopian [[Seattle]] in the near future, where the [[Crash 2.0]] left much greater devastation than it did in reality.
+
+
+==Plot==
+In the world of the series, the city is in the claws of the evil corporation "[[Vergas Inc.]]", which controls large parts of [[Latin America]]. It is about a "good [[CIA]] agent", ''Jason Nobody'' (played by [[Jack Bauer]]), who is in Seattle with super-soldiers and the mystrious [[Tinga]] ([[Jane Buffalo]]) comes into contact. From her, he learns that she and others escaped as children from a secret cloning program run by Vergas Inc. and are now trying to make their way in civic life and rescue those left behind at the time.
+
+==Reception==
+[[Aztechnology]] complained against the strikingly depicted parallels to ''"Vergas Inc."'', which is why they were subsequently toned down.
+
+Conspiracy theorists in the Matrix claim that the show's creators have information about [[Aztechnology]]'s ''[[Manticore]].program'', which they incorporated into the show, and that the show's writer, [[Alec McDowell]], is said to have inside information about it.
+{{Shadowtalk|The series is awesome, there was a mega-powerful troll hybrid shown with a [[Cerberus]] who had taken apart an [[Elf]]en teenage party.|'''''GROZZER EVIL [[Troll|TROLL]]''''' - [[Spikes|SPIKES]] RULEZ!|50%}}
+{{Shadowtalk|Aztechnology had tried to file a lawsuit against the series, so they had some trouble with the broadcast, which was delayed. This explains the difference between production year and year of broadcast. However, [[Horizon]], as the main financier of the series, was convinced of the series, so they shot some seasons in order to have material. In the [[Shadow]] there were some disputes because of the series, between the two corporations. Especially now in times of the [[Amazon-Aztlan War|War]] in the south between [[Amazonia]] and [[Aztlan]], there seem to be rumors that they want to shoot a new season and pick up the current events.|'''''Snoop Dogg'''''|50%}}
+
+
+
+
+
+==Sources==
+This series is an invention of user "[[User:Japan001|Japan001]]", and does not appear in any official Shadowrun source. It is very much inspired by the real-life television series "{{WP|Dark_Angel_(television series)|Dark Angel}}".
+
+[[Category:Culture]]
+[[Category:Trideo|Trideo show: 24 hours of power]]
+[[Category:Trideo (broadcast)]]

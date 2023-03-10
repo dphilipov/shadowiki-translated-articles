@@ -1,0 +1,59 @@
+{{Gang
+|STAND={{Shx|2070}}
+|LOGO=405hellhoundsgangvj5.jpg
+|COPYRIGHT=Gang-Emblem der '''405 Hellhounds'''<br>{{C Fanpro|FanPro}}
+|FARBEN=rot, orange
+|MITGLIEDER=?<br/>nahezu ausschließlich [[Menschen]]
+|ZEICHEN=Flammensymbole
+|TERRITORIUM=Nordachse der 405. Straße durch [[Bellevue]]
+|AKTIVITÄTEN=Expresskurierdienst, Chauffeure für Bunraku-Girls, illegale Motorradrennen und Turnierkämpfe
+}}
+Die '''405 Hellhounds''' sind eine (mehrheitlich) [[Menschen|menschliche]] [[Go-Gang]] in [[Seattle]], die was Größe und Bedeutung angeht, deutlich hinter «[[Ancients]]» und «[[Spikes]]» zurückstehen {{Ref|1}}.
+
+==Geschichte==
+Als [[Knight Errant]] versuchte, die [[Elf|elfischen]] «Ancients» und [[Troll]]e von den «Spikes» gegeneinander auszuspielen, und beiden Seiten jeweils eine Ladung [[Weapons of Ass Destruction|militärische Waffen]] von [[Ares Arms]] zukommen zu lassen, waren die «405 Hellhounds» letztlich die Gewinner: Im Verlauf der ersten [[Shadowrun]]s der jungen [[Kellan Colt]] sorgte die Black-Ops Spezialistin [[Midnight]], die es als Angehörige von [[CATCo]]s [[Seraphim]] natürlich darauf anlegte, [[Ares]]' Pläne zu sabotieren, dafür, daß zumindest eine der Waffenladungen statt dessen den [[Go-Ganger]]n der «Hellhounds» in die Hände fiel. Dadurch wurden diese aufgewertet, und konnten KE verstärkt ärgern, deren Seattler HQ in ihrem Revier lag... {{Ref|2}}
+
+==Begriff==
+Der Name der Gang leitet sich von zwei Höllenhunden (''engl. Hellhounds'') die ein früherer Boss der Bande, [[Eddie Tango]], sich als Haustiere hielt. {{Ref|1}}
+
+==Gebräuche==
+===Farben===
+Ihre Farben sind rot und orange, sie bemalen ihre Motorräger mit Flammenmotiven, und das Logo der [[Ganger]] stellt einen [[Höllenhund]] mit Flammen umkränztem Kopf dar {{Ref|1}}.
+
+===Initiationsritual===
+Die Gangintitiation umfasst für jeden künftigen «Hellhounds»-Ganger - neben dem Erhalt eines [[Tattoo]]s mit dem flammenden Höllenhundkopf - einen gewaltsamen Angriff auf einen Kraftfahrer auf der I-405, dessen [[Fahrzeug]] ''zur Strecke gebracht'' werden muss. - Dieses Ritual ist so bekannt, dass Knight Errant mittlerweile in den jeweiligen Nächten gezielt seine Präsenz im betreffenden Straßenabschnitt aufstockt, um unschuldige Verkehrsteilnehmer zu beschützen {{Ref|3}}.
+
+==Territorium==
+Sie kontrollieren die Nordachse der 405ten Straße durch [[Bellevue]].
+
+==Aktivitäten==
+Die [[Ganger]] bilden eine Art von Express-Kurierdienst. Wenn sie nicht gerade Pakete ausliefern - die in der Regel irgendwelche illegalen Waren enthalten - veranstalten sie illegale Motorradrennen bzw. mörderische Turnierkämpfe im Motorradsattel. Die [[Gang]] verbringt ebenso viel Zeit mit der Verteidigung ihres Turfs, wie mit ihrem Lieferservice, wobei sie regelmäßig mit den «[[Leather Devils]]» an einander geraten, die die Interstate I-90 beherrschen, die die 405. Straße kreuzt {{Ref|1}}. 
+{{shadowtalk|Obwohl das fast alles Homo Sapiens sapiens sind, und weiß dieser und jener keine Waisenknaben, sondern hartgesottene Go-Ganger, sind die «Hellhounds» doch keinesfalls [[anti-metamenschlich]]e Rassisten und [[Humanis-Policlub|Humanis]]-Spinner, wie etwa die «[[Night-Hunters]]». - Andernfalls hätte ich ja auch wohl kaum den Umbau-Job an Eddie Tango's Bike gemacht...Ne? {{Ref|4}}|'''''[[Roller]]'''''|68%}}
+2078 dürfte sich das Verhältnis Sister Rollers zu den «Hellhounds» allerdings drastisch verschlechtert haben {{Ref|4}}, da diese sich mittlerweile zur Finanzierung ihres Bedarfs an Motorrad-Ersatzteilen und Munition als Fahrer für [[Bunraku]]-Prostituierte verdingen, und diese ''sicher'' von den entsprechenden Etablissements zu Privaten Sexparties und zurückkutschieren, und sich in jüngster Zeit sogar einen eigenen ''Stall'' mit Bunraku-Girls zugelegt haben, um entlang des als Turf beanspruchten Straßenabschnitts selbst entsprechende Parties zu veranstalten. {{Ref|3}}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen== 
+Dieser Artikel basiert teilweise auf der Übersetzung des Artikels {{Swf|405_Hellhounds|405 Hellhounds}} im französischen {{Swf|Accueil|Shadow Wiki}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren lässt sich <span class="plainlinks">[http://shadowrun.fr/w/index.php?title=405_Hellhounds&action=history hier]</span> einsehen.
+
+'''Primärquellen zur Gang der <u>405 Hellhounds</u> sind:'''
+*[[Seattle Sourcebook]] p.64, 156, 159 (Farbabbildung), 161 (Legende zur Farbabbildung) / [[Seattle Quellenbuch]]
+*[[New Seattle]] p.42
+*[[Runner Havens]] p.90, 92, 93 / [[Schattenstädte]] S.91 (erweiterte, überarbeitete {{Pegasus}}-Neuauflage, S.94, 97, 99)
+*[[Seattle 2072]] (nur ''englisch'' und ''französisch'')
+*[[Vice]] p.116 / [[Unterwelten]]
+*[[Elven Blood]] (nur ''englisch'')
+*[[Shadowrun 2050]] 
+*[[Seattle Sprawl: Emerald Shadows]] p.19-20 / [[Seattle: Smaragd im Schatten]]
+
+===Quellendetails:===
+{{Ref2|1}} [[Schattenstädte]] - Seattle S.91
+{{Ref2|2}} [[Born to Run]] - erster Band der Kellan "Colt"-Trilogie
+{{Ref2|3}} [[Seattle Sprawl: Emerald Shadows]] p.19-20<br/>
+{{Ref2|4}} Sister Roller, die Mechanikerin von der "Sisterhood of Mercy" und die genannte Frauengang sind Eigenerfindungen von ... aus seinen Shadowrun-Erzählungen in "Rackers kleines Tagebuch". Sie, ihre Gang und ihre geschäftliche Beziehung zum Gangleader Eddie Tango sind nicht Teil des offiziellen Shadowrun-Kanon und nicht durch kanonische Quellen abgedeckt.
+
+==Weblinks==
+*{{Shx|405_Hellhounds|Shadowhelix: 405 Hellhounds}} 
+*{{ShPwikia|405_Hellhounds|Shadowrun Wikia: 405 Hellhounds (''polnisch'')}}
+
+{{KatSort|cat=Gangs|Nordamerika|UCAS|Seattle|Bellevue}}

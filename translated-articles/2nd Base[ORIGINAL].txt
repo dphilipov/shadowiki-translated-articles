@@ -1,0 +1,28 @@
+{{Inoffiziell}}
+{{Location
+|STAND=2072
+|LOGO=Base logo.png
+|COPYRIGHT=[http://www.2nd-base.de © 2nd Base]
+|ART=Metal- / Underground-Club
+|LAGE=an der Hauptmensa, <br/>Callinstraße 23, 30167 [[Hannover]]
+|ZERSTÖRT=2071
+|ZERSTÖRER=''Kabelbrand''
+}}
+Das '''2nd Base''' war ein Metal- und Underground-Club in Uni-Nähe in [[Hannover]] {{Ref|1}}. 
+
+==Geschichte==
+Der Club brannte im Jahr {{Shx|2071}} völlig aus, nachdem er über 60 Jahre im Geschäft war. Gemäß offiziellen Verlautbarungen war dafür ein Kurzschluss in den Leitungen verantwortlich, der einen Kabelbrand ausgelöst hatte, was im Jahr des [[Tempo-Drogenkrieg]]s allerdings nicht unbedingt ein reiner Zufall gewesen sein muss... {{Ref|1}}
+
+{{Shx|2072|Ein Jahr später}} öffnete das von Grund auf renovierte und umgebaute Lokal dann am Abend des 10. Juni unter dem Namen «[[Das Labor]]» mit komplett neuem Design und unter neuem Management erneut seine Pforten {{Ref|1}}.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+{{Ref2|1}} [[Schockwellenreiter-Forum|Schockwellenreiter-InGame-Forum]] - Thread "Das Labor" - Neuer alter Club eröffnet seine Tore wieder" vom dortigen Benutzer "Graf Zahl" und Benutzer "Pulsfrequenz"  
+
+Der Club und seine Beschreibung ist eine vollständige Eigenerfindung "Graf Zahls" und des anderen Forennutzer, und wird in keiner offiziellen Quelle zu Shadowrun erwähnt.
+
+==Weblinks==
+* [http://www.2nd-base.de 2nd Base] - Homepage des Lokals in der realen Gegenwart.
+
+{{KatSort|cat=Locations|Europa|ADL|Norddeutscher Bund|Hannover}}

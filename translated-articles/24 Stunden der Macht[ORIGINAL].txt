@@ -1,0 +1,56 @@
+{{inoffiziell}}
+
+{{Fernsehsendung
+<!-- allgemeine Felder für Fernsehsendungen -->
+| ID                     = 
+| DT                     = '''24 Stunden der Macht'''
+| UT                     = Feind, Freund wem kannst du trauen und lieben?
+| OT                     = 
+| PL                     = [[UCAS]] / [[Pueblo Corporate Council]]
+| PJ                     = 2065
+| PRO                    = [[James Lupo]]
+| PRODUKTIONSUNTERNEHMEN = [[Mega Media]]
+| LEN                    = 
+| SONG                   = 
+| IDEE                   = [[Alec McDowell]]
+| MUSIK                  = [[Synaptic]]
+| GENRE                  = Science-Fiction Action Serie
+| EAS                    = 2. Juni 2071 
+| SEN                    = 
+| EASDE                  = 
+| SENDE                  = [[KONG]]
+<!-- Felder für Fernsehserien -->
+| EA                     =  28
+| ST                     =  3
+| OS                     = 
+| MUSIK                  = 
+| DS                     = [[Jack Bauer]], [[Jane Buffalo]]
+| NDS                    = [[Hans Stahl]], [[Alice Chesterfield]]
+| SYN                    = 
+<!-- Felder für Fernsehshows -->
+| REGELMAESSIGKEIT       = 
+| MODERATION             = 
+}}
+'''24 Stunden der Macht''' ist eine Action-Serie, die in einem dystopischen [[Seattle]] in der nahen Zukunft spielt, in der der [[Crash 2.0]] viel größere Verwüstungen hinterlassen hat als es in der Realität der Fall war. 
+
+
+==Handlung==
+Die Stadt befindet sich in der Welt der Serie in den Krallen des bösen Konzerns „[[Vergas Inc.]]“, der große Teile von [[Lateinamerika]] beherrscht. Es geht um einen „guten [[CIA]]-Agenten“, ''Jason Nobody'' (gespielt von [[Jack Bauer]]), der in Seattle mit Super-Soldaten und der mystriösen [[Tinga]] ([[Jane Buffalo]]) in Kontakt kommt. Von ihr erfährt er, dass sie und andere als Kinder aus einem geheimen Klonprogramm von Vergas Inc. geflohen sind und nun versuchen, sich im bürgerlichen Leben durchzuschlagen und die damals Zurückgelassenen retten wollen.
+
+==Rezeption==
+[[Aztechnology]] klagte gegen die plakativ dargestellten Parallelen zu ''"Vergas Inc."'', weshalb diese nachträglich entschärft wurden.
+
+Verschwörungstheoretiker in der Matrix behaupten, dass die Macher der Serie Informationen über das „[[Manticore]].Programm“ von [[Aztechnology]] haben, welche sie in die Serie einbauten und dass der Autor der Serie, [[Alec McDowell]], Insiderinformationen darüber haben soll.
+{{Shadowtalk|Die Serie ist geil, da wurde ein megastarker Trollhybrid mit einem [[Zerberus]] gezeigt der eine [[Elf]]en Teenager Party auseinander genommen hatte.|'''''GROZZER BÖSÄR [[Troll|TROLL]]''''' - [[Spikes|SPIKES]] RULEZ!|50%}}
+{{Shadowtalk|Aztechnology hatte versucht gegen die Serie zu klagen, daher haben sie etwas Probleme mit der Ausstrahlung gehabt, welche sich verzögert hatte. Dies erklärt die Differenz zwischen Produktionsjahr und Jahr der Ausstrahlung. [[Horizon]] als maßgeblich Finanzier der Serie war aber von der Serie überzeugt, weswegen sie einige Staffeln schon mal abdrehten um Material zu haben. In den [[Schatten]] gab es einige Auseinandersetzungen wegen der Serie, zwischen den beiden Konzernen. Gerade nun in Zeiten des [[Amazonisch-Aztlanischer Krieg|Krieges]] im Süden zwischen [[Amazonien]] und [[Aztlan]], scheint es Gerüchte zu geben, dass mann eine neue Staffel drehen und dabei die aktuellen Ereignisse aufgreifen will.|'''''Snoop Dogg'''''|50%}}
+
+
+
+
+
+==Quellen==
+Dieses Serie ist eine Eigenerfindung von Benutzer "[[Benutzer:Japan001|Japan001]]", und kommt in keiner offiziellen Quelle zu Shadowrun vor. Sie ist sehr stark von der realen Fernsehserie "{{WP|Dark_Angel_(Fernsehserie)|Dark Angel}}" inspiriert.
+
+[[Kategorie:Kultur]]
+[[Kategorie:Trideo|Trideosendung: 24 Stunden der Macht]]
+[[Kategorie:Trideo (Sendung)]]

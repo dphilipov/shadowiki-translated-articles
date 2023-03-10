@@ -1,0 +1,33 @@
+{{Partially Unofficial}}
+{{Location
+|STAND=2071
+|SOURCE=
+|LOGO=
+|COPYRIGHT=
+|ALIAS=
+|DESCRIPTION={{nlt}}themed club, dominated by light and holo installations, with huge walk-in virtual guestbook (popular hangout for [[corporate]] sysops and wannabe [[hackers]]).
+|LOCATION={{nlt}}inside the [[Metropolis Arcology]], [[Charlottenburg-Wilmersdorf]], [[Berlin]], [[ADL]]
+|KOORD=
+|OWNER=
+|SECURITY=
+|LTG=
+|DESTROY=
+|DESTROYER=
+|PICTURE=
+|COPYRIGHT2=
+|MAP=
+|COPYRIGHT3=
+}}
+The '''11811''' is another of the themed clubs within the [[Berlin]]s [[Metropolis Arcology]].
+
+==Description==
+In addition to ''[[Josaphat]]'', a worker named ''11811'' plays a prominent role in the {{WP|Metropolis_(film)|Film Metropolis}} - but its name is given a more modern interpretation in the case of this club: instead of oil-smeared gears, state-of-the-art lighting and holo-installations dominate the world of this hangout, which is said to enjoy high popularity among [[corporate]] sysops and [[hacker]] wannabes. The classic stylistic elements of the Metropolis world are found here in the [[AR]] and in the holograms and monitors, where incessantly programmed personas swing heavy hammers and a clockwork of glowing gears stretches across the club's sky. The whole thing has something of a claustrophobic feel, according to some, helped by the multitude of hidden messages in the AR, which can be inscribed by visitors as a gigantic "walk-in guest book."
+{{Shadowtalk|Good place to deposit hidden data and contact info.|'''''HAL2001'''''|64%}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the corresponding paragraph in the article "[http://rabenwelten.wordpress.com/2010/10/20/shadowrun-brennpunkt-metropolis/ Focal Point: Metropolis]" at [http://rabenwelten.wordpress.com Ravenworlds], which is licensed there under {{WP|Creative_Commons|Creative Commons}} License.
+
+The Metropolis Arcology - and all locations in it - are an invention of [[Andreas Schroth|Andreas "RabenAAS" Schroth]], and do not appear in any previous Shadowrun publication. They are, however, partially mentioned in the "[[Berlin (Sourcebook)|Berlin]]" sourcebook for the [[Shadowrun: Editions#4th Edition|fourth Edition]] of [[Shadowrun]] (limited edition, p.63, group section) briefly mentions.
+
+{{CatSort|cat=Locations|Europe|ADL|Berlin|Charlottenburg-Wilmersdorf|Metropolis}}

@@ -1,0 +1,34 @@
+{{inoffiziell}}
+{{Location
+|STAND=2077
+|ART=Schießanlage
+|LAGE={{nlt}}Ausläufer eines [[Erwachen|erwachten]] Waldgebiets, ein paar Kilometer außerhalb von [[Galway]], [[County Galway]], Provinz [[Connacht]], [[Tír na nÓg]]
+|BESITZER=[[TRC]]
+|SECURITY=[[TRC]] 
+}}
+Die '''59th Irish Fusseliers on Foot Rifle Range''' ist eine Schießanlage des [[Tír Republican Corps]] in der [[Grafschaft Galway]], ein paar Kilometer außerhalb [[Galway]]s im [[County Galway]] und in den Ausläufern eines [[Erwachen|erwachten]] Waldgebiets gelegen. 
+
+==Beschreibung==
+Die Anlage verfügt über verschiedene Schießbahnen und Parkours für unterschiedliche [[Feuerwaffe]]n, darunter auch Schießbahnen, die für Scharfschützengewehre ausgelegt sind, und selbst solche, auf denen mit [[Schwere Waffe|schweren Waffen]] wie [[Maschinengewehr]]en trainiert werden kann. Zumindest ein Teil der Schießbahnen trägt auch den weit über das normal-[[Metamenschheit|(meta)menschliche]] Maß hinaus gesteigerten Fertigkeiten von [[Adept|Feuerwaffen-Adepten]] Rechnung. 
+
+Die Anlage kann - in seltenen Fällen - auch von Nicht-TRC-Angehörigen genutzt werden, was allerdings nur mit ausdrücklicher Genehmigung höherer Vertreter des TRC möglich und zudem mit erheblichen Gebühren verbunden ist. Da das TRC hier Hausrecht besitzt, sollten speziell nicht-elfische Nutzer damit rechnen, beim Schießtraining [[Danaan]]-[[Elf]]en als Zuschauer zu haben, von denen sie sich nicht provozieren lassen sollten, wenn sie Probleme vermeiden wollen. 
+
+==Begriff==
+Der Name "59th Irish Fusseliers on Foot Rifle Range" bezieht sich auf ein historisches Schützenregiment aus dem 18. und 19. Jahrhundert, also aus der Zeit, als ganz [[Irland]] Teil des [[Vereinigtes Königreich Großbritannien|British Empire]] war, und stellt - nach der endgültigen, irischen Unabhängigkeit und der Umwandlung der [[Vereinigte Freie Republik Irland|Vereinigten Freien Republik Irland]] in [[Tír na nÓg]] - einen Anachonismus dar, der eigentlich nur mit [[militär]]ischer Traditionspflege zu erklären ist.
+{{Shadowtalk|Es gibt - bislang unbewiesene - Gerüchte, dass das Phänomen der "[[Zurückgekehrte Soldaten|Zurückgekehrten Soldaten]]" 2081/82 auch hier zugeschlagen hat, und zwei oder drei Rot- bzw. Grünröcke der britischen Scharfschützen aus der Zeit der Napoleonischen Kriege aufgetaucht sein sollen. - Macht das [[TRC]] und vor allem die Scharfschützen-[[Adept]]en von [[Reach Fuileach]] ''etwas'' nervös, um es vorsichtig auszudrücken...|'''''[[Dolores El Kharimi|Curiosity Thrills the Cat]]'''''}}
+
+==Trivia==
+Durch ihre guten Beziehungen zu den Tír-Autoritäten war es [[Karel]] und [[Curiosity]] im Januar 2078 möglich, für ihr neues, adeptisches [[Piratencrew|Crew]]-Mitglied [[Todesauge]] die Erlaubnis zu erwirken, auf der Anlage zu trainieren.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==InGame-Nutzen==
+[[SC]]s, die die Schießanlage nutzen wollen, müssen einen offiziellen TRC-Angehörigen (mindestens Unteroffiziersrang) als [[Connection]] mit einer Loyalitäts-Stufe nicht unter 3 haben. (Hierbei reicht ggf. wenn ein Mitglied ihres Teams / der [[Gruppe]] eine solche Connection besitzt). - Die Wahrscheinlichkeit, die Genehmigung zur Nutzung zu erhalten, steigt dabei, je höher die Connection innerhalb der Hirarchie des TRC steht. Nutzungsgebühren (pro Person und Stunde) und Munitionskosten fallen unabhängig davon zusätzlich an.
+
+==Quellen==
+Diese Einrichtung ist eine reine Eigenerfindung von Benutzer "[[Benutzer:Karel|Karel]]", die im "Crew-Hinterzimmer"-Thread im Schockwellenreiter-InGame-Forum vorgestellt wurde. Sie ist nicht durch kanonische Quellen gedeckt. 
+
+==Weblinks==
+*{{Shx|59th_Irish_Fusseliers_on_Foot_Rifle_Range|Shadowhelix: „59th Irish Fusseliers on Foot Rifle Range“}}
+
+{{KatSort|cat=Locations|Erde|Europa|Tír na nÓg|Connaught|County Galway}}

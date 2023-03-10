@@ -1,0 +1,78 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|2._Oktober|2. Oktober}} {{Shx|2078}}
+|BETEILIGT=
+}}
+Die '''7. Berliner Bezirkswahl''' fand am ersten Oktoberwochenende 2078 statt. Gewählt wurden die Vertreter der Bezirke der Wahlperiode III: [[Friedrichshain-Kreuzberg]], [[Groß-Siemensstadt]], [[Lichtenberg]], [[Potsdam]], [[Schönefeld]], [[Strausberg-Fredersdorf]] und [[Zehlendorf]]. Hierbei wurde jeder einzelne der Bezirksvertreter im Amt bestätigt.
+
+==Ablauf==
+===Wahl zum III. Bürgermeister===
+Die ebenfalls anstehende Wahl des III. Bürgermeisters war - um Probleme und Unruhen wie bei der verschobenen [[6. Berliner Bezirkswahl|6. Bezirkswahl]] im Vorjahr zu vermeiden - per Entscheid des scheidenden III. Bürgermeisters und [[BERVAG]]-Exekutivdirektors [[Yilmaz Wojenko]] von der Bezirkswahl entkoppelt, und bereits Anfang Juni '78 abgehalten. Dabei errang Dr. [[Paul Zöller]], der erst im vergangenen Jahr neu gewählte Bezirksvertreter von [[Berlin-Mitte]] und Kanditat des [[Berliner Bankenverein]]s (respektive [[HKB]]s), das Amt und die damit verbundene Doppelfunktion als neuer BERVAG-Exekutivdirektor. Zeitgleich mit dieser Wahl fand in [[Spandau]] auch eine vom im Vorjahr gewählten Spandauer Ratsvertreter [[Fletcher]] anberaumte Volksabstimmung statt, in der sich die Einwohner mit einer denkbar knappen Mehrheit für einen Wechsel Spandaus vom Status als "Normalbezirk" zu einem "Alternativen Bezirk" entschieden.
+
+===Bezirkswahl===
+Die Siege der Vertreter(innen) Groß-Siemensstadts (wo die Entscheidung ohnehin in Händen von [[MSI]]/[[AGC]] lag), Friedrichshain-Kreuzbergs und Potsdams, wie auch von [[Morek Pflügler]] in Lichtenberg standen nie außer Zweifel. Im Prinzip wäre auch die Wiederwahl er [[Proteus]]-Frau [[Izabella Buzek]] in Zehlendorf eine sichere Sache gewesen, selbst, wenn ihr wichtigster Gegenkandidat [[Manfred Dosse]] '''nicht''' wenige Wochen vor der Wahl durch eine Autobombe umgekommen wäre. In Schöneberg hatte [[Gregor Thielke]] von der [[CVP]] - trotz Kritik an seiner ineffizienten Verwaltung der Haushaltsmittel - keine Probleme, sich gegen die weit abgeschlagene [[LDFP]]-Gegenkandidatin [[Mareike Praschak-Sonneberg]] durchzusetzen. Der Zuspruch für die [[Kommunisten]] in seinem Bezirk hat sich allerdings seit der Wahl vor drei Jahren fast verdoppelt, auch, wenn diese weiterhin chancenlos sind, was den Bezirksvertreterposten angeht. Relativ knapp wurde es lediglich für [[Doreen Katschmarek]] in Strausberg-Fredersdorf, die relativ kurz vor der Wahl der [[Europäische Sozialdemokratische Partei|ESP]] beigetreten war, und sich vorallem dank der kostspieligen, von der Allianzpartei finanzierten Wahlkampagne gegen ihren anarcho-syndikalistischen Konkurrenten [[Noel Duval]] vom [[Arbeiter-Policlub]] durchsetzen konnte.
+
+====Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Friedrichshain-Kreuzberg]]
+|Alternativbezirk
+|<span style="display:none;">Ozgun, Mitra</span> [[Mitra Özgun]]
+|
+|2072-2078
+|-
+|[[Groß-Siemensstadt]]
+|Konzernbezirk
+|<span style="display:none;">Schluter, Robert</span> [[Robert Schlüter]]
+|[[MSI]]
+|2072-2078
+|-
+|[[Lichtenberg]]
+|Alternativbezirk
+|<span style="display:none;">Pflugler, Morek</span> [[Morek Pflügler]]
+|
+|2072-2078
+|-
+|[[Potsdam]]
+|Normbezirk
+|<span style="display:none;">Von Wittich, Fabian</span> [[Fabian von Wittich]]
+|[[Preußenstiftung]] / [[CVP]]
+|2075-2078
+|-
+|[[Schönefeld]]
+|Normbezirk
+|<span style="display:none;">Thielke, Gregor</span> [[Gregor Thielke]]
+|[[CVP]]
+|2075-2078
+|-
+|[[Strausberg-Fredersdorf]]
+|Normbezirk
+|<span style="display:none;">Katschmarek, Doreen</span> [[Doreen Katschmarek]]
+|[[Europäische Sozialdemokratische Partei|ESP]] 
+|2072-2078
+|-
+|[[Zehlendorf]]
+|Normbezirk
+|<span style="display:none;">Buzek, Izabella</span> [[Izabella Buzek]]
+|[[Proteus]]
+|2075-2078
+|}
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[SRB - Shadowrun Berlin]]: [https://shadowrunberlin.wordpress.com/2016/10/09/berlin-hat-gewahlt-periode-iii2078/ Berlin hat gewählt (Periode III/2078)]
+
+==Weblinks==
+*{{Shx|7._Berliner_Bezirkswahl|Shadowhelix: 7. Berliner Bezirkswahl}}
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2078}}

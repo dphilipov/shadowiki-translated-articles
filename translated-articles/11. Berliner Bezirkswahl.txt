@@ -1,0 +1,75 @@
+{{Event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={Shx|October5}} {{Shx|2082}}
+|PARTICIPATED
+}}
+The '''11th Berlin District Election''' was held on {{Shx|5._October|5}} {{Shx|2082}}. Elected were the representatives of the districts of electoral period I: [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] and [[Tegel]].
+
+==Election statistics==
+
+====Overview Election Winners====
+{| class="unsortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+| [[Charlottenburg-Wilmersdorf]]
+| standard district
+| <span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+| 2072-2082
+|-
+| [[Gropiusstadt]]
+| alternative district
+| <span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+| [[Vory]] (?) / [[Horde]] (?)
+| 2073-2082
+|-
+| [[Marzahn-Hellersdorf]]
+| alternative district
+| <span style="display:none;">Kotov, Jaromir</span> [[Jaromir Kotov]]
+| [[Vory]]
+| 2076-2082
+|-
+| [[Oranienburg]]
+| alternative district
+| <span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+| ([[BGS]]
+| 2072-2082
+|-
+| [[Reinickendorf]]
+| standard district
+| <span style="display:none;">Pazak, Serafina</span> [[Serafina Pazak]]
+| [[USPD]]
+| 2082
+|-
+| [[Schoenwalde]]
+| Group district
+| <span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+| [[Aztechnology]]
+| 2072-2082
+|-
+| [[Tegel]]
+| Group district
+| <span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+| [[Zeta-ImpChem]] / [[CVP]]
+| 2082
+|}
+
+==See also==
+*[[Berlin district election]]
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[SRB - Shadowrun Berlin]]
+**[https://shadowrunberlin.wordpress.com/2021/10/05/berlin-hat-gewahlt berlINews - 2082-10-05 "The choice of agony: A lot of movement in election period 1"]
+
+==weblinks==
+*{Shx|11th_Berlin_District_Election|Shadowhelix: "11th Berlin District Election"}}
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2082}}

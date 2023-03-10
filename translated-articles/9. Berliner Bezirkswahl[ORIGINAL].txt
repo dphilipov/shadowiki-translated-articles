@@ -1,0 +1,83 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|1._Oktober|1. Oktober}} {{Shx|2080}}
+|BETEILIGT=
+}}
+Die '''9. Berliner Bezirkswahl''' fand wie gewohnt am {{Shx|1._Oktober|1. Oktober}} {{Shx|2080}} statt.  Gewählt wurden die Vertreter der Bezirke der Wahlperiode II: [[Falkensee]], [[Köpenick]], [[Berlin-Mitte|Mitte]], [[Pankow]], [[Prenzlauer Berg]], [[Spandau]] und [[Tempelhof]]. - Die Wahl sah bei keinem einzigen Bezirk eine Veränderung an der Spitze, und auch [[Morek Pflügler]] wurde als zweiter Bürgermeister wiedergewählt.
+
+==Wahlstatistiken==
+
+===Köpenick===
+Die Wiederwahl der ''gemäßigten [[Kommunismus|Kommunistin]]'' [[Lena Rabeja]] als Bezirksvertreterin [[Köpenick]]s war nie gefährdet, zumal, da der einzige antikommunistische Gegenkandidat [[Clemes Streußner]] (der es nach 2074 noch einmal wissen wollte) in der Woche vor der Wahl auf offener Straße von Unbekannten mit Benzin übergossen und angezündet worden war.
+
+===Falkensee===
+[[Aslan Özdemir]], der "Dönerlöwe", der seine Stellung im Bezirk in den Jahren als Bezirksvertreter (und größter, legaler Arbeitgeber Falkensees) festigen konnte, wurde ebenfalls klar wiedergewählt. [[USPD]]-Kandidatin [[Friedericke Kuhnert]] konnte mit gerade einmal 12% der Stimmen höchstens einen Achtungserfolg erzielen. Weitere erstaunliche 4% konnte der registrierte [[MMVV-Infizierte|Infizierte]] und [[Magisch Begabte|magisch aktive]] „[[Judas Moloch]]“ erzielen, der für die [[Partei der Neuen Ordnung]] (PNO) antrat. 
+
+===Spandau===
+In [[Spandau]] hat [[Jurek Kowalczyk|Fletcher]], der [[Troll]] von der autonomen Inselfestung [[Eiswerder]], seine Machtposition in den drei Jahren seit seiner Ernennung ausbauen können, und seine Wiederwahl war daher nicht wirklich gefährdet. Immerhin hat die etablierte [[ADL]]-Partei [[CVP]] mit Dr. [[Katrin Lara Wegener]] eine eigene Kandidatin als ''„Alternative für Spandau“'' ins Feld geführt, die auf Anhieb 22,6% der Stimmen für sich verbuchen konnte.
+
+====Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Falkensee]]
+|Alternativbezirk
+|<span style="display:none;">Özdemir, Aslan</span> [[Aslan Özdemir]]
+|
+|2074-2080
+|-
+|[[Köpenick]]
+|Alternativbezirk
+|<span style="display:none;">Rabeja, Lena</span> [[Lena Rabeja]]
+|
+|2072-2080
+|-
+|[[Berlin-Mitte|Mitte]]
+|Normbezirk
+|<span style="display:none;">Zöller, Paul</span> [[Paul Zöller]]
+|[[Berliner Bankenverein]]/[[HKB]]
+|2077-2080
+|-
+|[[Pankow]]
+|Alternativbezirk
+|<span style="display:none;">Bronstein, Wladimir</span> [[Wladimir Bronstein]]
+|
+|2072-2080
+|-
+|[[Renrakusan]] (ehem. [[Prenzlauer Berg]])
+|Konzernbezirk
+|<span style="display:none;">Ozu, Takeshi</span> [[Takeshi Ozu]]
+|[[Renraku]]
+|2074-2080
+|-
+|[[Spandau]]
+|Alternativbezirk
+|<span style="display:none;">Fletscher</span> [[Jurek Kowalczyk|Fletcher]]
+|[[Vereinigung Alternativ-Autonomes Spandau]]
+|2077-2080
+|-
+|[[Tempelhof]]
+|Konzernbezirk
+|<span style="display:none;">Landolt, Franziska</span> [[Franziska Landolt]]
+|[[Saeder-Krupp]]
+|2072-2080
+|}
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[SRB - Shadowrun Berlin]] - <span class="plainlinks">[https://shadowrunberlin.wordpress.com/2018/10/06/berlin-hat-gewaehlt-wahlperiode-ii-2080/ Berlin hat gewählt - Wahlperiode II 2080 "Alles bleibt, wie es ist".]</span>
+
+==Weblinks==
+*{{Shx|9._Berliner_Bezirkswahl|Shadowhelix: 9. Berliner Bezirkswahl}}
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2080}}

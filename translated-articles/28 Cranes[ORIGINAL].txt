@@ -1,0 +1,20 @@
+{{Unvollständig}}
+Die '''28 Cranes''' (dtsch. ''28 Kraniche'', franz. ''Les 28 Grues'') sind eine [[Triaden]]organisation, die sowohl in [[Burma]] in der [[Südostasiatische Kriegszone|südostasiatischen Kriegszone]] als auch im [[südamerika]]nischen [[Chile]] vertreten sind.
+
+==Konkurrenz==
+In ihrer burmesischen Heimat stellen die «28 Cranes» die beherrschende Macht innerhalb der organisierten [[Unterwelt]] dar, wobei die korrupte, tief in den [[Drogen]][[schmuggel]] und andere, kriminelle Aktivitäten verstrickte burmesische Armee ihr schärfster Konkurrent ist. 
+{{Shadowtalk|Neben der [[Hai San]] aus [[Singapur]], [[korea]]nischen [[Jo-Pok Syndikate]]n und der von den [[Japanacorps]] mitgebrachten [[Yakuza]]...|'''''[[Lei Kung]]'''''}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen== 
+Dieser Artikel basiert im wesentlichen auf der Übersetzung eines Teils des Absatzes "{{Swf|Birmanie#Pègre|Pègre}}" des Artikels {{Swf|Birmanie}} und des Eintrags zu "Les 28 Grues" im Artikel {{Swf|Triades}} im französischsprachigen {{Swf|ShadowWiki|Shadowrun Wiki Projekt}}, der dort jeweils unter einer Creative Commons Lizenz steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://shadowrun.fr/w/index.php?title=Birmanie&action=history hier]</span> und <span class="plainlinks">[http://shadowrun.fr/w/index.php?title=Triades&action=history hier]</span>.
+
+'''Primärquellen zu den <u>28 Cranes</u> sind:'''
+*[[Shadows of Asia]] p.151-152 (nur ''englisch'')
+*[[Shadows of Latin America]] / [[Lateinamerika in den Schatten]]
+
+==Weblinks==
+*{{Shx|28_Kraniche|Shadowhelix: 28 Kraniche}}
+
+{{KatSchema|schema=OrgTriade}}
+{{KatSort|cat=Triadengruppen|Asien|Burma|Lateinamerika|Chile}}

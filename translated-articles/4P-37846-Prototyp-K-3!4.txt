@@ -1,0 +1,37 @@
+{{Inofficial}}
+__notoc__
+{{person
+|ALIAS=Harry Lowman, Cole
+|BIRTH=?<br>(artificially created in vat at CATCo)
+|MALE=male
+|METATYP=[[human]]
+|MAGIC=-
+|CORPORATION=[[Cross Applied Technologies]]
+}}
+
+'''4P-37846-Prototype-K-3/4''' was created as the property of [[Cross Applied Technologies]] as a remote-controlled killing machine. A head injury caused 4P-37846-Prototype-K-3/4 to begin thinking. By the incident got for the first time an own will and wanted to end the slavery already imposed on him at his ''creation''. In the attempt of the ''technicians'' to repair the head injury, he escaped to the slums of [[Seattle]], the [[Redmond Barrens]]. There he made a ''nice evening'' for himself, but it did not go unobserved. The [[slider]] [[Big Earl]] gave him his card and offered him a job. Somewhere behind the sound of sirens, hidden among some garbage bags, he finally spent his first night of freedom. He doesn't know his name. The [[squatter|bum]] Andy called him '''Cole''', in memory of a good friend, and he almost snapped the friendly man out of his life when the dared to wake him up. Drunk with the emptiness in his skull, the gray-haired pale set out to catch up with his childhood.
+
+==Appearance and equipment==
+
+Cole measures 182cm with a weight of 143kg (91kg without [[cyberware]]). He has a full gray beard, as gray as his shoulder-length hair, which he has worn loose until now. He is probably recognizable to his former owners by the bar code on the left half of his chest. He is a well-trained, compact and muscular [[human]], and additionally heavily [[vercybert]]. Partly he does not know his Vercyberung itself exactly. He must take [[chemistry#medicines|corporate drugs]] to avoid losing his humanity. While escaping and roaming the barrens, he has been able to find or capture a taser, protective cloak, flashlight, cell phone, and a few old items. From Earl he has obtained a false identity on credit. According to this, he is a low-level official with the name '''Harry Lowman'''.
+
+==History and character==
+
+4P-37846-Prototype-K-3/4 nightmarishly remembers many scenes of him ruthlessly taking the lives of several people. He perceived this as right under these circumstances. Now that he knows freedom, it disgusts him and he enjoys not having to kill anymore.
+
+==Location and origin==
+
+[[Cross Applied Technologies|CATCo]] conceived him in a vat. He has no belly button, does not know when nor where he was born. He has a stubby recollection of various stages of growth in the artificial womb.
+
+Currently, he is struggling through the [[Redmond Barrens|Barrens]].
+
+<!-- End of article content - meta information -->
+
+==Source==
+This article is based on the article {{Shx|4P-37846-Prototype-K-3/4}} in the in the {{Shx|Main|Shadowhelix}}, where it is licensed under GNUFDL. A list of authors can be found [http://wiki.shadowhelix.de/index.php?title=4P-37846-Prototyp-K-3/4&action=history here], with the main author being user [[User:Harekrishnaharerama|Harekrishnaharerama]].
+
+The "prototype" on the run is user Harekrishnaharerama's own invention, and therefore does not appear in any official source on [[Shadowrun]].
+
+{{DEFAULTSORT:4P-37846-Prototyp-K-3/4}}
+{{KatSort|cat=People|NSC|People|UCAS|Corporations|Cross}}
+{{KatSort|catsup=People|cat=Fighters|North America|UCAS|Seattle}}

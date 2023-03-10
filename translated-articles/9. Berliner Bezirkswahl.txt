@@ -1,0 +1,83 @@
+{{Event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={Shx|October1}} {{Shx|2080}}
+|PARTICIPATED
+}}
+The '''9th Berlin District Election''' was held as usual on {{Shx|1._October|1}} {{Shx|2080}} took place.  Elected were the representatives of the districts of the election period II: [[Falkensee]], [[Köpenick]], [[Berlin-Mitte|Mitte]], [[Pankow]], [[Prenzlauer Berg]], [[Spandau]] and [[Tempelhof]]. - The election saw no change at the top of any of the districts, and [[Morek Pflügler]] was also re-elected as second mayor.
+
+==Election statistics==
+
+===Köpenick===
+The re-election of ''moderate [[communism|communist]]'' [[Lena Rabeja]] as district representative [[Köpenick]] was never in danger, especially since the only anti-communist opponent [[Clemes Streußner]] [[Clemes Streußner]] (who wanted to try again after 2074) had been doused with gasoline and set on fire by unknown persons in the open street the week before the election.
+
+===Falkensee===
+[[Aslan Özdemir]], the "kebab lion" who had been able to consolidate his position in the district during his years as a district representative (and Falkensee's largest, legal employer), was also clearly re-elected. [[USPD]] candidate [[Friedericke Kuhnert]] could at most achieve a respectable success with just 12% of the vote. Another astonishing 4% could be achieved by the registered [[MMVV infected|infected]] and [[magically gifted|magically active]] "[[Judas Moloch]]", who ran for the [[Party of the New Order]] (PNO).
+
+===Spandau===
+In [[Spandau]], [[Jurek Kowalczyk|Fletcher]], the [[Troll]] from the autonomous island fortress [[Eiswerder]], has been able to expand his position of power in the three years since his appointment, and his re-election was therefore not really in danger. After all, the established [[ADL]] party [[CVP]] fielded its own candidate, Dr. [[Katrin Lara Wegener]], as an ''"Alternative for Spandau"'', who immediately won 22.6% of the vote.
+
+====overview election winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Falkensee]]
+|Alternative district
+|<span style="display:none;">Özdemir, Aslan</span> [[Aslan Özdemir]]
+|
+|2074-2080
+|-
+|[[Köpenick]]
+|Alternative district
+|<span style="display:none;">Rabeja, Lena</span> [[Lena Rabeja]]
+|
+|2072-2080
+|-
+|[[Berlin-Mitte|Mitte]]
+|Normbezirk
+|<span style="display:none;">Zöller, Paul</span> [[Paul Zöller]]
+|[[Berliner Bankenverein]]/[[HKB]]
+|2077-2080
+|-
+|[[Pankow]]
+|Alternative district
+|<span style="display:none;">Bronstein, Vladimir</span> [[Vladimir Bronstein]]
+|
+|2072-2080
+|-
+|[[Renrakusan]] (former [[Prenzlauer Berg]])
+|District
+|<span style="display:none;">Ozu, Takeshi</span> [[Takeshi Ozu]]
+|[[Renraku]]
+|2074-2080
+|-
+|[[Spandau]]
+|Alternative district
+|<span style="display:none;">Fletcher</span> [[Jurek Kowalczyk|Fletcher]]
+|[[Alternative-Autonomous Spandau Association]]
+|2077-2080
+|-
+|[[Tempelhof]]
+|Corporate district
+|<span style="display:none;">Landolt, Franziska</span> [[Franziska Landolt]]
+|[[Saeder-Krupp]]
+|2072-2080
+|}
+
+==See also==
+*[[Berlin district election]]
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[SRB - Shadowrun Berlin]] - <span class="plainlinks">[https://shadowrunberlin.wordpress.com/2018/10/06/berlin-hat-gewaehlt-wahlperiode-ii-2080/ Berlin has elected - Election Period II 2080 "Everything remains as it is"]</span>.
+
+==Weblinks==
+*{Shx|9._Berlin_district_election|Shadowhelix: 9th Berlin district election}}
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2080}}

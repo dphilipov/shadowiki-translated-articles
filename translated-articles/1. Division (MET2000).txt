@@ -1,0 +1,45 @@
+{{Organization
+|STAND={{Shx|2073}}
+|SOURCE={Ref|1}}
+|LOGO=
+|ALTERNATIVE=Special Task Force SOX
+|ABBREV=MET2000 TFORS
+|ART={nlt}}Division (mercenary / military unit)
+|FOUNDATION=
+|SIGNIFICANCE=
+|LEADING=
+|SEAT=
+|MEMBERS=
+|AGENDA=Protecting the [[SOX]] from unauthorized entry and exit
+|MOTTO=
+}}
+The '''1st Division of MET2000''' constitutes the '''Special Task Force SOX''' (short: '''MET2000 TFORS'''), which is tasked with protecting SOX.
+
+==History==
+As late as the {{Shx|2050s}}, a task force of various corporate forces and state officers was responsible for zone security, but this represented an enormous economic and bureaucratic burden. In addition, internal rivalries and occasional conflicts unnecessarily complicated matters. Another point of contention was the many corporate troops of [[Saeder-Krupp]], which created the impression that the corporation even regarded SOX as a personal backyard. Reluctantly, it was decided to contract the [[MET2000]], which was already active on the ground anyway, which surprisingly did not pose a problem for S-K either, so that the feared [[shadow]] war did not occur {{Ref|1}}. Thus, on {{Shx|12 February}} {{Shx|2053}} the [[Treaty of Karlsruhe]] was concluded and the MET2000 began its mission.
+
+==Missions==
+The mission of the "zone defense force" consists of several items. First, it controls access to the SOX (both in and out), as well as ensuring communications, monitoring and maintaining the Artemis security facility, and general peacekeeping operations. The latter means conducting - in consultation with the [[corporations]]s represented on the [[Control Council]] - occasional offensive actions against illegal inhabitants of the zone such as [[glowpunks]], cultists, [[toxic shamans|toxic/radiation shamans]], and [[ghouls]]s - actively rooting out both glowpunks and [[smugglers]], keeping corporate troops under control, etc.... It also manages the SOX database regarding announced border crossings and maintains maneuvers, training, and combat training {{Ref|1}}.
+
+Also, in the annual [[Rad Wars]], an offshoot of the [[Desert Wars]], either the ZV troops participate with one to two companies or MET troops from overseas.
+
+==The Troops==
+Morale on the ground is rather mixed. Frequent rotations are supposed to forestall camp fever, both in the zone and out, but the instability of the Artemis border wall security and the regular skirmishes with the smugglers, glowpunks, [[ghost rats]], [[charognards]] and the problems they cause cause some headaches for the troops on the ground. In addition, the radiation, which also attracts toxic forces that are increasingly resurgent {{Ref|1}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based in its current version on the {{Shx|1st_(MET2000)_division_(MET2000)|same-named article}} in the {{Shx|main|Shadowhelix}}, which there - as well as here - is licensed under GNUFDL. Author list see <span class="plainlinks">[https://shadowhelix.de/index.php?title=1._Division_(MET2000)&action=history here]</span>. - Main author of the current additions there is the user "{{Shx|User:Index|Index}}" there.
+
+'''Primary sources on this unit of MET2K are:'''
+*[[SOX (sourcebook)|SOX]] S.22-25
+*[[Guide to the German Shadows]] S.50
+*[[Frontline Operations]] S.131
+*[[Datapuls: ADL]]
+*[[Datapuls: SOX]]
+
+===Source details:===
+{{Ref2|1}} [[Frontline Operations]] S.131
+
+{{CatSort|cat=Corporations|Departments|MET2000|ADL}}
+[[Category:SOX]]

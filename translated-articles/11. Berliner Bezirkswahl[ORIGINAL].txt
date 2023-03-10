@@ -1,0 +1,75 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|5._Oktober|5. Oktober}} {{Shx|2082}}
+|BETEILIGT=
+}}
+Die '''11. Berliner Bezirkswahl''' fand am {{Shx|5._Oktober|5. Oktober}} {{Shx|2082}} statt. Gewählt wurden die Vertreter der Bezirke der Wahlperiode I: [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] und [[Tegel]].
+
+==Wahlstatistiken==
+
+====Übersicht Wahlsieger====
+{| class="unsortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+| [[Charlottenburg-Wilmersdorf]]
+| Normbezirk
+| <span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+| 2072-2082
+|-
+| [[Gropiusstadt]]
+| Alternativbezirk
+| <span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+| [[Vory]] (?) / [[Horde]] (?)
+| 2073-2082
+|-
+| [[Marzahn-Hellersdorf]]
+| Alternativbezirk
+| <span style="display:none;">Kotov, Jaromir</span> [[Jaromir Kotov]]
+| [[Vory]]
+| 2076-2082
+|-
+| [[Oranienburg]]
+| Alternativbezirk
+| <span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+| ([[BGS]])
+| 2072-2082
+|-
+| [[Reinickendorf]]
+| Normbezirk
+| <span style="display:none;">Pazak, Serafina</span> [[Serafina Pazak]]
+| [[USPD]]
+| 2082
+|-
+| [[Schönwalde]]
+| Konzernbezirk
+| <span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+| [[Aztechnology]]
+| 2072-2082
+|-
+| [[Tegel]]
+| Konzernbezirk
+| <span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+| [[Zeta-ImpChem]] / [[CVP]]
+| 2082
+|}
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[SRB - Shadowrun Berlin]]
+**[https://shadowrunberlin.wordpress.com/2021/10/05/berlin-hat-gewahlt berlINews - 2082-10-05 "Die Wahl der Qual: Viel Bewegung in der Wahlperiode 1"] 
+
+==Weblinks==
+*{{Shx|11._Berliner_Bezirkswahl|Shadowhelix: „11. Berliner Bezirkswahl“}}
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2082}}

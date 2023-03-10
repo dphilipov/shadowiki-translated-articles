@@ -1,0 +1,50 @@
+{{Unofficial}}
+{{Corporation
+|NAME_OVR=Twilight: Talis & Transport
+|SHORT=3T / Twilight
+|ALTERNATIVE= ''East Coast Logistics'', short: ''ECL'' (former)
+|STAND= {{Shx|2070}}
+|BRANCHE={{nlt}}Taliskramwaren (Transportation / Production & Distribution)
+|FINNING=[[2041 as ECL, 2065 as 3T
+|HEADQUARTERS=[[New York City]], [[UCAS]]
+|CEO=[[Lionel Hapcore]]
+|BOARD=[[Lionel Hapcore]]
+|RATING=A
+}}
+'''Twilight: Talis & Transport''', also known as '''3T''' or '''Twilight''' for short, is a [[corporation]] headquartered in [[New York City]] and is an association of several mid-sized companies on the East Coast of [[UCAS]].
+
+==History==
+Twilight has its roots in the logistics company ''East Coast Logistics'' (ECL), which {{Shx|2041}} was founded and specialized in transporting magic items for various smaller cons. The company achieved high sales until {{Shx|2064}} the [[Matrix]] [[Crash 2.0]] came along. Virtually overnight, ECL lost 90% of its customers. In order to save his company, the then head [[Joseph Amesto]] Talks with other companies that were also threatened with closure, among them the private research institution ''Astral Perspective'' and ''Silver Age Library'', a software producer for [[magic theory|magic theory]] Readings. Negotiations bore fruit, and the companies merged in early {{Shx|2065}} to form Twilight: Talis & Transport.
+
+Over the next three years, Twilight morphed into an A-class corporation, creating multiple locations in the [[UCAS]], [[United Kingdom]], the [[ADL]], and [[Hong Kong]].
+{{Shx|2069}}, Amesto resigned from [[CEO]], leaving his seat to [[Lionel Hapcore]], who continues the con in Amesto's tradition.
+
+==Business profile==
+The main function of the Kon is to transport magical items from the manufacturer to the merchant or directly to the customer. However, the Kon also manufactures talis items itself, and maintains several printing shops, software producers, [[alchemy]]labs, and a research department.
+
+==Corporate culture==
+The Kon reserves a great deal of meta-friendliness; for example, about half of its employees are [[meta-human]]s. Finally, [[Lionel Hapcore]], head of 3T, is himself a [[dwarf]].
+
+==Illegal activities==
+===Shadow===
+''Nomen est omen'', and this is true of Twilight as well. After all, the cons' motto is "if the customer wants something, he gets it." One should add, "if the price is right." After all, there are some talis items for which high tariffs have to be paid or which are even completely forbidden. That's why Twilight often orders [[Shadowrunnerteam|Runnerteams]] to bring some magical odds and ends into the country, so that the Kon can also satisfy his shadow customers. Twilight's [[runner]]s also handle the [[theft]] of [[magic artifact|magical artifacts]], unless one of the regular customers would be stolen from. For security reasons, only a few employees are privy to these activities, CEO Hapcore being one of them, as well as a few board members. Employees who find out about these activities on their own usually ''forget'' their discovery very quickly.
+
+The organization of the runs is done by the ''press department'', which is only partly what it should be according to its name. Its real task is to supervise runs and to cover the tracks that lead to Twilight. Only the press spokesman fulfills his official job 100%.
+
+==Personnel==
+
+''Simon Cleveston'' Board member, Johnson
+
+''[[Nathaniel van Ravenholme]]'': Vice press officer, Johnson
+
+''[[Cleo "Narkotic" Spencer]]'': Company doctor
+
+''Atticus "Q" Drakosophis'': Shop foreman
+
+<!-- End of article content - meta information -->
+
+==Sources==
+{{Shx|Twilight:_Talis_&_Transport|This corporation}} is an original invention by user "{{Shx|User:Sunrider|Sunrider}}" in the {{Shx|Mainpage|Shadowhelix}}, and thus not covered by official sources so far. The article was taken from there unchanged. For author list see <span class="plainlinks">[https://shadowhelix.de/index.php?title=Twilight:_Talis_&_Transport&action=history here]</span>.
+
+{{CatSort|cat=Corporations|A|UCAS|New York}}
+[[Category:Corporations (3T)| ]]

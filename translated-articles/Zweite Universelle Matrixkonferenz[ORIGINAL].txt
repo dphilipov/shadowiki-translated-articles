@@ -1,0 +1,17 @@
+Die '''Zweite Universelle Matrixkonferenz''' (engl. ''Second Universal Matrix Conference'') war eine wichtige internationale Konferenz im Jahr {{Shx|2065}}, bei der man sich auf den Wireless-Standard für den Neuaufbau der [[Matrix]] nach dem [[Crash von 2064]] einigte. Sie fand im [[Schottland|schottischen]] [[Silicon Glen]] im [[Scotsprawl]] im [[Vereinigtes Königreich Großbritannien|Vereinigten Königreich]] statt.
+
+Im Umfeld dieser Konferenz kam es außerdem zur Fusion von [[Richard Villiers]]' durch den [[Novatech-Börsengang|Börsengang]] wieder ''flüssigen'' [[Novatech]]-[[Konzern]] und [[Transys-Erika]], das selbst erst im Dezember {{Shx|2064|'64}} durch die Fusion von [[Transys-Neuronet]] und [[Erika]] entstanden war, zu [[NeoNET]]. 
+{{Shadowtalk|Womit Villiers die europäische [[Wireless Matrix-Initiative]] an sich zog, und NeoNET zu einem DER Schwergewichte beim Aufbau der kabellosen [[WiFi-Matrix]] weltweit machte... das zweite ist [[Saeder-Krupp]], dessen Top-Matrix-Forscher [[Antonio Vieri]] nicht ohne Grund samt [[Lofwyr]]s Kettenhund [[Scale]] bei der Tagung präsent war!|'''''[[Corpshark]]''''' - <small>Eine Ansammlung von Creds, hemmungsloser Macht und kaltem Intellekt, unter völligem Verzicht auf (meta)menschliche Gefühle, Moral und Anstand, wie man sie selbst heute nur selten an einem Fleck beisammen sieht!</small>}}
+==Begriff==
+Die erste Universelle Matrixkonferenz war die [[Universal Matrix Specifications-Konferenz]] von {{Shx|2039}}. Da die Konferenz von 2065 ähnlich wegweisende Bedeutung hatte, bezeichnet man sie als zweite ''Universelle Matrixkonferenz''.
+{{Shadowtalk|Aber den [[New-Matrix-World-Standard-2069|New-Matrix-Worldstandard]] mit der Festlegung der ganzen [[Programmiersprachen]], Normen und Protokolle hat dann trotzdem erst der [[Konzerngerichtshof]] {{Shx|2069}} verabschiedet...|'''''[[The Chromed Accountant]]''''' ...it's all about Dollars and Sense.}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|Zweite_Universelle_Matrixkonferenz|Zweite Universelle Matrixkonferenz}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Die Liste der Autoren kann man <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Zweite_Universelle_Matrixkonferenz&action=history hier]</span> nachlesen.
+
+'''Primärquellen zur <u>Zweiten Universellen Matrixkonferenz</u> sind:'''
+* [[System Failure]] / [[Systemausfall]]
+
+{{KatSort|cat=Ereignisse|Europa|Großbritannien|Schottland|Scotsprawl|Konzernwelt|2065}}
+[[Kategorie:Geschichte der Matrix]]

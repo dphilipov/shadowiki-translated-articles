@@ -1,0 +1,37 @@
+{{inoffiziell}}
+{{Location
+|STAND=2071
+|QUELLE=
+|LOGO=
+|COPYRIGHT=
+|ALIAS=
+|BESCHREIBUNG={{nlt}}Cocktail-Lounge, Treffpunkt für Verschwörungstheoretiker
+|LAGE={{nlt}}unterhalb des «[[Masterman]]» und umgeben von einem Sarghotel, innerhalb der [[Berlin]]er [[Metropolis-Arkologie]], [[Charlottenburg-Wilmersdorf]], [[Berlin]], [[ADL]]
+|KOORD=
+|BESITZER=
+|SECURITY=
+|LTG=
+|ZERSTÖRT=
+|ZERSTÖRER=
+|BILD=
+|COPYRIGHT2=
+|KARTE=
+|COPYRIGHT3=
+}}
+Das '''63 minutes''' ist eine Cocktail-Lounge innerhalb der [[Berlin]]er [[Metropolis-Arkologie]], die sich unterhalb des «[[Masterman]]» befindet, eines mehrstöckigen Restaurants mit darum herum angeordnetem [[Sarghotel]].
+
+==Name==
+Der Name stammt von der [[USA|amerikanischen]] Überarbeitung des {{WP|Metropolis_(Film)|Films Metropolis}}. In der wurden die Handlungsstränge und mit ihnen die Botschaft des Filmes komplett geändert. In diesem soliden Stück [[Konzern]]propaganda der frühesten Tage heißt Fredersen „Masterman“, und 63 Minuten Filmhandlung - nach denen das «[[63 minutes]]» benannt ist - sind trotz aller Rekonstruktionsversuche der [[Murnau-Stiftung]] bis heute verschollen. 
+
+==Beschreibung==
+Sowohl das «63 minutes» als auch das darüber gelegene, von der Cocktail-Lounge an sich getrennte, aber trotzdem irgendwie dazu gehörige «[[Masterman]]» sind aufgrund einer etwas misslungenen Konzeption - wer will schon beim Cocktails schlürfen (oder beim Essen im Restaurant) Leuten zusehen, die gerade aus ihrem Schlafsarg krabbeln - wenig beliebt und stehen anno '71 kurz vor dem Aus. – Das «63 minutes» gilt aber als beliebter Spot für Verschwörungstheoretiker, und das nicht nur die fehlenden 63 Minuten betreffend.
+{{Shadowtalk|Ganz nebenbei sind die {{WP|Cuba_Libre|Cuba Lîbres}} hier definitiv drei oder sogar vier Klassen besser, als in der «[[Schweinebucht]]», und damit vermutlich die besten, die in ganz Konzern-Berlin serviert werden...|'''''Alcoolizer'''''}}
+{{Shadowtalk|Was aber weniger für das «63 minutes» spricht, als gegen die Qualität der Berliner Barkeeper... In good ol' [[Havanna]] oder sonst auf [[Kuba]], in der [[Karibik]] oder auf dem [[lateinamerika]]nischen Festland würde sich kein Barmann trauen, das, was hier unter "Cuba Lîbre" läuft, irgend jemandem anzubieten...|'''''[[KPler]]''' Arbeiter aller Länder vereinigt euch ... mañana.''}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem entsprechenden Absatz im Artikel "[http://rabenwelten.wordpress.com/2010/10/20/shadowrun-brennpunkt-metropolis/ Brennpunkt: Metropolis]" auf [http://rabenwelten.wordpress.com Rabenwelten], der dort unter {{WP|Creative_Commons|Creative Commons}} Lizenz steht. 
+
+Die Metropolis-Arkologie - und alle Locations darin - sind eine Eigenerfindung von [[Andreas Schroth|Andreas "RabenAAS" Schroth]], und kommen in keiner bisherigen Shadowrun-Publikation vor. Sie werden allerdings teilweise im "[[Berlin (Quellenbuch)|Berlin]]"-Quellenbuch für die [[Shadowrun: Editionen#4. Edition|vierte Edition]] von [[Shadowrun]] (limitierte Ausgabe, S.63, Konzernteil) kurz erwähnt.
+
+{{KatSort|cat=Locations|Europa|ADL|Berlin|Charlottenburg-Wilmersdorf|Metropolis}}

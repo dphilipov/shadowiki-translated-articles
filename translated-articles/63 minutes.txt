@@ -1,0 +1,37 @@
+{{unofficial}}
+{{location
+|STAND=2071
+|SOURCE=
+|LOGO=
+|COPYRIGHT=
+|ALIAS=
+|DESCRIPTION={{nlt}}Cocktail lounge, meeting place for conspiracy theorists
+|LOCATION={{nlt}}below the "[[Masterman]]" and surrounded by a coffin hotel, within the [[Berlin]]'s [[Metropolis Arcology]], [[Charlottenburg-Wilmersdorf]], [[Berlin]], [[ADL]]
+|KOORD=
+|OWNER=
+|SECURITY=
+|LTG=
+|DESTROY=
+|DESTROYER=
+|PICTURE=
+|COPYRIGHT2=
+|MAP=
+|COPYRIGHT3=
+}}
+The '''63 minutes'''' is a cocktail lounge within the [[Berlin]]'s [[Metropolis Arcology]], located below the "[[Masterman]]", a multi-story restaurant with a [[coffin hotel]] arranged around it.
+
+==Name==
+The name comes from the [[USA|American]] Metropolis]] revision of the {{WP|Metropolis_(film)|Movie Metropolis}}. In which the plot lines and with them the message of the film were completely changed. In this solid piece of [[corporate]] propaganda of the earliest days, Fredersen is called "Masterman", and 63 minutes of film plot - after which the "[[63 minutes]]" is named - have been lost to this day, despite all reconstruction attempts by the [[Murnau Foundation]].
+
+==Description==
+Both the "63 minutes" and the "[[Masterman]]" located above it, separate from the cocktail lounge per se, but still somehow belonging to it, are not very popular due to a somewhat unsuccessful conception - who wants to watch people just crawling out of their sleeping coffin while sipping cocktails (or eating in the restaurant) - and are on the verge of closing in anno '71. - However, the "63 minutes" is considered a popular spot for conspiracy theorists, and not only concerning the missing 63 minutes.
+{{Shadowtalk|By the way, the {{WP|Cuba_Libre|Cuba Lîbres}} here are definitely three or even four classes better than in the "[[Bay of Pigs]]", and thus probably the best served in all of corporate Berlin...|'''''Alcoolizer'''''}}
+{{shadowtalk|But that speaks less for the "63 minutes" than against the quality of Berlin's bartenders.... In good ol' [[Havana]] or elsewhere in [[Cuba]], in the [[Caribbean]] or on the [[Latin American]] mainland, no bartender would dare to offer what runs here under "Cuba Lîbre" to anyone...|'''''[[KPler]]''' Workers of all countries unite ... mañana.''}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the corresponding paragraph in the article "[http://rabenwelten.wordpress.com/2010/10/20/shadowrun-brennpunkt-metropolis/ Flashpoint: Metropolis]" at [http://rabenwelten.wordpress.com Ravenworlds], which is licensed there under {{WP|Creative_Commons|Creative Commons}} License.
+
+The Metropolis Arcology - and all locations in it - are an invention of [[Andreas Schroth|Andreas "RabenAAS" Schroth]], and do not appear in any previous Shadowrun publication. They are, however, partially mentioned in the "[[Berlin (sourcebook)|Berlin]]" sourcebook for the [[Shadowrun: Editions#4th Edition|fourth Edition]] of [[Shadowrun]] (limited edition, p.63, group section) briefly mentions.
+
+{{CatSort|cat=Locations|Europe|ADL|Berlin|Charlottenburg-Wilmersdorf|Metropolis}}

@@ -1,0 +1,57 @@
+{{Gang
+|STAND=2072
+|SOURCE=
+|ALIAS=
+|LOGO=
+|COPYRIGHT=
+|Colors=blood red and brown
+|SIGN=three claw slits below the bloody dripping number "162
+|LEADERS=
+|MEMBERS=?<br/>(only [[ghoul]]s)
+|CHAPTER=none<br/>(imitators in [[Chicago]])
+|TERRITORY=[[Redmond]]
+|ACTIVITIES=(meta-)manhunt (pimping for [[Tamanous]])
+|ALLIANCE=[[Tamanous]]
+|FINDE=
+|MOTTO=
+}}
+The '''162s''' are a [[gang]] in [[Seattle]].
+
+==Term==
+The gang named itself after a legal provision for the legal protection of [[ghouls]]s, ''[[Special Order 162]]'', which at its time in [[Chicago]] led to the establishment of the [[Cabrini Refuge]], and was repealed after less than a year in the wake of massive protests.
+
+==Members, Turf, Colors & Symbol==
+The gang is, unsurprisingly, a pure ghoul gang operating in [[Redmond]]. Their gang colors are blood red and brown. Their symbol is three clawed slashes below the bloody dripping number "162".
+
+==Activities==
+The "162s" gang has a profitable business relationship with the [[organ trafficking]] ring [[Tamanous]]: The gang's ghouls roam the [[Barrens]], hunting for victims, feeding healthy victims to Tamanous as "volunteer" organ donors, while the rest end up as meals. From the organleggers, the ghoulish [[gangers]] are rewarded with the leftovers and unusable organs that are worthless to their ripperdocs, as well as some cash with which to buy [[weapons]] and [[equipment]].
+
+Regardless, the gang is among those who frequent the [[Funhouse (Urubia)|Funhouse]] of [[Dragoness]] [[Urubia]], where they - apparently - abide by the house rules there, that the landlady does not tolerate any violence among her ''guests'' under her roof.
+
+==Competition==
+Due to their ''business model'' the "162s" are in direct competition with the mixed-race gang of "[[Disassemblers]]" from [[Downtown (Seattle)|Downtown]], who are organ robbers and also work for Tamanous.
+
+==Copycats==
+In the mid-2070s, several ghoul packs operate in Chicago - the former [[Bug City]] - several ghoul packs are operating in Chicago - the former [[Bug City]] - using signs and colors of the "162s", and actively hunting (meta-)humans, making life in the ''Windy City'' even more difficult for ghouls seeking peaceful coexistence with non-[[Infected]]s. - However, they do not seem to have any connections to the Seattle "162s".
+
+==Sources==
+This article is based on a translation of the article {{Shwikia|162s}} in the English language {{Shwikia|Main_Page|Shadowrun Wikia}}, which is licensed there under GNUFDL or Creative Commons. For a list of authors there, see <span class="plainlinks">[http://shadowrun.wikia.com/wiki/162s?action=history here]</span>.
+
+'''Primary sources on the <u>162s</u> are:'''
+===Sourcebooks:===
+*[[Loose Alliances]] p.40 / [[Enemy of My Enemy]]
+*[[Runner Havens]] p.93 / [[Shadow Cities]] (expanded, revised reprint in {{Pegasus V}}, p.98, table: 99)
+*[[Feral Cities]] p.22 / [[Crisis Zones]]
+*[[Runner's Companion]] p.60 / [[Runner's Compendium]]
+*[[Seattle 2072]] (English'' and ''French'' only)
+*[[Splintered State]] / [[Deadly Fragments]]
+
+===Novels:===
+*[[Crimson]] (English ''[[Crimson]]'') - novel by [[Kevin R. Czarnecki]]
+
+==Weblinks==
+*{{Shx|162s|Shadowhelix: 162s}}
+*{Swf|162s|Shadow Wiki: 162s}} (*{{Swf|162s|Shadow Wiki: 162s}}
+
+{{CatSort|schema=OrgGang}}
+{{CatSort|cat=Gangs|North America|UCAS|Seattle}}

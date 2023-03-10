@@ -1,0 +1,35 @@
+{{Teilweise Inoffiziell}}
+{{Person
+|NAME_OVR=?
+|TOD={{Shx|2060}} / {{Shx|2061}}
+|GESCHLECHT=männlich
+|METATYP=
+|MAGISCH=
+|NATION=[[tibet]]isch
+|RELIGION=[[Buddhismus|Buddhist]]
+}}
+Der '''15. Dalai Lama''' lebte irgendwann zwischen {{Shx|2012}} und etwa {{Shx|2060}}/{{Shx|2061|61}}. In dieser Periode war [[Tibet]] vollkommen von der Außenwelt isoliert {{Ref|1}}.
+{{Shadowtalk|Dass niemand außerhalb der Kreise der tibetischen Mönche ihn je gesehen hat, und jenseits der Grenzen von Tibet praktisch nichts über ihn bekannt war, sahen einige Matrix-Forentrolle scheinbar als Einladung, vermutlich frei erfundene Fake-Infos über ihn in der deutschsprachigen [[Schattenmatrix]] und diversen [[Shadowpedia]]s wie der [[Shadowhelix]] zu verbreiten. - So schrieb etwa ein [[Shadowtalker]] der das [[Persona]] "Johannes Rau" verwendete dort ''"Bürgerlich hieß er Baltrang Gyatso. Er war von 2014 bis zu seinem Tode 2061 Dalai Lama. Er erneuerte den [[Potala-Palast]] fast völlig und ließ sich einen Buddha-Raum einrichten, in dem er 5-mal am Tag zu Buddha betete. Er starb an einer Lotusblütenvergiftung, obwohl er glaubte, eine Lotusblüte bringe ihn der Erleuchtung näher."'' und er sei ''"ein Mensch, der mit Geburtsnamen Lhadong Lhasa hieß"'' gewesen, und von dem er weiter schrieb ''"Er pflegte von morgens bis abends zu Buddha zu beten und und ihm  Lotusblüten als Opfer darzubringen."'' während er gleichzeitig an anderer Stelle behauptete er habe ''"den Anbau von Lotusblüten verbieten"'' lassen. - Nachvollziehbarer Weise wurde er deshalb von Kollege [[SysAd]] wiederholt verwarnt und schließlich infinite gesperrt, zumal, da er ähnlichen Humbug auch über den [[16. Dalai Lama]] verbreitet hat {{Ref|100}}.|'''''Skeptic'''''|64%}}
+{{Folgenleiste
+|AMT=[[Dalai Lama]]
+|VORGÄNGER=[[14. Dalai Lama]]
+|NACHFOLGER=[[16. Dalai Lama]]
+|AMT=Dalai Lama
+|STARTBREAK=1
+|ENDBREAK=1
+}}
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel {{Shx|15._Dalai_Lama|15. Dalai Lama}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter GNUFDL steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=15._Dalai_Lama&action=history hier]</span>.
+
+'''Primärquellen zum <u>15. Dalai Lama</u> sind:'''
+* [[Shadows of Asia]] p.71 (nur ''englisch'')
+
+===Quellendetails:===
+{{Ref2|1}} [[Shadows of Asia]] p.71<br/>
+{{Ref2|100}} Der Inhalt des Shadowtalk-Kommentars gibt die wiederholten Ergänzungen des Shadowhelix-Artikels durch den dortigen Benutzer "Johannes Rau" mit Eigenerfindungen wieder, die dort von Benutzer "{{Shx|Benutzer:Loki|Loki}}" revertiert wurden.
+
+{{KatSort|cat=Personen|NSC|Verstorben|Tibet}}
+{{KatSort|catsup=Personen|cat=Geistliche|Buddhismus|Asien|Tibet}}
+{{KatSort|catsup=Personen|cat=Politiker|Asien|Tibet}}
+[[Kategorie:Gestorben 2061]]

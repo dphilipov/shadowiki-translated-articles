@@ -1,0 +1,107 @@
+{{Unvollständig}}
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|5._Oktober|5. Oktober}} {{Shx|2081}}
+|BETEILIGT=
+}}
+Die '''10. Berliner Bezirkswahl''' fand am {{Shx|5._Oktober|5. Oktober}} {{Shx|2081}} statt.  Gewählt wurden die Vertreter der Bezirke der Wahlperiode III: [[Friedrichshain-Kreuzberg]], [[Groß-Siemensstadt]], [[Lichtenberg]], [[Potsdam]], [[Schönefeld]], [[Strausberg-Fredersdorf]] und [[Zehlendorf]]. Gleichzeitig wählte Berlin auch den I. Bürgermeister.
+
+==Besonderheiten==
+Ein Novum war das Angebot, zeitgleich mit der Stimmabgabe auch eine Wette auf den Wahlausgang via [[Vesuvio]]-Casinos bzw. [[Caldera]]-Online-Wettportal abzugeben. - Außerdem war es die erste Wahl, bei der [[MMVV-Infizierte]] als Konsequenz der allianzweiten [[PNO]]-Kampagne zur Neubewertung ihres rechtlichen Status' in Berlin uneingeschränkt wahlberechtigt waren. - Beides führte zu einer massiv höheren Wahl- und Wettbeteiligung, die geradezu explodierte. Die Wahl sah in mehreren Bezirken teilweise überraschende und unerwartete Veränderungen an der Spitze. 
+
+===Ablauf===
+Zunächst ersetzte [[MSI]] im Konzernbezirk [[AGC]] [[Groß-Siemensstadt]] den langjährigen Bezirksvertreter - Firmenchef Dr. [[Robert Schlüter Junior]] - durch die PR-Beraterin und Juristin Dr. [[Aneta Kovac]]. Dieser Wechsel war der von Schlüter Jun. bereits im Vorfeld scharf kritisierten, neu eingeführten „Mindestanwesenheitsquote“ bei Ratssitzungen für Ratsvertreter geschuldet. 
+
+In [[Schönefeld]] gelang es der [[Messerschmidt-Kawasaki]]-[[Konzernangehörige]]n und [[LDFP]]-Politikerin [[Mareike Praschak]], die von der [[Berliner Bezirkswahl von 2072|Ur-Wahl]] {{Shx|2072}} bis {{Shx|2075}} schon einmal Bezirksvertreterin gewesen war, den im Amt erfolglosen [[CVP]]-Mann [[Gregor Thielke]] abzulösen, auch, wenn dessen ''ineffektive Bezirksführung'' in Wahrheit zu einem Gutteil aktiver Sabotage durch MSK/[[Saeder-Krupp|S-K]] geschuldet war. 
+{{Shadowtalk|...hat sich was, mit ♪ ''"They never Come Back"'' ♫ ...|'''''[[TrixWalker]]'''''}}
+Weiterhin sah die 10. Berliner Bezirkswahl die von [[Evo]] unterstützte und äußerst umstrittene Kandidatur eines [[Freier Geist|Freien Geistes]] in Zehlendorf sowie ein generelles Erstarken der rechtsradikalen, offen neo-faschistischen [[PNE]]. Letztere profitierte vor allem von der hoch emotionalen, umstrittenen "Infizierten-Rechte"-Thematik (und ihrer Hetzkampagne dagegen, in der sie sich selbst als ''"letztes Bollwerk gegen die Flut der Untoten"'' darstellte und neben verständlichen Ängsten der Nicht-Infizierten praktisch jede Verschwörungstheorie zu diesem Themenkreis bediente). In Folge dessen erhielt sie vielfach auch Stimmen von sonst eher ''links'' oder gar nicht  Wählenden und vereinzelt selbst von [[Ork]]s und [[Troll]]en, und konnte ihren Stimmanteil in manchen Bezirken mehr als verdoppeln (in X-Hain mit 6,7% die auf auf [[Rutgar Demirci]] entfielen sogar versechsfachen). - Zum Glück reichte dies jedoch nicht aus, um auch nur einen Bezirksvertreter zustellen. 
+
+In zwei Bezirken - X-Hain und Zehlendorf - sind die am 07.10.2081 bekanntgegebenen, vorläufigen, amtlichen Endergebnisse allerdings keineswegs als endgültig zu betrachten: 
+
+Zehlendorf wird die Frage geprüft, ob die Last-Minute-Kandidatur des Freien Geists namens "[[Idis]]" überhaupt legal gewesen sei, und falls nicht, ob die Wahl wiederholt wird. Bis dahin gilt der [[Elf]] und Hotelmogul [[Eugen Streletzki]] als Wahlsieger und Bezirksvertreter Zehlendorfs.
+
+In Kreuzhain dagegen findet eine intensive Prüfung statt, ob beim vollkommen überraschenden Sieg der fraktionslosen [[Akima Koyim|Akima „Sikimye“ Koyim]], einer [[Hobgoblin]]a, deren [[Volks-SIN]]-Name übersetzt eine Aneinanderreihung von üblen Beleidigungen darstellt, möglicherweise massive Wahlfälschung vorliegt. - Sollten sich für letzteres keine klaren und unwiderlegbaren Beweise finden, sorgt die vom [[Berliner Rat]] neu eingeführte „Mindestanwesenheitsquote“ für Ratsvertreter bei Ratssitzungen dafür, dass diese nach Berlin zurückkehren, ihr Amt persönlich antreten und dies auch überleben muss, wenn der Bezirk nicht an den Zweitplatzierten fallen soll: den konservativen [[Emirat Kreuzberg|Emirats]]-Vertreter [[Faisal Bayraktar]], der vielen als politische Marionette des fanatischen [[Islam]]isten und Scharia-Anhängers Imam [[Muhammad al-Qasim]] gilt. - Eine Möglichkeit, die ein Großteil der [[Metamenschheit|(Meta-)Menschen]] Kreuzbergs und generell Berlins nicht ohne Grund für ein Worst-Case-Szenario halten, das es um nahezu jeden Preis zu verhindern gilt.
+
+In Lichtenberg, Potsdam und Straussberg konnten jeweils die Amtsinhaber ihren Posten verteidigen, auch, wenn dies [[Fabian von Wittich]] in Potsdam und [[Doreen Katschmarek]] Straussberg nur mittels dubioser Methoden gelang.
+
+===Wahl des ersten Bürgermeisters===
+Dr. [[Paul Zöller]] wurde als erster Bürgermeister deutlich wiedergewählt (und von "[[Nakaira]]" auf [[B1L]] zynisch als "Grö1BaZ" tituliert).
+
+====Vorläufige Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Friedrichshain-Kreuzberg]]
+|Alternativbezirk
+|<span style="display:none;">Koyim, Akima</span> [[Akima Koyim|Akima „Sikimye“ Koyim]]
+| -
+|2081
+|-
+|[[Groß-Siemensstadt]]
+|Konzernbezirk
+|<span style="display:none;">Kovac, Aneta</span> Dr. [[Aneta Kovac]]
+|[[MSI]]
+|2081-?
+|-
+|[[Lichtenberg]]
+|Alternativbezirk
+|<span style="display:none;">Pflugler, Morek</span> [[Morek Pflügler]]
+|
+|2072-2081
+|-
+|[[Potsdam]]
+|Normbezirk
+|<span style="display:none;">Von Wittich, Fabian</span> [[Fabian von Wittich]]
+|[[Preußenstiftung]] / [[CVP]]
+|2075-2081
+|-
+|[[Schönefeld]]
+|Normbezirk
+|<span style="display:none;">Praschak, Mareike</span> [[Mareike Praschak]]
+|[[LDFP]] / [[Messerschmitt-Kawasaki]]
+|2081-?
+|-
+|[[Strausberg-Fredersdorf]]
+|Normbezirk
+|<span style="display:none;">Katschmarek, Doreen</span> [[Doreen Katschmarek]]
+|[[Europäische Sozialdemokratische Partei|ESP]] 
+|2072-2081
+|-
+|[[Zehlendorf]]
+|Normbezirk
+|<span style="display:none;">Streletzki, Eugen</span> [[Eugen Streletzki]]
+|[[Strelitzki-Gruppe]] / [[Preußenstiftung]] 
+|2081-? 
+|}
+
+===Anberaumte Neuwahl===
+Während die Beschwerde Proteus' und Isabella Buzeks in Zehlendorf abgeschmettert wurde, wurde für den Bezirk Kreuzberg-Friedrichshain eine Neuwahl am {{Shx|28._Dezember|28.12.}}{{Shx|2081}} anberaumt. Dies hatte insbesondere den Grund, dass die nominelle Wahlsiegerin entweder unauffindbar oder tot war: Falls es korrekt war, dass sich hinter der Volks-SIN auf den beleidigenden Namen Akima „Sikimye“ Koyim die [[Hobgoblin]]-Schauspielerin [[Sharad Albutairi]] verbarg, denn deren misshandelter Leichnam wurde am {{Shx|9._November|9. November}} tot aus dem [[Nil]] gefischt. 
+
+Im Emirat hat die Entscheidung, den Wahlzweiten komplett zu übergehen und bis zur Neuwahl nicht [[Faisal Bayraktar]] sondern kommissarisch weiter [[Mitra Özgun]] das Amt des Bezirksvertreters ausüben zu lassen, zu erheblicher Erbitterung selbst bei gemäßigten Muslimen geführt. Grund hierfür ist, dass die Entscheidung gegen den Kandidaten des [[Emirat Kreuzberg|Emirats]] als Affront nicht nur gegen die radikalen Schariaisten sondern gegen die gesamte Islamische Gemeinde oder sogar gegen Allah wahrgenommen wird. Die Folge ist eine äußerst aufgeheizte Stimmung, die sich teilweise auch in Gewaltakten wie brennenden Autos und Läden unmittelbar außerhalb der Scharia-Zonen niederschlägt. 
+
+Die [[PNO]] hat sich dagegen wegen der Verluste der [[Infizierte]]n-Stimmen an [[Wahnfried Grok]] am ursprünglichen Wahltermin entschlossen, anstelle des bekannt infizierten-feindlichen [[Magokratie|Magokraten]] [[Kilian Lorenz]] bei der Neuwahl die [[Vampir]]in „[[Mina Murnau]]“ aus dem engeren Kreis um [[Bella Lugosi]] kandidieren zu lassen. „Lizzy Lynchmob“ von der [[Anarchistische Bewegung Berlins|ABB]] - bei der ersten Wahl Viertplatzierte hinter „Sikimye“, Bayraktar und Özgun - hat sich für die Neuwahl als Kandidatin mit „[[Lizzy Lawless]]“ einen neuen Namen zugelegt.
+
+Aus der Neuwahl ging letztlich Mitra Özgun als Siegerin und damit alte und neue Ratsvertreterin hervor.
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[SRB - Shadowrun Berlin]] 
+**"<span class="plainlinks">[https://shadowrunberlin.wordpress.com/2021/01/27/surpriz-surpriz-die-berlinwahl-2081/ Sürpriz, Sürpriz! Die Berlinwahl 2081]</span>" [ B1L ] (27.01.2021)
+*[[NovaPuls]] 
+**[[NovaPuls#2081-11-25|25.11.2081]] + Shadowtalk
+**[[NovaPuls#2082-01-04|04.01.2082]]
+
+==Weblinks==
+*{{Shx|10._Berliner_Bezirkswahl|Shadowhelix: 10. Berliner Bezirkswahl}}
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2081}}

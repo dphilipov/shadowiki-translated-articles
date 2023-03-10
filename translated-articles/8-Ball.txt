@@ -1,0 +1,34 @@
+{{term explanation note}}
+{{person
+|MALE
+|METATYP=[[Dwarf]]
+|MAGIC=no
+|NATION=[[UCAS|Canadian-American]]
+|VOCATION=[[Mercenary]]/Weapons Expert
+}}
+'''8-Ball''' is the street name of a black [[dwarf]] who was part of the mass of propertyless and [[SIN]]-less on the streets of [[Seattle]]. He had grown up in the [[squatter]] community of the ''[[crypt]]'' in the [[Puyallup Barrens]], and had learned certain basics of hand-to-hand combat from appropriate ''teachers'' there at a young age.
+
+One night, however, he had a near-fatal run-in with a - drunk - member of the [[Humanis Policlub]]s at a [[Stuffer Shack]] near his home. The [[Policlub]] member had first accused the store's clerk of selling his [[Soyfood|Soybeer]] to children, and then forced the (adult) dwarf to ''dance'' by firing the eight bullets from his revolver directly at his feet. - Subsequently, however, the hooligan and [[anti-metahuman]]e racist was brought down by the later 8-ball with a knife thrust to the leg while he was busy reloading.... and immediately shot with a [[Remington Roomsweeper]] by the "Stuffer Shack" employee, whom he had threatened as well as the dwarf. The dwarf then decided that it would be better to learn to use a firearm instead of a knife or sword, as he never wanted to be a ''victim'' again. He shaved off his Afro hairstyle completely, and has worn bald ever since, which, along with history, is responsible for his fighting nickname, 8-Ball, and began self-studying to become a weapons expert, learning practically everything there was to know about modern firearms.
+
+As he liked to put it, "I learned how to use anything ranged, from rocks to rockets."
+
+Subsequently, when not near the "crypt" or in [[Seattle]], he was involved in various mercenary missions around the globe, among other things.
+
+During the battle for the "Crypt" in October 2063 against the [[mercenaries]], who had been hired by the sociopathic [[Aztechnology]] employees [[Thomas Mathers]] and [[Marc Herrara]] to ''cleanse'' the area of its inhabitants, the dwarven weapons expert was largely responsible for the defensive strategy of the defenders and for their armament.
+
+==Other individuals named Eight Ball / Eightball==
+However, in the [[Shadow Matrix]] of the [[ADL]], prior to the [[Crash of 2064|second Matrixcrash]], there was also a user who called herself "[[Eightball]]". Behind this [[persona]], however, was a [[street witch]]. Under the name [[Eight Ball]], there is also a [[pusher]]in from [[Miami]], who is rumored to have something to do with insect spirits.
+
+==Sources==
+This article is based on a translation of the article {{Shwikia|8-Ball}} in the former SixthWorld Wiki - now {{Shwikia|Main_Page|Shadowrun Wikia}} - which is there under Creative Commons license. The lists of authors can be found <span class="plainlinks">[http://shadowrun.wikia.com/wiki/8-Ball?action=history here]</span>.
+
+'''The primary source for the dwarf <u>8-ball</u> is:'''
+* [[For a Handful of Data]] ('''A Fistful of Data'''') and.
+* [[For A Few Nuyen More]] - [[List of Shadowrun novels|novels]] by [[Stephen Dedman]]
+
+==weblinks==
+*{Shx|8-Ball|Shadowhelix: 8-Ball}}
+*{ShPwikia|8-Ball|Shadowrun Wikia: 8-Ball (''Polish'')}}
+
+{{KatSort|cat=People|NPC|Dwarves|UCAS}}
+{{catSort|catsup=People|cat=Fighters|North America|UCAS|Seattle}}

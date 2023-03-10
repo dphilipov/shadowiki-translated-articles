@@ -1,0 +1,40 @@
+{{Partially Unofficial}}
+{{Sports team
+|SPORTART=[[Soccer]]
+|STAND={{Shx|2080}}
+|SOURCE={Ref|1}}
+|LOGO=
+|COPYRIGHT=
+|COLORS=
+|ALIAS={nlt}}Nobilis troop / Nobilis kickers / Griffin elves (slightly derogatory {{Ref|10}}, respectively).
+| FOUNDATION=
+|CITY=[[Greifswald]], [[Pomorya]], [[ADL]] {{Ref|1}} {{Ref|2}}
+|SPONSOR=
+|LIGA=[[MDL]] {{Ref|1}} {{Ref|2}}
+|PRESIDENCY=
+|PRESIDENT=
+|TRAINER=
+|MEMBERS=
+|EQUALITY= Champion of the [[Mitteldeutsche Liga|Mitteldeutsche Liga]] {{Shx|2063}} {{Ref|2}}
+}}
+'''FC Pomorya Greifswald''' is a professional [[soccer]] club from [[Greifswald]] in [[Pomorya]], which - given the pro-elf [[racism]] prevailing in the [[Elf nation]] on the [[Baltic Sea]] - practically exclusively [[Elf|elfish]] players (although just as with [[Tír na nÓg]]'s national team, the [[metahuman]] quota is not applied to Pomorya's elven footballers either). {{Ref|2}}
+
+{{Shx|2063}}/{Shx|2064|64}}, "FC Pomorya Greifswald" became champions of the [[Mitteldeutsche Liga|Mitteldeutsche Liga]], qualifying for participation in the [[Cup of Champions]]. {{Ref|2}}
+{{Shadowtalk|In October {{Shx|2081}}, "1. FC Pomorya Greifswald" - after a dry spell in the {{Shx|2070s|2070s}} - again for the top ranks of the Central German League, even if the "[[1. FC Lokomotive Leipzig]]" could defend its place at the top of the league table with a 2-0 in injury time against the ''Greifen-Elfen'', which the [[Leipzig]]ers owed virtually exclusively to their outstanding goalkeeper [[Boris Hummel]]! {{Ref|10}}|'''''Hoyzer 4.1'''''|64%}}
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[Focus: ADL]]
+*[[Lifestyle 2080]]
+
+===Source details:===
+{{Ref2|1}} [[Lifestyle 2080]]
+{{Ref2|2}} [[Focal Point: ADL]]<br/>
+{{Ref2|10}} The encounter described in this talk commentary and its effect on the MDL league table is purely the invention of [[User:Karel|article creator]] as part of the INOFFICIAL NovaPulse of 10-13-2081, and therefore not part of the official Shadowrun canon.<br/>(see → [[NovaPulse 2081-10-13 (unofficial)]]).
+
+==Weblinks==
+*{Shx|1._FC_Pomorya_Greifswald|Shadowiki: 1st FC Pomorya Greifswald}}
+
+{{CatSchema|schema=OrgSportMannsch}}
+[[Category:Football team]]
+[[Category:Pomorya]]

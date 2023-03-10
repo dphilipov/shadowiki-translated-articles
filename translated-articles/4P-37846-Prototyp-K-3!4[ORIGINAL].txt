@@ -1,0 +1,37 @@
+{{Inoffiziell}}
+__notoc__
+{{Person
+|ALIAS=Harry Lowman, Cole
+|GEBURT=?<br>(bei CATCo künstlich im Bottich erzeugt)
+|GESCHLECHT=männlich
+|METATYP=[[Mensch]]
+|MAGISCH=-
+|KONZERN=[[Cross Applied Technologies]]
+}}
+
+'''4P-37846-Prototyp-K-3/4''' wurde als Eigentum von [[Cross Applied Technologies]] als ferngesteuerte Killermaschine erschaffen. Eine Kopfverletzung führte dazu, das 4P-37846-Prototyp-K-3/4 zu denken anfing. Durch den Vorfall bekam zum ersten Mal einen eigenen Willen und wollte die ihm schon bei seiner ''Erschaffung'' aufgedrückte Sklaverei beenden. Bei dem Versuch der "Techniker" die Kopfverletzung zu reparieren, flüchtete er in die Slums von [[Seattle]], die [[Redmond Barrens]]. Dort machte er sich einen ''netten Abend'', der jedoch nicht unbeobachtet blieb. Der [[Schieber]] [[Big Earl]] gab ihm seine Karte und bot ihm einen Job an. Irgendwo hinter dem Krach der Sirenen, versteckt zwischen ein paar Müllsäcken, verbrachte er schließlich seine erste Nacht in Freiheit. Er weiß nicht wie er heißt. Der [[Squatter|Penner]] Andy nannte ihn '''Cole''', in Erinnerung an einen guten Freund, und beinahe hätte er den freundlichen Mann aus seinem Leben gerissen, als der wagte, ihn aufzuwecken. Betrunken von der Leere in seinem Schädel machte sich der grauhaarige Bleiche auf, seine Kindheit nachzuholen.
+
+==Aussehen und Ausrüstung==
+
+Cole misst 182cm bei einem Gewicht von 143kg (91kg ohne [[Cyberware]]). Er hat einen grauen Vollbart, so grau, wie seine schulterlangen Haare, die er bislang offen getragen hat. Am Strichcode auf der linken Brusthälfte ist er wohl für seine ehemaligen Eigentümer zu erkennen. Er ist ein durchtrainierter, kompakter und muskulöser [[Mensch]], und zusätzlich schwerstens [[vercybert]]. Teilweise kennt er seine Vercyberung selbst nicht genau. Er muß [[Chemie#Medikamente|Konzern-Medikamente]] nehmen, um nicht seine Menschlichkeit zu verlieren. Bei der Flucht und auf den Streifzügen durch die Barrens hat er einen Taser, Schutzmantel, Taschenlampe, Handy und ein paar alte Sachen finden oder erbeuten können. Von Earl hat er eine falsche Identität auf Pump erhalten. Demnach ist er ein niederer Beamter mit dem Namen '''Harry Lowman'''.
+
+==Geschichte und Charakter==
+
+4P-37846-Prototyp-K-3/4 erinnert sich alptraumhaft an viele Szenen, in denen er mehreren Menschen skrupellos das Leben nimmt. Er nahm das unter diesen Umständen als richtig wahr. Jetzt wo er Freiheit kennen lernt, widert es in an und er genießt es, nicht mehr töten zu müssen.
+
+==Wohnort und Herkunft==
+
+[[Cross Applied Technologies|CATCo]] hat ihn in einem Bottich gezeugt. Er hat keinen Bauchnabel, weiß nicht wann noch wo er geboren wurde. Er erinnert sich stummelhaft an verschiedene Wachstumsstadien in der künstlichen Gebärmutter. 
+
+Gegenwärtig schlägt er sich durch die [[Redmond Barrens|Barrens]].
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quelle==
+Dieser Artikel basiert auf dem Artikel {{Shx|4P-37846-Prototyp-K-3/4}} in der in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter GNUFDL steht. Eine Liste der Autoren findet sich [http://wiki.shadowhelix.de/index.php?title=4P-37846-Prototyp-K-3/4&action=history hier], wobei der Hauptautor Benutzer [[Benutzer:Harekrishnaharerama|Harekrishnaharerama]] ist.
+
+Der "Prototyp" auf der Flucht ist eine Eigenerfindung des Benutzers Harekrishnaharerama, und kommt daher in keiner offiziellen Quelle zu [[Shadowrun]] vor.
+
+{{DEFAULTSORT:4P-37846-Prototyp-K-3/4}}
+{{KatSort|cat=Personen|NSC|Menschen|UCAS|Konzerne|Cross}}
+{{KatSort|catsup=Personen|cat=Kämpfer|Nordamerika|UCAS|Seattle}}

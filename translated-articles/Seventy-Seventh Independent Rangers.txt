@@ -1,0 +1,91 @@
+{{incomplete}}
+{{Organization
+|STAND=2079
+|LOGO=LogorSevenithSeventhIndependentRangers.jpg
+|COPYRIGHT=Logo of the mercenary group.<br/>{{C Cat}}
+|ALTERNATIVE=77th Independent Rangers.
+|Short={nlt}}77th Rangers<br>El Cuadrilla<br>La Cuadrilla {{Ref|1}}
+|GRÜNDUNG={{Shx|2052}}
+|LEADERSHIP=[[Picador|Carmen Cabrera aka Picador]] {{Ref|1}}
+|SITZ=[[Lissabon]], [[Portugal]] {{Ref|2}}
+|MEMBERS=
+|AGENDA=
+|MOTTO=
+}}
+The '''Seventy-Seventh Independent Rangers'''' (Also ''77th Independent Ranger Regiment'', usually just '''77th Rangers''', nickname: ''El Cuadrilla'' / ''La Cuadrilla'') - are a [[mercenary]] unit led by [[Jackpoint]] member [[Picador]].
+
+==History==
+===Foundation===
+The unit was founded in the early {{Shx|2050s}} by the legendary mercenary [[Juan Samuel Pererya]], aka "Matador", when he gathered around him some independent mercenaries with the same views and philosophies regarding ethics and battlefield doctrine {{Ref|3}}.
+
+Their first contract {{Shx|2053}} went badly wrong, but the Rangers were able to rebuild their reputation and liquidity over the next few years until they established themselves as a respectable and capable unit {{Ref|3}}.
+
+===New leadership===
+In {{Shx|2062}}, [[Carmen Cabrera]], better known by her [[Jackpoint]] persona [[Picador]], took over the unit, then still at the rank of Captain, after both Colonel Pererya and his XO Major [[Miguel Tomasso]] were killed in action on the border between the [[Salish-Shidhe Council]] and the [[Tsimshian Nation]]. It is an open secret that "Matador" was lured into a trap during the mission and sneakily murdered because another mercenary commander had a grudge against him. Picador was able to lead the unit through several successful contracts before fighting {{Shx|2071}} to {{Shx|2074}} for [[Amazonia]] {{Ref|3}}.
+
+===Azt-Am War===
+During the [[Amazon-Aztlan War|Azt-Am War]], the Independent Rangers fought on the side of [[Amazonia]] and even though they lost, the Rangers were able to come out much better compared to their mercenary counterparts {{Ref|1}}. As a conventional military unit, the Rangers represented a speciality on the Amazonian side and accordingly enjoyed a great deal of freedom to employ strategies as they saw fit while reducing friction with the Awakened of Amazonia, who do not speak well of metahumans {{Ref|3}}.
+
+During the war, there were frequent battles with the [[Aztlan|aztlanian]] Armed Forces; the fact that Aztlan and the mercenaries on their side often had to contend with metasapients and other unconventional forces was exploited by the 77th Rangers, who inflicted immense damage in their raids and ambushes. The Rangers alone are believed to have been responsible for more than 10,000 casualties (and over 2,000 prisoners, as well as 124 captured high-value targets) on the opposing side and approximately 25,000 tons of enemy [[equipment]] destroyed or captured. Nevertheless, they took a beating, so that according to [[IMA]] reports, by the end of the Azt-Am War, the Rangers had lost about 37 percent of their men and their combat readiness was down to 65 percent; however, this was still higher than comparable units whose combat readiness was reduced to 40 to 50 percent {{Ref|3}}.
+
+During the war, quite a few decimated units and independents (including deserters from the other side) joined the Rangers, who preferred good leadership and liked orders that made sense {{Ref|3}}.
+
+===Afterward===
+After the Azt-Am War, the unit withdrew for two years to regroup, reorganize, and recruit new soldiers {{Ref|3}}. The latter was not difficult, however, thanks to their good reputation, which allowed the Rangers to grow to regimental strength and build appropriate logistics and transportation infrastructures. They also obtained armored ground and air vehicles {{Ref|4}}.
+
+By early {{Shx|2079}}, the unit had a contract with [[Ares Macrotechnology]] and served as a "support and augmentation unit" for the [[Confederation of American States Armed Forces|CAS military]] on the western border with [[Aztlan]] {{Ref|4}}
+
+==Overview==
+'''Unit type'''': Composite of various troop types, capable of commando operations<br>.
+'''Known strength''': Regiment<br>
+'''[[International Mercenary Association|IMA rating]]''': 7<br>
+The unit is considered solid and reliable, and is one of the more prestigious mercenary organizations {{Ref|1}}.
+
+===Matador's Code===
+Characteristic of the 77th Rangers is their code, which comes from their founder Matador {{Ref|3}}.
+
+*I only accept orders that I believe in.
+*I do not accept orders that are offered to me only because I can kill.
+*I am neither judge nor jury nor executioner.
+*I leave when things change.
+
+The high morale is also evident in the way the unit treats its own people, taking care of them and ensuring a high level of cohesion. The unit also refrains from sacrificing its people unnecessarily {{Ref|3}}.
+
+===Composition===
+Were one before the [[Amazonian-Aztlanian War|Azt-Am War]], the Rangers were general and broad based with various mission profiles such as reconnaissance, as advisors, trainers, or directly suited for front line or commando operations. The broad mission spectrum ensured that the Rangers were a true force multiplier on the battlefield {{Ref|2}}.
+
+==Important local activities==
+In addition to its primary location in [[Lisbon]], the unit has locations in [[Cape Town]], [[Constantinople]], and [[San Juan]], providing logistical flexibility not otherwise found in mercenary units {{Ref|2}}.
+
+==Relationships==
+The [[Bravo Company]] is among their allies, who have similarly strict ethical and moral codes of conduct {{Ref|5}}.
+
+==Equipment used==
+*[[Ares Vigorous]] {{Ref|6}}
+*[[Barret Model 122]] {{Ref|7}}
+
+<!-- End of article content - meta information -->
+
+==Sources==
+The current version of this article is based on the {{Shx|Seventy-Seventh_Independent_Rangers|same-named article}} in the {{Shx|Mainpage|Shadowhelix}}, which is there - as here - under [[GNUFDL]]. Author list there see <span class="plainlinks">[https://shadowhelix.de/index.php?title=Seventy-Seventh_Independent_Rangers&action=history here]</span>. Main author of the additions there is the user "{{Shx|User:Index|Index}}" there.
+
+* [[10 Mercs]] p.5, 15-19 (English only ''English'').
+* [[Gun Heaven 2]] / [[Firepower 2]] S.52
+* [[Run and Gun|Run & Gun]] / [[Crossfire (5th Edition)|Crossfire]] S.40
+* [[Street Lethal]] / [[Deadly Shadows]] S.149-151, 153
+
+
+===Source details:===
+{{Ref2|1}} [[Deadly Shadows]] S.149
+{{Ref2|2}} [[Deadly Shadows]] S.151
+{{Ref2|3}} [[Deadly Shadows]] S.150
+{{Ref2|4}} [[Deadly Shadows]] S.150-151
+{{Ref2|5}} [[Deadly Shadows]] S.153
+{{Ref2|6}} [[Firepower 2]] S.52
+{{Ref2|7}} [[Crossfire (5th Edition)|Crossfire]] S.40
+
+===Spelling variants:===
+*77th Independent Ranger
+*77th Independent Ranger Regiment
+
+[[Category:Mercenaries]]

@@ -1,0 +1,55 @@
+{{Location
+|STAND={{Shx|2073}}
+|SOURCE= {{Ref|1}}
+|PICTURE=
+|LOGO=
+|NAME_LANGUAGE=
+|SPITZNAME=
+|ALTERNATIVE=
+|DESCRIPTION=cheap hotel/brothel with [[shadow]] and [[yakuza]] connections {{Ref|1}}
+|LOCATION=27-osoku 1-chōme, [[Yokohama|Yokohama Ward]], [[Neo-Tokyo|Tokyo-to]] {{Ref|2}}
+|COORD_DISPLAY=
+|KOORD_LAENGE=
+|KOORD_WIDTH=
+|ZGM=
+|OWNER=
+|LEAD=[[Three-Two]] {{Ref|1}}
+|SECURITY=[[Yakuza]] {{Ref|1}}
+|LTG=
+|MAP=
+|POSITION MAP=
+}}
+'''27 Osoku Road''' is called an unmarked brothel and hotel in [[Yokohama]], [[Neo-Tokyo]].
+
+==Description==
+The building where 27 Osoku Road is located has the corresponding address, and the name is an Americanized version of it {{Ref|1}}. If it ever had another name, it is long forgotten. It is a cheap, rather run-down hotel, with a busy little red-light business in the rooms {{Ref|2}}.
+
+==Offer==
+The joyboys and joygirls of 27 Osoku road are almost all gaijin, and many in addition [[metamensch]]s. Most of them have been [[people smuggling|illegal]]s brought to [[Japan]] and work off the money they owe their [[smugglers]]s here. There is a high pressure rate; every week a few faces are exchanged here and replaced with new, desperate fresh meat. In addition to [[Chinese successor states|Chinese]]s, there are [[African]]s, Eastern Europeans, and prostitutes from the [[Middle East|Middle East]] here. {{Ref|2}}.
+
+In addition, the hotel offers another service: rooms, no questions asked, rented for days or weeks. To disappear in the mass of sex workers working here is not difficult, and with the many foreigners, it is also no problem for [[Shadowrunner|Runner]]s from [[North America]] and [[Europe]] not to be noticed {{Ref|3}} The operator of the hotel, a [[dwarf]] named [[Three-Two]], has a strict code of not revealing anything about his customers, and does not cooperate with anyone {{Ref|1}} in doing so. At least, that's what he likes to claim {{Ref|3}}
+
+==Clientele==
+Many guests here are runners or petty criminals who would like to be. The sex workers and Trhee-Two are also a good source of information about [[Neo-Tokyo]]s [[underworld]] and small, dirty jobs that can be used to establish yourself in [[Japan]] and build a network {{Ref|4}}.
+
+But even politicians and [[Exec|high-level corporate]]s use the services of the exotic sex workers here. And of course [[Johnson-san|Sato-san]], who is always on the lookout for a [[Shadowrunner|Runner team]] {{Ref|4}}.
+
+==Personnel==
+Security is provided by thugs from the [[Yakuza]], who report to Three-Two. He also has little problem using them to drive away overly curious individuals {{Ref|1}}. In addition, he likes to call in favors from runners living here, offering them free lodging for a period of time when he has major problems with delinquent tenants or other types who have violated the rules of 27 Osoku Road {{Ref|4}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the article {{Shx|27_Osoku_Road|27 Osoku Road}} in the {{Shx|MainPage|Shadowhelix}}, which is licensed there - as here - under [[GNUFDL]]. For author list see <span class="plainlinks">[https://shadowhelix.de/index.php?title=27_Osoku_Road&action=history here]</span>. Main author there is user "[[User:Richter|Richter]]" (there as {{Shx|User:Richter_DL|Richter DL}}).
+
+'''Primary sources on 27 Osoku Road include:'''
+*{qfc|3}} [[Corporate Enclaves]] p.88, 89 / [[Corporate Enclaves]]
+*{qfc|4}} [[Anarchy Subsidized]] p.24, 26 (English only ''English'').
+
+===Source citation===
+{{Ref2|1}} [[Anarchy Subsidized]] p.24
+{{Ref2|2}} {{Corporate Enclaves}} p.88
+{{Ref2|3}} [[Corporate Enclaves]] p.89
+{{Ref2|4}} [[Anarchy Subsidized]] p.26
+
+{{CatSort|cat=Locations|Earth|Asia|Japan|Neo-Tokyo|Yokohama}}

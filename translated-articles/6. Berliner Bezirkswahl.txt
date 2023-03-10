@@ -1,0 +1,77 @@
+{{event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={{Shx|7 November|07 November}} {{Shx|2077}}
+|PARTICIPATED=
+}}
+The '''6th Berlin District Election''' was held on {{Shx|7._November|07}} {{Shx|2077}} (the holding on the regular date of October 3 was canceled). Elected were the representatives of the districts of electoral period II: [[Falkensee]], [[Köpenick]], [[Mitte]], [[Pankow]], [[Prenzlauer Berg]], [[Spandau]] and [[Tempelhof]].
+
+==Background==
+On the abortion of the election by [[Yilmaz Wojenko]] (who was not acting in his capacity as Third Mayor, but in his capacity as [[BERVAG]] representative) occurred when [[PNE]] man [[Alexander Schmidt]] of the Mitte district was shot and seriously injured by an [[orc]] at his own election party on October 3, '77, before the end of the election proceedings. This was the starting signal for severe, city-wide riots that made an orderly conduct of the rest of the election impossible. - When the election was repeated on November 7, Schmidt was unable to run for health reasons, so his [[HKB]]-related challenger [[Paul Zöller]] won the mandate in Mitte. The process of suspension, cancellation, and later repetition of the election (although absolutely correct, in accordance with the statutes, and actually unavoidable under the given circumstances) had also massively damaged Wojenko's already tarnished reputation in his home district of [[Spandau]]. The orc [[Fletscher]] from the autonomous island fortress [[Eiswerder]] was able to use this with his election platform "Alternative-Autonomous Spandau" to become the first representative of the Berlin anarchos and alternatives in an election to replace a district representative of a standard district. - For Wojenko, the election defeat also means that he cannot and must not run again in the next election for 3rd mayor in 2078, since all three mayors must each also be a district representative of one of the Berlin districts.
+
+==Election statistics==
+
+====Overview Election Winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Falkensee]]
+|Alternative district
+|<span style="display:none;">Özdemir, Aslan</span> [[Aslan Özdemir]]
+|
+|new
+|-
+|[[Köpenick]]
+|Alternative district
+|<span style="display:none;">Rabeja, Lena</span> [[Lena Rabeja]]
+|
+|2072-2077
+|-
+|[[Center]]
+|Norm district
+|<span style="display:none;">Zöller, Paul</span> [[Paul Zöller]]
+|Berliner Bankenverein/HKB
+|new
+|-
+|[[Pankow]]
+|Alternative district
+|<span style="display:none;">Bronstein, Vladimir</span> [[Vladimir Bronstein]]
+|
+|2072-2077
+|-
+|[[Prenzlauer Berg]]
+|District
+|<span style="display:none;">Ozu, Takeshi</span> [[Takeshi Ozu]]
+|[[Renraku]]
+|new
+|-
+|[[Spandau]]
+|Norm district
+|<span style="display:none;">Fletscher</span> [[Fletscher]]
+|Association Alternative-Autonomous Spandau
+|new
+|-
+|[[Tempelhof]]
+|Corporate district
+|<span style="display:none;">Landolt, Franziska</span> [[Franziska Landolt]]
+|[[Saeder-Krupp]]
+|2072-2077
+|}
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[SRB - Shadowrun Berlin]]: berlINews 2077-11-07 "Wojenko's home district goes to anarchos, severely injured Schmidt replaced by Zöller, Pflügler confirmed in office again".
+
+==See also==
+*[[Berlin District Election]]
+
+==Weblinks==
+*{Shx|6th_Berlin_district_election|Shadowhelix: 6th Berlin district election}} (Author: User "{{Shx|User:Loki|Loki}}")
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2077}}

@@ -1,0 +1,75 @@
+{{Konzern
+|NAME_OVR=10,000 Daggers, S.A.
+|STAND=
+|
+|GRÜNDUNG={{Shx|2038}}
+|HAUPTSITZ=[[Konstantinopel]]
+|RATING=A {{Ref|2}}
+}}
+'''10,000 Daggers''', auch '''10K Daggers''' - zu deutsch '''10.000 Dolche''' - ist ein [[Söldner]]-[[Konzern]].
+
+==Geschichte==
+10,000 Daggers wurde {{Shx|2038}} von [[Ukraine|ukrainischen]] und [[Türkei|türkischen]] [[Eurokriege|Eurokriegsveteranen]] gegründet {{Ref|1}}.
+
+In den {{Shx|2050er|2050ern}} gründeten einige [[erwachte]] [[Söldner]] mit Genehmigung des [[Konzern]]s die «[[Brotherhood of the Iron Crescent]]» {{Ref|3}}.
+
+===Amazonisch-Aztlanischer Krieg===
+Während des [[Amazonisch-Aztlanischer Krieg|Azt-Am-Krieges]] kämpften die 10.000 Dolche vor allem auf den Seiten kleinerer Oppositionsgruppen, wie etwa ''[[Bogota Libre!]]'', die ''[[Die Wahren Brasilianer|Wahren Brasilianer]]'', ''[[Viele Welten - Ein Bogotá]]'' und auch ''[[Neues Schicksal]]'', sowie für die [[Katholische Kirche]]. Die Aufträge, welche in Kooperation mit den lokalen Oppositionellen ausgeführt wurden, drehten sich darum, in den [[Aztechnology Business Complex]] einzudringen. Eine der berühmtesten Aktionen war der [[Diebstahl]] dreier Waffenlieferungen innerhalb von [[Tenochtitlán]], die ihren Weg dann zu Rebellengruppen fanden. Weitere Aktionen waren etwa die Tötung des aztlanischen Luftwaffenhelden [[Andres Felipe Pacheco]] mittels eines Scharfschtüzen, sowie die Extraktion von vier aztlanischen Priestern durch die 10.000 Dolche aus dem Huitzilpochtli geweihten [[Teocalli]]. Die Priester wurden auf den Bolívar Square gebracht und von ''Bogotá Libre!'' gehängt und ihre Leichen verbrannt. Letzteres geschah während einer politischen Großdemonstration, die in gewalttätige Straßenschlachten mit aztlanischen Truppen in der [[Zona Oeste]] mündeten {{Ref|1}}. 
+
+Die Dolche erarbeiten sich während des Krieges einen so guten Ruf als Spezialkräfte, dass sowohl [[MET2000]] als auch [[Tsunami]] auf sie aufmerksam wurden und sie rekrutieren wollten. Wenn dies nicht klappte, dann kam es auch mal vor, dass die beiden Organisationen die Missionen der 10.000 Dolche sabotierten, nur um dann den Auftrag zu übernehmen und "aufzuräumen" {{Ref|4}}.
+
+Nachdem sich die [[MET2000]] und [[Tsunami]] im [[Amazonisch-Aztlanischer Krieg|Azt-Am-Krieg]] gegenseitig dezimierten, gelten die 10.000 Daggers neben [[Combat Inc.]] als die momentan kampfstärksten Einheiten im Jahr {{Shx|2079}} {{Ref|5}}.
+
+==Geschäftsprofil==
+Die 10,000 Daggers sind ein Söldner-, Sicherheits- und [[Militär]]beratungs-Unternehmen {{Ref|2}}.
+
+Söldner von 10,000 Daggers werden für Aufklärungsmissionen und nachrichtendienstliche Tätigkeiten, verdeckte Operationen und bei kleineren taktischen Konflikten eingesetzt {{Ref|2}} {{Ref|1}}.
+ 
+Desweiteren nimmt der Konzern auch immer wieder an den [[Wüstenkriege]]n teil {{Ref|1}}.
+
+==Mitarbeiter==
+Die Dolche haben eine große Bandbreite an [[Metamenschen]], was ihnen erlaubt, sich unauffälliger zu bewegen {{Ref|1}}. 
+
+==Wichtige lokale Aktivitäten==
+===Standorte===
+Neben dem Hauptquartier in [[Konstantinopel]], wo ihnen die alten Haremsgebäude des [[Topkapi-Palast]]s als Kasernen dienen, unterhält die Einheit Niederlassungen in 15 Staaten {{Ref|2}}. 
+
+===Einsatzgebiete===
+Die Einheit ist hauptsächlich im [[Naher Osten|Nahen Osten]], [[Afrika|Nordafrika]], [[Asien|Zentralasien]] und [[Europa|Osteuropa]] aktiv {{Ref|2}}.
+
+==Struktur==
+===Brotherhood of the Iron Crescent===
+Der Konzern unterhält mit der «[[Brotherhood of the Iron Crescent]]» für seine magisch begabten Söldner eine eigene [[magische Gruppe]], in der [[magisch Begabte]] Kämpfer, [[Kampfmagier]] und [[Ki-Adepten]] ausgebildet werden, und [[Initiation|initiieren]] können {{Ref|6}}. Die Gruppe ist dabei [[Magische Traditionen|multitraditionell]], wobei die Mehrzahl jedoch [[Hermetiker]] oder Anhänger der [[Islamische Tradition|islamischen Tradition]] sind.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert größtenteils auf dem Artikel {{Shx|10,000_Daggers|10,000 Daggers}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Eine Liste der Autoren findet sich <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=10,000_Daggers&action=history hier]</span>.
+
+'''Primärquellen zu den <u>10.000 Dolchen</u> in [[Shadowrun]] sind:'''
+* [[Fields of Fire]] / [[Kreuzfeuer]] 
+* [[Shadows of Europe]] / [[Europa in den Schatten]] 
+* [[State of the Art: 2063]] / [[State of the Art 2063.01D]] 
+* [[State of the Art: 2064]] / [[State of the Art 2064.01D]]  
+* [[Shadows of Asia]] (''nur englisch'') 
+* [[Street Magic]] / [[Straßenmagie]] S.69 (erweiterte, überarbeitete {{Pegasus}}-Neuauflage)
+* [[Runner Havens]] / [[Schattenstädte]] S.179, 180 (erweiterte, überarbeitete {{Pegasus}}-Neuauflage, S.208)
+* [[Feral Cities]] / [[Krisenzonen]]
+* [[War!]] / [[Fronteinsatz]] S.55, 56
+* [[Street Grimoire]] / [[Straßengrimoire]] S.68 
+* [[Street Lethal]] / [[Tödliche Schatten]] S.155 
+
+===Quellendetails:===
+{{Ref2|1}} [[Fronteinsatz]] S.55
+{{Ref2|2}} [[Schattenstädte|Schattenstädte, Neuauflage]] S.208
+{{Ref2|3}} [[Straßenmagie]] S.69
+{{Ref2|4}} [[Fronteinsatz]] S.56
+{{Ref2|5}} [[Tödliche Schatten]] S.155
+{{Ref2|6}} [[Straßengrimoire]] S.68
+
+==Weblinks==
+*{{Swf|10_000_Dagues|Shadow Wiki: „10 000 Dagues“ (''französisch'')}}
+
+[[Kategorie:Söldnerorganisationen]]
+{{KatSort|cat=Konzerne|A|Konstantinopel}}
+[[Kategorie:Konzerne (10,000 Daggers)| ]]

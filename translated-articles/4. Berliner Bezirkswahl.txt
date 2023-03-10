@@ -1,0 +1,77 @@
+{{event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={{Shx|October|6}} {{Shx|2075}}
+|PARTICIPATED
+}}
+The '''4th Berlin District Election''' was held on {{Shx|6._October|6}} {{Shx|2075}} was held. Elected were the representatives of the districts of the election period III: [[Friedrichshain-Kreuzberg]], [[Groß-Siemensstadt]], [[Lichtenberg]], [[Potsdam]], [[Schönefeld]], [[Strausberg-Fredersdorf]] and [[Zehlendorf]].
+
+==Election statistics==
+
+===Result==
+
+====Overview election winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Friedrichshain-Kreuzberg]]
+|Alternative district
+|<span style="display:none;">Ozgun, Mitra</span> [[Mitra Özgun]]
+|
+|2072-2075
+|-
+|[[Greater Siemens City]]
+|District
+|<span style="display:none;">Schluter, Robert</span> [[Robert Schlüter]]
+|[[MSI]]
+|2072-2075
+|-
+|[[Lichtenberg]]
+|Alternative district
+|<span style="display:none;">Pflugler, Morek</span> [[Morek Pflügler]]
+|
+|2072-2075
+|-
+|[[Potsdam]]
+|norm district
+|<span style="display:none;">Von Wittich, Fabian</span> [[Fabian von Wittich]]
+|[[Prussia Foundation]] / [[CVP]]
+|new
+|-
+|[[Schönefeld]]
+|Norm district
+|<span style="display:none;">Thielke, Gregor</span> [[Gregor Thielke]]
+|[[CVP]]
+|new
+|-
+|[[Strausberg-Fredersdorf]]
+|Normbezirk
+|<span style="display:none;">Katschmarek, Doreen</span> [[Doreen Katschmarek]]
+|
+|2072-2075
+|-
+|[[Zehlendorf]]
+|Normbezirk
+|<span style="display:none;">Buzek, Izabella</span> [[Izabella Buzek]]
+|[[Proteus]]
+|new
+|}
+
+<!-- End of article content - meta information -->
+
+==See also==
+*[[Berlin district election]]
+
+==Sources==
+This article is based on the article {{Shx|4._Berliner_Bezirkswahl|4. Berliner Bezirkswahl}} in the {{Shx|Hauptseite|Shadowhelix}}, where it is also, as here under GNUFDL. A list of authors can be found <span class="plainlinks">[http://shadowhelix.pegasus.de/index.php?title=4._Berliner_Bezirkswahl&action=history here]</span>.
+
+'''Primary sources on the <u>4th Berlin district election</u> are:'''
+*[[NovaPuls#2074-10-24|NovaPuls]] 2074-10-24 "Berlin crisis continues to worsen".
+*[[SRB - Shadowrun Berlin]] - berlINews 2075-10-27 "Election results finally confirmed!"
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2075}}

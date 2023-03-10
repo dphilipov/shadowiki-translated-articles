@@ -1,0 +1,77 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|7._November|07. November}} {{Shx|2077}}
+|BETEILIGT=
+}}
+Die '''6. Berliner Bezirkswahl''' fand am {{Shx|7._November|07. November}} {{Shx|2077}} statt (die Durchführung zum regulären Termin am 3. Oktober wurde abgebrochen). Gewählt wurden die Vertreter der Bezirke der Wahlperiode II: [[Falkensee]], [[Köpenick]], [[Mitte]], [[Pankow]], [[Prenzlauer Berg]], [[Spandau]] und [[Tempelhof]].
+
+==Hintergrund==
+Zu dem Wahlabbruch durch [[Yilmaz Wojenko]] (der nicht in seiner Funktion als Dritter Bürgermeister, sondern in seiner Eigenschaft als [[BERVAG]]-Vertreter handelte) kam es, als der [[PNE]]-Mann [[Alexander Schmidt]] vom Bezirk Mitte am 3. Oktober '77 noch vor Ende der Wahlhandlungen auf seiner eigenen Wahlparty von einem [[Ork]] angeschossen und schwer verletzt wurde. Dies war der Startschuss zu schweren, stadtweiten Unruhen, die eine geordnete Durchführung der restlichen Wahl unmöglich machten. - Bei der Wiederholung der Wahl am 7. November konnte Schmidt aus gesundheitlichen Gründen nicht antreten, so daß sein [[HKB]]-naher Herausforderer [[Paul Zöller]] das Mandat in Mitte errang. Der Vorgang der Aussetzung, des Abbruchs und der späteren Wiederholung der Wahl (wiewohl absolut korrekt, satzungsgemäß und unter den gegebenen Umständen eigentlich unumgänglich) hatte zudem das zu vor bereits angeschlagene Ansehen Wojenkos in seinem Heimatbezirk [[Spandau]] massiv beschädigt. Der Ork [[Fletscher]] von der Autonomen Inselfestung [[Eiswerder]] konnte dies mit seiner Wahlplattform "Alternativ-Autonomes Spandau" nutzen, um als erster Vertreter der Berliner Anarchos und Alternativen in einer Wahl einen Bezirksvertreter eines Normbezirks abzulösen. - Für Wojenko bedeutet die Wahlniederlage zudem, daß er bei der nächsten Wahl zum 3. Bürgermeister 2078 nicht wieder antreten kann und darf, da alle drei Bürgermeister jeweils zugleich Bezirksvertreter eines der Berliner Bezirke sein müssen. 
+
+==Wahlstatistiken==
+
+====Übersicht Wahlsieger====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Falkensee]]
+|Alternativbezirk
+|<span style="display:none;">Özdemir, Aslan</span> [[Aslan Özdemir]]
+|
+|neu
+|-
+|[[Köpenick]]
+|Alternativbezirk
+|<span style="display:none;">Rabeja, Lena</span> [[Lena Rabeja]]
+|
+|2072-2077
+|-
+|[[Mitte]]
+|Normbezirk
+|<span style="display:none;">Zöller, Paul</span> [[Paul Zöller]]
+|Berliner Bankenverein/HKB
+|neu
+|-
+|[[Pankow]]
+|Alternativbezirk
+|<span style="display:none;">Bronstein, Wladimir</span> [[Wladimir Bronstein]]
+|
+|2072-2077
+|-
+|[[Prenzlauer Berg]]
+|Konzernbezirk
+|<span style="display:none;">Ozu, Takeshi</span> [[Takeshi Ozu]]
+|[[Renraku]]
+|neu
+|-
+|[[Spandau]]
+|Normbezirk
+|<span style="display:none;">Fletscher</span> [[Fletscher]]
+|Vereinigung Alternativ-Autonomes Spandau
+|neu
+|-
+|[[Tempelhof]]
+|Konzernbezirk
+|<span style="display:none;">Landolt, Franziska</span> [[Franziska Landolt]]
+|[[Saeder-Krupp]]
+|2072-2077
+|}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[SRB - Shadowrun Berlin]]: berlINews 2077-11-07 "Wojenkos Heimbezirk geht an Anarchos, Schwerverletzter Schmidt durch Zöller ersetzt, Pflügler erneut im Amt bestätigt"
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+==Weblinks==
+*{{Shx|6._Berliner_Bezirkswahl|Shadowhelix: 6. Berliner Bezirkswahl}} (Autor: Benutzer "{{Shx|Benutzer:Loki|Loki}}")
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2077}}

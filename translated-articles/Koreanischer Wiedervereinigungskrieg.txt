@@ -1,0 +1,48 @@
+{{war
+|START={{Shx|2005}}
+|END={Shx|2006}}
+|PARTY1=[[North Korea]]
+|FLAGGE1=Flag of North Korea.JPG
+|PARTY2=[[South Korea]]
+|FLAGGE2=Flag_of_South_Korea.JPG
+|ADD_PARTEI2=[[Japan]]
+|ADD_FLAGGE2=Old flag Japan.png
+}}
+The '''Korean Reunification War'''' (English: Korean Reunification War), also '''Second Korean War''''  (''Korea II'' {{Ref|1}}), was a conflict fought between [[North Korea]] on one side and [[South Korea]] with its [[Japan|Japanese]] Allies on the other, was fought from {{Shx|2005}} to {{Shx|2006}} and resulted in the South's victory and the reunification of the Korean Peninsula. In addition, the war brought an upsurge of nationalist tendencies in Japan. The Empire of Japan was proclaimed to return to the ''glory days'' before the {{WP|World War II|Second World War}}
+
+==History==
+
+===Prehistory===
+[[Korea]] was divided into two occupation zones after World War II, in which politically opposed states were established. Even the {{WP|Korean War|First Korean War}} in 1950-1953 did not change the situation, although first the North Koreans then the South Koreans with their American allies tried to force unification. The Korean peninsula remained divided into the communist-Stalinist North Korea, characterized by scarcity economy and extreme personality cult around the political leaders, and the - relatively - democratic, Western-oriented South Korea.
+
+On {{Shx|September|12}} {{Shx|2005}}, South Korea's president, [[Dae-Jung Rhee]], was assassinated by communist dissidents. The general staff under General [[Kyung Han Yoon]], which took power, subsequently declared war on North Korea {{Ref|2}}.
+
+===Course of the war===
+South Korea, driven by Japanese [[corporate]] interests, dared to invade North Korea to force reunification after half a century of division. Under the influence of ultranationalist politicians, [[Japan]] {{Shx|2005}} South Korea in its attack on North Korea, ostensibly to prevent Japan from suffering the use of [[nuclear weapon|nuclear weapons]] again {{Ref|1}}. In fact, the [[Japanokon]]s, who were eyeing raw materials, were mainly behind this {{Ref|3}}. North Korea responded - as it was hopelessly in danger of succumbing - on {{Shx|17 November}} {{Shx|2006}} by launching its [[nuclear weapon|nuclear missiles]] at Japan {{Ref|4}}. Miraculously, all were intercepted never reached their target, did not detonate, and did no damage {{Ref|5}}. By the end of the year, North Korea was overrun by South Korean and Japanese troops.
+
+==Results==
+With Korean reunification, the last frontier of the {{WP|Cold_War|Cold War}} fell. Immediately thereafter, North Korea's state-owned corporations were privatized, and South Korean megas and international investors promptly pounced on the cons in a takeover frenzy. Some of the North Korean corporations then merged to form the [[Kwon Sham Group]] to avoid the fate of being sold off {{Ref|6}}.
+Reunification was not all positive for Korea itself, as Japan's new position of power, and in particular the strength of Japanese megacorporations, had created a situation in which the neighboring island nation could exert strong influence over the country. For many Koreans, a return of a more subtle version {{WP|Korea_under_Japanese_rule|Japanese colonization}}.
+
+==Sources==
+This article is based in its current version on the article {{Shx|Korean_Reunification War|Korean Reunification War}} in the {{Shx|Main|Shadowhelix}}, where it is available under GNUFDL. A list of authors can be found [http://shadowhelix.de/index.php?title=Koreanischer_Wiedervereinigungskrieg&action=history here].
+
+'''Primary sources on the <u>Korean Unification War</u> include:'''
+*[[Target: Smuggler Havens]] p.33, 60 (''English'' only).
+*[[Shadowrun Third Edition]] p.24 / [[Shadowrun Version 3.01D]]
+*[[Blood in the Boardroom]] / [[Corporate War (Campaign Tape)|Corporate War]] S.76
+*[[Year of the Comet]] p.97 / [[Year of the Comet]]
+*[[Shadows of Asia]] p.74, 75, 78 Infobox ''Japan Timeline'', 87, 181, 184 Infobox ''Korea Timeline'' (English only).
+*[[Shadowrun Fourth Edition]] / [[Shadowrun Version 4.01D]] S.24
+*[[Sixth World Almanac]] p.14, 15 / [[Sixth World Almanac]]
+
+===Source details:===
+{{Ref2|1}} [[Shadows of Asia]] p.74
+{{Ref2|2}} {{Sixth World Almanac}} p.14
+{{Ref2|3}} [[Shadowrun Third Edition]] p.24
+{{Ref2|4}} [[Sixth World Almanac]] p.15
+{{Ref2|5}} [[Shadows of Asia]] p.75
+{{Ref2|6}} [[Corporate War (Campaign Tape)|Corporate War]] Pg.76 ('''Attention!''' Translation error: 2006 instead of 2036, cf. ''[[Blood in the Boardroom]]'')
+
+{{CatSort|cat=Events|Wars|Asia|Korea|2005|2006}}
+[[Category:Korea]]

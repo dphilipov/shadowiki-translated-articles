@@ -1,0 +1,74 @@
+{{Ereignis
+|BILD=
+|GESCHEHEN=Wahlgang
+|ORT=[[Berlin]], [[ADL]]
+|ZEIT={{Shx|1._Oktober|1. Oktober}} {{Shx|2079}}
+|BETEILIGT=
+}}
+Die '''8. Berliner Bezirkswahl''' fand am {{Shx|1._Oktober|1. Oktober}} {{Shx|2079}} statt. Gewählt wurden die Vertreter der Bezirke der Wahlperiode I: [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] und [[Tegel]].
+
+==Wahlstatistiken==
+
+====Übersicht Wahlsieger====
+{| class="unsortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!Bezirk
+!Informelle Zuordnung
+!Gewählter Vertreter
+!Zugehörigkeit
+!Bisherige Amtszeit
+|-
+|[[Charlottenburg-Wilmersdorf]]
+|Normbezirk
+|<span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+|2072-2079
+|-
+|[[Gropiusstadt]]
+|Alternativbezirk
+|<span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+|
+|2073-2079
+|-
+|[[Marzahn-Hellersdorf]]
+|Alternativbezirk
+|<span style="display:none;">Kotov, Jaromir</span> [[Jaromir Kotov]]
+|
+|2076-2079
+|-
+|[[Oranienburg]]
+|Alternativbezirk
+|<span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+|
+|2072-2079
+|-
+|[[Reinickendorf]]
+|Normbezirk
+|<span style="display:none;">Nordin, Sofia</span> [[Sofia Nordin]]
+|[[CVP]]
+|2076-2079
+|-
+|[[Schönwalde]]
+|Konzernbezirk
+|<span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+|[[Aztechnology]]
+|2072-2079
+|-
+|[[Tegel]]
+|Konzernbezirk
+|<span style="display:none;">Thompson, Nathan</span> [[Nathan Thompson]]
+|[[Zeta-ImpChem]]
+|2076-2079
+|}
+
+==Siehe auch==
+*[[Berliner Bezirkswahl]]
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert auf dem Artikel-Stub {{Shx|8._Berliner_Bezirkswahl|Berliner Bezirkswahl}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter [[GNUFDL]] steht. Die Liste der Autoren kann man <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=8._Berliner_Bezirkswahl&action=history hier]</span> nachlesen. 
+
+'''Primärquellen zur <u>8. Berliner Bezirkswahl</u> sind:'''
+*[[SRB - Shadowrun Berlin]] - berlINews 2079-10-02 "bn2017-10-02"
+
+{{KatSort|cat=Ereignisse|Europa|ADL|Berlin|Politik|2079}}

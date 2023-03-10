@@ -1,0 +1,85 @@
+{{Organization
+|STAND=2080s
+|SOURCE=
+|LOGO=
+|ALTERNATIVE=
+|SHORT=
+|TYP=mercenary organization
+|FOUNDATION=2066
+|SECRETARY=
+|LEADERSHIP=
+|SeAT=Laconia, [[Greece]] {{Ref|1}}
+|MEMBERS=
+|AGENDA=
+|MOTTO=
+}}
+The '''22nd Spartan Legion''' is a [[mercenary|mercenary unit]] known for its relentless fighting style.
+
+==History==
+===Founding and early years===
+Its roots can be traced back to Sergeant Major [[Terrance Mithos]], who was originally part of the defunct [[Thunder Corps]]. When the Thunder Corps {{Shx|2062}} was destroyed by natural disasters on the ground during the [[Yucatán War]], Mithos survived and spent the next two years in the wilderness of [[Yucatán|Yucatán]], armed only with a homemade spear. Rumors say that Mithos had ingested strange mushrooms and later used this method, along with torture, to recruit others {{Ref|1}}.
+
+At some point in this wilderness, another mercenary unit met and made it back to civilization. It is not clarified enough what happened, but after this unit had been reported as MIA (missing in action) for half a year, it reappeared in [[Bogotá]] with Mithos as its leader. In response to questions about what had happened, the former leader [[Lars Blutspeer]] (formerly Lars Olsson) that they had been shown "the true path of the warrior." The unit relocated to the Greek region of Laconia and spent a year training and recruiting before the Spartans accepted their first contracts. The Spartans were officially {{Shx|2066}} registered with the [[International Mercenary Association]] {{Ref|1}}.
+
+Mithos later died. According to official history, he fell fighting a [[Toxic Spirit|toxic spirit]], and the Spartans like to talk about Mithos and the [[spirit]] fighting their way down an entire mountain. Other versions speak of a young owl in a dive and an awkward position, but it's best not to throw that at the Spartans if you don't want to suffer permanent damage {{Ref|1}}.
+
+===Battle for GeMiTo===
+Over the next few years, the Spartans were involved in combat operations in [[Africa]], [[Europe]], and the [[Middle East|Middle East]]. Arguably the most significant engagement was during the [[Battle of GeMiTo]] as part of the [[Dragon Civil War|Dragon Civil War]], where the Spartans fought on the side of [[Saeder-Krupp]] and [[Lofwyr]]. Although the Spartans suffered losses of 50 percent, they never retreated, even when ordered to do so. Regardless of the enemy - be it mercenaries, spirits, or even [[dragons]] - they fought doggedly for every meter. Even when their [[weapon]]s were shot empty, they drew their [[melee weapon]]s or used their ballistic shields to take down the enemy. This had certainly impressed Lofwyr - or at least caught his attention - because they have been kept under contract with S-K ever since. Even more, S-K had completely retooled the Spartans after [[GeMiTo]] {{Ref|2}}.
+
+The Spartans were also involved in the subsequent attack on [[Mount Shasta]] and the former followers of [[Hestaby]] {{Ref|2}}.
+
+==Basics==
+'''Unit type''': Armored Infantry<br>.
+'''Known strength''': 3 companies<br>
+'''[[International Mercenary Association|IMA rating]]'': 7<br>
+
+The 22nd Spartans, unsurprisingly, see themselves as the "true heirs to the spirit of ancient Sparta". They combine modern equipment, and in particular military armor, with ancient combat tactics, which is surprisingly a very effective way to fight. This unusual unit has become one of the most respected - and also feared - mercenary units in the world {{Ref|2}}.
+
+Currently, they are kept on "extended standby" at [[Saeder-Krupp Prime]], and are even given experimental weapons and other [[equipment]] for field testing from time to time, no matter how dangerous or unpredictable these prototypes may be (some jetpacks are said to be among them) {{Ref|2}}.
+
+===Mode Operandi===
+The Spartans do not use particularly sophisticated tactics. They advance and kill everything in their path. Once the attack has begun, they continue until they either reach their mission objective or everyone is dead or incapacitated {{Ref|3}}.
+
+Functions such as [[Matrix]] and [[Magic]] support are often outsourced to other units {{Ref|3}}.
+
+==Members==
+Similar to their namesakes, Spartans are full-time warriors, or consider themselves professional warriors. They place a lot of emphasis on physical fitness, combat techniques, loyalty and fidelity within the unit, and individual discipline. This leads to some arrogance toward others, whom they view as competent at best, but inferior. As a result, they take the phrase "with your shield or on it" very seriously. A Spartan leaves his unit only with death {{Ref|3}}.
+
+Spartans like anything that increases their combat ability, but do not tolerate [[drugs|combat drugs]], which they see as cowardly shortcuts {{Ref|3}}.
+
+===Recruitment===
+A unit with such a high attrition rate is always looking for new recruits, and is not afraid to forcibly recruit new members or take in the desperate. The selection process for new recruits and the subsequent training can undoubtedly be called "brutal" and "barbaric" {{Ref|3}}.
+
+The first test for new recruits is to be dropped off somewhere in the wilderness without any equipment. Those who survive this are subsequently given a target to take out or a mission objective to complete {{Ref|3}}.
+
+===Hoplites===
+Those who survive this also receive a hoplite suit and only the most basic equipment and weaponry. Unsurprisingly, few survive this stage {{Ref|3}}.
+
+===Homioi===
+Surviving recruitment and even basic training as a hoplite, one must prove oneself in battle. If you manage to be brave, adapt and show acumen in battle, the Spartans will give you the title of ''Homioi'' (which roughly means ''equal'') and you will finally be allowed to dress in one of the military armors that are the unit's trademark. You also become part of a ''Phalanx'', a unit comparable to a regular platoon in the military {{Ref|3}}.
+
+==Equipment==
+;Military armor : Military armor is not just a trademark - it is an expression of honor and something that must be earned; the ultimate expression of dedication to the art of combat and the unit itself. Those who bring military armor will lose it pretty quickly. The armor may be individualized. Of course, heavier military armor is available, but it must be earned {{Ref|3}}.
+;Armament : The armament of the Spartans is based on individual needs. Everyone usually has a heavy ranged weapon (an assault rifle or larger), a primary melee weapon ([[sword]]s, clubs, or polearms), and a secondary melee weapon (such as [[knife]]s or short swords) {{Ref|3}}.
+;Shields : Heavy ballistic shields are also often found in the phalanges of Spartans {{Ref|3}}.
+
+;Onotari Arms JP-K50 / JP-K51 : The 22nd Spartans use these weapons from [[Onotari Arms]], and solve the problem of front-heavy weapons by basing them on their ballistic shields {{Ref|4}}.
+
+<!-- End of article content - meta information -->
+
+==Sources==
+This article in its current form is largely based on the {{Shx|22nd_Spartan_Legion|same-named article}} in the {{Shx|main|Shadowhelix}}, where it is - as here - under [[GNUFDL]]. For author list, see <span class="plainlinks">[https://shadowhelix.de/index.php?title=22nd_Spartan_Legion&action=history here]</span>. The main author there is user "{{Shx|User:Index|Index}}".
+
+'''Primary sources on this Saeder-Krupp subsidiary are:'''<br/>
+<u>Sourcebooks:</u>
+* [[Street Lethal]] / [[Deadly Shadows]] S.147-149
+* [[Firing Squad]] / [[Fire Free]] S.26
+
+===Source details:===
+{{Ref2|1}} [[Deadly Shadows]] S.147
+{{Ref2|3}} [[Deadly Shadows]] S.148
+{{Ref2|2}} [[Deadly Shadows]] S.149
+{{Ref2|4}} [[Fire Free]] S.26
+
+[[Category:Mercenary Groupings]]
+{{CatScheme|scheme=OrgMercenary}}

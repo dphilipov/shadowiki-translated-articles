@@ -1,0 +1,50 @@
+[[Datei:Cover Ten Gangs.PNG|framed|right|Cover {{C Cat}}]]
+'''10 Gangs''' ist ein ergänzendes eBook zum [[Unterwelt]]-Quellenbuch "[[Vice]]" für die [[Shadowrun: Editionen#4. Edition|vierte Edition]] von Shadowrun, das 10 ''mittelgroße'' [[Gangs]] der [[6. Welt]] beschreibt. 
+
+Es wurde von {{Cat}} am 15.02.2010 ausschließlich in englischer Sprache und nur als eBook veröffentlicht. 
+==Rückseitentext==
+Everyone knows the score between the [[Yak]]s, [[Mafia]], and [[Triaden|Triad]], but when you get down to it, the [[ganger]] on the corner is just as likely to try and kill you. Here is the download on ten mid-sized [[gangs]] that are looking to make a name for themselves.
+
+10 Gangs is a [[Shadowrun]] product, designed to supplement any campaign and utilizes the Gang rating system from [[Vice]]. Each gang comes with plot hooks and stats for [[gamemaster]]s and players to use for [[run]] ideas, [[Connections|contacts]], and keeping an eye on the competition.
+
+==Buchinformationen==
+* '''Art-Nr.:'''  CAT26504
+* '''Verlag:''' {{Cat}}
+* '''Sprache:''' englisch
+* '''Art:''' nur eBook (Watermarked Pdf, 3.44 MB)
+* '''Seitenzahl:''' 22 Seiten
+* '''Erschienen:''' 15.02.2010 
+* '''Preis:''' 6,95 $
+
+===Autoren, Illustratoren, Mitarbeiter:===
+* '''Autor(en):''' [[Robert Derie]], [[John Dunn]], [[Olivier Gagnon]], [[Jennifer Harding]], [[David Dashifen Kees]], [[Adam Large]], [[Ando Muneno]], [[Aaron Pavao]]
+* '''Künstler:''' [[Jeff Preston]]
+
+==Inhalt:==
+* Deliquents
+* [[Babakku]] ''von "[[Black Mamba]]"''
+* [[Blindfish]] ''von "[[2XL (Nordamerika)|2XL]]"''
+* [[The Gentlemen]] ''von "[[Lei Kung]]"''
+* [[Konton-Shi]]
+* [[Laésa]]
+* [[The Láíyà]]
+* [[Los Hermanos del Mar]]
+* [[Merlyn's Pride]]
+* [[Midwest Pirates Guild]]
+* [[The Panopticons]]
+
+==Anmerkungen==
+Eine deutsche Übersetzung von "10 Gangs" findet sich im Quellenbuch "[[Unterwelten]]", einer im {{Pegasus V}} erschienen, erweiterten Übersetzung des englischen "[[Vice]]".
+
+==Weblinks==
+* {{Shx|10_Gangs_(Quelle,_englisch)|Shadowhelix: 10 Gangs}}
+
+<u>Bezugsquellen:</u>
+* [http://www.battlecorps.com/catalog/product_info.php?products_id=2408 "10 Gangs" auf www.Battlecorps.com]
+* [http://rpg.drivethrustuff.com/product_info.php?products_id=78874&affiliate_id=77000 "10 Gangs" auf DriveThru RPG]
+
+<u>Preview:</u>
+* [http://watermark.drivethrustuff.com/pdf_previews/78874-sample.pdf Preview Pdf] 
+
+
+{{KatSort|cat=Quellen|Englisch|4. Edition|Quellenband|Catalyst Game Labs|2010}}

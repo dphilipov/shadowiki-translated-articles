@@ -1,0 +1,45 @@
+{{Organisation
+|STAND={{Shx|2073}}
+|QUELLE={{Ref|1}}
+|LOGO=
+|ALTERNATIV=Special Task Force SOX
+|KÜRZEL=MET2000 TFORS
+|ART={{nlt}}Division (Söldner- / militärische Einheit)
+|GRÜNDUNG=
+|SCHICKSAL=
+|FÜHRUNG=
+|SITZ=
+|MITGLIEDER=
+|AGENDA=Schutz der [[SOX]] vor unbefugtem Betreten und Verlassen
+|MOTTO=
+}}
+Die '''1. Division der MET2000''' bildet die '''Special Task Force SOX''' (kurz: '''MET2000 TFORS'''), die mit dem Schutz der SOX betraut ist.
+
+==Geschichte==
+Noch bis in die {{Shx|2050er}} war für die Zonensicherung eine Taskforce verschiedener Konzerntruppen und Staatsoffiziere verantwortlich, was allerdings einen enormen wirtschaftlichen und bürokratischen Aufwand darstellte. Hinzu kamen die internen Rivalitäten und gelegentliche Konflikte, die die Sache unnötig verkomplizierten. Weiterer Streitpunkt waren die vielen Konzerntruppen von [[Saeder-Krupp]], wodurch der Eindruck erweckt wurde, der Konzern würde die SOX gar als persönlichen Hinterhof ansehen. Widerwillig entschied man sich, die [[MET2000]] unter Vertrag zu nehmen, die sowieso schon vor Ort aktiv war, was überraschenderweise auch für S-K kein Problem darstellte, sodass der befürchtete [[Schatten]]krieg ausblieb {{Ref|1}}. So wurde am {{Shx|12._Februar|12. Februar}} {{Shx|2053}} der [[Vertrag von Karlsruhe]] geschlossen und die MET2000 begann mit ihrem Auftrag.
+
+==Aufgaben==
+Die Mission der "Zonenverteidigungsstreitkräfte" besteht aus mehreren Punkten. Zunächst einmal kontrolliert sie den Zugang zur SOX (sowohl rein, als auch raus), sowie die Sicherstellung der Kommunikation, die Überwachung und die Wartung der Artemis-Sicherungsanlage, sowie die allgemeinen Friedenserhaltungsmaßnahmen. Letzteres bedeutet, dass man in Absprache mit den im [[Kontrollrat]] vertretenen [[Konzerne]]n - gelegentliche, offensive Aktionen gegen illegale Bewohner der Zone wie [[Glowpunks]], Kultisten, [[Toxische Schamanen|toxische respektive Strahlungsschamanen]] und [[Ghul]]e - durchführt und aktiv sowohl Glowpunks als auch [[Schmuggler]] aus dem Verkehr zieht, Konzerntruppen unter Kontrolle hält, etc.. Auch verwaltet sie die SOX-Datenbank bezüglich der angekündigten Grenzübertritte und unterhält Manöver, Trainings und Kampftrainings {{Ref|1}}.
+
+Auch bei den jährlichen [[Rad Wars]], einem Ableger der [[Desert Wars]] nehmen entweder die ZV-Truppen mit ein bis zwei Kompanien oder MET-Truppen aus Übersee Teil.
+
+==Die Truppen==
+Die Moral vor Ort ist eher durchwachsen. Häufige Rotationen sollen Lagerkoller zuvor kommen, sowohl in der Zone als auch außerhalb, aber die Instabilität der Artemis-Grenzwallsicherung und die regelmäßigen Keilereien mit den Schmugglern, Glowpunks, [[Geisterratten]], [[Charognards]] und den von ihnen verursachten Probleme bereiten den Truppen vor Ort einige Kopfschmerzen. Dazu kommt die Strahlung, welche zudem toxischer Kräfte anlockt, die zunehmend wieder erstarken {{Ref|1}}.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert in seiner aktuellen Version auf dem {{Shx|1._Division_(MET2000)|gleichnamigen Artikel}} in der {{Shx|Hauptseite|Shadowhelix}}, der dort - ebenso, wie hier - unter GNUFDL steht. Autorenliste siehe <span class="plainlinks">[https://shadowhelix.de/index.php?title=1._Division_(MET2000)&action=history hier]</span>. - Hauptautor der aktuellen Ergänzungen dort ist der dortige Benutzer "{{Shx|Benutzer:Index|Index}}".
+
+'''Primärquellen zu dieser Einheit der MET2K sind:'''
+*[[SOX (Quellenbuch)|SOX]] S.22-25
+*[[Reiseführer in die deutschen Schatten]] S.50
+*[[Fronteinsatz]] S.131
+*[[Datapuls: ADL]]
+*[[Datapuls: SOX]]
+
+===Quellendetails:===
+{{Ref2|1}} [[Fronteinsatz]] S.131
+
+{{KatSort|cat=Konzerne|Abteilungen|MET2000|ADL}}
+[[Kategorie:SOX]]

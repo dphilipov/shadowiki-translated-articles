@@ -1,0 +1,20 @@
+{{incomplete}}
+The '''28 Cranes'''' (Eng: ''28 Cranes'', French: ''Les 28 Grues'') are a [[triad]]organization present in [[Burma]] in the [[Southeast Asian War Zone|Southeast Asian War Zone]] as well as in [[South American]]n [[Chile]].
+
+==Competition==
+In their native Burma, the "28 Cranes" represent the dominant force within the organized [[underworld]], with the corrupt Burmese Army, deeply involved in [[drug]][[smuggling]] and other, criminal activities, being their fiercest competitor.
+{{Shadowtalk|Alongside the [[Hai San]] of [[Singapore]], [[Korean]] [[Jo-Pok Syndicates]] and the [[Yakuza]] brought by the [[Japanacorps]]...|'''''[[Lei Kung]]'''''}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based largely on a translation of part of the paragraph "{{Swf|Birmanie#Pègre|Pègre}}" of the article {{Swf|Birmanie}} and the entry for "Les 28 Grues" in the article {{Swf|Triades}} in the French-language {{Swf|ShadowWiki|Shadowrun Wiki Project}}, each of which is licensed there under a Creative Commons license. A list of authors can be found <span class="plainlinks">[http://shadowrun.fr/w/index.php?title=Birmanie&action=history here]</span> and <span class="plainlinks">[http://shadowrun.fr/w/index.php?title=Triades&action=history here]</span>.
+
+'''Primary sources on the <u>28 Cranes</u> are:'''
+*[[Shadows of Asia]] p.151-152 (''English'' only).
+*[[Shadows of Latin America]] / [[Latin America in the Shadows]]
+
+==Weblinks==
+*{{Shx|28_Cranes|Shadowhelix: 28 Cranes}}
+
+{{CatSort|schema=OrgTriad}}
+{{CatSort|cat=TriadGroups|Asia|Burma|Latin America|Chile}}

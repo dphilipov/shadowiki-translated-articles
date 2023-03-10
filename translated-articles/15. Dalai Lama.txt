@@ -1,0 +1,35 @@
+{{Partially Unofficial}}
+{{person
+|NAME_OVR=?
+|TOD={Shx|2060}} / {{Shx|2061}}
+|MALE
+|METATYP=
+|MAGIC=
+|NATION=[[tibet]]ish
+|RELIGION=[[Buddhism|Buddhist]]
+}}
+The '''15th Dalai Lama''' lived sometime between {{Shx|2012}} and about {{Shx|2060}}/{Shx|2061|61}}. During this period, [[Tibet]] was completely isolated from the outside world {{Ref|1}}.
+{{Shadowtalk|The fact that no one outside the circles of Tibetan monks had ever seen him, and virtually nothing was known about him beyond the borders of Tibet, was apparently seen by some Matrix forum trolls as an invitation to spread presumably freely invented fake info about him in the German-language [[Shadow Matrix]] and various [[Shadowpedia]]s such as the [[Shadowhelix]]. - For example, a [[Shadowtalker]] who used the [[persona]] "Johannes Rau" wrote there ''"His civil name was Baltrang Gyatso. He was Dalai Lama from 2014 until his death in 2061. He almost completely renovated the [[Potala Palace]] and had a Buddha room set up where he prayed to Buddha 5 times a day. He died of lotus blossom poisoning, although he believed that a lotus blossom would bring him closer to enlightenment."'' and that he had been ''"a person whose birth name was Lhadong Lhasa"'', and of whom he further wrote ''"He used to pray to Buddha from morning till night and and offer him lotus blossoms as sacrifices."'' while at the same time claiming elsewhere that he had ''"the cultivation of lotus blossoms banned"''. - Understandably, he was therefore repeatedly warned by colleague [[SysAd]] and eventually banned infinite, especially since he also spread similar humbug about the [[16th Dalai Lama]] {{Ref|100}}.|'''''Skeptic'''''|64%}}
+{{follow-up bar
+|AMT=[[Dalai Lama]]
+|PREVIOUS=[[14th Dalai Lama]]
+|FOLLOWER=[[16th Dalai Lama]]
+|AMT=Dalai Lama
+|STARTBREAK=1
+|ENDBREAK=1
+}}
+
+==Sources==
+This article is based on the article {{Shx|15th _Dalai_Lama|15th Dalai Lama}} in the {{Shx|Main|Shadowhelix}}, where it is available under GNUFDL. For a list of authors, see <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=15._Dalai_Lama&action=history here]</span>.
+
+'''Primary sources on the <u>15th Dalai Lama</u> are:'''
+* [[Shadows of Asia]] p.71 (only ''English'').
+
+===Source details:===
+{{Ref2|1}} [[Shadows of Asia]] p.71<br/>
+{{Ref2|100}} The content of the Shadowtalk comment reflects the repeated additions to the Shadowhelix article by user "Johannes Rau" there with his own inventions, reverted there by user "{{Shx|User:Loki|Loki}}".
+
+{{KatSort|cat=People|NSC|Deceased|Tibet}}
+{{KatSort|catsup=People|cat=Christian|Buddhism|Asia|Tibet}}
+{{CatSort|catsup=People|cat=Politicians|Asia|Tibet}}
+[[Category:Died 2061]]

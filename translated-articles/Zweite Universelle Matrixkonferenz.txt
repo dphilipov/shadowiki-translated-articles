@@ -1,0 +1,17 @@
+The '''Second Universal Matrix Conference'''' (English ''Second Universal Matrix Conference'') was a major international conference held in {{Shx|2065}} to agree on the wireless standard for rebuilding the [[Matrix]] after the [[Crash of 2064]]. It was held in the [[Scotland|Scottish]] [[Silicon Glen]] in the [[Scotsprawl]] in the [[United Kingdom of Great Britain|United Kingdom]].
+
+The environment of this conference also saw the merger of [[Richard Villiers]]'s [[Novatech IPO|IPO]] back into ''liquid'' [[Novatech]]-[[Group]] and [[Transys-Erika]], which itself had only been formed in December {{Shx|2064|'64}} by the merger of [[Transys-Neuronet]] and [[Erika]], to form [[NeoNET]].
+{{Shadowtalk|With Villiers pulling the European [[Wireless Matrix Initiative]], making NeoNET one of THE heavyweights in building the wireless [[WiFi matrix]] worldwide... the second is [[Saeder-Krupp]], whose top matrix researcher [[Antonio Vieri]] was present at the meeting, along with [[Lofwyr]]'s chain dog [[Scale]], for a reason!|'''''[[Corpshark]]''''' - <small>A collection of creds, unrestrained power and cold intellect, with a complete abandonment of (meta)human emotion, morality and decency, the likes of which are rarely seen together in one place even today!</small>}}
+==Term==
+The first Universal Matrix Conference was the [[Universal Matrix Specifications Conference]] of {{Shx|2039}}. Since the 2065 conference had similar seminal significance, it is referred to as the second ''Universal Matrix Conference''.
+{{Shadowtalk|But the [[New-Matrix-World-Standard-2069|New-Matrix-Worldstandard]] with the definition of the whole [[programming languages]], standards and protocols has then nevertheless only the [[Corporate Court]] {{Shx|2069}} adopted...|'''''[[The Chromed Accountant]]''''' ...it's all about Dollars and Sense.}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the article {{Shx|Second_Universal_MatrixConference|Second Universal Matrix Conference}} in the {{Shx|MainPage|Shadowhelix}}, where it is available under [[GNUFDL]]. The list of authors can be found <span class="plainlinks">[http://wiki.shadowhelix.de/index.php?title=Zweite_Universelle_Matrixkonferenz&action=history here]</span>.
+
+'''Primary sources on the <u>Second Universal Matrix Conference</u> are:'''
+* [[System Failure]] / [[System Failure]]
+
+{{CatSort|cat=Events|Europe|Great Britain|Scotland|Scotsprawl|Corporate World|2065}}
+[[Category:History of the Matrix]]

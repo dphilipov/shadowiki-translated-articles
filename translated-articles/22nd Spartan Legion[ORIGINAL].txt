@@ -1,0 +1,85 @@
+{{Organisation
+|STAND=2080er
+|QUELLE=
+|LOGO=
+|ALTERNATIV=
+|KURZ=
+|TYP=Söldnerorganisation
+|GRÜNDUNG=2066
+|SCHICKSAL=
+|FÜHRUNG=
+|SITZ=Lakonien, [[Griechenland]] {{Ref|1}}
+|MITGLIEDER=
+|AGENDA=
+|MOTTO=
+}}
+Die '''22nd Spartan Legion''' ist eine [[Söldner|Söldnereinheit]], die für ihre unnachgiebige Kampfweise bekannt ist.
+
+==Geschichte==
+===Gründung und Frühe Jahre===
+Ihre Wurzeln kann man zu Sergeant Major [[Terrance Mithos]] zurückverfolgen, der ursprünglich Teil der nicht mehr existenten [[Thunder Corps]] war. Als das Thunder Corps {{Shx|2062}} im [[Yucatán-Krieg]] von den Naturkatastrophen vor Ort vernichtet wurde, überlebte Mithos und verbrachte die nächsten zwei Jahre in der Wildnis [[Yucatán|Yucatáns]], nur bewaffnet mit einem selbstgemachten Speer. Gerüchte sprechen davon, dass Mithos seltsame Pilze zu sich genommen hatte und dieses Methode mitsamt Folter später einsetzte, um andere zu rekrutieren {{Ref|1}}.
+
+Irgendwann traf in dieser Wildnis eine andere Söldnereinheit und schaffte es zurück in die Zivilisation. Es ist nicht genug geklärt, was passierte, aber nachdem diese Einheit für ein halbes jahr als MIA (vermisst) gemeldet gewesen war, tauchte sie mit Mithos als Anführer in [[Bogotá]] wieder auf. Auf Fragen hin, was passiert war, antwortete der frühere Anführer [[Lars Blutspeer]] (früher Lars Olsson), dass ihnen "der wahre Pfad des Kriegers" gezeigt worden war. Die Einheit verlegte sich in die griechische Region Lakonien und verbrachte ein Jahr mit Ausbildung und Rekrutierung, ehe die Spartans ihre ersten Kontrakte annahmen. Die Spartans wurden offiziell {{Shx|2066}} bei der [[International Mercenary Association]] registriert {{Ref|1}}.
+
+Mithos verstarb später. Laut offizieller Geschichte fiel er im Kampf gegen einen [[Toxischer Geist|toxischen Geist]] und die Spartans sprechen gerne davon, dass Mithos und der [[Geist]] sich einen ganzen Berg heruntergekämpft hätten. Andere Versionen sprechen von einer jungen Eule im Sturzflug und einer unvorteilhaften Position, aber das sollte man den Spartans lieber nicht an den Kopf werfen, wenn man keine bleibenden Schäden erleiden will {{Ref|1}}.
+
+===Schlacht um GeMiTo===
+In den nächsten Jahren waren die Spartans in Kampfeinsätzen in [[Afrika]], [[Europa]] und dem [[Naher Osten|Nahen Osten]] involviert. Der wohl bedeutendste Einsatz war während der [[Schlacht um GeMiTo]] im Zuge des [[Drachenbürgerkrieg|Drachenbürgerkriegs]], bei dem die Spartans auf der Seite von [[Saeder-Krupp]] und [[Lofwyr]] kämpften. Obwohl die Spartans Verluste von 50 Prozent erlitten, zogen sie sich niemals zurück, selbst wenn der Befehl kam. Ungeachtet des Feindes - sei es Söldner, Geister oder sogar [[Drachen]] - kämpften sie verbissen um jeden Meter. Selbst wenn ihre [[Waffe]]n leer geschossen waren, zogen sie ihre [[Nahkampfwaffe]]n oder verwendeten ihre Ballistischen Schilde um den Feind niederzumachen. Das hatte Lofwyr sicherlich beeindruckt - oder zumindest seine Aufmerksamkeit erregt - denn seitdem werden sie bei S-K unter Vertrag gehalten. Mehr noch, S-K hatte die Spartans nach [[GeMiTo]] komplett neu ausgestattet {{Ref|2}}.
+
+Die Spartans waren auch im anschließenden Angriff auf [[Mount Shasta]] und die früheren Anhänger von [[Hestaby]] beteiligt {{Ref|2}}.
+
+==Grundlagen==
+'''Einheitenart''': Gepanzerte Infanterie<br>
+'''Bekannte Stärke''': 3 Kompanien<br>
+'''[[International Mercenary Association|IMA-Einstufung]]''': 7<br>
+
+Die 22nd Spartans sehen sich, wenig überraschend, als die "wahren Erben des Geistes des alten Sparta". Sie kombinieren moderne Ausrüstung und im Besonderen Militärpanzerung mit antiken Kampftaktiken, was überraschenderweise eine sehr effektive Art zu kämpfen ist. Diese ungewöhnliche Einheit hat sich zu einer der am meisten respektierten - und auch gefürchteten - Söldnereinheiten der Welt entwickelt {{Ref|2}}. 
+
+Momentan werden sie bei [[Saeder-Krupp Prime]] unter "erweiterter Abrufbereitschaft" gehalten und bekommen sogar von Zeit zu Zeit experimentelle Waffen und andere [[Ausrüstung]] für Feldtests, ganz egal, wie gefährlich oder unberechenbar diese Prototypen auch sein mögen (darunter sollen sich auch einige Jetpacks befinden) {{Ref|2}}.
+
+===Modus Operandi===
+Die Spartans verwenden keine besonders ausgeklügelten Taktiken. Sie rücken vor und töten alles, was sich ihnen in den Weg stellt. Hat der Angriff einmal begonnen, machen sie so lange weiter, bis sie entweder ihr Missionsziel erreicht haben oder alle tot oder kampfunfähig sind {{Ref|3}}.
+
+Funktionen wie [[Matrix]]- und [[Magie]]unterstützung wird oftmals an andere Einheiten ausgelagert {{Ref|3}}. 
+
+==Mitglieder==
+Ähnlich wie ihre Namensgeber sind Spartans Vollzeitkrieger, bzw. sehen sich als Berufskrieger. Sie legen viel Wert auf körperliche Fitness, Kampftechniken, Loyalität und Treue innerhalb der Einheit und individuelle Disziplin. Das führt zu einiger Arroganz gegenüber anderen, die sie bestenfalls als kompetent, aber unterlegen ansehen. Daher nehmen sie die Phrase "mit deinem Schild oder auf ihn" sehr ernst. Ein Spartan verlässt seine Einheit nur mit dem Tod {{Ref|3}}.
+
+Die Spartans mögen alles, was ihre Kampffähigkeit steigert, tolerieren aber keine [[Drogen|Kampfdrogen]], die sie als feige Abkürzungen sehen {{Ref|3}}.
+
+===Rekrutierung===
+Eine Einheit mit einem so hohen Verschleiß an Personal ist immer auf der Suche nach neuen Rekruten und schreckt auch nicht davor zurück, neue Mitglieder zu zwangsrekrutieren oder die Verzweifelten aufzunehmen. Das Auswahlverfahren für neue Rekruten und die nachfolgende Ausbildung kann man zweifelsohne "brutal" und "barbarisch" nennen {{Ref|3}}.
+
+Die erste Prüfung für neue Rekruten besteht darin, dass sie ohne jegliche Ausrüstung irgendwo in der Wildnis abgesetzt werden. Wer dies überlebt, erhält im Anschluss ein Ziel, dass sie ausschalten sollen oder ein Missionsziel, dass sie erfüllen müssen {{Ref|3}}.
+
+===Hopliten===
+Wer auch dies übersteht, erhält einen Hoplitenanzug und nur die grundlegendste Ausrüstung und Bewaffnung. Wenig überraschend überstehen nur wenige diese Phase {{Ref|3}}.
+
+===Homioi===
+Überlebt man die Rekrutierung und auch die Grundausbildung als Hoplit, muss man sich im Kampf beweisen. Wer es schafft, Mutig zu sein, sich anzupassen und Scharfsinn im Kampf zu zeigen, der erhält von den Spartans den Titel ''Homioi'' (was in etwa ''Ebenbürtiger'' bedeutet) und darf sich endlich in eine der Militärpanzerungen kleiden, die das Markenzeichen der Einheit sind. Außerdem wird man Teil einer ''Phalanx'', also einer Einheit, vergleichbar mit einem regulären Zug im Militär {{Ref|3}}. 
+
+==Ausrüstung==
+;Militärpanzerung : Die Militärpanzerung ist nicht nur ein Markenzeichen - sie ist ein Ausdruck der Ehre und etwas, das man sich verdienen muss; der ultimative Ausdruck von Hingabe gegenüber der Kunst des Kampfes und der Einheit selbst. Wer eine Militärpanzerung mitbringt, wird sie ziemlich schnell wieder verlieren. Die Rüstungen dürfen individualisiert werden. Natürlich gibt es noch schwerere Militärpanzerungen, aber diese muss man sich verdienen {{Ref|3}}.
+;Bewaffnung : Die Bewaffnung der Spartans richtet sich nach individuellen Bedürfnissen. Jeder hat meist eine schwere Fernkampfwaffe (ein Sturmgewehr oder größer), eine primäre Nahkampfwaffe ([[Schwert]]er, Knüppel oder Stangenwaffen) und eine sekundäre Nahkampfwaffe (wie etwa [[Messer]] oder Kurzschwerter) {{Ref|3}}.
+;Schilder : Oftmals finden sich auch schwere Ballistische Schilde in den Phalangen der Spartans {{Ref|3}}.
+
+;Onotari Arms JP-K50 / JP-K51 : Die 22nd Spartans verwenden diese Waffen von [[Onotari Arms]] und lösen das Problem der Frontlastigkeit der Waffen, indem sie sie auf ihre ballistischen Schilde stützen  {{Ref|4}}.
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+Dieser Artikel basiert in seiner aktuellen Form weitgehend auf dem {{Shx|22nd_Spartan_Legion|gleichnamigen Artikel}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er - wie hier - unter [[GNUFDL]] steht. Autorenliste siehe <span class="plainlinks">[https://shadowhelix.de/index.php?title=22nd_Spartan_Legion&action=history hier]</span>. Dortiger Hauptautor ist Benutzer "{{Shx|Benutzer:Index|Index}}".
+
+'''Primärquellen zu dieser Konzerntochter Saeder-Krupps sind:'''<br/>
+<u>Quellenbücher:</u>
+* [[Street Lethal]] / [[Tödliche Schatten]] S.147-149
+* [[Firing Squad]] / [[Feuer Frei]] S.26
+
+===Quellendetails:===
+{{Ref2|1}} [[Tödliche Schatten]] S.147
+{{Ref2|3}} [[Tödliche Schatten]] S.148
+{{Ref2|2}} [[Tödliche Schatten]] S.149
+{{Ref2|4}} [[Feuer Frei]] S.26
+
+[[Kategorie:Söldnergruppierungen]]
+{{KatSchema|schema=OrgSöldner}}

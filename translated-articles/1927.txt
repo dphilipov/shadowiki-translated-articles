@@ -1,0 +1,34 @@
+{{Location
+|STAND={{Shx|2080}}
+|SOURCE={Ref|1}}
+|LOGO=
+|COPYRIGHT=
+|ALIAS=
+|DESCRIPTION={nl}}{{Source}}{{Source}}{{Source}}{{Source}}{{Source}}{Source}}{Source}}{Source}}{Source}}{Source}}{Source}}{Source}}
+|LOCATION={nlt}}16th floor of the Metropolis Arcology, Charlottenburg-Wilmersdorf, Berlin {{Ref|1}}
+|KOORD=
+|OWNER=[[DeMeKo]] {{Ref|1}}
+|SECURITY=
+|LTG=
+|DESTROY=
+|DESTROYER=
+|IMAGE=
+|COPYRIGHT2=
+|MAP=
+|COPYRIGHT3=
+}}
+The '''1927''' is a dignified but publicly accessible dance club on the 16th floor of the main tower of the [[Berlin]]s [[Metropolis Arcology]] with a north-facing view, where the architectural style of the Golden Twenties and state-of-the-art music and lighting technology mix and complement each other. Like most venues in the "Golden 20s" design, the 1927 has discreet alcoves and private boxes, making the club popular as a meeting place as well.
+{{Shadowtalk|Cool thing I find in the [[AR]] are the [[Augmented Reality Environment Program#Widespread ARE Programs|virtual waiters]] where you place your order. Are nicely animated, and you can choose between three setups (Classic Waiters, Pretty Hostesses, and Tricky Toons)|'''''Viper_Max'''''|64%}}
+{{shadowtalk|I hate Two-Tone Turtle, the toon waiter. He gets on your nerves with his sayings.|'''''HellToy'''''|64%}}
+{{Shadowtalk|I like Sexy Sarah the best. :)|'''''Viper_Max'''''}}
+{{Shadowtalk|HELLO? Can you kiddos talk somewhere else??|'''''Khan'''''}}
+<!-- End of article content - meta information -->
+
+==Sources==
+This article is based on the relevant paragraph in the article "[http://rabenwelten.wordpress.com/2010/10/20/shadowrun-brennpunkt-metropolis/ Flashpoint: Metropolis]" at [http://rabenwelten.wordpress.com Ravenworlds], which is licensed there under {{WP|Creative_Commons|Creative Commons}} License.
+
+The Metropolis Arcology - and all locations in it - are an invention of [[Andreas Schroth|Andreas "RabenAAS" Schroth]], and do not appear in any previous Shadowrun publication. They are, however, partially mentioned in the "[[Berlin (Sourcebook)|Berlin]]" sourcebook for the [[Shadowrun: Editions#4th Edition|fourth Edition]] of [[Shadowrun]] (limited edition, p.63, group section) briefly mentions.
+
+In [[Berlin 2080]], p.33 the "1927" is explicitly mentioned.
+
+{{CatSort|cat=Locations|Europe|ADL|Berlin|Charlottenburg-Wilmersdorf|Metropolis}}

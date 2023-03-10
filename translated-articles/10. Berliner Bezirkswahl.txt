@@ -1,0 +1,107 @@
+{{incomplete}}
+{{Event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={Shx|October5}} {{Shx|2081}}
+|PARTICIPATED
+}}
+The '''10th Berlin District Election''' was held on {{Shx|5._October|5}} {{Shx|2081}} was held.  Elected were the representatives of the districts of electoral period III: [[Friedrichshain-Kreuzberg]], [[Groß-Siemensstadt]], [[Lichtenberg]], [[Potsdam]], [[Schönefeld]], [[Strausberg-Fredersdorf]] and [[Zehlendorf]]. At the same time, Berlin also elected its I. Mayor.
+
+==Special features==
+A novelty was the offer, at the same time as voting also a bet on the election outcome via [[Vesuvio]] casinos or [[Caldera]] online betting portal. - In addition, it was the first election in which [[MMVV-infected]]s were fully eligible to vote as a consequence of the alliance-wide [[PNO]] campaign to reassess their legal status in Berlin. - Both of these factors led to massively higher voter and betting turnout, which virtually exploded. The election saw sometimes surprising and unexpected changes at the top in several districts.
+
+===Runoff===
+Initially, [[MSI]] replaced [[AGC]] in the corporate district of [[AGC]] [[Greater Siemens City]] the long-time district representative - company CEO Dr. [[Robert Schlüter Junior]] - by public relations consultant and lawyer Dr. [[Aneta Kovac]]. This change was due to the newly introduced "minimum attendance quota" at council meetings for council representatives, which Schlüter Jun. had already sharply criticized in advance.
+
+In [[Schönefeld]], the [[Messerschmidt-Kawasaki]]-[[corporate]]s and [[LDFP]]-politician [[Mareike Praschak]] succeeded from the [[Berlin district election of 2072|Ur-election]] {{Shx|2072}} to {{Shx|2075}} had already been district representative, to replace the [[CVP]]-man [[Gregor Thielke]], who had been unsuccessful in office, even if his ''ineffective district leadership'' was in truth due in good part to active sabotage by MSK/[[Saeder-Krupp|S-K]].
+{{Shadowtalk|...has what, with ♪ ''"They never Come Back"''' ♫ ...|'''''[[TrixWalker]]'''''}}
+Furthermore, the 10th Berlin district election saw the extremely controversial candidacy of a [[Free Spirit|Free Spirit]] in Zehlendorf, supported by [[Evo]], as well as a general strengthening of the radical right-wing, openly neo-fascist [[PNE]]. The latter benefited especially from the highly emotional, controversial "infected-rights" issue (and its smear campaign against it, in which it portrayed itself as the ''"last bulwark against the tide of the undead"'' and used virtually every conspiracy theory on the subject, in addition to understandable fears of the non-infected). As a result, it received many votes from otherwise more ''left-wing'' or even non-voters and occasionally even from [[orc]]s and [[troll]]s, and was able to more than double its share of the vote in some districts (in X-Hain with 6.7% accounted for by [[Rutgar Demirci]] even sixfold). - Fortunately, however, this was not enough to provide even one district representative.
+
+In two districts - X-Hain and Zehlendorf - the preliminary, official final results announced on 07.10.2081 are, however, by no means to be regarded as final:
+
+Zehlendorf is considering the question of whether the last-minute candidacy of the Free Spirit called "[[Idis]]" was legal at all, and if not, whether the election will be repeated. Until then, the [[Elf]] and hotel mogul [[Eugen Streletzki]] is considered the winner of the election and district representative of Zehlendorf.
+
+In Kreuzhain, on the other hand, an intensive investigation is taking place to determine whether massive electoral fraud may have occurred in the completely surprising victory of the factionless [[Akima Koyim|Akima "Sikimye" Koyim]], a [[Hobgoblin]]a whose [[People's SIN]] name translates as a string of foul insults. - If clear and irrefutable evidence of the latter cannot be found, the [[Berlin Council]]s newly introduced "minimum attendance quota" for council representatives at council meetings ensures that they must return to Berlin, take office in person, and survive this if the district is not to fall to the runner-up: Conservative [[Emirat Kreuzberg|Emirats]] representative [[Faisal Bayraktar]], considered by many to be a political puppet of fanatical [[Islam]] and Sharia adherent Imam [[Muhammad al-Qasim]]. - A possibility that much of the [[metahumanity|(meta-)humanity]] Kreuzberg and Berlin in general, not without reason, consider a worst-case scenario that must be prevented at almost any cost.
+
+In Lichtenberg, Potsdam and Straussberg, the incumbents were able to defend their posts, even if [[Fabian von Wittich]] in Potsdam and [[Doreen Katschmarek]] in Straussberg were only able to do so by means of dubious [[meta-]names. Straussberg only succeeded by means of dubious methods.
+
+===Election of the first mayor===
+Dr. [[Paul Zöller]] was clearly re-elected as first mayor (and cynically dubbed "Grö1BaZ" by "[[Nakaira]]" on [[B1L]]).
+
+====PreliminaryOverviewElectionWinners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Friedrichshain-Kreuzberg]]
+|Alternative district
+|<span style="display:none;">Koyim, Akima</span> [[Akima Koyim|Akima "Sikimye" Koyim]]
+| -
+|2081
+|-
+|[[Greater Siemens City]]
+|[[Group District
+|<span style="display:none;">Kovac, Aneta</span> Dr. [[Aneta Kovac]]
+|[[MSI]]
+|2081-?
+|-
+|[[Lichtenberg]]
+|Alternative district
+|<span style="display:none;">Pflugler, Morek</span> [[Morek Pflügler]]
+|
+|2072-2081
+|-
+|[[Potsdam]]
+|norm district
+|<span style="display:none;">Von Wittich, Fabian</span> [[Fabian von Wittich]]
+|[[Prussia Foundation]] / [[CVP]]
+|2075-2081
+|-
+|[[Schönefeld]]
+|Normbezirk
+|<span style="display:none;">Praschak, Mareike</span> [[Mareike Praschak]]
+|[[LDFP]] / [[Messerschmitt-Kawasaki]]
+|2081-?
+|-
+|[[Strausberg-Fredersdorf]]
+|Normbezirk
+|<span style="display:none;">Katschmarek, Doreen</span> [[Doreen Katschmarek]]
+|[[European Social Democratic Party|ESP]]
+|2072-2081
+|-
+|[[Zehlendorf]]
+|Normbezirk
+|<span style="display:none;">Streletzki, Eugen</span> [[Eugen Streletzki]]
+|[[Strelitzki Group]] / [[Prussian Foundation]]
+|2081-?
+|}
+
+===Announced new election===
+While Proteus' and Isabella Buzek's complaint was shot down in Zehlendorf, a new election was scheduled for the Kreuzberg-Friedrichshain district on {{Shx|December|28/12}}{{Shx|2081}}. This was particularly for the reason that the nominal winner of the election was either untraceable or dead: if it was correct that behind the people's SIN on the insulting name Akima "Sikimye" Koyim hid the [[Hobgoblin]] actress [[Sharad Albutairi]], because her abused corpse was fished out of the [[Nile]] dead on {{Shx|9._November|9 November}}.
+
+In the emirate, the decision to completely overrule the runner-up in the election and to have [[Mitra Özgun]] continue to hold the office of district representative on a temporary basis rather than [[Faisal Bayraktar]] until the new election has led to considerable acrimony even among moderate Muslims. The reason for this is that the decision against the [[Emirate of Kreuzberg|Emirate]] candidate is perceived as an affront not only to the radical Shariaists but to the entire Islamic community or even to Allah. The result is an extremely heated atmosphere, which is sometimes also reflected in acts of violence such as burning cars and stores immediately outside the Sharia zones.
+
+The [[PNO]], on the other hand, due to the loss of [[infected]]n votes to [[Wahnfried Grok]] on the original election date, has decided to replace the famously infected-hostile [[Magocracy|Magocrat]] [[Kilian Lorenz]] to have the [[vampire]]in "[[Mina Murnau]]" from the inner circle around [[Bella Lugosi]] run in the new election. "Lizzy Lynchmob" from the [[Anarchist Movement of Berlin|ABB]] - fourth in the first election behind "Sikimye," Bayraktar, and Özgun - has adopted a new name for herself as a candidate in the new election, "[[Lizzy Lawless]]."
+
+In the end, Mitra Özgun emerged from the new election as the winner and thus the old and new council representative.
+
+==See also==
+*[[Berlin district election]]
+
+<!-- End of article content - meta information -->
+
+==Sources==
+*[[SRB - Shadowrun Berlin]]
+**"<span class="plainlinks">[https://shadowrunberlin.wordpress.com/2021/01/27/surpriz-surpriz-die-berlinwahl-2081/ Sürpriz, Sürpriz! The Berlin Election 2081]</span>" [ B1L ] (01/27/2021)
+*[[NovaPuls]]
+**[[NovaPuls#2081-11-25|25.11.2081]] + Shadowtalk
+**[[NovaPuls#2082-01-04|04.01.2082]]
+
+==Weblinks==
+*{Shx|10th_Berlin_district_election|Shadowhelix: 10th Berlin district election}}
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2081}}

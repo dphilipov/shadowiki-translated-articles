@@ -1,0 +1,37 @@
+{{Teilweise Inoffiziell}}
+{{Gang
+|STAND={{Shx|2072}}
+|TYP=[[Matrixgang]] / [[Technomancer-Gilde]]
+|MITGLIEDER=?<br/>([[Technomancer]])
+|TERRITORIUM=[[Hongkong]]-[[Grid]]
+|AKTIVITÄTEN=[[Matrix]]verbrechen (?)
+|ALLIIERTE=[[289er]] aka [[Easy Money Gang]]
+}}
+'''100100001''' sind eine [[Technomancer]]-Gilde in [[Hongkong]]. 
+
+Zugleich sind sie aber auch eine jener [[China|chinesischen]] [[Gangs]], die die [[289s]] [[Triade]] oder [[Easy Money Gang]] bilden, die sie in ihre Reihen aufgenommen hat. 
+
+==Aktivitäten==
+{{Shadowtalk|Unter anderem bekommt man bei denen die besten (gefälschten) Eintrittskarten in ganz Hongkong! Nicht von den echten Tickets zu unterscheiden... um damit aufzufliegen, musst Du Dich als Zuschauer schon wirklich selten dämlich anstellen, und mutwillig die Aufmerksamkeit bei der Einlasskontrolle auf Dich lenken! - Hauptsächlich dealen sie natürlich mit Tickets für Sportveranstaltungen - inklusive der Heimspiele der [[Combat Biker]] der «[[Hongkong Cavaliers]]» in der [[Happy Valley Arena]] - sowie für Rockkonzerte und Live-Auftritte der Stars des [[Kanton-Pop]], aber auch für so ausgefallenes Zeug wie Peking-Oper. ...wobei ich meinem [[Oslo]]er [[Gang-Chummer]], [[Tschin-Fo]], lieber nicht verrate, daß ich im Juli {{Shx|2078|'78}} Tickets für ein Match der «Cavaliers» gegen die «[[Moskau Czars]]» bei denen gekauft hab - wo ich doch weiß, was der für einen Rochus auf die «289er» und ihre assoziierten Gangs hat...! {{Ref|2}}|'''''[[Kwang]]''''' - the VERY Korean Technomancer}}
+
+==Ruf==
+Die [[elf]]ische Technomancerin und [[Jackpoint]]erin [[Netcat]] - die in der Vergangenheit schon mit ihnen zusammengearbeitet hat - beschreibt sie in einem Kommentar zur «[[Vice]]»-[[Schattendatei]] recht treffend als "gierige Bastarde, aber kompetent und wirklich gut in dem, was sie tun".
+
+==Bedeutung==
+{{Shadowtalk|Die Zahl 100100001 entspricht als Binärzahl gelesen der Dezimalzahl 289 und der Hexadezimalzahl [01 21]. 289 ist der Code für das große Y, 0121 der ASCI Code für das kleine y. Damit könnte der Name eine Anspielung auf das Ying-yang Prinzip sein. Als Oktalzahl ist der Wert 441, was dem Zeichen ╣ entspricht, und als Duodezimalzahl 201, was das Zeichen ╔ ist. Die beiden sind allerdings nicht grade hilfreich, was eine Bedeutung angeht... {{Ref|1}}|'''''[[SpecSec]]'''''}}
+
+==Verwechslungsmöglichkeit==
+Es besteht die Gefahr die Gilde [[100100001]] mit dem Broker [[0111011001]] zu verwechseln, da beide Namen nur aus Binärzahlen bestehen.
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+* [[Vice]] p.70 / [[Unterwelten]]
+
+===Quellendetails:===
+{{Ref2|1}} Hierbei handelt es sich um eine eine nicht offizielle Spekulation des Benutzers [[Benutzer:Raptor|Raptor]]
+{{Ref2|2}} Die Tätigkeit der Technomancer als Ticketfälscher und Anbieter qualitativ hochwertig gefälschter Tickets stellt eine reine Eigenerfindung von Benutzer "[[Benuter:Karel|Karel]]" dar, und ist nicht durch kanonische Quellen abgedeckt. 
+
+==Weblinks==
+* {{Shx|100100001}} in der {{Shx|Shadowhelix}}
+{{KatSort|cat=Gangs|Asien|China|Hongkong}}
+{{KatSchema|schema=OrgTechnomancer}}

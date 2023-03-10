@@ -1,0 +1,33 @@
+{{Teilweise Inoffiziell}}
+{{Konzern
+|STAND=2073
+|LOGO=6-tees.png
+|COPYRIGHT=Logo {{Ref|10}}<br/><small><u>Lizenz:</u> {{cc-by-sa-3.0 kurz}}<br/>(<u>Urheber:</u> Benutzer "Zeitgeist", Pegasus-Forum)</small>
+|STATUS=Tochterfirma
+|BRANCHE=Modelabel
+|MUTTER=[[Horizon Group]]
+}}
+'''6-Tees''' ist ein Modelabel der [[Horizon Group]]. 
+
+==Produkte==
+Das Angebot von 6-Tees konzentriert sich auf Freizeit-, Straßen- und legere Kleidung. Retro-amerikanische Freizeithemden und T-Shirts gibt es etwa schon für 20 [[Nuyen]], während ein komplettes urbanes Outfit aus Kapuzenpullover, Overall, Jacke und T-Shirt oder Kleid samt passenden Accessoirs für sie und ihn mit 150 Nuyen zu Buche schlägt. 
+
+Daneben bietet 6-Tees auch Club Mode an, die auch die Style-Bedürfnisse eher spezieller Subkulturen bedient. Angestachelt durch den Erfolg der HoloWear - namentlich von [[Zoé]]s ''[[Second Skin]]'' Kollektion und [[Vashon Island]]s Konkurrenzprodukt ''Teg-mentum'' - hat 6-Tees eine eigene, günstigere HoloWear-Produktlinie mit Jacken und Hoodies auf den Markt geworfen, die überlappende Hologramme projizieren. Speziell die '''Strict-9-Jackets''' für 2.200 und '''H-Jumpsuits''' für 2.500 Nuyen sind ein echter Verkaufsschlager. 
+{{Shadowtalk|...für die ''[[VidFlasher]]'' da draußen, die sich die neuesten Sachen von [[SpinIn]]s [[Bodyline]] oder von [[DressCODE]] nicht leisten können...|'''''Neon-On'''''|64%}}
+Auch der sogenannte ''Guerilla-Chic'' - befördert durch die Bilder der Kriegsberichterstattung vom [[Amazonisch-Aztlanischer Krieg|Amazonisch-Azlanischen Krieg]] in und um [[Bogotá]] - hat sich für 6-Tees als anhaltender Verkaufserfolg erwiesen, auch wenn ausgerechnet ihr direkter Konkurrent [[Tribale]] mit dem Segment des postapokalyptischen Looks noch mehr Profit gemacht hat.
+{{Shadowtalk|Sie haben sogar eine Kollektion an - bewußt zusammengewürfelt wirkenden und mit passenden Symbolen und Accessoirs ausgestatteten - Pseudo-[[Military-Klamotten]], die - so man der Kampagne von Horizons Werbemaschine [[Charisma Associates|Charisma]] glauben will - von ''echten Freiheitskämpfern'' designt wurde... und vom Erlös jedes verkauften Kleidungsstücks gehen angeblich zwischen 0,5 und 5 Nuyen in die ''Finanzierung des Freiheitskampfes''. - Unfasslich, daß die Konsumenten tatsächlich auf eine derart plumpe Marketingmasche hereinfallen... und das von einem [[Konzern]], der zu den größten Gefängnisbetreibern in [[Nordamerika]] gehört, und das Konzept der ''mentalen Reprogrammierung'' aka Gehirnwäsche in der Rehabilitation von Straftätern zum Standard erhoben hat... - Ich könnt echt kotzen...!|'''''[[Aufheben]]'''''}}
+{{Shadowtalk|Nicht zu vergessen Sport- und Freizeitschuhe. - Ihre Iguana-Boots sind unter [[Konzernkinder]]n gerade wieder total angesagt, wobei die Frage, ob man nun die von 6-Tees oder die vom [[Beaux Retail Consortium]] trägt, für viele Kids schon fast eine Glaubensfrage darstellt... auch, wenn die tatsächlichen, optischen Unterschiede bestenfalls maginal sind, und sie sich qualitatativ nicht messbar unterscheiden!|'''''Shoemaker'''''}}
+{{Modehäuser}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*{{qfc|1}} [[Shadowrun Fourth Edition 20th Anniversary Core Rulebook]]  p.51 / [[Shadowrun Grundregelwerk 4. Edition]] S.72
+*[[Attitude]] p.156, 161, 174 (Duplikat von p.161) / [[Lifestyle 2073]] S.156, 161, 174 (Duplikat von S.161)
+
+===Quellendetails:===
+{{Ref2|10}} Inoffizielles, bislang nicht kanonisches Logo von Benutzer "Zeitgeist" im {{Pegasus}}-Forum.
+
+==Weblinks==
+*{{Shx|6-Tees|Shadowhelix: 6-Tees}}
+
+{{KatSort|cat=Konzerne|Tochterfirmen|Horizon Group|Mode}}

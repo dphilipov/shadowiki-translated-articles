@@ -1,0 +1,84 @@
+{{Konzern
+|STAND=2070
+|LOGO=
+|COPYRIGHT=
+|BRANCHE=Profi-Sport
+|HAUPTSITZ=[[München]], [[Freistaat Bayern]], [[ADL]]
+|FORM=Aktiengesellschaft
+}}
+Die '''FC Bayern München AG''' ist ein lokaler [[Konzern]] in der [[Freistaat Bayern|bayerischen]] Landeshauptstadt [[München]], und der wirtschaftliche Überbau eines der - wie schon zu Zeiten der alten, Ersten Fußball Bundesliga - finanzkräftigsten und sowohl wirtschaftlich als auch [[sport]]lich erfolgreichsten Profi-Sportvereine der gesamten [[Allianz Deutscher Länder]]. 
+{{Shadowtalk|Wirtschaftlich - bestimmt. - Aber sportlich? - Nope! - Hast Du Dir mal angeguckt, wer am häufigsten den ''[[Cup der Meister]]'' gewinnt, und sich damit ''Deutscher Meister'' nennen darf?! - Das ist nicht etwa der Meister der [[Südallianz Liga]], den zugegebener Maßen der FC Bayern häufiger stellt, als irgend ein anderer Verein, sondern in 9 von 10 Jahren der Meister der [[Ruhrliga]]...!|'''''[[Hattrick]]'''''|67%}}
+Hauptstandbein und das, was in der deutschen (und bayerischen) Öffentlichkeit allgemein mit dem FC Bayern identifiziert wird, ist nach wie vor der klassische, [[unvercybert]]e Profi-[[Fußball]]. 
+==FC Bayern München==
+{{Sportteam
+|SPORTART=[[Fußball]]
+|STAND=2070
+|NAME_OVR=1. FC Bayern München
+|QUELLE=
+|LOGO=FC Bayern München.jpg
+|COPYRIGHT={{C Pegasus}}
+|FARBEN=Rot-Weiss
+|ALIAS=Die Bayern
+|GRÜNDUNG=
+|STADT=[[München]], [[Freistaat Bayern]]
+|SPONSOR=
+|LIGA=[[Südallianz Liga]]
+|VORSITZ=[[Frank Leon Schubert]]
+|PRÄSIDENT=
+|TRAINER=
+|MITGLIEDER=
+|ERFOLGE={{nlt}}2059 Süd-Allianz-Meister & Deutscher Meister,<br/>2072 Süd-Allianz-Meister<br/>Rekord-Meister der SüdA.
+}}
+Der '''1. FC Bayern München''' (d. h. die erste Profimannschaft des FC Bayern) spielt - wie erwähnt - in der Süd-Allianzliga (SüdA), wo sie ebenso, wie schon in der alten, Ersten Fußball-Bundesliga den Rekord der meisten Meistertitel hält, auch wenn in den {{Shx|2060er|2060ern}} die «''[[Union Nürnberg-Fürth]]''» aka «''Nürnberg United''» {{Shx|2061}} und {{Shx|2063|'63}} Süd-Allianz-Meister wurde und die Schale in den [[Franken|fränkischen]]  [[NEF]]-[[Sprawl]] holte. 
+{{Shadowtalk|Ein hervorragendes ''Diskussionsthema'', das Du in einem der Zelte auf der [[Wiesn]], einer Kneipe in Schwabing zu vorgerückter Stunde oder in einem beliebigen Münchner Biergarten anschneiden kannst, wenn Du - warum auch immer - scharf darauf bist eine allgemeine Keilerei auszulösen...|'''''[[BAVARIA (Persona)|BAVARIA]]'''''|67%}}
+{{Shx|2073}} nahm er als Süd-Allianz-Meister wieder am Cup der Meister teil, wo er mit 7 Punkten (Torverhältnis: 7 : 5) den zweiten Platz hinter dem amtierenden Ruhr-Meister «''[[SC Westfalia Herne]]''» belegte, der auf 9 Punkte kam, und damit den begehrten Titel "Deutscher Meister" errang. {{Ref|1}}
+{{Shadowtalk|Den ehrenvollen dritten Platz errang im Übrigen der «''[[1. FC Lokomotive Leipzig]]''» als Vertreter der Mitteldeutschen Liga mit 6 Punkten vor dem «''[[FC St. Pauli]]''» als amtierenden Meister der Liga Norddeutscher Bund (4 Punkte) und dem - chancenlosen - «''[[Fortuna Düsseldorf]]''» (3 Punkte), das die Rhein-Hessen-Liga repräsentiert... {{Ref|1}}|'''''[[Karel]]''''' - letzter Käpt'n der königlich-böhmischen Gebirgsmarine|67%}}
+Regelmäßig ist das Team auch in der [[Euroliga]] vertreten, wo es gegen europäische Top-Clubs wie den [[FC Barcelona]] antritt. {{Ref|2}}
+
+In der {{Shx|2080er}} Saison wurde Bayern-München am vorletzten Spieltag im Cup der Meister vom zu vor punktgleichen «[[FC Schalke 04]]» vor heimischer Kulisse geschlagen, der folgerichtig vor den Bayern, dem «[[AGC Leverkusen]]» aus der [[RHL]], «[[RB Leipzig-Halle]]» aus der [[MDL]] und dem «[[FC St. Pauli]]» aus der [[Liga Norddeutscher Bund]] die begehrte Trophäe gewann {{Ref|4}}. 
+
+Seine Heimspiele trägt der FC Bayern - ebenso, wie sein wirtschaftlich und sportlich weit weniger erfolgreicher, ewiger Lokalrivale «''[[1860 München]]''» - im topmodernen [[Franz-Beckenbauer-Stadion]] aus. 
+
+===Führung===
+In alter Vereinstradition, dass ehemals aktive Profispieler nach dem Ende der sportlichen Karriere Posten in Vereinsführung oder Trainerstab übernehmen, ist der Vorstandsvorsitzenden vom FC Bayern München in den {{Shx|2070er|'70ern}} kein geringerer als [[Frank Leon Schubert]], der die Mannschaft noch in der Saison {{Shx|2058|58}}/{{Shx|2059|59}} als Stürmer-Star an die Spitze der Südallianzliga und zur ADL-Meisterschale gekickt hatte.
+
+===Spieler(innen)===
+{|{| class="wikitable" 
+|- style="font-weight:bold;"
+|+ class="nowrap" | Ehemalige und aktive Spieler(innen)
+! Name
+! Position
+! Metatyp / -Variante
+! Anmerkungen
+|-
+| [[Nora Fuchs]] {{Ref|3}}
+| ?
+| ?
+| Spielerin, kommt - wie die anderen Spitzenspielerinnen im deutschen Profifußball - zum Schutz gegen Stalker und vor allem gegen Anfeindungen aus den Reihen der Hooligans und Ultra-Fangruppen, die sich mit Frauen im "Männersport" Fußball nicht abfinden können und wollen, immer mit Bodyguards ins Stadion {{Ref|3}}. 
+|-
+| [[Frank Leon Schubert]]
+| Stürmer
+| ?
+| Stürmer-Star in der Saison 58/59, 2070 Vorstandsvorsitzender 
+|}
+
+===Fans=== 
+Fans hat der FC Bayern quer durch alle Bevölkerungsschichten, und nach wie vor keineswegs ausschließlich in der bayerischen Landeshauptstadt, wobei die ''Edelfans'' aus den Reihen der Besserverdienenden, der Reichen und Einflussreichen und generell der blau-weissen Schickeria hier einen signifikant höheren Anteil bilden, als etwa bei Traditionsklubs der Ruhrliga wie dem «[[FC Schalke 04]]». Nicht zuletzt [[Karl Stadt]], der Europachef von [[Renraku]], ist im Übrigen ein großer, bekennender Fan der Vereins. Er hat eine VIP Loge im Münchner Stadion, und lässt Konzernbesprechungen schon einmal dort veranstalten wenn der FC Bayern spielt, damit er auch während der jeweiligen Meetings die Heimspiele live und vor Ort verfolgen kann. - Für das Catering dort (wie auch in den übrigen VIP- und Ehrenlogen des Franz-Beckenbauer-Stadions) ist exklusiv die [[Dallmayr]]-Tochter [[Feinkost Käfer]] verantwortlich. - Bei Auswärtsspielen im Rahmen der Euroliga nutzen die erwähnten ''Edelfans'', zu denen auch ein ranghoher Manager bei der Münchner [[Saeder-Krupp|S-K]]-Tochter [[BMW]] zählt, auch die Möglichkeit, sich als Saisonkarteninhaber mittels Premiumzugang in die [[VR]]-Repräsentation des betreffenden Stadions einzuloggen, um die jeweiligen Matches in der Virtualität zu verfolgen (sofern die Stadien - wie [[Camp Nou]] - diese Option anbieten), wenn ihnen der Job für den [[Konzern]] nicht die Zeit lässt, persönlich nach [[Barcelona]] zu fliegen, und das Stadion in ''Real Life'' zu besuchen. {{Ref|2}}
+
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[München Noir]]
+*[[Lifestyle 2073]] S.104, 90
+*[[Lifestyle 2080]] S.197, 198
+
+===Quellendetails:===
+{{Ref2|1}} [[Lifestyle 2073]] S.104 - Box "ADL: Cup der Meister - Tabellenstand 2073"
+{{Ref2|2}} [[Lifestyle 2073]] S.90
+{{Ref2|3}} [[Lifestyle 2080]] S.198
+{{Ref2|4}} [[Hinter dem Vorhang]] S.150
+
+==Weblinks==
+*{{WP|FC_Bayern_München|Wikipedia: FC Bayern München}} - der Club in der realen Gegenwart
+*{{Shx|FC_Bayern_München_AG|Shadowhelix: FC Bayern München AG}}
+{{KatSort|cat=Konzerne|ADL|Bayern|München}}

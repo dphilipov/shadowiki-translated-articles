@@ -1,0 +1,48 @@
+{{Krieg
+|START={{Shx|2005}}
+|ENDE={{Shx|2006}}
+|PARTEI1=[[Nordkorea]]
+|FLAGGE1=Flagge Nordkorea.JPG
+|PARTEI2=[[Südkorea]]
+|FLAGGE2=Flag_of_South_Korea.JPG
+|ADD_PARTEI2=[[Japan]]
+|ADD_FLAGGE2=Alte Flagge Japan.png
+}}
+Der '''Koreanische Wiedervereinigungskrieg''' (engl. Korean Reunification War), auch '''Zweiter Koreakrieg'''  (''Korea II'' {{Ref|1}}) genannt, war ein Konflikt, der zwischen [[Nordkorea]] auf der einen Seite und [[Südkorea]] mit seinen [[Japan|japanischen]] Verbündeten auf der anderen von {{Shx|2005}} bis {{Shx|2006}} ausgetragen wurde und im Ergebnis den Sieg des Südens und die Wiedervereinigung der koreanischen Halbinsel zur Folge hatte. Außerdem brachte der Krieg einen Aufschwung nationalistischer Tendenzen in Japan. Das Japanischen Kaiserreich wurde proklamiert, um an die ''glanzvollen Zeiten'' vor dem {{WP|Zweiter_Weltkrieg|zweiten Weltkrieg}} anzuknüpfen
+
+==Geschichte==
+
+===Vorgeschichte===
+[[Korea]] wurde nach dem Zweiten Weltkrieg in zwei Besatzungszone geteilt, in denen sich politisch entgegengesetzte Staaten gründeten. Auch der {{WP|Koreakrieg|erste Koreakrieg}} 1950-1953 änderte die Situation nicht, obwohl zuerst die Nordkoreaner danach die Südkoreaner mit ihren amerikanischen Verbündeten die Vereinigung zu erzwingen suchten. Die koreanische Halbinsel blieb geteilt in das kommunistisch-stalinistische, von Mangelwirtschaft und extremem Personenkult um die politischen Führer geprägte Nordkorea und das - relativ - demokratische, westlich-orientierte Südkorea. 
+
+Am {{Shx|12._September|12. September}} {{Shx|2005}} wurde der Präsident Südkoreas, [[Dae-Jung Rhee]], von kommunistischen Dissidenten ermordet. Der die Macht übernehmende Generalstab unter General [[Kyung Han Yoon]] erklärt Nordkorea daraufhin den Krieg {{Ref|2}}.
+
+===Kriegsverlauf===
+Südkorea wagte - getrieben von japanischen [[Konzern]]interessen - eine Invasion Nordkoreas, um die Wiedervereinigung nach einem halben Jahrhundert der Teilung zu erzwingen. Unter dem Einfluss ultranationalistischer Politiker unterstützte [[Japan]] {{Shx|2005}} Südkorea bei seinem Angriff auf Nordkorea, angeblich um zu verhindern, dass Japan erneut unter dem Einsatz von [[Kernwaffe|Atomwaffen]] zu leiden hätte {{Ref|1}}. Tatsächlich standen dahinter vor allem die auf die Rohstoffe schielenden [[Japanokon]]s {{Ref|3}}. Nordkorea reagierte - da es hoffnungslos zu unterliegen drohte - am {{Shx|17._November|17. November}} {{Shx|2006}} mit dem Abschuss seiner [[Kernwaffe|Nuklearraketen]] auf Japan {{Ref|4}}. Wundersamerweise konnten alle abgefangen werden erreichten nie ihr Ziel, detonierten nicht und richteten keinen Schaden an {{Ref|5}}. Bis zum Ende des Jahres war Nordkorea von südkoreanischen und japanischen Truppen überrannt.
+
+==Ergebnisse==
+Mit der koreanischen Wiedervereinigung fiel die letzte Grenze des {{WP|Kalter_Krieg|Kalten Krieges}}. Unmittelbar danach wurden die Staatskonzerne Nordkoreas privatisiert, und prompt stürzten sich südkoreanische Megas und internationale Investoren in einem wahren Übernahmefieber auf die Kons. Einige der nordkoreanischen Konzerne schlossen sich daraufhin zur [[Kwon Sham Group]] zusammen, um dem Schicksal des Ausverkaufs zu entgehen {{Ref|6}}. 
+Die Wiedervereinigung war für Korea selbst nicht nur positiv, denn Japans neue Machtposition und insbesondere die Stärke japanischer Megakonzerne hatten eine Situation geschaffen, in der der benachbarte Inselstaat starken Einfluss auf das Land ausüben konnte. Für viele Koreaner eine Wiederkehr einer subtileren Variante {{WP|Korea_unter_japanischer_Herrschaft|japanischer Kolonisierung}}.
+
+==Quellen==
+Dieser Artikel basiert in seiner aktuellen Fassung auf dem Artikel {{Shx|Koreanischer_Wiedervereinigungskrieg|Koreanischer Wiedervereinigungskrieg}} in der {{Shx|Hauptseite|Shadowhelix}}, wo er unter GNUFDL steht. Eine Liste der Autoren findet sich [http://shadowhelix.de/index.php?title=Koreanischer_Wiedervereinigungskrieg&action=history hier].
+
+'''Primärquellen zum <u>Koreanischen Wiedervereinigungskrieg</u> sind:'''
+*[[Target: Smuggler Havens]] p.33, 60 (nur ''englisch'')
+*[[Shadowrun Third Edition]] p.24 / [[Shadowrun Version 3.01D]]
+*[[Blood in the Boardroom]] / [[Konzernkrieg (Kampagnenband)|Konzernkrieg]] S.76
+*[[Year of the Comet]] p.97 / [[Das Jahr des Kometen]]
+*[[Shadows of Asia]] p.74, 75, 78 Infobox ''Japan Timeline'', 87, 181, 184 Infobox ''Korea Timeline'' (nur ''englisch'')
+*[[Shadowrun Fourth Edition]] / [[Shadowrun Version 4.01D]] S.24
+*[[Sixth World Almanac]] p.14, 15 / [[Almanach der Sechsten Welt]]
+
+===Quellendetails:===
+{{Ref2|1}} [[Shadows of Asia]] p.74
+{{Ref2|2}} [[Sixth World Almanac]] p.14
+{{Ref2|3}} [[Shadowrun Third Edition]] p.24
+{{Ref2|4}} [[Sixth World Almanac]] p.15
+{{Ref2|5}} [[Shadows of Asia]] p.75
+{{Ref2|6}} [[Konzernkrieg (Kampagnenband)|Konzernkrieg]] S.76 ('''Achtung!''' Übersetzungfehler: 2006 statt 2036, vgl. "[[Blood in the Boardroom]]")
+
+{{KatSort|cat=Ereignisse|Kriege|Asien|Korea|2005|2006}}
+[[Kategorie:Korea]]

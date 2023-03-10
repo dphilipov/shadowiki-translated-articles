@@ -1,0 +1,77 @@
+{{event
+|PICTURE=
+|EVENT=Election
+|Place=[[Berlin]], [[ADL]]
+|TIME={{Shx|October|1}} {{Shx|2073}}
+|PARTICIPATED
+}}
+The '''2nd Berlin District Election''' was held on {{Shx|1._October|1}} {{Shx|2073}} was held. Elected were the representatives of the districts of electoral period I: [[Charlottenburg-Wilmersdorf]], [[Gropiusstadt]], [[Marzahn-Hellersdorf]], [[Oranienburg]], [[Reinickendorf]], [[Schönwalde]] and [[Tegel]]. The election was the first regular election of the [[Berlin Unity|Einheit]] restructured after the [[Berlin]] political system, the year before all district representatives had been elected for the first time.
+
+==Election statistics==
+
+===Result==
+
+====Overview election winners====
+{| class="sortable" border=1 style="background-color:#f5f5ff; width:75%; border: 1px solid #000; padding: 2px; margin:12px"
+!District
+!Informal assignment
+!Elected representative
+!Affiliation
+!Previous term of office
+|-
+|[[Charlottenburg-Wilmersdorf]]
+|Normbezirk
+|<span style="display:none;">Kilic, Milena</span> [[Milena Kilic]]
+|
+|2072-2073
+|-
+|[[Gropiusstadt]]
+|Alternative district
+|<span style="display:none;">Sukrow, Aleksandr</span> [[Aleksandr Sukrow]]
+|
+|new
+|-
+|[[Marzahn-Hellersdorf]]
+|Alternative district
+|<span style="display:none;">Unsel, Murat</span> [[Murat Ünsel]]
+|
+|2072-2073
+|-
+|[[Oranienburg]]
+|Alternative district
+|<span style="display:none;">Faber, Ralph</span> [[Ralph Faber]]
+|
+|2072-2073
+|-
+|[[Reinickendorf]]
+|Normbezirk
+|<span style="display:none;">Ronczewski, Krzysztof</span> [[Krzysztof Ronczewski]]
+|[[Zeta-ImpChem]]
+|2072-2073
+|-
+|[[Schönwalde]]
+|group district
+|<span style="display:none;">Cazares, Ferdinand</span> [[Ferdinand Cazares]]
+|[[Aztechnology]]
+|2072-2073
+|-
+|[[Tegel]]
+|Corporate district
+|<span style="display:none;">Koslowski, Michael</span> [[Michael Koslowski]]
+|
+|2072-2073
+|}
+
+<!-- End of article content - meta information -->
+
+==See also==
+*[[Berlin district election]]
+
+==Sources==
+*[[Berlin (sourcebook)|Berlin]]
+*[[SRB - Shadowrun Berlin]] Pirate News - 2074-10-02 "SRB on the 2074 elections".
+
+==Weblinks==
+*{Shx|2nd_Berlin_District_Election|Shadowhelix: "2nd Berlin District Election"}}
+
+{{CatSort|cat=Events|Europe|ADL|Berlin|Politics|2073}}

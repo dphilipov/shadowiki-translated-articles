@@ -1,0 +1,37 @@
+{{Partially Unofficial}}
+{{Gang
+|STAND={{Shx|2072}}
+|TYP=[[Matrix Gang]] / [[Technomancer Guild]]
+|MEMBERS=?<br/>([[Technomancer]])
+|TERRITORIUM=[[Hongkong]]-[[Grid]]
+|ACTIVITIES=[[Matrix]]crime (?)
+|ALLIANCE=[[289s]] aka [[Easy Money Gang]]
+}}
+'''100100001''' are a [[Technomancer]] guild in [[Hong Kong]].
+
+At the same time, they are also one of those [[China|Chinese]] [[gangs]] that form the [[289s]] [[Triad]] or [[Easy Money Gang]] that they have added to their ranks.
+
+==Activities==
+{{Shadowtalk|Among other things, you can get the best (fake) tickets in all of Hong Kong from them! Indistinguishable from the real tickets.... in order to get caught, you have to be really stupid as a spectator, and wantonly draw attention to yourself at the entrance control! - Mainly, of course, they deal tickets for sporting events - including the home games of the [[Combat Bikers]] of the "[[Hong Kong Cavaliers]]" at the [[Happy Valley Arena]] - as well as for rock concerts and live performances by the stars of [[Canton Pop]], but also for such fancy stuff as Peking Opera. ...though I'd rather not tell my [[Oslo]] [[gang chummer]], [[Tschin-Fo]], that in July {{Shx|2078|'78}} tickets for a match of the "Cavaliers" against the "[[Moscow Czars]]" from them - knowing what a Rochus he has on the "289ers" and their associated gangs...! {{Ref|2}}|'''''[[Kwang]]''''' - the VERY Korean Technomancer}}
+
+==Call==
+The [[elf]]ish technomancer and [[jackpoint]]er [[Netcat]] - who has worked with them in the past - describes them quite accurately as "greedy bastards, but competent and really good at what they do" in a comment on the "[[Vice]]" [[Shadow File]].
+
+==Meaning==
+{{Shadowtalk|The number 100100001, when read as a binary number, corresponds to the decimal number 289 and the hexadecimal number [01 21]. 289 is the code for capital Y, 0121 is the ASCI code for small y. Thus the name could be an allusion to the ying-yang principle. As an octal number, the value is 441, which corresponds to the character ╣, and as a duodecimal number, it is 201, which is the character ╔. However, the two are not very helpful as far as a meaning is concerned.... {{Ref|1}}|'''''[[SpecSec]]'''''}}
+
+==Possibility of confusion==
+There is a risk of confusing the guild [[100100001]] with the broker [[0111011001]], as both names consist only of binary numbers.
+<!-- End of article content - meta information -->
+
+==Sources==
+* [[Vice]] p.70 / [[Underworlds]]
+
+===Source details:===
+{{Ref2|1}} This is a non-official speculation by user [[User:Raptor|Raptor]]
+{{Ref2|2}} The activity of technomancers as ticket forgers and providers of high-quality forged tickets is purely an invention of user "[[User:Karel|Karel]]", and is not covered by canonical sources.
+
+==Weblinks==
+* {{Shx|100100001}} in the {{Shx|Shadowhelix}}
+{{CatSort|cat=Gangs|Asia|China|Hong Kong}}
+{{catSort|cat=OrgTechnomancer}}

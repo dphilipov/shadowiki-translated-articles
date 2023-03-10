@@ -1,0 +1,40 @@
+{{Teilweise Inoffiziell}}
+{{Sportteam
+|SPORTART=[[Fußball]]
+|STAND={{Shx|2080}}
+|QUELLE={{Ref|1}}
+|LOGO=
+|COPYRIGHT=
+|FARBEN=
+|ALIAS={{nlt}}Nobilis-Truppe / Nobilis-Kicker / Greifen-Elfen (jeweils leicht abfällig {{Ref|10}})
+|GRÜNDUNG=
+|STADT=[[Greifswald]], [[Pomorya]], [[ADL]] {{Ref|1}} {{Ref|2}}
+|SPONSOR=
+|LIGA=[[MDL]] {{Ref|1}} {{Ref|2}}
+|VORSITZ=
+|PRÄSIDENT=
+|TRAINER=
+|MITGLIEDER=
+|ERFOLGE=Meister der [[Mitteldeutsche Liga|Mitteldeutschen Liga]] {{Shx|2063}} {{Ref|2}}
+}}
+Der '''FC Pomorya Greifswald''' ist ein professioneller [[Fußball]]verein aus [[Greifswald]] in [[Pomorya]], der - angesichts des in der [[Elfennation]] an der [[Ostsee]] herrschenden, pro-elfischen [[Rassismus]] - praktisch ausschließlich [[Elf|elfische]] Spieler aufstellt (wobei genau, wie bei der Nationalelf [[Tír na nÓg]]s, die [[Metamenschen]]quote auch bei den elfischen Fußballern aus Pomorya nicht angewandt wird). {{Ref|2}} 
+
+{{Shx|2063}}/{{Shx|2064|64}} wurde der «FC Pomorya Greifswald» Meister der [[Mitteldeutsche Liga|Mitteldeutschen Liga]], womit er sich für die Teilnahme am [[Cup der Meister]] qualifizierte. {{Ref|2}}
+{{Shadowtalk|Im Oktober {{Shx|2081}} spielt der «1. FC Pomorya Greifswald» - nach einer Durststrecke in den {{Shx|2070er|2070ern}} - wieder um die Spitzenränge der Mitteldeutschen Liga mit, auch, wenn der «[[1. FC Lokomotive Leipzig]]» seinen Platz an der Spitze der Ligatabelle mit einem 2:0 in der Nachspielzeit gegen die ''Greifen-Elfen'' verteidigen konnte, das die [[Leipzig]]er praktisch ausschließlich ihrem überragenden Torwart [[Boris Hummel]] verdankten! {{Ref|10}}|'''''Hoyzer 4.1'''''|64%}}
+<!-- Ende des Artikelinhalts - Metainformationen -->
+
+==Quellen==
+*[[Brennpunkt: ADL]]
+*[[Lifestyle 2080]] 
+
+===Quellendetails:===
+{{Ref2|1}} [[Lifestyle 2080]] 
+{{Ref2|2}} [[Brennpunkt: ADL]]<br/>
+{{Ref2|10}} Die in diesem Talkkommentar beschriebene Begegnung und ihre Auswirkung auf die MDL-Liga-Tabelle ist eine reine Eigenerfindung des [[Benutzer:Karel|Artikelerstellers]] im Rahmen des INOFFIZIELLEN NovaPuls vom 13.10.2081, und daher nicht Teil des offiziellen Shadowrun-Kanon.<br/>(siehe → [[NovaPuls 2081-10-13 (inoffiziell)]]) 
+
+==Weblinks==
+*{{Shx|1._FC_Pomorya_Greifswald|Shadowiki: 1. FC Pomorya Greifswald}}
+
+{{KatSchema|schema=OrgSportMannsch}}
+[[Kategorie:Fußball-Team]]
+[[Kategorie:Pomorya]]

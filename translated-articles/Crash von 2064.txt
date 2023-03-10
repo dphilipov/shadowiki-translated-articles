@@ -1,0 +1,129 @@
+{{revision}}
+The '''Second Matrix Crash''' occurred on November 2, {{Shx|2064}}, and irreparably damaged the old, wired [[Matrix]]. Like the [[Crash of 2029|first Crash]], it was caused by a virus - the [[Jormungand]] worm - and the confluence of a variety of factors.
+
+==Designation==
+The '''Crash of 2064''' is also often called '''Crash 2.0''' in reference to the [[Crash of 2029]] and the common numbering of software versions.  
+ 
+== Prelude, plans & sequence==
+The events of the second Crash and the chaos that ensued surrounding the [[system failure]]s permanently changed the [[Sixth World]].
+
+===The protagonists:===
+====Novatech====
+[[Novatech]], the megacon that [[Richard Villiers]] had formed from his third of [[Fuchi]], announces its [[Novatech IPO|IPOING]] on the [[East Coast Stock Exchange]] of [[Boston]] in the [[UCAS]], as it is in massive financial trouble (not least because '''[[Art Dankwalther]]''', an [[ex-employee of]] Fuchi's]]''', has lost his gigantic [[Great Dragon]] [[Darkfang]] inherited from the [[Great Dragon]] to act out his fantasies of revenge against Richard Villiers).
+
+====DEUS and his adversaries====
+[[Deus]], the megalomaniacal and utterly inhuman [[Artificial Intelligence]] responsible for the "[[Renraku Arcology: Shutdown|Renraku Arcology Shutdown]]", plans to use the increased matrix traffic of the East Coast Exchange to upload his source code into the global matrix. In this way, Deus hopes to be able to operate in the future independently of the metahuman nodes in whose brains she stored her source code after the end of the [[Renraku Arcology]] Disaster had stored, to exist quasi as a new God in the global net. That this will cost many lives and cause unholy chaos does not matter to Deus. '''[[Megaera]]/[[Morgan]]''', the first severely wounded AI created in the Renraku Arcology, and '''[[Mirage]]''', another AI created from an ancient [[expert system]] from the time of the first Crash in a former host of [[Fuchi]], together with the '''[[Otaku]] tribe [[Overwatch]]''' To sabotage Deu's megalomaniacal plan and defeat the inhuman artificial intelligence in a showdown on the virtual trading floor.
+
+====Pax & Ex Pacis====
+[[Pax]], criminal otaku and formerly Deus' first henchwoman during the Renraku Arcology foreclosure, also wants revenge on Deus, and to destroy her old master. She believes that if she destroys the [[Deep Resonance]] and corrupts the entire matrix, she can prevent the dwindling of her otaku powers and reshape the global data network to her liking using the [[Dissonance]]. In doing so, she is supported by her own otaku tribe - [[Ex Pacis]] - [[Ex Pacis]], which also wants to free itself from the deep resonance and sees in the dissonance the way to absolute freedom in the matrix. In doing so, they fight with quasi-religious fanaticism against other otaku who serve the Deep Resonance and against the agents of the [[Corporate Court]]s called '''[[Grid Overwatch Division]]'' - GOD'' for short'' - ''[[Grid Overwatch Division]]''' - Faced with their and Ex Pacis' clear inferiority, Pax eventually makes a pact with the apocalyptic terrorist group [[Winternight]].
+
+====Winternight====
+[[Winternight]] is a Norse end-times cult whose members believe in Ragnarok, the end of the world as described in the Edda (the Germanic sagas of the gods). According to this tale, the Norse gods perish in battle along with their enemies. In the twisted and distorted beliefs of the members of the cult, the gods had cheated fate so that Ragnarok had not taken place. Therefore, they saw it as their task to initiate this end of the world themselves with the help of weapons of mass destruction, so that the world, cleansed of corruption and stagnation, could arise anew from the ashes.
+ 
+Founded and led by [[Winternight]], a toxic, aesir-believing [[shaman]] who calls himself '''[[Wednesday]]''', a technician who lost her family in the first crash and hated the Matrix - called '''[[Friday]]'''' - and a former [[MET2000]] Officer and Berserkeradept who became known as '''[[Thursday]]'''. The fighters, who use, among other things, personality-altering [[BTL]] Chips - the so-called ''God Chips'' or ''Berserker Chips'' - were won over to the apocalyptic faith, they called ''Einherja'', those who will once enter Wallhall.
+
+The sect believed the Matrix to be the tool of Loki, the Great Deceiver, and - after a series of large-scale but failed assassinations (including during the "[[The Year of the Comet|Year of the Comet]]") - firmly believes that it must be destroyed in order for the events prophesied in the Edda to take their course. When Pax and her dissonant otaku (Loki's stepchildren in Winternight's eyes) approached her on December 19, 2063, it was precisely in accordance with the terrorists' twisted, insane logic that they would "unleash Loki and usher in Ragnarok." In doing so, the fanatics followed their own symbolism, inhumane but quite logical, to make the end of the world happen exactly as they thought it should have looked.
+ 
+In the consequence a plan was drafted:
+===Timetable to the apocalypse:===
+
+====Frimbul-Winter====
+*[The Fimbul Winter: Aesir-believing [[Toxic Shamans|Toxic]] [[Shamans]] and [[Gode]]s influenced the weather by means of powerful, ritual [[magic]] in August 2064, so that the onset of winter in 2064/2065 came particularly early and was extremely harsh.
+
+====Jormungand====
+*The Jormugand Worm: Following a vision (which she believed was sent by the Dissonance itself), Pax and Ex Pacis began programming a viral code that would destroy the Deep Resonance and the AIs, flooding the entire Matrix with dissonant code. Pax believed that they and their dissonant otaku would be able to shape the digital world according to their own wishes and even have a monopoly on its use. The worm was to be implanted in the form of so-called "code eggs" in key hosts and matrix systems in order to attack systems globally from there, launching everywhere simultaneously and causing maximum damage: The Crash 2.0! For Winternight, Jormugand embodies the worm that gnaws at the roots of the world and breaks Loki's chains so that he can then face the gods in battle and summon the apocalypse.
+
+====Surtr & Ymir====
+Surtr and Ymir should prevent the code eggs from being removed or defused with the worm program in case of premature discovery.
+=====Surtr=====
+*'''The hordes of Muspelheim''' or '''[[Surtr]]''': This is a [[nanotechnology|nanotech weapon]] stolen by an employee of [[Zeta-ImpChem]] converted by Winternight, which causes spontaneous combustion in its victims.
+
+=====Ymir=====
+*Also, [[drones]] have been used with the so-called '''[[Ymir]] poison''' (also called '''Frost and Storms of Niflheim''' by Winternight) - a neurotoxin that causes Frostburn-like effects on [[humans]] and [[MetaHumans]] - have been stationed near sabotaged host and system hardware.
+
+====FallingStars====
+*[[Jormungand]] was to cause various satellites to activate their control rockets to crash into Earth's atmosphere. This would fulfill another prophecy, that the stars would fall from the sky.
+
+====Last Steps====
+*A last great magical ritual of [[shamans]] and [[godes]] at a place of power in [[Uppsala]] sends a [[monster illusion|monstrous illusion]] to Boston: a wolf's head appears, seemingly devouring the sun and causing an eclipse. This '''appearance of Fenrir'''' is the 2nd sign of Ragnarok for the Aesir believers, and while everyone looks to the sky in horror, Jormugand is able to "spray his poison over the world", so that the matrix finally crashes and a [[system failure]] occurs....
+ 
+However, this does not mean that the final battle has been fought according to Winternight's ideas. Without Pax and her Ex Pacis Otaku knowing about it, there are two more stages of the roadmap to Armageddon:
+
+====OperationMjölnir====
+*Operation Mjölnir: To make sure that the "creation of Loki" (the Matrix, governments and cons, the whole corrupt system) is really destroyed, the terrorists of Winternight bought a number of '''nuclear warheads''' on the black market or stole them from old depots. These have been altered by complicated (and bloody) magical and alchemical processes so that the explosive power is drastically reduced and the nuclear fallout is minimized. In exchange, the '''EMP''', the electromagnetic pulse that cripples or completely destroys all electronics within the bomb's range, is amplified many times over. In advertising zeppelins, these EMP bombs were positioned over capitals, corporate power centers, and especially over points with important matrix hubs and nodes of the global network. The system failure, when the matrix and in many cases the power grid collapses, will trigger the detonation. In this way Winternight wants to pre-empt the expected betrayals of "Loki's clan" (i.e. Pax and Ex Pacis) and ensure that "Loki's children" really do perish. Together with the civilization of the Sixth World.
+ 
+* The '''remainder of Winternight's nuclear arsenal,'' five multi-megaton warheads, were eventually deposited in deep shafts and abandoned mines at critical points of tectonic plate boundaries. They are designed to detonate after electronic super-gau, triggering earthquakes, tidal waves and volcanic eruptions, thus completing Ragnarok.
+
+Fortunately, Winternight's plans fail, at least partially.
+
+==What actually happened:==
+The preparations for Ragnarok have not gone completely unnoticed, even though the '''[[Corporate Court]]''' in the [[Zurich Orbital]] reacts far too late and too hesitantly due to internal squabbles. Winternight's [[Wallhalla Base]] in the Harparadaanomal zone in Sweden is stormed by [[EuroPol]] and corporate troops, with Friday and Wednesday captured and taken to Rotterdam/[[Europort]] for interrogation, while Thursday detonates a nuclear weapon as a last resort, blowing the base and herself straight to hell. While Wednesday commits suicide in captivity, Friday - the technician - breaks down under torture during interrogation and reveals the complete plan - including the locations of the EMP bombs and the five other explosive devices....
+ 
+The some of the EMP bombs can either be defused or towed in time to locations where they detonate with less catastrophic consequences. Some go off, however, destroying the Panama Canal Zone, Buenos Aires, and Boston, among other places. Of the bombs at the overlap zones of the tectonic plates, some are also defused in time by corporate strike teams (and shadowrunners), the rest detonate with far less force than predicted, and do not do the damage expected (and intended by the terrorists)....
+ 
+Although the end of the world did not happen, and the worst possible effects were averted, what happened remains devastating, and the Sixth World will never be the same again:
+ 
+The corporate court in the Zurich orbital reacted far too hesitantly and too late, because the megacorporate representatives were busy with petty squabbles. When the dissonance virus struck, the orbital station finally sealed itself off from the matrix, while numerous satellites were infected by the data worm, crashed, and burned up in the atmosphere.... Only two sysops, acting against the instructions of the [[Exec]]s and corporate judges, were able to transmit the information about Winternight's exact plan, the locations of the bombs and the nests of Jormugand's code eggs to the Shadowland matrix! Numerous decks of the Shadow community as well as the [[corporations]] fought against the dissonance virus around the globe, and quite a few lost their lives.... Among the most prominent victims were '''[[Captain Chaos]]''', the sysop of [[Shadowland]] Seattle and '''[[Tell]]''' from the former [[Frankfurt]] shadowland node!
+ 
+[[Saeder-Krupp]] unceremoniously pulled the plug, taking by name its European matrix infrastructure - through a vision that the [[Seers Guild]] [Lofwyr]] had transmitted - from the net. Countless other systems, however, crashed completely, especially where Jormungand's code eggs had been placed (which included [[Hamburg]]). Widespread power outages occurred, followed by continued looting and rioting. Traffic control systems failed completely, causing untold accidents. Airplanes crashed, and high-speed trains crashed.... Remote-controlled [[drone]] systems, automated factories, and even household appliances ran amok. [[Critter|Paracritter]]s broke out of (sometimes secret) corporate research facilities and zoos in many places when electronic security failed, and marauded through the Sprawls. The collapsed matrix also meant that the media no longer functioned. Disinformation and paranoia spread. In many places, people could not even identify themselves because [[SIN]]s could not be verified, and [[credsticks]] were no longer worth the plastic they were made of, as the devices that should have read the stored information failed.
+ 
+The worst consequences were, of course, where EMP bombs had been detonated that could not be defused, such as in Kitimat in [[Tsimshian]], in [[Buenos Aires]], in the [[Panama Canal Zone]], and also, among others, [[Stockholm]] and [[Boston]] (where, in addition, there was also a Jormungand nest in each case). The effect was particularly devastating in [[San Francisco]] as a result of a failed defusing attempt, while the EMP bomb destined for [[Brussels E.C.]] was able to be towed across the already irradiated [[SOX]], where it didn't do too much damage (even if those trapped in the arcologies in the special rights zone saw it ''somewhat'' differently). In any case, the power supply in the Sprawls, where the Electromagnetic Pulse had its maximum effect, is crippled for weeks or even months ... and that in the harshest winter since humans or [[metahumans]] [[MetaHumans]] of memory! Although the radioactive fallout was contained, there were of course many immediate casualties. Numerous people have been blinded by the flash of light from the explosions. The blast waves have caused house collapses and severe damage to skyscrapers. In addition, the [[astral space]] in the affected areas will remain distorted in the long term. The enormous negative [[background radiation]] should not make life easier for all [[mages]]s, [[shamans]], [[godes]] and other magically active people...!
+
+===Confusion===
+After the Crash, the [[Corporate Court Matrix Authority]] helped conceal information and evidence surrounding [[Otaku]] and [[Artificial Intelligence]]s. This was to prevent information from becoming known before the phenomenon was understood, countermeasures developed, and control gained. The panic alone that this information could cause if it became known that the world was fairly close to the brink could have devastating consequences if it came to light in detail; however, permanent secrecy and denial would not be possible with regard to the second generation of AIs and the emerging [[technomancer]] phenomena {{Ref|1}}.
+
+The hard facts, however, remained largely obscured and it seems impossible to ever piece the puzzle together. The involvement of [[Winternight]] is considered certain, but the involvement of [[Artificial Intelligence|Artificial Intelligences]] is and remains unconfirmed - at least to the public, but not to the [[Shadows]] and the boards of the megacorporations. The later link between [[Technomancer]]s and Crash 2.0 was to lead to a panic that turned into the [[Technomancer Persecution]] {{Ref|2}}.
+
+==Effects of the crash===
+In addition to the devastation the crash had left on the world, it had also turned the balance of power in the business world upside down. The smaller corporations struggled for bare survival, uncounted smaller corporations went completely under as a result of the loss of data, the destruction of important facilities or the death of irreplaceable employees (such as the [[R&D department]]) or the owner, while the large corporations used the chaos and the weaknesses of their opponents to further expand their power and open up new business areas.
+
+===Ares v. CATCo===
+Since [[Lucien Cross]], the head of [[Cross Applied Technologies]], had died during the crash, the head of [[Ares]], [[Damien Knight]], began an extremely aggressive takeover campaign against CATCo's subsidiaries. Although Cross's new [[CEO]], [[Jean-Marie Cross]], tried to defend himself against the takeover by any means necessary, Cross had nothing serious to counter Damien Knight's experience and aggressiveness. Cross's protective force, the [[Seraphim]], were infiltrated by Ares and thus eliminated. Cross's previous trump card, [[Leonard Aurelius]], was presumably blackmailed by Ares by kidnapping his daughter, [[Evelyn Cross]], thus immobilizing her for the duration of the takeover.<br/>
+When [[Bank of America]], a subsidiary of Ares, and the [[Frankfurter Bankenverein]] (FBV) unleashed their lawyers on Cross Matrix Technologies and froze all of the company's assets, Cross' demise was finally sealed. Ares bought out all the company's other small loans with Bank of America, and thanks to a few favors for FBV, the loans and thus the entire company belonged to Ares. The demise of Cross, of course, did not pass the other Megas by, so they went for the remaining parts of what was once Megas.<br/>
+The takeovers went so far that Cross lost its AAA status to [[Horizon]] and was relegated to the class of AA corporations.
+
+===Novatech merges with Transys-Erika===
+Due to the rapid changes in the matrix market, both [[Novatech]] and the [[Transys Neuronet]] and [[Erika]] groups found themselves in acute zugzwang. First, the [[Scotland|Scottish]]-[[Wales|Welsh]] Transys-Neuronet]] and the [[Finland|Finnish]] Erika]], which had already been working together on their "[[Wireless Matrix Initiative]]" since {{Shx|2058}}, merged to become [[Transys-Erika]], one of the largest matrix service providers ever and the founder of the wireless matrix. As the heavily struggling megacorporation Novatech had set the same goal, these two corporations merged in the environment of the [[2nd Universal Matrix Conference|2nd Universal Matrix Conference]] in [[Edinburgh]]/[[Scottsprawl]] now to the second largest corporation in the world. The new name chosen was [[NeoNET]], as the Novatech name was too involved in the second Matrixcrash. The advantages for the corporations were clear. Transys-Erika thus managed to step into corporate heaven and Novatech, whose main shareholder Richard Villiers had immense assets as a result of the IPO (and which could bring in hardware manufacturing capacity), had gained a strong partner to overcome the damage of the crash and become a co-founder of the new [[WiFi Matrix]].<br/>
+The merger created a corporation which has its fingers in every piece of Matrix and is also active in [[cyberware]], biotechnology, [[weapon]]s, aerospace, [[space]] and, to a lesser extent, many other areas. - Along with Saeder-Krupp, these pioneers of wireless technology are taking over the construction of the new, wireless matrix around the globe and replacing the irreparably damaged, wired, matrix.
+
+===Technomancer and AIPS===
+The collapse of the matrix (or the shutdown in Saeder-Krupp's sphere of influence) threw countless deckers worldwide violently off the grid, while quite a few people were trapped in the [[matrix]] in the wake of the crash. Quite a few lost their lives. Victims who survived ejection or imprisonment in the ravaged web often suffered psychotropic disorders, and quite a few were imprisoned and still in hospitals by early {{Shx|2070}}. Doctors diagnosed them with AIPS, which is the abbreviation of [[Artificially-Induced Psychotropic Schizophrenia Syndrome|Artificially-Induced Psychotropic Schizophrenia Syndrome]] {{Ref|3}}.
+
+AIPS would later play a role, as rumors of a new generation of [[otaku]]s emerged after the crash - called "virtual kineticists", or later simply [[technomancers]] {{Ref|4}}. In this, AIPS apparently served as a sort of indicator, as while not everyone who suffered from AIPS also became a Technomancer, an increased correlation between the two was noted {{Ref|5}} {{Ref|6}}.
+
+===E-ghosts===
+Another development was undergone by some of the unfortunates who died during the crash: they remained in the matrix as virtual images, henceforth called [[E-ghost]]s. They are called "ghosts of the machine" and are considered even rarer and more obscure than [[Artificial Intelligence|Artificial Intelligences]].<ref name="EME 16"/>
+
+===Other effects===
+In various regions of the Sixth World, unpopular regimes topple as both freedom fighters and opportunists seize the opportunity for political and/or military coups: This ranges from the [[UCAS]], where the [[New Revolution]] failed with its coup d'état, though President [[Kyle Haeffner|Haeffner]] was killed, and in [[Tír Tairngire]], the [[Council of Princes]] was overthrown, via [[Tsimshian]] where [[Mitsuhama]] withdrew, leaving the dictatorial government to the retribution of the oppressed [[Haida]], to [[Poland]] where the [[Rybocrats]] fell, and [[Arabia]] where the [[Shedim]] was unmasked, who controlled [[Ibn Eisa]] and thus the [[New Islamic Jihad]]! A number of elections for national or regional parliaments in various states, which should have taken place in November or December 2064 or the following year 2065, had to be postponed because the chaos after the crash made it impossible to conduct them in an orderly manner according to democratic standards.
+
+==In the ADL==
+Of course, the [[ADL]] was affected as much as any other part of the [[Sixth World|Sixth World]]:
+
+Chaos reigned in the plexes, and the failure of the [[ALI]] grid guide in particular claimed numerous victims. One of the Jormungand worm's code eggs had been in the matrix node in [[Hamburg]], while Saeder-Krupp in [[Essen]] first sealed itself off, then cracked down all the harder on looters and [[gangs]]. In the end, the dragon's corporation was among the clear victors, rising from chaos with a huge increase in power.
+
+In the course of the system failure, [[Saxony]] saw a military coup by the [[mercenary]] companies previously coddled by the Duke himself, [[Westphalia]] has a new archbishop, and [[Pomorya]] - as well as [[West Rhine-Luxembourg]] - is on the verge of bankruptcy! The German [[Shadowland]] with its [[Berlin Shadowland Node|Headquarters]] in the anarchist part of [[Berlin]] was surprisingly crushed by the [[BIS]] and corporate forces during the aftershocks of the crash following the murder of the Berlin otaku by Winternight.... Prominent members of the German shadow community such as [[Konwacht]], [[AHAB]] and [[Reality Check]] were arrested in the process, while others such as [[Tell]] and [[Red Corsair]] are dead. - The shadow scene is facing a major rebuild, with the [[Shockwave Riders]] playing an important role, as they did after the first crash in the 2020s.... On the economic stage, [[IFMU]] (the [[Stuttgart]]-based "International Vehicle and Mechanical Engineering Union") is finally finished, and has been divided among itself by [[Proteus]], the [[FBV]] and Saeder-Krupp. Likewise, the [[ECC Eurotronics Consortium]] also broke up, and the deep fall of Cross Applied Technologies also took place in the Alliance. Many humans and metas have plunged downward from the middle class in free fall, and the megacons are naturally exploiting the situation to their advantage, as are criminals of all stripes. The gap between rich and poor is wider than ever. And in Hamburg in particular, Saeder-Krupp and the [[DeMeKo]] [[DeMeKo]] are working hand in hand to run the first fully functional prototype of the new, wireless [[WiFi Matrix]] in a city-wide field test... - Brave new Sixth World!
+
+==Sources==
+* [[System Failure]] / [[System Failure]]
+* [[Shadowrun Fourth Edition]] / Shadowrun Version 4.01D
+* [[Emergence]] / [[Emergence - Digital Awakening]] S.6-8, 13, 15-16, 18, 43
+* [[Shadowrun Fourth Edition 20th Anniversary Core Rulebook]] / Shadowrun 4th Edition Basic Rulebook
+* [[Sixth World Almanac]] p.90-91, 92, 172, 173 / [[Sixth World Almanac]] S.98-101
+* [[Hazard Pay]] / [[Hazard Pay - 6th World Death Zones]] ?
+
+===Source details:===
+{{Ref2|1}} [[Emergence - Digital Awakening]] S.18
+{{Ref2|2}} [[Emergence - Digital Awakening]] S.43
+{{Ref2|3}} [[Emergence - Digital Awakening]] S.8
+{{Ref2|4}} [[Emergence - Digital Awakening]] S.9
+{{Ref2|5}} [[Emergence - Digital Awakening]] S.13
+{{Ref2|6}} [[Emergence - Digital Awakening]] S.16
+
+==Weblink:==
+*{Shx|Crash_of_2064|Shadowhelix: Crash of 2064}}
+*{Shwikia|Matrix_Crash_2.0|Shadowhelix: "Matrix Crash 2.0" (''English'')}} {"fandom" former "Sixth World Wiki"}}
+*{Swf|Crash_2.0|Shadow Wiki: "Crash 2.0" (''French'')}}
+
+{{CatSort|cat=Events|Catastrophes|2064}}
+[[Category:History of the Matrix]]
